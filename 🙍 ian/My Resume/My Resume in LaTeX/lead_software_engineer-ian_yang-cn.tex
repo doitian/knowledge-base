@@ -1,0 +1,171 @@
+% resume.tex
+%
+% (c) 2002 Matthew Boedicker <mboedick@mboedick.org> (original author) http://mboedick.org
+% (c) 2003 David J. Grant <dgrant@ieee.org> http://www.davidgrant.ca
+% (c) 2007 Todd C. Miller <Todd.Miller@courtesan.com> http://www.courtesan.com/todd
+% (c) 2009 Derek R. Hildreth <derek@derekhildreth.com> http://www.derekhildreth.com 
+%This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/1.0/ or send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+% GENERAL NOTE:  There may be some notes specific to myself.  If you're only interested in my LaTeX source or it doesn't make sense, please disregard it.
+
+
+%-----------------------------------------------------------
+\documentclass[letterpaper,11pt]{article}
+\usepackage[slantfont,boldfont]{xeCJK}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage[pdftex]{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=mygreylink     % can put red here to visualize the links
+}
+\urlstyle{same}
+\definecolor{mygrey}{gray}{.85}
+\definecolor{mygreylink}{gray}{.30}
+\textheight=9.0in
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{0.375in}
+\addtolength{\textwidth}{0.5in}
+\addtolength{\topmargin}{-.375in}
+\addtolength{\textheight}{0.75in}
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\large \colorbox{mygrey}{\begin{minipage}{\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{6.5in}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+%-----------------------------------------------------------
+%General Resume Tips
+%   No periods!  Technically, nothing in this document is a full sentence.
+%   Use parallelism by ending key words with the same thing,  i.e. "Coordinated; Designed; Communicated".
+%   More tips on bottom of this LaTeX document.
+%-----------------------------------------------------------
+
+\begin{document}
+\setCJKmainfont{STSong}
+\setCJKsansfont{STKaiti}
+\setCJKmonofont{STHeiti}
+
+\newcommand{\mywebheader}{
+\begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
+	\textbf{\LARGE 杨英才} & \href{mailto:doit.ian@gmail.com}{doit.ian@gmail.com} \\
+    {\small 4年工作经验，高级软件工程师，上海} & {\small 电话: \texttt{13817543362}} \\
+    {\footnotesize 本科，25岁} & \\
+	\end{tabular*}
+\\
+\vspace{0.1in}}
+
+% CHANGE HEADER SOURCE HERE
+\mywebheader
+
+%%%%%%%%%%%%%%%%%%%%%%
+\resheading{本人简介}
+
+{ \footnotesize
+
+  \begin{itemize}
+  \item 致力于使用C/C++在Linux环境下开发高性能要求的后台服务。
+  \item 有广告、信息检索、机器学习和数据挖掘等相关领域的经验。
+  \item 扎实的计算机科学和数学基础。
+  \item 有过针对大型系统设计和实现具有可伸缩性解决方案的实际经验。
+  \item 非常关注软件工程的最佳实践，并且引入自己的工作中。
+  \item 熟悉软件开发过程管理。
+  \item 对大规模数据处理，并行计算和分布式处理有浓厚兴趣。
+  \end{itemize}
+}
+
+\resheading{工作经验}
+
+\begin{itemize}
+\item
+  \ressubheading{\href{http://www.izenesoft.com/EN/home.html}{载信软件}}{上海}{%
+    高级软件工程师}{2008年1月至今}
+
+  { \footnotesize
+    \begin{itemize}
+      \resitem{和团队协作开发一个有着丰富数据挖掘特性的企业搜索引擎}
+
+      \resitem{提出并实现了基于服务的分布式框架，简化了程序的部署和配置，减少了
+        各组件之间的依赖，为组件提供运行环境、简化了组件的开发，组件通过插件对框
+        架扩展，并对外提供一致的API (RESTful web service)。}
+
+      \resitem{重新设计并实现搜索核心的API层，新的API基于MVC架构，易于维护和扩
+        展；使用了线程池和异步处理，提高并发能力；规范了代码注释，从注释中直接生
+        成API文档。}
+
+      \resitem{对搜索核心进行性能测试，并针对结果进行调优，将平均检索时间从1秒减
+        少到0.2秒。}
+
+      \resitem{针对大量的遗留的不好的代码进行重构，简化，并领导团队交付风格良好的
+        代码。}
+
+      \resitem{研究并比较了各种聚类算法，开发测试程序并评估性能和效果。}
+
+      \resitem{管理项目开发流程和公司所有IT底层设施。引导团队更有效率地使用SCM,
+        缺陷跟踪, Wiki，构建和测试等工具，并负责搭建相应环境。}
+
+    \end{itemize}
+  }
+
+\item \ressubheading{\href{http://www.augmentum.com/}{群硕软件}}{上海}{%
+  软件工程师}{2006年7月 -- 2007年12月}
+
+  { \footnotesize
+    \begin{itemize}
+      \resitem{参与某在线广告系统的开发。该系统每天至少要服务1000个广告发布站和
+        10亿次的请求。领导团队维护已有系统并根据客户需求添加新功能。主要负责需求
+        收集和分析，功能设计和开发，现有系统的重构和团队管理。}
+
+      \resitem{重写了广告投递记录系统(写)，实现了一个轻量的MySQL Replication系统
+        (读)，有效减轻了系统瓶颈，中央数据库的压力。使得客户在不需要任何硬件升
+        级，和业务量不断上升的情况下仍然能够提供新功能。}
+
+      \resitem{设计并开发了一些核心算法，包括根据IP检索位置，时区间时间转换等。}
+
+      \resitem{基于autotools搭建了自动构建系统}
+
+    \end{itemize}
+  }
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%
+\resheading{教育背景}
+\begin{itemize}
+\item \ressubheading{中南大学}{湖南省}{%
+    本科，计算机科学与技术}{2002年9月 -- 2006年6月}
+
+  { \footnotesize
+    \begin{itemize}
+      \resitem{曾两次获得奖学金}
+    \end{itemize}
+  }
+
+\end{itemize} % End Education list  
+
+%%%%%%%%%%%%%%%%%%%%%%
+\resheading{技能}
+	\begin{description}
+		\item[语言:] { \footnotesize C/C++, Ruby, Java, HTML, CSS, Java Script, \LaTeX } 
+		\item[平台:] { \footnotesize 熟练掌握Linux环境尤其是系统的管理 }
+        \item[框架:] { \footnotesize Boost ASIO, RoR, Restful Web Service}
+		\item[软件:] { \footnotesize 热衷于使用各种优秀的开源软件，比如Emacs,
+          Boost, CMake, Hudson等等 }
+	\end{description} % End Skills list
+
+\end{document}

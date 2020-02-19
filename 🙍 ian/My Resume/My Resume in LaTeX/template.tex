@@ -1,0 +1,319 @@
+% resume.tex
+%
+% (c) 2002 Matthew Boedicker <mboedick@mboedick.org> (original author) http://mboedick.org
+% (c) 2003 David J. Grant <dgrant@ieee.org> http://www.davidgrant.ca
+% (c) 2007 Todd C. Miller <Todd.Miller@courtesan.com> http://www.courtesan.com/todd
+% (c) 2009 Derek R. Hildreth <derek@derekhildreth.com> http://www.derekhildreth.com 
+%This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/1.0/ or send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+% GENERAL NOTE:  There may be some notes specific to myself.  If you're only interested in my LaTeX source or it doesn't make sense, please disregard it.
+
+\documentclass[letterpaper,11pt]{article}
+
+%-----------------------------------------------------------
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage[pdftex]{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=mygreylink     % can put red here to visualize the links
+}
+\urlstyle{same}
+\definecolor{mygrey}{gray}{.85}
+\definecolor{mygreylink}{gray}{.30}
+\textheight=9.0in
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{0.375in}
+\addtolength{\textwidth}{0.5in}
+\addtolength{\topmargin}{-.375in}
+\addtolength{\textheight}{0.75in}
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\large \colorbox{mygrey}{\begin{minipage}{\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{6.5in}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+%-----------------------------------------------------------
+%General Resume Tips
+%   No periods!  Technically, nothing in this document is a full sentence.
+%   Use parallelism by ending key words with the same thing,  i.e. "Coordinated; Designed; Communicated".
+%   More tips on bottom of this LaTeX document.
+%-----------------------------------------------------------
+
+\begin{document}
+
+\newcommand{\mywebheader}{
+\begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
+	\textbf{\LARGE Ian Yang} & \href{mailto:doit.ian@gmail.com}{doit.ian@gmail.com} \\
+    {\small 4 years experience, Software Engineer, Shanghai} & {\small Phone: \texttt{13817543362}} \\
+    {\footnotesize Bachelor, 26 years old} & \\
+	\end{tabular*}
+\\
+\vspace{0.1in}}
+
+% CHANGE HEADER SOURCE HERE
+\mywebheader
+
+%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Experience}
+
+\begin{itemize}
+\item
+  \ressubheading{\href{http://www.izenesoft.com/EN/home.html}{iZENEsoft}}{Shanghai}{%
+    Software Engineer}{Jan. 2008 -- Present}
+
+  { \footnotesize
+    \begin{itemize}
+      \resitem{Researched various information retrieval and machine learning
+        algorithms, evaluated them and applied them to the enterprise search
+        engine product.}
+      
+      \resitem{Redesigned and implemented the API module of the search
+        engine. The new API uses MVC to decouple components. It is much more
+        easier to maintain and extend.}
+
+      \resitem{Profiled and optimized the enterprise search engine. Refactored
+        many bad smell legacy code and pushed other to write good style code.}
+
+      \resitem{
+        
+      }
+
+      
+    \end{itemize}
+  }
+
+\item \ressubheading{\href{http://www.augmentum.com/}{Augmentum}}{Shanghai}{%
+      Software Engineer}{Jul. 2006 -- Dec. 2007}
+
+  { \footnotesize
+    \begin{itemize}
+      \resitem{Led a team to maintain and add new features to an ad server with
+        thousands of publisher sites and billions of ads served
+        daily. Responsible for requirements elicitation and analysis, feature
+        design and development, refactoring, and team management.}
+      
+      \resitem{Managed the project build system based on autotools.}
+
+      \resitem{Rewrote the ad logging module and implemented a MySQL replication
+        system to lighten the burden on database, which is the bottle neck of
+        the whole system}
+      
+      \resitem{Designed and implemented some key algorithm, such as IP location
+        lookup, timezone conversion}
+
+    \end{itemize}
+  }
+
+\item \ressubheading{iZENEsoft}{Shanghai}{Software Engineer}{Jan. 2008 -- Present}
+  { \footnotesize
+    \begin{itemize}
+      \resitem{Authored detailed, technical documentation for \href{http://www.embeddedarm.com/products/index.php}{SBC products} such as datasheets,  \href{http://www.embeddedarm.com/about/resource.php?item=410}{user guides}, and \href{http://www.embeddedarm.com/about/resource.php?item=409}{manuals}}
+
+      \resitem{Provided HW and SW support and improved documentation via feedback to reduce time spent on support}
+	
+      \resitem{Created programs to troubleshoot, rigorously test, and \href{ftp://ftp.embeddedarm.com/ts-arm-sbc/ts-7500-linux/samples/sbus.c}{provide functionality} for SBCs with embedded Linux}
+	
+      \resitem{Compiled and modified Linux kernel and drivers to add features and HW to both existing and new products}
+	
+      \resitem{Engineered and tested hardware components to insure accuracy and functionality for embedded designs}
+    \end{itemize}
+  }
+
+\item \ressubheading{Augmentum}{Shanghai}{Software Engineer}{Jul 2006 -- Dec. 2007}
+  { \footnotesize
+    \begin{itemize}
+      \resitem{Trained, coordinated, and guided a small team of students towards the completion of tasks involving all computer labs on campus}
+
+      \resitem{Administrated 62 labs, 1,300+ computers, and 17 PXE Servers in a two domain environment;  Utilized \href{http://www.symantec.com/business/deployment-solution}{Altiris Deployment Console} and scripting;  Specialized in \href{http://www.redhat.com/rhel/}{RHE Linux} deployments}
+
+      \resitem{Wrote concise installation and deployment instruction manuals and \href{http://www.derekhildreth.com/portfolio/Documentation/Lab_Binder_Documentation_BYUI_Work.pdf}{documentation} for computer labs and 200+ software titles}
+
+    \end{itemize}
+  }
+
+\item \ressubheading{Catch 80 Sports}{Rexburg, ID}{Network and Website Administrator}{Nov. 2006 -- Jun. 2007}
+  { \footnotesize
+    \begin{itemize}
+      \resitem{Implemented Windows based server with Linux based POS clients, reducing total cost of ownership}
+
+      \resitem{Contributed essentially to the company in the production of an e-commerce website with company inventory}
+
+      \resitem{Learned production of an entire e-commerce store in 1.5 months time with more than 2,800 products}
+
+    \end{itemize}
+  }
+
+\item \ressubheading{Entrepreneurial Experience}{Billings, MT}{On Site Computer Tech Support}{Jan. 2004 -- May 2005}
+  { \footnotesize				
+    \begin{itemize}
+    \item Initiated a freelance computer tech support business which provided the community with affordable, on-site computer service, consultation, and training
+    \end{itemize}
+  }
+
+\end{itemize}  % End Experience list
+
+%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Education}
+\begin{itemize}
+\item \ressubheading{Central Source University}{Hunan Province}{%
+    Bachelor of Computer Science \& Technique}{Sep. 2002 -- Jun. 2006}
+
+  { \footnotesize
+    \begin{itemize}
+      \resitem{At school I won scholarships twice}
+    \end{itemize}
+  }
+
+\end{itemize} % End Education list  
+
+%%%%%%%%%%%%%%%%%%%%%%
+\resheading{\href{http://www.derekhildreth.com/portfolio.php}{Skills}}
+	\begin{description}
+		\item[Languages:] { \footnotesize C/C++, Assembly (x86), \href{http://www.latticesemi.com/products/designsoftware/isplever/ispleverstarter/index.cfm}{FPGA (Verilog HDL)}, MSDOS and Shell Scripting, \href{http://www.latex-project.org/}{\LaTeX}}, HTML, CSS
+		\item[Computer and OS:] { \footnotesize Proficient in Debian \& Red Hat Linux, Windows 9x, XP, Vista, Mac OS X; Virtualization of Windows \& Linux guests using \href{http://www.virtualbox.org}{Sun VirtualBox}, \href{http://www.vmware.com}{VMWare}, and \href{http://www.qemu.com}{QEMU}; In-depth H/W and S/W knowledge and troubleshooting techniques;  OS installations (Dual \& Triple Boot);  BIOS \& EFI setup; purchasing and building PCs }
+		\item[Software:]{\footnotesize \href{http://msdn.microsoft.com/en-us/library/ms950416.aspx}{MS Visual Studio}; \href{http://www.xilinx.com/tools/designtools.htm}{Xilinx ISE}; \href{http://www.analog.com}{AnalogDevices DSP++}; \href{http://www.cadence.com/products/orcad/Pages/default_test.aspx}{Cadence OrCAD}; \href{http://www.matlab.com}{MatLab}; \href{http://www.cadsoft.de/}{Eagle PCB}; \href{http://www.openoffice.org/}{Office Suites}}  
+		\item[Projects:] { \footnotesize 
+\href{http://www.derekhildreth.com/portfolio/Computer_Engineering/4-Bit_CPU_Fundamental_Digital_Systems_CompE224.zip}{4} 
+and 
+\href{http://www.derekhildreth.com/portfolio/Computer_Engineering/8-Bit_CPU_Comp_Architecture_CompE324.pdf}{8 bit RISC CPUs with ALUs, counters, registers, and 1K RAM}; 
+Stereo amplifier with I/O, bass, treble, and volume controls; 
+\href{http://www.derekhildreth.com/portfolio/Computer_Engineering/Zener_Diode_Power_Supply_Basics_Electrics_Devices_and_Circtuits_CompE350.pdf}{Power supply basics}; 
+\href{http://www.derekhildreth.com/portfolio/Computer_Engineering/BZFlag_Game_Controller_Computer_IO_CompE360.pdf}{Parallel port game controller}; 
+\href{http://www.derekhildreth.com/portfolio/Computer_Engineering/Microphone_Preamplifier_Electrics_Devices_and_Circuits_CompE350.pdf}{Portable microphone amplifier}; 
+WAV music player; 
+\href{http://www.derekhildreth.com/portfolio/Computer_Engineering/Simple_Calculator_Verilog_Digital_Systems_Design_CompE340.pdf}{Simple calculator}; 
+Remote \href{http://emp.byui.edu/smithk/compe499_s09/teamwork/default.htm}{cell phone control} (\href{http://www.embeddedarm.com/products/board-detail.php?product=TS-7350}{embedded system}) for \href{http://www.inl.gov}{INL} ; Technologic Systems \href{http://www.embeddedarm.com/products/board-detail.php?product=TS-WIFIBOX}{TS-WIFIBOX}}
+	\end{description} % End Skills list
+
+\end{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%
+% Would have completed this if I had not had all projects listed under "Skills".  
+% Still a good idea.  See if I can fit it in somewhere...  Otherwise, just print it out and bring it to an interview if needed.
+%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\myheader
+\resheading{Hardware Engineering Projects} % If printed as a seperate page, get more detailed in the descriptions!  What type of processor?  What program used? Etc.
+	
+	\begin{description}
+		\item[4 and 8 bit RISC CPUs] {\footnotesize Simple CPUs designed using CircuitMaker (no HDL) which contained ALUs, counters, registers, and 1K RAM all designed from scratch}
+		\item[Simple Calculator] {\footnotesize Designed a simple calculator from the ground up using Xilinx ISE and Verilog HDL} % Get schematic block diagram for this one!
+		\item[Stereo Amplifier] {\footnotesize Contained I/O as well as bass, treble, and volume controls}
+		\item[Power Supply Basics] {\footnotesize Learned about the very basics of power supply design using transformers, rectifiers, and zener diodes and voltage regulators.} 
+		\item[Parallel Port Game Controller] {\footnotesize Went through the start to finish development process of a game controller including driver development, microprocessor  \& ADC design (8255 MicroBoard; N.I.	ADC0809), and PCB design}
+		\item[Portable Microphone Amplifier] {\footnotesize Utilized a series of transistors to amplify sound in a room with a potentiometer as volume control}
+		\item[MP3 Player] {\footnotesize Developed an MP3 player using the Analog Devices BlackFin BF533 microprocessor and EZ-KIT development kit which utilized interrupts and audio codec}  % get link to block diagram for this one!
+		\item[INL Remote Cell Phone Control] {\footnotesize Senior project which developed a prototype for Idaho National Laboratories allowing them to remote control a cell phone via 802.11g and bluetooth at a range greater than 6000ft consisting of 3 major components: central control, wireless medium, and embedded systems for chuckar box}
+		\item[Inverted Pendulum] {\footnotesize Used sliding mode feedback control and inverted pendulum kit to keep metal rod standing vertially on a swingin arm}
+		\item[FM Transmitter] {\footnotesize Built a simple FM Transmitter based off of given schematics as an introduction to FM modulation signals}
+	\end{description}
+
+
+\resheading{Software Engineering Projects}  % There really are a TON of projects I can put on this, but here are some major ones:
+	\begin{description}
+		\item[Book Keyword Scanner] {\footnotesize Developed a program which will take any input file and, given a keyword search, will return the frequency of that word }
+		\item[Pedigree Chart] {\footnotesize Developed a program which will parse through a pedigree file and display a pedigree chart in the command line}
+		\item[Factory Nail Rejection] {\footnotesize This program was simulating a factory which produced nails that had to be a very specific length, and if it wasn't, the program would reject it}
+		\item[Calendar Program] {\footnotesize Given the time and date to display, the calendar program would display a simple calendar on the command line which took into account leap years}
+		\item[Normal Distribution] {\footnotesize This program simulated the classic wheel of fortune blinko game where several thousand chip were statistially recorded and displayed as they dropped into a board filled with pegs}
+		\item[RSA Encryption] {\footnotesize Developed an application which utilized the RSA encryption method to encrypt and decrypt messages}
+	\end{description}
+
+\end{document}
+
+%Only Print References If Requested!  Maybe even put it in it's own page.  Must have same heading as first page.
+%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\myheader
+\resheading{References}
+	\begin{center}
+		\begin{tabular*}{1\textwidth}{@{\extracolsep{\fill}}  l l l }
+			Toby Rummans & Eric Karl & Gordon Smith \\
+			Entry Level Web Developer & Computer Science \& Engineering  & Technology Support Specialist \\ 
+			\vspace{10pt} 
+			Memolinkcorp & BYU-Idaho & BYU-Idaho \\ 
+			[removed] & 525 South Center St. & 525 South Center St.  \\
+			Denver, CO 80210 & Rexburg ID 83460 & Rexburg ID 83460 \\
+			[removed] & (208) 496-3097 & (208) 496-2816 \\
+		\end{tabular*}
+	\end{center}
+	
+% \end{document}
+
+
+% ADDITIONAL WORK EXPERIENCE NOT INCLUDED	OR OLD
+
+		\item 
+			\ressubheading{\href{http://www.rexburgmotorsports.com/}{Rexburg Motorsports}}{Rexburg, ID}{Computer Systems Administrator}{Aug. 2006 -- Oct. 2006}
+				{ \footnotesize
+				\begin{itemize}
+	            			\resitem{Managed file and application servers running Windows 2003 Server}
+	            			\resitem{Performed all levels of hardware and software systems support for 40 computers and 10 printers}
+				\end{itemize}
+				}
+
+		\item 
+			\ressubheading{Bresnan Communications}{Billings, MT}{Teir 1 Technical Support}{Jan. 2006 -- April 2006}
+				{ \footnotesize
+				\begin{itemize}
+					\resitem{Provided Bresnan customers with technical support over the phone.}
+					\resitem{Receieved training on resolving networking, cable TV, and VOIP issues.}
+				\end{itemize}
+				}
+
+		\item 
+			\ressubheading{Northwestern Energy}{Billings, MT}{Summer Gas/Electrical Engineer}{May 2004 -- April 2005}
+				\begin{itemize}
+					\resitem{Interned with full time Gas/Electrical Engineers.}
+					\resitem{Documented, mapped, and marked city streetlights using MS Access, GTViewer, FRAMME, and CAD.}
+				\end{itemize} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% GENERAL RESUME NOTES %
+%%%%%%%%%%%%%%%%%%%%%%%%
+Need to brush up on the skills section?  Here are some really good ideas:
+
+- Communication: The ability to express and interpret ideas and convey knowledge. 
+Skills like speaking effectively, writing concisely, listening attentively, expressing ideas, 
+reporting information, editing, interviewing, and facilitating group discussion. 
+ 
+- Research and Planning: The ability to search for specific knowledge and formulate a 
+program for a definite course of action. Skills like forecasting, predicting, identifying 
+issues, finding alternatives, gathering information, solving problems, setting goals, 
+extracting information, and developing strategies. 
+ 
+- Human Relations: The ability to apply interpersonal skills to resolve conflict, relate to 
+people, and help people. Skills like providing support for others, listening, delegating 
+with respect, representing others, asserting, developing rapport, and perceiving 
+feelings. 
+ 
+- Management, Organization, Leadership: The ability to supervise others and guide 
+individuals and groups towards the completion of tasks. Skills like managing groups, 
+selling ideas, making decisions, managing conflict, coordinating tasks, teaching, 
+enlisting help. 
+
+Source: 
+http://www.squawkfox.com/2009/03/08/6-action-words-that-make-your-resume-rock/
+
+Other Resources: 
+http://www.tvmier.com/Resume_Education.html
+
