@@ -3,7 +3,6 @@ date: 2018-01-14
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-01-14
@@ -34,4 +33,3 @@ series:
 
 * [tombh/texttop: A fully interactive X Linux desktop rendered in TTY and streamable over SSH](https://github.com/tombh/texttop)
 * [Big list of http static server one-liners](https://gist.github.com/willurd/5720255)
-

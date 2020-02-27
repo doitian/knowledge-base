@@ -3,7 +3,6 @@ date: 2016-11-06
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-11-06
@@ -60,4 +59,3 @@ This week I worked on rsyslog research and management. The work on terraform-pro
 [7]:    http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/
 [8]:    https://github.com/puma/puma/issues/718
 [9]:    https://github.com/tencent/libco
-

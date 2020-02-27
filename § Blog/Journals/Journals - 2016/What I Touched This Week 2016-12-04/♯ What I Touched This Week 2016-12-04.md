@@ -1,12 +1,8 @@
 ---
 date: 2016-12-04
 description: My weekly review report.
-hljs: true
-hljsLanguages:
-- yaml
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-12-04
@@ -74,4 +70,3 @@ Mount the project to `/srv` and run bats in docker.
 [4]:	https://divan.github.io/posts/avoid_gotchas/
 [5]:	https://funhacks.net/2016/11/22/decorator/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 [6]:	https://gems.ruby-china.org
-

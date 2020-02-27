@@ -3,7 +3,6 @@ date: 2019-06-30
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-06-30
@@ -55,4 +54,3 @@ series:
 * [microsoft/mimalloc: mimalloc is a compact general purpose allocator with excellent performance.](https://github.com/microsoft/mimalloc)
 * [nhn/tui.grid: 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!](https://github.com/nhn/tui.grid)
 * [Originate/scriptkeeper: Run tests against your scripts without changing your scripts.](https://github.com/Originate/scriptkeeper)
-

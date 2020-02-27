@@ -3,7 +3,6 @@ date: 2018-05-20
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-05-20
@@ -46,4 +45,3 @@ series:
 * [Free Royalty Free Music — Fugue](https://icons8.com/music/)
 
     Free music for videos.
-

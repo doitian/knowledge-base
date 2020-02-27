@@ -3,7 +3,6 @@ date: 2017-01-02
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-01-02
@@ -16,4 +15,3 @@ Busy in work chores this week.
 
 [1]:    https://github.com/mholt/caddy
 [2]:    http://christoph.ruegg.name/blog/git-howto-mirror-a-github-repository-without-pull-refs.html
-

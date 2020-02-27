@@ -3,7 +3,6 @@ date: 2019-01-06
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-01-06
@@ -22,4 +21,3 @@ series:
 * [LINER | The Highlighted Internet](https://getliner.com/)
 * [基金龙虎榜\_晨星网](http://cn.morningstar.com/quickrank/default.aspx)
 * [RoutineHub • A community for Siri Shortcuts](https://routinehub.co/)
-

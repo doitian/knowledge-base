@@ -3,7 +3,6 @@ date: 2019-03-31
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-03-31
@@ -20,4 +19,3 @@ series:
 
 * [LockHunter is a free 64/32 bit tool to delete files blocked by any processes](https://lockhunter.com/)
 * [rust-lang/miri: An interpreter for Rust's mid-level intermediate representation](https://github.com/rust-lang/miri)
-

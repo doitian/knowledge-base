@@ -3,7 +3,6 @@ date: 2018-10-07
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-10-07
@@ -40,4 +39,3 @@ series:
 ## Bookmarks
 
 * [deanishe/awgo: Go library for Alfred 3 workflows](https://github.com/deanishe/awgo)
-

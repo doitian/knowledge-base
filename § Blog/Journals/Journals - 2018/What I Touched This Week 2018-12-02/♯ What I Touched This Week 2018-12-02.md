@@ -3,7 +3,6 @@ date: 2018-12-02
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-12-02
@@ -56,4 +55,3 @@ series:
     * [Timescale | an open-source time-series SQL database optimized for fast ingest, complex queries and scale.](https://www.timescale.com/)
     * [Citus Data | Worry-free Postgres for SaaS. Built to scale out.](https://www.citusdata.com/)
     * [PipelineDB - High-Performance Time-Series Aggregation for PostgreSQL](https://www.pipelinedb.com/)
-

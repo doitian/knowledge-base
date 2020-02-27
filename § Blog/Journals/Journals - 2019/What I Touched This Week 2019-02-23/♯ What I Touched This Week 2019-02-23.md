@@ -3,7 +3,6 @@ date: 2019-02-23
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-02-23
@@ -22,4 +21,3 @@ series:
     Windows 启动器效率软件
 
 * [告别 Windows 终端的难看难用，从改造 PowerShell 的外观开始 - 少数派](https://sspai.com/post/52868)
-

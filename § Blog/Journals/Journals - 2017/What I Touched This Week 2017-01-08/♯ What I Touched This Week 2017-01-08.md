@@ -1,12 +1,8 @@
 ---
 date: 2017-01-08
 description: My weekly review report.
-hljs: true
-hljsLanguages:
-- yaml
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-01-08
@@ -35,4 +31,3 @@ To include dynamic states and pillar roots, just generate the minion config file
 
 [1]:    https://docs.saltstack.com/en/latest/topics/tutorials/quickstart.html
 [2]:    https://github.com/Tencent/xLua
-

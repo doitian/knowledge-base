@@ -3,7 +3,6 @@ date: 2017-12-31
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-12-31
@@ -31,4 +30,3 @@ series:
 ## Games
 
 - [这款新游戏，5 年前单凭一个试玩版惊艳了整个游戏界：Gorogoa - 少数派](https://sspai.com/post/42320)
-

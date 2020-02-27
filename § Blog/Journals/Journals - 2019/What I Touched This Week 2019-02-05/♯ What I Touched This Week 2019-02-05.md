@@ -3,7 +3,6 @@ date: 2019-02-05
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-02-05
@@ -34,4 +33,3 @@ series:
 * [dtolnay/typetag: Serde serializable and deserializable trait objects](https://github.com/dtolnay/typetag)
 * [evmap - Rust](https://docs.rs/evmap/4.1.1/evmap/)
 * [IdeasOnCanvas/Aiolos: A floating panel for your iOS Apps](https://github.com/IdeasOnCanvas/Aiolos)
-

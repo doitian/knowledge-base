@@ -3,7 +3,6 @@ date: 2018-08-26
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-08-26
@@ -79,4 +78,3 @@ series:
 * [nteract](https://nteract.io/) A Jupyter Notebook front-end implemented using React.
 * [Language Plural Rules](http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html)
 * [bors — consistent automated testing | bors-ng](https://bors.tech/)
-

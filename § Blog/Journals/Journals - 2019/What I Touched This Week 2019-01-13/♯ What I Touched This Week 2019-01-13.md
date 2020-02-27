@@ -3,7 +3,6 @@ date: 2019-01-13
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-01-13
@@ -38,4 +37,3 @@ My first post in 2019
     A tool to annotate web page.
 
 * [RoutineHub • A community for Siri Shortcuts](https://routinehub.co/)
-

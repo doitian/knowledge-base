@@ -3,7 +3,6 @@ date: 2017-05-01
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-05-01
@@ -37,4 +36,3 @@ series:
 [9]:	https://www.ctrlpaint.com/
 [10]:	https://github.com/KrisYu/Water
 [11]:	https://ant.design/docs/react/introduce
-

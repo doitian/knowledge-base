@@ -3,7 +3,6 @@ date: 2017-09-03
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-09-03
@@ -40,4 +39,3 @@ series:
 
 - [extr0py/oni: Oni: An IDE powered by Neovim](https://github.com/extr0py/oni) Neovim IDE frontend.
 - [Chart Mage - Draw sequence diagrams and flowcharts at lightning speed.](http://chartmage.com/intro.html). Create chart online using plain text.
-

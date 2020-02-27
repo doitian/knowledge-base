@@ -3,7 +3,6 @@ date: 2017-05-20
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-05-20
@@ -65,4 +64,3 @@ series:
 
 - [How a Blind Developer uses Visual Studio - YouTube](https://www.youtube.com/watch?v=iWXebEeGwn0)
 - [Rust turns Two](https://blog.rust-lang.org/2017/05/15/rust-at-two-years.html)
-

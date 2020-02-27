@@ -3,7 +3,6 @@ date: 2017-07-03
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-07-03
@@ -19,4 +18,3 @@ series:
 - [Cyclenerd/ethereum_nvidia_miner: 💰 USB flash drive ISO image for Ethereum mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)](https://github.com/Cyclenerd/ethereum_nvidia_miner)
 - [h2non/gock: Versatile HTTP mocking and expectations made simple in Go (golang) ༼ʘ̚ل͜ʘ̚༽](https://github.com/h2non/gock)
 - [Habitat - Automation That Travels with the App](https://www.habitat.sh/) based on Chef.
-

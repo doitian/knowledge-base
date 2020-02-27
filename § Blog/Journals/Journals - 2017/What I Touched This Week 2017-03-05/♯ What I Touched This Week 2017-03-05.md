@@ -3,7 +3,6 @@ date: 2017-03-05
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-03-05
@@ -42,4 +41,3 @@ upstart
 [3]:	http://stackoverflow.com/a/14172871/667158
 [4]:	http://rancher.com/
 [5]:	http://pushpin.org/docs/about/
-

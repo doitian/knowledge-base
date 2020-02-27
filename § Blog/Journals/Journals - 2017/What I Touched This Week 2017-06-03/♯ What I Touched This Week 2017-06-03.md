@@ -3,7 +3,6 @@ date: 2017-06-03
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-06-03
@@ -32,4 +31,3 @@ series:
 - [facebook/react-vr: Create amazing 360 and VR content using React](https://github.com/facebook/react-vr)
 - [osquery](https://osquery.io/?ref=stackshare) queries system stats using SQL.
 - [Tad - A Desktop Viewer App for Tabular Data](http://tadviewer.com/). Group and aggregate tabular data, such as SQLite, CSV.
-

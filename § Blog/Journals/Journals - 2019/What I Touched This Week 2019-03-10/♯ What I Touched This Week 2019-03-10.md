@@ -3,7 +3,6 @@ date: 2019-03-10
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-03-10
@@ -48,4 +47,3 @@ series:
 * [装了啥 | 看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器 - 少数派](https://sspai.com/post/53160)
 
     Windows apps recommendations.
-

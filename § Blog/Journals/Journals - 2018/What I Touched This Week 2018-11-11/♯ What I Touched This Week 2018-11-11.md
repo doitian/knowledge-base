@@ -3,7 +3,6 @@ date: 2018-11-11
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-11-11
@@ -20,4 +19,3 @@ series:
 ## Bookmarks
 
 - [kamranahmedse/pennywise: Cross-platform application to open any website or media in a floating window](https://github.com/kamranahmedse/pennywise)
-

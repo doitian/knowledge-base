@@ -3,7 +3,6 @@ date: 2018-12-31
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-12-31
@@ -29,4 +28,3 @@ series:
 * [How to do yoga on an airplane to make travel less miserable
   — Quartzy](https://qz.com/quartzy/1464322/how-to-do-yoga-on-an-airplane-to-make-travel-less-miserable/)
 * [Office Click-To-Run Configuration XML Editor](http://officedev.github.io/Office-IT-Pro-Deployment-Scripts/XmlEditor.html)
-

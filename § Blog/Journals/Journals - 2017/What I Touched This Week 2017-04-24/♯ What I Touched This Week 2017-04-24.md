@@ -3,7 +3,6 @@ date: 2017-04-24
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-04-24
@@ -81,4 +80,3 @@ series:
 [28]:	http://www.ffhome.com/works/1406.html
 [29]:	http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650498413&idx=1&sn=1b15a76bc3b5e43e96b19a975ac56c05&chksm=bea357ca89d4dedcf2f3a85b191c014b06fec0a99527a581a27836d5f8db734169c1e45fc7cb&scene=27&utm_content=bufferfb692&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#wechat_redirect
 [30]:	https://emlvirus.gitbooks.io/windows-apps-that-amaze-us/content/
-

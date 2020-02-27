@@ -3,7 +3,6 @@ date: 2017-05-09
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-05-09
@@ -37,4 +36,3 @@ function performMailActionWithMessages(messages) {
 - [GitHub - timothycrosley/hug at stackshare](https://github.com/timothycrosley/hug?ref=stackshare) A python HTTP framework.
 - [ilovepdf](http://www.ilovepdf.com), a collection of online PDF utilities.
 - [K6](https://docs.k6.io), a modern load testing tool.
-

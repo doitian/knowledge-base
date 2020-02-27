@@ -3,7 +3,6 @@ date: 2018-01-21
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-01-21
@@ -48,4 +47,3 @@ series:
 - [osrg/namazu: 鯰: Programmable fuzzy scheduler for testing distributed systems](https://github.com/osrg/namazu)
 - [jepsen-io/jepsen: A framework for distributed systems verification, with fault injection](https://github.com/jepsen-io/jepsen)
 - [TLA+ Proof System](https://tla.msr-inria.inria.fr/tlaps/content/Documentation/Tutorial/The_example.html)
-

@@ -3,7 +3,6 @@ date: 2019-07-07
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-07-07
@@ -38,4 +37,3 @@ series:
 * [Get your work recognized: write a brag document - Julia Evans](https://jvns.ca/blog/brag-documents/)
 
     Keep a note what you have accomplished.
-

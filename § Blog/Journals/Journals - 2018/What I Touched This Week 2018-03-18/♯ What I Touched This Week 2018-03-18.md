@@ -3,7 +3,6 @@ date: 2018-03-18
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-03-18
@@ -27,4 +26,3 @@ series:
 - [Hearth | Decentralized website publishing](https://hearth.eternum.io/)
 
     Publish website to IPFS
-

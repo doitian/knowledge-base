@@ -3,7 +3,6 @@ date: 2016-10-30
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-10-30
@@ -84,4 +83,3 @@ This week I work on [terraform-provider-ucloud][1], which already has implemente
 [27]:   https://getkong.org/
 [28]:   https://marcosmoura.github.io/vue-material/#/
 [29]:   https://github.com/netflix/chaosmonkey
-

@@ -1,12 +1,8 @@
 ---
 date: 2016-11-27
 description: My weekly review report.
-hljs: true
-hljsLanguages:
-- yaml
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-11-27
@@ -110,4 +106,3 @@ This week I worked on syslog integration in [skynet][1] and delve into details o
 [11]:	https://blog.bugsnag.com/benefits-of-using-tmux/
 [12]:	http://applehelpwriter.com/2014/07/13/how-to-remove-googles-secret-update-software-from-your-mac/
 [13]:	https://m.signalvnoise.com/a-shining-example-of-how-to-teach-91b718009b33#.mtftvl7ku
-

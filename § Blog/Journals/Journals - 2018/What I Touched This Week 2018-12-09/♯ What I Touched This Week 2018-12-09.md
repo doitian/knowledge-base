@@ -3,7 +3,6 @@ date: 2018-12-09
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-12-09
@@ -73,4 +72,3 @@ series:
 * [我的 OneNote 入门心得](http://sspai.com/post/46957)
 * [Exercism](https://exercism.io/) Code practice and mentorship for everyone
 * [Tabulator](http://tabulator.info/) The easy to use, fully featured, interactive table JavaScript library
-

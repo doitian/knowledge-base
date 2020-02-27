@@ -3,7 +3,6 @@ date: 2017-09-17
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-09-17
@@ -48,4 +47,3 @@ series:
     Helper for Redux reducers.
 
 - [google/re2: RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.](https://github.com/google/re2)
-

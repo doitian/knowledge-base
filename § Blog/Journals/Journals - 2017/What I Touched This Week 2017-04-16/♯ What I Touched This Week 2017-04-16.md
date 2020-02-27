@@ -3,7 +3,6 @@ date: 2017-04-16
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-04-16
@@ -42,4 +41,3 @@ while toread:
 [8]:	https://sspai.com/post/38542?utm_campaign=buffer&utm_content=buffer46389&utm_medium=social&utm_source=twitter.com
 [9]:	https://sspai.com/post/38802?utm_campaign=buffer&utm_content=bufferb966e&utm_medium=social&utm_source=twitter.com
 [10]:	http://stackoverflow.com/a/15964489/667158
-

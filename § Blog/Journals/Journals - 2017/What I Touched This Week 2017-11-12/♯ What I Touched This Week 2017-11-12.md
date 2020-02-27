@@ -3,7 +3,6 @@ date: 2017-11-12
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-11-12
@@ -81,4 +80,3 @@ series:
 - [Poly](https://poly.google.com/)
 
     3D Model galery.
-

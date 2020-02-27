@@ -3,7 +3,6 @@ date: 2018-07-28
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-07-28
@@ -23,4 +22,3 @@ series:
 
 - [FOSSA - Effortlessly comply with open source licenses](https://fossa.io/)
 - [Reusable simple drawings](https://www.thedoodlelibrary.com/)
-

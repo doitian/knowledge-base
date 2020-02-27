@@ -3,7 +3,6 @@ date: 2018-10-28
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-10-28
@@ -19,4 +18,3 @@ series:
 * [中国宇航出版社](http://down.caphbook.com/YH/Download_List.aspx?ClassID=9e068b22-901c-4633-8e7c-e27f06cb87e3&ClassName=%25e8%258b%25b1%25e8%25af%25ad%25e7%25b1%25bb)
 
     该出版社音频资源在线播放和下载
-

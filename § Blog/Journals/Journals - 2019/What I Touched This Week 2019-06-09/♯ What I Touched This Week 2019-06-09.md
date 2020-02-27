@@ -3,7 +3,6 @@ date: 2019-06-09
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-06-09
@@ -26,5 +25,3 @@ series:
 ## Bookmarks
 
 * [GIF Brewery by Gfycat](https://gfycat.com/gifbrewery)
-
-

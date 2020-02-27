@@ -3,7 +3,6 @@ date: 2018-06-24
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-06-24
@@ -70,4 +69,3 @@ series:
 
 * [flutter/flutter: Flutter makes it easy and fast to build beautiful mobile apps.](https://github.com/flutter/flutter)
 * [gluon-lang/gluon: A static, type inferred and embeddable language written in Rust.](https://github.com/gluon-lang/gluon)
-

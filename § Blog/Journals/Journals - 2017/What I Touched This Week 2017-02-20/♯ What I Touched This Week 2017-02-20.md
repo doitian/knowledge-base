@@ -3,7 +3,6 @@ date: '2017-02-20'
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-02-20
@@ -49,4 +48,3 @@ I had to work on Windows for a project, thus did some research to make it suck l
 [13]:   https://jvns.ca/blog/2017/02/17/mystery-swap/
 [14]:   http://nshipster.com/inter-process-communication/
 [15]:   http://stackoverflow.com/a/17996915/667158
-

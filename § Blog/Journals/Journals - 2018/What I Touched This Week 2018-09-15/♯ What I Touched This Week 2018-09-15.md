@@ -3,7 +3,6 @@ date: 2018-09-15
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-09-15
@@ -55,4 +54,3 @@ Design sites:
 * [Brand New](https://www.underconsideration.com/brandnew/)
 * [Co.Design | Fast Company](https://www.fastcompany.com/co-design)
 * [Design Milk: Design Blog with Interior Design, Modern Furniture, & Art](https://design-milk.com/)
-

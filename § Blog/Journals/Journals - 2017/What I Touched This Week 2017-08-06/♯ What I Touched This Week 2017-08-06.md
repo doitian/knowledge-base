@@ -3,7 +3,6 @@ date: 2017-08-06
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-08-06
@@ -75,4 +74,3 @@ series:
     用树莓派适配智能家居系列文章
 
 - [免费全平台的文件分享利器：SendAnywhere - 少数派](https://sspai.com/post/40047)
-

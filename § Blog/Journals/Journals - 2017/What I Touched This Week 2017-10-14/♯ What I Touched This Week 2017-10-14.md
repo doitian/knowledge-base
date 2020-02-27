@@ -3,7 +3,6 @@ date: 2017-10-14
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-10-14
@@ -71,4 +70,3 @@ series:
         \ :windo call s:CloseDisturbingWin() |
         \ exe s:currentWindow . "wincmd w"
     ```
-

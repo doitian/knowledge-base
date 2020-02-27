@@ -3,7 +3,6 @@ date: 2016-12-17
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-12-17
@@ -42,4 +41,3 @@ Some gotchas:
 [6]:    https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179
 [7]:    https://www.safaribooksonline.com
 [8]:    http://www.iconfont.cn/plus
-

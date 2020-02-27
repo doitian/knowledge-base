@@ -3,7 +3,6 @@ date: 2019-12-22
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-12-22
@@ -83,4 +82,3 @@ echo 'export GPG_TTY=$(tty)' >> ~/.profile
 ## Bookmarks
 
 * [Happy Hues - Curated colors in context.](https://www.happyhues.co/)
-

@@ -3,7 +3,6 @@ date: 2020-01-19
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2020-01-19
@@ -72,5 +71,3 @@ I have finished the first week and read the material
     Vim.
 - [T1 | t1lang.github.io](https://t1lang.github.io) A programming language may be suitable used in embedded environment.
 - [Generative Placeholders](https://generative-placeholders.glitch.me/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter&utm_content=01-07-20)
-
-

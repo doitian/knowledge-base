@@ -3,7 +3,6 @@ date: 2018-03-25
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-03-25
@@ -23,4 +22,3 @@ series:
     How should engineer filter the information.
 
 * [The Future-Altering Technologies We Forgot to Invent](https://medium.com/the-polymath-project/gene-wolfe-a-science-fiction-legend-on-the-future-altering-technologies-we-forgot-to-invent-a3103572a352)
-

@@ -3,7 +3,6 @@ date: 2018-02-25
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-02-25
@@ -53,4 +52,3 @@ series:
 - [Rust Fuzz](https://rust-fuzz.github.io/book/introduction.html#introduction)
 
     A random test tool for Rust.
-

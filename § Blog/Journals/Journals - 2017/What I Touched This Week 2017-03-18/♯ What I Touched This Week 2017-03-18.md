@@ -3,7 +3,6 @@ date: 2017-03-18
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-03-18
@@ -51,4 +50,3 @@ series:
 [12]:	https://knsv.github.io/mermaid/
 [13]:	http://getcloudify.org/
 [14]:	https://github.com/redux-saga/redux-saga
-

@@ -3,7 +3,6 @@ date: 2020-02-09
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2020-02-09
@@ -105,4 +104,3 @@ series:
 -   [Data Transmission Service](https://rixcloud.com/)
 -   [Proxifier - The Most Advanced Proxy Client](https://www.proxifier.com/)
 -   [Morning Edition : NPR](https://www.npr.org/programs/morning-edition/)
-

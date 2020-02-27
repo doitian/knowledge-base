@@ -3,7 +3,6 @@ date: 2018-04-07
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-04-07
@@ -52,4 +51,3 @@ series:
 * [Surge 傻瓜配置](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/LAZY_RULES/Surge.conf)
 
 * [美股交易选择什么样的券商？史考特、盈透、Firstrade、老虎证券深度对比](https://zhuanlan.zhihu.com/p/25131561)
-

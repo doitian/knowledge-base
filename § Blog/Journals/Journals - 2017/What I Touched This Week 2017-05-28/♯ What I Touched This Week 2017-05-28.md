@@ -3,7 +3,6 @@ date: 2017-05-28
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-05-28
@@ -67,4 +66,3 @@ series:
 - [如何在微信聊天记录中选中局部文字 | 一日一技 - 少数派](https://sspai.com/post/39301)
 - [量产型炮灰工程师 · Ruby China](https://ruby-china.org/topics/33036)
 - 柯洁 0:3 AlphaGo，国内相关报道被管制，不允许直播
-

@@ -3,7 +3,6 @@ date: 2018-07-07
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-07-07
@@ -37,4 +36,3 @@ series:
 * [mobxjs/mobx at stackshare](https://github.com/mobxjs/mobx?ref=stackshare)
 
     Javascript state management library.
-

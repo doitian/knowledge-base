@@ -3,7 +3,6 @@ date: 2017-10-08
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-10-08
@@ -71,4 +70,3 @@ series:
 
 - [GoogleChrome/puppeteer: Headless Chrome Node API](https://github.com/GoogleChrome/puppeteer)
 - [asciimoo/colly: Fast and Elegant Scraping Framework for Gophers](https://github.com/asciimoo/colly)
-

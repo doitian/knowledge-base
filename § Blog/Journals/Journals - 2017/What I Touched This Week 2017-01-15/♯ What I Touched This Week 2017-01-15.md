@@ -3,7 +3,6 @@ date: 2017-01-15
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-01-15
@@ -45,4 +44,3 @@ There is a gotcha to register tolua bindings in AppDelegate.cpp in Quick Communi
 [2]:    http://gad.qq.com/article/detail/7182056
 [3]:    http://android-mirror.bugly.qq.com:8080
 [4]:    http://msdn.itellyou.cn/
-

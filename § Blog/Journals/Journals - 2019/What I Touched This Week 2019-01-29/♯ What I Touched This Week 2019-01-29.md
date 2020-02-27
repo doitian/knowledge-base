@@ -3,7 +3,6 @@ date: 2019-01-29
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-01-29
@@ -18,5 +17,3 @@ series:
 * [序言：「无为」与刻意、大脑的双系统、自由主义的危机与开篇絮语 - 得意忘形播客](https://castro.fm/episode/Gnr11x)
 
     关于认知的一个很好的播客
-
-

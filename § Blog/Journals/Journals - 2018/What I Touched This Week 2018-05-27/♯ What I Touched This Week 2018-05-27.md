@@ -3,7 +3,6 @@ date: 2018-05-27
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-05-27
@@ -51,4 +50,3 @@ series:
 * [improbable-eng/thanos at stackshare](https://github.com/improbable-eng/thanos?ref=stackshare)
 
     Prometheus monitoring integration for Golang.
-

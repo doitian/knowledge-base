@@ -3,7 +3,6 @@ date: 2018-10-21
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-10-21
@@ -57,4 +56,3 @@ series:
 * [Fold N Fly ✈](https://www.foldnfly.com/index.html)
 
     Different ways to fold an airplane.
-

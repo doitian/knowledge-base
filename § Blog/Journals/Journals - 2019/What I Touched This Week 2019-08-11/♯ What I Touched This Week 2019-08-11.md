@@ -3,7 +3,6 @@ date: 2019-08-11
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-08-11
@@ -49,4 +48,3 @@ series:
 
 * [一本词典.OneDict.专业术语翻译及例句查询.科技.专利.学术论文.在线词典.](http://www.onedict.com/index.php)
 * [故宫名画记](https://m-minghuaji.dpm.org.cn/index)
-

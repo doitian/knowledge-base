@@ -3,7 +3,6 @@ date: 2018-12-23
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-12-23
@@ -40,4 +39,3 @@ series:
 
 * [比特币核心开发者怒怼：BCH 是奉行凯恩斯主义的法币 - 链闻 ChainNews](https://www.chainnews.com/articles/508196335490.htm)
 * [日本90年代那场消费降级 - 知乎](https://zhuanlan.zhihu.com/p/52425288)
-

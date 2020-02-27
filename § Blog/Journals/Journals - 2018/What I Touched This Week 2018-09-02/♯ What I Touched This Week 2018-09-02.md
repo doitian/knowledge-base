@@ -3,7 +3,6 @@ date: 2018-09-02
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-09-02
@@ -36,5 +35,3 @@ series:
 * [OCLC Classify -- an Experimental Classification Service](http://classify.oclc.org/classify2/)
 
     Search decimal category by ISBN.
-
-

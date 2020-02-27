@@ -3,7 +3,6 @@ date: 2018-05-06
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-05-06
@@ -72,4 +71,3 @@ series:
 
 * [hendricius/the-bread-code: Learn how to master the art of baking the programmer way.](https://github.com/hendricius/the-bread-code)
 * [zserge/webview: Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)](https://github.com/zserge/webview)
-

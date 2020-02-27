@@ -3,7 +3,6 @@ date: 2017-05-13
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-05-13
@@ -31,4 +30,3 @@ series:
 - [Sh](http://amoffat.github.io/sh/index.html) is a shell command wrapper for Python.
 - [hobby-kube/guide: Kubernetes clusters for the hobbyist.](https://github.com/hobby-kube/guide)
 - [getinsomnia/insomnia: The most intuitive cross-platform REST API Client 😴](https://github.com/getinsomnia/insomnia)
-

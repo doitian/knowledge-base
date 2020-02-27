@@ -3,7 +3,6 @@ date: 2017-10-22
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-10-22
@@ -42,4 +41,3 @@ series:
 - [sheerun/vim-polyglot: A solid language pack for Vim.](https://github.com/sheerun/vim-polyglot)
 
 - [Microsoft/napajs: Napa.js: a multi-threaded JavaScript runtime](https://github.com/Microsoft/napajs)
-

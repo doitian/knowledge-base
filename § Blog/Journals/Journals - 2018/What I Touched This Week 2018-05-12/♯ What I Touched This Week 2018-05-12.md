@@ -3,7 +3,6 @@ date: 2018-05-12
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-05-12
@@ -36,4 +35,3 @@ series:
     分析腾讯为什么失去了创新能力，变成了一家投资公司
 
 * [Why founders need hobbies - Baremetrics](https://baremetrics.com/blog/why-founders-need-hobbies?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
-

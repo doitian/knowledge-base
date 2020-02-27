@@ -3,7 +3,6 @@ date: 2018-11-04
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-11-04
@@ -27,4 +26,3 @@ series:
 ## Bookmarks
 
 - [Upcase, the learning platform from thoughtbot](https://thoughtbot.com/upcase/practice)
-

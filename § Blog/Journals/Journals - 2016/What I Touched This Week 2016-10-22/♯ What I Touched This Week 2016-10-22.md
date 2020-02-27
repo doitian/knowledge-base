@@ -3,7 +3,6 @@ date: 2016-10-22
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-10-22
@@ -79,4 +78,3 @@ series:
 [20]:   http://jmd.im/black.html
 [21]:   http://mvark.blogspot.jp/2016/10/tips-for-more-effective-white-boarding.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WebDevelopmentTipsTricksTrivia+(Tech+Tips,+Tricks+&+Trivia)
 [22]:   https://github.com/sparanoid/chinese-copywriting-guidelines
-

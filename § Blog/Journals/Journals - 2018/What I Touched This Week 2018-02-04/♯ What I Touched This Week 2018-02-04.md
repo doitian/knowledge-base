@@ -3,7 +3,6 @@ date: 2018-02-04
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-02-04
@@ -40,4 +39,3 @@ series:
 * [rust-lang-nursery/rust-clippy: A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/rust-lang-nursery/rust-clippy)
 * P2P network library: [libp2p](https://libp2p.io/)
 * [Zstandard - Real-time data compression algorithm](http://facebook.github.io/zstd/)
-

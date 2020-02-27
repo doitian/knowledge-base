@@ -3,7 +3,6 @@ date: 2018-12-16
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-12-16
@@ -43,4 +42,3 @@ series:
 ## Bookmarks
 
 - [Vimways ~ 2018](https://vimways.org/2018/) That’s twenty-four articles written by knowledgeable users
-

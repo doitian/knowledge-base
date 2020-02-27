@@ -3,7 +3,6 @@ date: 2018-11-18
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-11-18
@@ -25,4 +24,3 @@ series:
 * [智能复读机音频、视频资源网](http://okmike.listeneer.com/)
 
     英语学习资源
-

@@ -3,7 +3,6 @@ date: '2016-10-15'
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-10-15
@@ -67,4 +66,3 @@ Replace "appnamehere" with the name of the app as it appears in the Accessibilit
 [12]:   http://jazcash.com/a-javascript-journey-with-only-six-characters/
 [13]:   https://blog.kapeli.com/dash-and-apple-my-side-of-the-story?utm_campaign=digest&utm_medium=email&utm_source=app
 [14]:   https://blog.kapeli.com/apple-removed-dash-from-the-app-store#what-happened
-

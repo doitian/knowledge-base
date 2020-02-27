@@ -3,7 +3,6 @@ date: '2017-02-12'
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-02-12
@@ -41,4 +40,3 @@ This week I have worked on Lua API of Sentry using its Objective-C and Android c
 [1]:    http://dualface.github.io/blog/2013/01/01/call-java-from-lua/
 [2]:    https://github.com/joshdholtz/Sentry-Android
 [3]:    https://github.com/webmachine/webmachine
-

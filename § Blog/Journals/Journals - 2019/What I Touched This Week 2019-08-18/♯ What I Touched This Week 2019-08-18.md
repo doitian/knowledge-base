@@ -3,7 +3,6 @@ date: 2019-08-18
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-08-18
@@ -31,4 +30,3 @@ series:
 * [Ultralight Packing List: How to Pack Light & Travel With 1 Bag](https://jamesclear.com/ultralight-travel)
 * [The Original Kindle Was Crazy - OneZero](https://onezero.medium.com/the-original-kindle-was-crazy-98c191b4cbc)
 * [`arc_swap` - Rust](https://docs.rs/arc-swap/0.4.2/arc_swap/)
-

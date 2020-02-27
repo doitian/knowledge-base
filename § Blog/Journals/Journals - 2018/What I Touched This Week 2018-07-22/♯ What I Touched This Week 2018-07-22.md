@@ -3,7 +3,6 @@ date: 2018-07-22
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-07-22
@@ -30,4 +29,3 @@ series:
 * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
 * [Becoming a 10x Developer, 10 Ways to be a Better Teammate](https://kateheddleston.com/blog/becoming-a-10x-developer)
 * [How to use sudo with Touch ID on your Mac](https://www.imore.com/how-use-sudo-your-mac-touch-id)
-

@@ -3,7 +3,6 @@ date: 2016-11-13
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-11-13
@@ -46,4 +45,3 @@ How to use syslog in [skynet][1]:
 [10]:   https://ruby-china.org/topics/31498
 [11]:   https://blog.tylerchr.com/golang-18-whats-coming/
 [12]:   https://tip.golang.org/pkg/plugin/
-

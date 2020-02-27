@@ -3,7 +3,6 @@ date: 2018-08-12
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-08-12
@@ -54,4 +53,3 @@ series:
 - [faressoft/terminalizer: 🦄 Record your terminal and generate animated gif images](https://github.com/faressoft/terminalizer)
 * [Colorless - Color scheme generator for mobile apps](https://colorless.app/)
 * [hardikvasa/google-images-download: Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!](https://github.com/hardikvasa/google-images-download)
-

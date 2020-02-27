@@ -3,7 +3,6 @@ date: 2017-10-29
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-10-29
@@ -50,4 +49,3 @@ series:
     Python plotting with map data.
 
 - [bkaradzic/bgfx: Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.](https://github.com/bkaradzic/bgfx)
-

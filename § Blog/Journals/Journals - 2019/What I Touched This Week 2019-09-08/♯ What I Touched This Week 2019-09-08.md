@@ -3,7 +3,6 @@ date: 2019-09-08
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-09-08
@@ -45,4 +44,3 @@ series:
     Key allocator similar to slab.
 
 * [资源集 – 书格（公测）](https://new.shuge.org/collections/)
-

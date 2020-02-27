@@ -3,7 +3,6 @@ date: 2020-01-26
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2020-01-26
@@ -102,4 +101,3 @@ series:
 -   [一图看懂｜湖北等30省份启动的一级响应是什么？_美数课_澎湃新闻-The Paper](https://www.diigo.com/outliner/diigo_items/899907/431777/537950198?key=wcwok1u45o)
 
     ![](https://www.diigo.com/file/image/edbqqqzodqsoabsrzeaqppbsc/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%EF%BD%9C%E6%B9%96%E5%8C%97%E7%AD%8930%E7%9C%81%E4%BB%BD%E5%90%AF%E5%8A%A8%E7%9A%84%E4%B8%80%E7%BA%A7%E5%93%8D%E5%BA%94%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F_%E7%BE%8E%E6%95%B0%E8%AF%BE_%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-The+Paper.jpg?image_size=550)
-

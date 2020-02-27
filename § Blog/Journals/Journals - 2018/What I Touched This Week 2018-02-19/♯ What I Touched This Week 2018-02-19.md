@@ -3,7 +3,6 @@ date: 2018-02-19
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-02-19
@@ -52,4 +51,3 @@ series:
 * [Ivy League MOOCs | Class Central](https://www.class-central.com/collection/ivy-league-moocs) Courses from Ivy League.
 * [vurtun/nuklear: A single-header ANSI C gui library](https://github.com/vurtun/nuklear)
 * [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
-

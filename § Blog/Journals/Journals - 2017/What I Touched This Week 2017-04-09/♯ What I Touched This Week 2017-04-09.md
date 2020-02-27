@@ -1,10 +1,8 @@
 ---
 date: 2017-04-09
-description: Last week I made a tool to preview Live2D models in batch, and back port
-  TTF outline patch to cocos2d-x quick community edition.
+description: Last week I made a tool to preview Live2D models in batch, and back port TTF outline patch to cocos2d-x quick community edition.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-04-09
@@ -45,4 +43,3 @@ Last week I made a tool to preview Live2D models in batch, and back port TTF out
 [10]:	http://workflow.sspai.com/#/main/workflow
 [11]:	https://t.co/pUDwfCpyKy
 [12]:	https://uk.gamesplanet.com/
-

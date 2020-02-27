@@ -3,7 +3,6 @@ date: 2018-07-14
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-07-14
@@ -40,4 +39,3 @@ series:
 
 * [andersk/enum_primitive-rs: Macro to generate num::FromPrimitive instances for enum that works in Rust 1.0](https://github.com/andersk/enum_primitive-rs)
 * [Open Source Test Automation Framework | Gauge](https://gauge.org/)
-

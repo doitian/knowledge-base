@@ -3,7 +3,6 @@ date: 2017-02-25
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-02-25
@@ -24,4 +23,3 @@ series:
 [5]:	https://microsoft.github.io/monaco-editor/
 [6]:	http://www.favicon-generator.org/
 [7]:	http://maruko.appinn.me/
-

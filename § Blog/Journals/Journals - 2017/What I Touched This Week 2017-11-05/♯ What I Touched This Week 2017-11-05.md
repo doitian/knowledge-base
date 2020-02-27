@@ -3,7 +3,6 @@ date: 2017-11-05
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-11-05
@@ -35,4 +34,3 @@ series:
 - [grpc / grpc.io](https://grpc.io/)
 
     RPC framework.
-

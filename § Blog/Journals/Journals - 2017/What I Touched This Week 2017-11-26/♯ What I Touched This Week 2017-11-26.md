@@ -3,7 +3,6 @@ date: 2017-11-26
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2017-11-26
@@ -57,4 +56,3 @@ series:
     Take note when watching videos.
 
 - [GIPHY | Search All the GIFs & Make Your Own Animated GIF](https://giphy.com/)
-

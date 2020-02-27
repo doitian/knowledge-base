@@ -3,7 +3,6 @@ date: 2018-11-25
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-11-25
@@ -37,4 +36,3 @@ series:
 
 * [Eva Icons - beautifully crafted Open Source UI icons for common actions and items.](https://akveo.github.io/eva-icons/#/)
 * [Dreamacro/clash: A rule-based tunnel on Go.](https://github.com/Dreamacro/clash)
-

@@ -1,12 +1,8 @@
 ---
 date: 2016-12-25
 description: My weekly review report.
-hljs: true
-hljsLanguages:
-- yaml
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-12-25
@@ -71,4 +67,3 @@ This week I mainly worked on setting up monitoring system using prometheus and g
 [5]:  https://item.jd.com/11985901.html
 [6]:  http://sspai.com/36392
 [7]:  https://groundera.com/
-

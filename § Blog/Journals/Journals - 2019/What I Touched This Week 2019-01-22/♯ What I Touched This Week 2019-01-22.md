@@ -3,7 +3,6 @@ date: 2019-01-22
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-01-22
@@ -18,4 +17,3 @@ series:
 * [Bulma: Free, open source, & modern CSS framework based on Flexbox](https://bulma.io/)
 * [GatsbyJS](https://www.gatsbyjs.org/): Static site generator using React.
 * [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
-

@@ -3,7 +3,6 @@ date: 2018-09-23
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-09-23
@@ -29,4 +28,3 @@ series:
 * [如何点亮你的人生技能树：《斜杠青年》读书笔记 - 少数派](https://sspai.com/post/47122)
 
     > 像听音乐那样读书，没有人会一个音符不漏的听歌。
-

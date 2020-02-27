@@ -3,7 +3,6 @@ date: 2016-12-11
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2016-12-11
@@ -100,4 +99,3 @@ Check a value is in array in zsh:
 [13]:   https://peteris.rocks/blog/htop/
 [14]:   https://blog.packagecloud.io/eng/2015/03/30/apt-cheat-sheet/
 [15]:   https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.rb5663a0s
-

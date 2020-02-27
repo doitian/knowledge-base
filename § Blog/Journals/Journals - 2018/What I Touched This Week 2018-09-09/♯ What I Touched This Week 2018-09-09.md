@@ -3,7 +3,6 @@ date: 2018-09-09
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-09-09
@@ -42,4 +41,3 @@ series:
 ## Papers to Read
 
 * [2018, J. Lee, Reconciling High-level Optimizations and Low-level Code with Twin Memory Allocation](http://sf.snu.ac.kr/publications/llvmtwin.pdf)
-

@@ -3,7 +3,6 @@ date: 2018-03-11
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2018-03-11
@@ -33,4 +32,3 @@ series:
 * [Find something Rusty to work on](https://www.rustaceans.org/findwork/starters)
 
     Find issues to work in Rust community.
-

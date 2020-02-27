@@ -3,7 +3,6 @@ date: 2019-03-02
 description: My weekly review report.
 series:
 - What I Touched
-
 ---
 
 # What I Touched This Week 2019-03-02
@@ -67,4 +66,3 @@ series:
 * [Cleave.js - Format input text content when you are typing](https://nosir.github.io/cleave.js/)
 * [These Waifus Do Not Exist](https://www.obormot.net/demos/these-waifus-do-not-exist.html)
 * [This Person Does Not Exist](https://thispersondoesnotexist.com/)
-
