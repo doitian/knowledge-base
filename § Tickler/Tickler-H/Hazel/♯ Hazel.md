@@ -1,6 +1,6 @@
 # Hazel
 
-#macOS #automation
+#macOS #automation #softwareUsage
 
 ## Configuration
 

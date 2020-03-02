@@ -1,4 +1,4 @@
-# LaTeX Templaates
+# LaTeX Templates
 
 ## Book
 

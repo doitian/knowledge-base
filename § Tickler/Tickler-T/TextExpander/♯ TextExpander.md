@@ -1,5 +1,7 @@
 # TextExpander
 
+#softwareUsage
+
 ## Snippet
 
 ### Unicode Date Format

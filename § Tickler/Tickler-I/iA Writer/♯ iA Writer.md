@@ -1,5 +1,7 @@
 # iA Writer
 
+#softwareUsage
+
 ## Keyboard Shortcuts
 
 General Functions
