@@ -32,7 +32,7 @@
 * <kbd>J</kbd>, <kbd>K</kbd>, <kbd>L</kbd>: Quick playback.
 	* Repeat <kbd>J</kbd> or <kbd>L</kbd> to increase playback speed.
 	* Play frame by frame: Hold <kbd>K</kbd>, then press <kbd>J</kbd> or <kbd>L</kbd>.
-* Hold <kbd>J</kbd> or <kbd>L</kbd> while pressing <kbd>K</kbd>.
+	* Play with 1/2 speed: Hold <kbd>J</kbd> or <kbd>L</kbd> while pressing <kbd>K</kbd>.
 * <kbd>/</kbd>: Play Range
 * <kbd>⇧?</kbd>: Play Around
 * <kbd>⌘L</kbd>: Loop Playback
