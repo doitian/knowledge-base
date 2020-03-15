@@ -16,9 +16,9 @@ I published 1 post last week: [Blocking Stdout](https://blog.iany.me/2020/03/blo
 
 # Productivity
 
--   [作为一名本科生，我如何用 MarginNote 3 拆书 ](https://sspai.com/post/58621)
+-   [作为一名本科生，我如何用 MarginNote 3 拆书](https://sspai.com/post/58621)
     MarginNote 3 使用心得
--   [建立良好的制表习惯，我克服了「Excel 恐惧症」 ](https://sspai.com/post/59011)
+-   [建立良好的制表习惯，我克服了「Excel 恐惧症」](https://sspai.com/post/59011)
     两年前，当我在简历上写下「熟练使用 Excel」并将它递到一家家公司求职时，内心可以用毫无底气来形容。一方面，我简直对数字毫无敏感度（事实证明这种感觉可以通过重复和刻意练习来培养）；另一方面，彼时的 Excel 在我
 -   [2019 我的写作桌面清单推荐 ](https://sspai.com/post/58833)
     文具推荐
