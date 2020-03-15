@@ -9,7 +9,7 @@ title: My Reading Workflow and IFTTT Applets
 
 # My Reading Workflow And Ifttt Applets
 
-#productivity
+#productivity #knowledgeManagement
 
 I categorize reading into 3 different categories:
 
