@@ -33,7 +33,7 @@ series:
 	- Use [Resilio Sync][3] to share large files.
 - Write [some scripts][4] to setup remote downloader on server using aria2c, Python and Resilio Sync.
 - [macOS: Fix Long delays when moving/deleting files in finder][11]: try  trashing the file com.apple.Dock.plist from `~/Library/Preferences`.
-- [Connect Maker Webhooks to hundreds of other services ][5]. This is a powerful IFTTT service, which can connect all other services supported by IFTTT to/from web hook.
+- [Connect Maker Webhooks to hundreds of other services][5]. This is a powerful IFTTT service, which can connect all other services supported by IFTTT to/from web hook.
 - [mermaid - Generation of diagrams and flowcharts from text in a similar manner as markdown.][12]I found it via Chrome extension Surfingkeys.
 
 [1]:	https://github.com/golang/go/wiki/SliceTricks

@@ -28,7 +28,7 @@ series:
     > ... needed 100% control over the UX of the video call ...
 
     so they choose to use vanilla JavaScript.
-    
+
 - [和 Android 相比，人工智能才是 Google 更想介绍的 ：Google I/O 2017 回顾 - 少数派](https://sspai.com/post/39283)
 
     - 主题：人工通知
@@ -36,7 +36,7 @@ series:
 
 - [Firebase Costs Increased by 7,000%! – Startups & Venture Capital](https://medium.com/@contact_16315/firebase-costs-increased-by-7-000-81dc0a27271d)
 
-    > Due to a change in how they report data usage, our monthly costs for Firebase, a SaaS provided by Google, has increased from $25 a month to what is now moving towards the $2,000 mark — with no changes to our actual data use. This change was made without warning.
+    > Due to a change in how they report data usage, our monthly costs for Firebase, a SaaS provided by Google, has increased from $25 a month to what is now moving towards the $2,000 mark — with no changes to our actual data use. This change was made without warning.
 
     Do not lock your product to 3rd party service. Make it cheap to switch services.
 

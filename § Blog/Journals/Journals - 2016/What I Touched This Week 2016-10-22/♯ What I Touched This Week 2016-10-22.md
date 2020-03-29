@@ -12,7 +12,7 @@ series:
 
 * How to write terraform provider plugin. Read the [brief official documentation][1]. Follow this [vsphere plugin][2] to see sample `main.go` and builtin [vms provider][3] as the reference. Must read files: `provider.go` and `resource_aws_instance.go`. My project is [terraform provider ucloud][4].
 * [云风的 BLOG: 继续谈网络游戏的同步问题][5] 分两个 model 分别同步共享状态和私有状态。如果出现冲突服务器将修正的操作的参数再通知回客户端。
-* [Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories - High Scalability -][6]. Introduce the micro services architecture in Uber, the cons and pros and experience.
+* [Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories - High Scalability -][6]. Introduce the micro services architecture in Uber, the cons and pros and experience.
 * [How to correctly use context.Context in Go 1.7 – Medium][7] How to use context and how to not abuse context values.
 * [go - Separating unit tests and integration tests in GoLang (testify) - Stack Overflow][8] The difference of using build flag integration and short test flag is that: integration build flag does not run integration test by default, and short flag will run all tests.
 

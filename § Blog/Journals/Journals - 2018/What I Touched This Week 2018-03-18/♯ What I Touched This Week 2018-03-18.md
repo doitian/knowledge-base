@@ -17,7 +17,7 @@ series:
 - [Revert multiple git commits](https://stackoverflow.com/a/1470452/667158)
 - [h.264 - Concatenate two mp4 files using ffmpeg - Stack Overflow](https://stackoverflow.com/a/11175851/667158)
 - [推友推荐的一些播客](https://twitter.com/hSATAC/status/973512760251244544?ref_src=twsrc%5Etfw)
-* [HBO送我去了西部世界，而我见识了人性在褪去枷锁后的泯灭 |  PingWest品玩](http://www.pingwest.com/sxsw-westworld-experience-themepark/)
+* [HBO送我去了西部世界，而我见识了人性在褪去枷锁后的泯灭 | PingWest品玩](http://www.pingwest.com/sxsw-westworld-experience-themepark/)
 
 ## Bookmarks
 

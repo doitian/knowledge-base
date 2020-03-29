@@ -40,7 +40,7 @@ This week I work on [terraform-provider-ucloud][1], which already has implemente
 
 * [没有了老师，你该如何学习？ – ThoughtWorks洞见][16]，[技术的执念 – ThoughtWorks洞见][17] 和 [The path of software development craftsmanship][18] 都提到了应该避免被层出不穷的技术牵着鼻子走，静下心来把时间投资在底层和顶层不怎么变的技术上，中间易变的用到什么学什么。
 * [Task Performance Indicator: A Management Metric for Customer Experience · An A List Apart Article][19]. It Introduced TPI to measure customer experience and how Cisco uses it to improve products.
-* [How Uber Manages a Million Writes Per Second Using Mesos and Cassandra Across Multiple Datacenters  - High Scalability -][20]
+* [How Uber Manages a Million Writes Per Second Using Mesos and Cassandra Across Multiple Datacenters  - High Scalability -][20]
 * [Code Hoarders | 8th Light][21] About Legacy Code and Code Quality.
 * [Continuations : Our Need for Purpose and Recognition][22] Importance of Recognition as Motivation.
 * [Being More Than "Just the Programmer"][23] Next steps to be a better programmer.

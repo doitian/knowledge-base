@@ -40,8 +40,8 @@ Archive - 202003 - Weekly Review 2020-03-15
 I read may articles about Go and Rust last week.
 
 -   [The Zen of Go | Dave Cheney](https://dave.cheney.net/2020/02/23/the-zen-of-go)
--   [Early Impressions of Go from a Rust Programmer | TiDB](https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/)
--   [The Rust Compilation Model Calamity | TiDB](https://pingcap.com/blog/rust-compilation-model-calamity/)
+-   [Early Impressions of Go from a Rust Programmer | TiDB](https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/)
+-   [The Rust Compilation Model Calamity | TiDB](https://pingcap.com/blog/rust-compilation-model-calamity/)
 -   [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
 -   [amos - I want off Mr. Golang's Wild Ride](https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/)
     -   when you make something simple, you move complexity elsewhere.

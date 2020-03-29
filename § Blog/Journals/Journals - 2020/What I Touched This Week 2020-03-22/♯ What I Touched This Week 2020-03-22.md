@@ -49,7 +49,7 @@ I shared
 ## Blockchain
 
 -   [Intro to Beam Sync - Jason Carver - Medium](https://medium.com/@jason.carver/intro-to-beam-sync-a0fd168be14a)
-    -   Beam Sync starts by executing the launch block, and only requests state data that is missing from the local database.
+    -   Beam Sync starts by executing the launch block, and only requests state data that is missing from the local database.
         Lazy download
     -   we run another process in the background which fills these gaps.
 

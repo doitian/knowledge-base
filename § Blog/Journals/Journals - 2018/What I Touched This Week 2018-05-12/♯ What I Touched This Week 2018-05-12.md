@@ -25,7 +25,7 @@ series:
 
 ## News
 
-* [微软发布了一台能直播写代码的智能会议电话机，太虐人了！ |  PingWest品玩](http://www.pingwest.com/microsoft-build-2018-feature/)
+* [微软发布了一台能直播写代码的智能会议电话机，太虐人了！ | PingWest品玩](http://www.pingwest.com/microsoft-build-2018-feature/)
 * [New Steam Link app will let players stream games from their PCs to Android and iOS - The Verge](https://www.theverge.com/2018/5/9/17336592/steam-link-app-streaming-games-ios-android-pc-mac-mobile)
 
 ## Misc

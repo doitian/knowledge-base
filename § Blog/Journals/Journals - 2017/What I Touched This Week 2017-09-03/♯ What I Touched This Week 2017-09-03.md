@@ -12,7 +12,7 @@ series:
 
     Handful to create a snippets library using macOS tags in a git repository.
 
-- [Effectively Using Matplotlib - Practical Business Python](http://pbpython.com/effective-matplotlib.html)
+- [Effectively Using Matplotlib - Practical Business Python](http://pbpython.com/effective-matplotlib.html)
 
 - Book: Python Data Science Handbook. Getting started data analysis usign numpy, pandas and matplotlib.
 

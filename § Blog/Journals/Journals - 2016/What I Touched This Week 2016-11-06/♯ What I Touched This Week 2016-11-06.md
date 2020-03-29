@@ -31,7 +31,7 @@ This week I worked on rsyslog research and management. The work on terraform-pro
     * error -\> warning
     * fatal -\> err
 * Ruby 2.0 cannot specify facility when creating `Syslog::Logger`, 2.2 has the third parameter to specify the facility.
-* [20.2. Basic Configuration of Rsyslog][1] via Redhat
+* [20.2. Basic Configuration of Rsyslog][1] via Redhat
 
 ## Game
 
