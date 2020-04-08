@@ -31,15 +31,15 @@ Last week I made a tool to preview Live2D models in batch, and back port TTF out
 - [Beautiful photos from Unsplash in your new Chrome tabs][11].
 - [Gamesplanet: Game keys for Steam, Origin, Uplay, GOG and more][12]. Online game retailer, from which I can buy some games which is not available in Chinese area in Steam.
 
-[1]:	https://github.com/3pjgames/live2dviewer
-[2]:	https://github.com/doitian/nfd-unity3d
-[3]:	https://github.com/u0u0/Quick-Cocos2dx-Community/pull/76
-[4]:	https://blog.iany.me/zh/2017/04/mindmap-with-image-as-center-topic/
-[5]:	https://t.co/FHNUOVHc7C
-[6]:	https://git-scm.com/blog/2010/03/08/rerere.html
-[7]:	http://nginx.org/en/docs/http/ngx_http_limit_req_module.html
-[8]:	https://www.smashingmagazine.com/2017/04/automated-testing-system-android-phones/
-[9]:	https://github.com/sindresorhus/create-dmg
-[10]:	http://workflow.sspai.com/#/main/workflow
-[11]:	https://t.co/pUDwfCpyKy
-[12]:	https://uk.gamesplanet.com/
+[1]: https://github.com/3pjgames/live2dviewer
+[2]: https://github.com/doitian/nfd-unity3d
+[3]: https://github.com/u0u0/Quick-Cocos2dx-Community/pull/76
+[4]: https://blog.iany.me/zh/2017/04/mindmap-with-image-as-center-topic/
+[5]: https://t.co/FHNUOVHc7C
+[6]: https://git-scm.com/blog/2010/03/08/rerere.html
+[7]: http://nginx.org/en/docs/http/ngx_http_limit_req_module.html
+[8]: https://www.smashingmagazine.com/2017/04/automated-testing-system-android-phones/
+[9]: https://github.com/sindresorhus/create-dmg
+[10]: http://workflow.sspai.com/#/main/workflow
+[11]: https://t.co/pUDwfCpyKy
+[12]: https://uk.gamesplanet.com/

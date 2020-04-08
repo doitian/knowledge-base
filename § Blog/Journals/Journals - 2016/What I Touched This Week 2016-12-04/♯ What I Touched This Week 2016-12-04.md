@@ -13,14 +13,14 @@ This week I setup servers using [SaltStack][1] and continue automate building an
 <!--more-->
 
 ## Saltstack
-- Pillar cannot access data in another pillar file.
-	* Reference pillar name instead, just like `contents_pillar` in `file.managed`.
+* Pillar cannot access data in another pillar file.
+    * Reference pillar name instead, just like `contents_pillar` in `file.managed`.
 * `mount.mounted` does not format the disk, use `blockdev.formatted` first.
 * `salt-call —id custom_id` can overrides minion ID in command line, handful for test.
 
 ### Hour to test Saltstack states
 
-- Create a docker image, install `salt-minion`  and  [bats][2] on it.
+* Create a docker image, install `salt-minion`  and  [bats][2] on it.
 * Configure minion to use local file client
 * Allow overriding pillar using an YAML file in test.
 * Use `salt-call` to apply states.
@@ -64,9 +64,9 @@ Mount the project to `/srv` and run bats in docker.
 * Configure bundle gem mirror `bundle config mirror.https://rubygems.org https://gems.ruby-china.org` via  [gems.ruby-china.org][6]
 * Use root to read file but authenticate using another user `/usr/local/bin/rsync -e "sudo -H -u user ssh" -av file server:`
 
-[1]:	https://saltstack.com
-[2]:	https://github.com/sstephenson/bats
-[3]:	https://github.com/sstephenson/bats
-[4]:	https://divan.github.io/posts/avoid_gotchas/
-[5]:	https://funhacks.net/2016/11/22/decorator/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-[6]:	https://gems.ruby-china.org
+[1]: https://saltstack.com
+[2]: https://github.com/sstephenson/bats
+[3]: https://github.com/sstephenson/bats
+[4]: https://divan.github.io/posts/avoid_gotchas/
+[5]: https://funhacks.net/2016/11/22/decorator/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+[6]: https://gems.ruby-china.org

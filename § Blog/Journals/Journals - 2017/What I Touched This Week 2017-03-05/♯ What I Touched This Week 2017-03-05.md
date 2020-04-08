@@ -24,20 +24,20 @@ Configure max number of open files in:
 
 supervisor
 
-	[supervisord]
-	minfds = 1000000
+    [supervisord]
+    minfds = 1000000
 
 upstart
 
-	limit nofile 1000000 1000000
+    limit nofile 1000000 1000000
 
 /etc/security/limits.conf
 
-	* hard nofile 1000000
-	* soft nofile 1000000
+    * hard nofile 1000000
+    * soft nofile 1000000
 
-[1]:	http://stackoverflow.com/a/246128/667158
-[2]:	https://blogs.msdn.microsoft.com/vcblog/2016/11/01/vcpkg-updates-static-linking-is-now-available/
-[3]:	http://stackoverflow.com/a/14172871/667158
-[4]:	http://rancher.com/
-[5]:	http://pushpin.org/docs/about/
+[1]: http://stackoverflow.com/a/246128/667158
+[2]: https://blogs.msdn.microsoft.com/vcblog/2016/11/01/vcpkg-updates-static-linking-is-now-available/
+[3]: http://stackoverflow.com/a/14172871/667158
+[4]: http://rancher.com/
+[5]: http://pushpin.org/docs/about/

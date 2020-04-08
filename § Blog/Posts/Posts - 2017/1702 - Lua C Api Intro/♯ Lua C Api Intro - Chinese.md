@@ -277,7 +277,7 @@ static int l_random_generator(lua_State* L) {
 
 上面都是以嵌入 Lua 直接操作栈来进行交互，Lua 中也可以把 C 编译成动态链接库使用 `require` 来加载。
 
-	require "cjson"
+    require "cjson"
 
 上面这行 Lua 代码会去 `LUA_CPATH` 指定的目录下去查找名字是 cjson (cjson.so 或者 cjson.dll 等等) 的动态链接库。如果找到了，会动态加载并将其中的 `luaopen_cjson` 作为 Lua C Function 调用。调用返回的结果就是上面这行 `require` 的返回结果。当然已经加载过的模块是不会重复调用的。
 

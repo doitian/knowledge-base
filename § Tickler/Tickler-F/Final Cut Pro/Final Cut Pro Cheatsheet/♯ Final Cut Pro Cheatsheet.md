@@ -30,9 +30,9 @@
 
 * <kbd>V</kbd>: Enable or disable a clip.
 * <kbd>J</kbd>, <kbd>K</kbd>, <kbd>L</kbd>: Quick playback.
-	* Repeat <kbd>J</kbd> or <kbd>L</kbd> to increase playback speed.
-	* Play frame by frame: Hold <kbd>K</kbd>, then press <kbd>J</kbd> or <kbd>L</kbd>.
-	* Play with 1/2 speed: Hold <kbd>J</kbd> or <kbd>L</kbd> while pressing <kbd>K</kbd>.
+    * Repeat <kbd>J</kbd> or <kbd>L</kbd> to increase playback speed.
+    * Play frame by frame: Hold <kbd>K</kbd>, then press <kbd>J</kbd> or <kbd>L</kbd>.
+    * Play with 1/2 speed: Hold <kbd>J</kbd> or <kbd>L</kbd> while pressing <kbd>K</kbd>.
 * <kbd>/</kbd>: Play Range
 * <kbd>⇧?</kbd>: Play Around
 * <kbd>⌘L</kbd>: Loop Playback
@@ -69,8 +69,8 @@
 # Titles and Generators
 
 * In Viewer View menu, select Show Title/Action Safe Zones.
-	* Inner: title safe
-	* Outer: action safe
+    * Inner: title safe
+    * Outer: action safe
 * <kbd>Q</kbd>: Insert title and generator into the marked range.
 
 A example work flow: Mark the range using I and O, then choose the title and insert it via <kbd>Q</kbd>.

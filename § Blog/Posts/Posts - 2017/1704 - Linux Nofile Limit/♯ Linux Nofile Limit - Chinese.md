@@ -19,8 +19,8 @@ title: Linux nofile 限制
 
 要修改也比较简单，以 Ubuntu 为例，最简单的就是修改 `/etc/security/limits.conf`，在该文件中添加下面内容即可，不需要重启，新创建的进程会使用新的配置。
 
-	* hard nofile 1000000
-	* soft nofile 1000000
+    * hard nofile 1000000
+    * soft nofile 1000000
 
 <!--more-->
 
@@ -30,34 +30,34 @@ title: Linux nofile 限制
 
 Supervisor 需要修改 `supervisord.conf`，在 `[supervisord]` 小节中设置  `minfds`，需要重启 Supervisor 本身。
 
-	[supervisord]
-	minfds = 1000000
+    [supervisord]
+    minfds = 1000000
 
 Upstart 是 Ubuntu 之前使用的 init，可以在服务的配置文件里添加下面配置。需要重启服务才能生效。
 
-	limit nofile 1000000 1000000
+    limit nofile 1000000 1000000
 
 如果在 macOS 中需要做压力测试之类的，将下面文件保存成 `/Library/LaunchDaemons/limit.maxfiles.plist` 并重启。文件来自 Riak 的文档 [Open Files Limit][1]，里面有更详细的各个平台下的配置方法。
 
-	<?xml version="1.0" encoding="UTF-8"?>
-	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-	<plist version="1.0">
-	  <dict>
-	    <key>Label</key>
-	    <string>limit.maxfiles</string>
-	    <key>ProgramArguments</key>
-	    <array>
-	      <string>launchctl</string>
-	      <string>limit</string>
-	      <string>maxfiles</string>
-	      <string>200000</string>
-	      <string>200000</string>
-	    </array>
-	    <key>RunAtLoad</key>
-	    <true/>
-	    <key>ServiceIPC</key>
-	    <false/>
-	  </dict>
-	</plist>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+      <dict>
+        <key>Label</key>
+        <string>limit.maxfiles</string>
+        <key>ProgramArguments</key>
+        <array>
+          <string>launchctl</string>
+          <string>limit</string>
+          <string>maxfiles</string>
+          <string>200000</string>
+          <string>200000</string>
+        </array>
+        <key>RunAtLoad</key>
+        <true/>
+        <key>ServiceIPC</key>
+        <false/>
+      </dict>
+    </plist>
 
-[1]:	http://docs.basho.com/riak/kv/2.0.2/using/performance/open-files-limit/
+[1]: http://docs.basho.com/riak/kv/2.0.2/using/performance/open-files-limit/

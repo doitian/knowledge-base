@@ -54,4 +54,4 @@ The new process has many pros:
 
 The cons are that I should take the punch card with me. But it is so simple that I can print a whole week into a single piece of A5 paper. As a bonus, I can review the card every week, record the completion status into a spreadsheet, and adjust my plan according to the statistics.
 
-[1]:	https://doist.com/blog/get-everything-done-still-have-time-to-play/
+[1]: https://doist.com/blog/get-everything-done-still-have-time-to-play/

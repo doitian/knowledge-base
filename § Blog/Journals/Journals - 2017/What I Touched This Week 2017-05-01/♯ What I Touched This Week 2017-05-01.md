@@ -25,14 +25,14 @@ series:
 - [Simple calculation to render cheap water effects.][10] An example to study shader.
 - [Ant Design of React][11]. A React component library.
 
-[1]:	https://www.zhihu.com/question/22696632/answer/162234202 "编辑于 12:42"
-[2]:	http://guoqiao.me/post/2015/1212-pip-install-offline-via-wheels
-[3]:	http://www.makeuseof.com/tag/excel-flash-auto-fill/
-[4]:	https://www.buzzfeed.com/nicolenguyen/your-problematic-free-faves?utm_content=buffer4e4eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&utm_term=.rczxVyXe5#.py75mwk7o
-[5]:	https://codefresh.io/blog/node_docker_multistage/?utm_content=buffer65688&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[6]:	https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/?utm_content=bufferc8cb8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[7]:	http://airbnb.design/painting-with-code/?utm_content=buffer19af4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[8]:	http://www.timescale.com/?ref=stackshare
-[9]:	https://www.ctrlpaint.com/
-[10]:	https://github.com/KrisYu/Water
-[11]:	https://ant.design/docs/react/introduce
+[1]: https://www.zhihu.com/question/22696632/answer/162234202 "编辑于 12:42"
+[2]: http://guoqiao.me/post/2015/1212-pip-install-offline-via-wheels
+[3]: http://www.makeuseof.com/tag/excel-flash-auto-fill/
+[4]: https://www.buzzfeed.com/nicolenguyen/your-problematic-free-faves?utm_content=buffer4e4eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&utm_term=.rczxVyXe5#.py75mwk7o
+[5]: https://codefresh.io/blog/node_docker_multistage/?utm_content=buffer65688&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[6]: https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/?utm_content=bufferc8cb8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[7]: http://airbnb.design/painting-with-code/?utm_content=buffer19af4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[8]: http://www.timescale.com/?ref=stackshare
+[9]: https://www.ctrlpaint.com/
+[10]: https://github.com/KrisYu/Water
+[11]: https://ant.design/docs/react/introduce

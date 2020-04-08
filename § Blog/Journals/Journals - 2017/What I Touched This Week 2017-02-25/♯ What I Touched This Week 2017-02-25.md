@@ -16,10 +16,10 @@ series:
 - [Favicon & App Icon Generator][6]. Generate HTML meta and convert upload image to various format icons for website.
 - [小丸工具箱][7], Windows 上的视频工具
 
-[1]:	https://www.jukedeck.com/?no-redirect=true
-[2]:	http://airbnb.io/enzyme/?ref=stackshare
-[3]:	https://github.com/kamranahmedse/design-patterns-for-humans
-[4]:	https://github.com/RandyGaul/tinyheaders
-[5]:	https://microsoft.github.io/monaco-editor/
-[6]:	http://www.favicon-generator.org/
-[7]:	http://maruko.appinn.me/
+[1]: https://www.jukedeck.com/?no-redirect=true
+[2]: http://airbnb.io/enzyme/?ref=stackshare
+[3]: https://github.com/kamranahmedse/design-patterns-for-humans
+[4]: https://github.com/RandyGaul/tinyheaders
+[5]: https://microsoft.github.io/monaco-editor/
+[6]: http://www.favicon-generator.org/
+[7]: http://maruko.appinn.me/

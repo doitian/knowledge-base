@@ -21,9 +21,9 @@ series:
 - Performance test frameworks: [Gatling Load and Performance testing][6] using Java, and [Locust][7] using Python.
 - Android performance tool: [Tegra Graphics Debugger from NVIDIA][8] and [Snapdragon Profiler from Qualcomm][9].
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale][10]
-	- and how to improve [Infinite List and React][11].
-	- The performance metric [Flame Graphs][12] used in the post,
-	- and [chrome addons for React performance test][13]
+    - and how to improve [Infinite List and React][11].
+    - The performance metric [Flame Graphs][12] used in the post,
+    - and [chrome addons for React performance test][13]
 
 ## Game Development
 
@@ -50,33 +50,33 @@ series:
 - [设计界出了一件大事儿！][27] ARKie 是一个智能设计助手，聚焦于中英文排版、秒级自动生成作品。10秒，帮你完成一个设计。
 - Windows 软件推荐，[菲菲更名宝贝 之 得意非凡 v3.0 正式版][28]，[Windows 上有什么鲜为人知的好软件？| 自爆区 #023][29]，[Windows 绝赞应用][30]。
 
-[1]:	https://www.youtube.com/watch?v=E8I19uA-wGY
-[2]:	https://medium.com/@trojanh/working-of-yarn-and-npm-974b79f10341
-[3]:	https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/?utm_content=buffer0aa3b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[4]:	http://www.rankred.com/nasa-coding-rules/
-[5]:	https://github.com/google/python-fire
-[6]:	http://gatling.io/
-[7]:	http://locust.io/
-[8]:	https://developer.nvidia.com/tegra-graphics-debugger
-[9]:	https://developer.qualcomm.com/software/snapdragon-profiler
-[10]:	https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3
-[11]:	https://itsze.ro/blog/2017/04/09/infinite-list-and-react.html?utm_content=buffer7c399&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[12]:	http://www.brendangregg.com/flamegraphs.html
-[13]:	https://github.com/crysislinux/chrome-react-perf
-[14]:	https://www.youtube.com/watch?v=4mXL751ko0w
-[15]:	https://godotengine.org/
-[16]:	https://github.com/nickelser/zhong
-[17]:	https://github.com/electron-userland/electron-forge
-[18]:	https://github.com/anbox/anbox
-[19]:	https://therecipe.github.io/qt/
-[20]:	https://flow.org/
-[21]:	https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/?utm_content=buffer1f325&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[22]:	https://medium.com/sketch-app-sources/mastering-group-resizing-feature-in-sketch-38266286155
-[23]:	https://zhuanlan.zhihu.com/p/26263557?hmsr=toutiao.io&utm_content=buffer6e955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[24]:	http://www.appinn.com/sony-clock-for-android/?utm_content=bufferc702b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[25]:	https://www.zhihu.com/question/21312624
-[26]:	https://www.douban.com/note/380163098/
-[27]:	http://mp.weixin.qq.com/s/uQjAbLVQn8LXvkijuJJsrg?utm_content=buffere15a1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[28]:	http://www.ffhome.com/works/1406.html
-[29]:	http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650498413&idx=1&sn=1b15a76bc3b5e43e96b19a975ac56c05&chksm=bea357ca89d4dedcf2f3a85b191c014b06fec0a99527a581a27836d5f8db734169c1e45fc7cb&scene=27&utm_content=bufferfb692&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#wechat_redirect
-[30]:	https://emlvirus.gitbooks.io/windows-apps-that-amaze-us/content/
+[1]: https://www.youtube.com/watch?v=E8I19uA-wGY
+[2]: https://medium.com/@trojanh/working-of-yarn-and-npm-974b79f10341
+[3]: https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/
+[4]: http://www.rankred.com/nasa-coding-rules/
+[5]: https://github.com/google/python-fire
+[6]: http://gatling.io/
+[7]: http://locust.io/
+[8]: https://developer.nvidia.com/tegra-graphics-debugger
+[9]: https://developer.qualcomm.com/software/snapdragon-profiler
+[10]: https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3
+[11]: https://itsze.ro/blog/2017/04/09/infinite-list-and-react.html
+[12]: http://www.brendangregg.com/flamegraphs.html
+[13]: https://github.com/crysislinux/chrome-react-perf
+[14]: https://www.youtube.com/watch?v=4mXL751ko0w
+[15]: https://godotengine.org/
+[16]: https://github.com/nickelser/zhong
+[17]: https://github.com/electron-userland/electron-forge
+[18]: https://github.com/anbox/anbox
+[19]: https://therecipe.github.io/qt/
+[20]: https://flow.org/
+[21]: https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/
+[22]: https://medium.com/sketch-app-sources/mastering-group-resizing-feature-in-sketch-38266286155
+[23]: https://zhuanlan.zhihu.com/p/26263557?hmsr=toutiao.io
+[24]: http://www.appinn.com/sony-clock-for-android/
+[25]: https://www.zhihu.com/question/21312624
+[26]: https://www.douban.com/note/380163098/
+[27]: http://mp.weixin.qq.com/s/uQjAbLVQn8LXvkijuJJsrg
+[28]: http://www.ffhome.com/works/1406.html
+[29]: http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650498413&idx=1&sn=1b15a76bc3b5e43e96b19a975ac56c05&chksm=bea357ca89d4dedcf2f3a85b191c014b06fec0a99527a581a27836d5f8db734169c1e45fc7cb&scene=27#wechat_redirect
+[30]: https://emlvirus.gitbooks.io/windows-apps-that-amaze-us/content/

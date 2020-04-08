@@ -52,17 +52,17 @@ Userdata 的 API 主要是 `lua_newuserdata` 和 `lua_touserdata`。
 
 ``` c
 struct Complex {
-	lua_Number real;
-	lua_Number imag;
+  lua_Number real;
+  lua_Number imag;
 };
 
 typedef struct Complex Complex;
 
 static int complex_new(lua_State* L) {
   Complex* comp = lua_newuserdata(L, sizeof(Complex));
-	comp->real = lua_tonumber(L, 1);
-	comp->imag = lua_tonumber(L, 2);
-	return 1;
+  comp->real = lua_tonumber(L, 1);
+  comp->imag = lua_tonumber(L, 2);
+  return 1;
 }
 ```
 
@@ -70,12 +70,12 @@ static int complex_new(lua_State* L) {
 
 ``` c
 static int complex_add(lua_State* L) {
-	Complex* a = lua_touserdata(L, 1);
-	Complex* b = lua_touserdata(L, 2);
+  Complex* a = lua_touserdata(L, 1);
+  Complex* b = lua_touserdata(L, 2);
   Complex* comp = lua_newuserdata(L, sizeof(Complex));
   comp->real = a->real + b->real;
   comp->imag = a->imag + b->imag;
-	return 1;
+  return 1;
 }
 ```
 
@@ -100,7 +100,7 @@ static int file_open(lua_State* L) {
     return 0;
   }
   lua_pushlightuserdata(L, file);
-	return 1;
+  return 1;
 }
 ```
 
@@ -108,11 +108,11 @@ static int file_open(lua_State* L) {
 
 ```c
 static int file_close(lua_State* L) {
-	FILE* f = lua_touserdata(L, 1);
-	if (f != NULL) {
-	  fclose(f);
+  FILE* f = lua_touserdata(L, 1);
+  if (f != NULL) {
+    fclose(f);
   }
-	return 0;
+  return 0;
 }
 ```
 

@@ -8,8 +8,8 @@ Zmv is a zsh utility to rename files in batch.
 
 ```
 zmv [ -finqQsvwW ] [ -C | -L | -M | -{p|P} program ] [ -o optstring ]
-	srcpat dest
-		Move (usually, rename) files matching the pattern srcpat to corresponding files having names of the form given by dest, where srcpat contains parentheses surrounding patterns which will be replaced in turn by $1, $2, ... in dest.
+    srcpat dest
+        Move (usually, rename) files matching the pattern srcpat to corresponding files having names of the form given by dest, where srcpat contains parentheses surrounding patterns which will be replaced in turn by $1, $2, ... in dest.
 ```
 
 § Enable

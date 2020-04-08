@@ -81,5 +81,5 @@ It is recommended to use tmux or screen, because multiple shell sessions are req
 
 The original [Chinese version](https://medium.com/@doitian/在服务器上快速使用-shadowsocks-搭建一个代理-94b7fbf7f712#.1gje4qqod) is posted on Medium.
 
-[1]:	https://github.com/shadowsocks/shadowsocks/blob/master/README.md
-[2]:	https://github.com/shadowsocks/shadowsocks/wiki/Convert-Shadowsocks-into-an-HTTP-proxy
+[1]: https://github.com/shadowsocks/shadowsocks/blob/master/README.md
+[2]: https://github.com/shadowsocks/shadowsocks/wiki/Convert-Shadowsocks-into-an-HTTP-proxy

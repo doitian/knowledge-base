@@ -16,10 +16,10 @@ This week I mainly worked on setting up monitoring system using prometheus and g
 
 - Example of [how to write a graylog output plugin][1]
 - Add graylog2 stored data in grafana:
-	- Type: elasticsearch
-	- Connect to the configured elasticsearch instances used in graylog2
-	- Leave 『Index name』empty
-	- Time field name: timestamp
+    - Type: elasticsearch
+    - Connect to the configured elasticsearch instances used in graylog2
+    - Leave 『Index name』empty
+    - Time field name: timestamp
 - Prometheus client libraries keep all metrics, do not use keep increasing value as a tag, such as user id.
  - Rsyslog writes logs to file using user and group syslog
 

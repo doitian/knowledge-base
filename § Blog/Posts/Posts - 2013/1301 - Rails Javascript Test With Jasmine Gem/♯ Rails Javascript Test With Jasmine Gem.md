@@ -46,7 +46,7 @@ Jasmine 1.3.1 [removes](https://github.com/pivotal/jasmine-gem/issues/120) the a
     `spec/javascripts/support/jasmine_config.rb` and add following line to the
     file:
 
-	``` ruby
+    ``` ruby
     Rails.application.assets.append_path File.expand_path('../..', __FILE__)
     ```
 
@@ -54,7 +54,7 @@ Jasmine 1.3.1 [removes](https://github.com/pivotal/jasmine-gem/issues/120) the a
     `src_files`. Also set `spec_files` and `helpers` to `[]`, otherwise the
     JavaScript files may be included twice.
 
-	``` yaml
+    ``` yaml
     src_files:
       - assets/application.js
       - assets/specs.js

@@ -31,13 +31,13 @@ while toread:
     toread -= nbytes
 ```
 
-[1]:	https://medium.com/@Blankwonder/%E5%90%84%E7%A7%8D%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94-1ed52bf7a803
-[2]:	https://github.com/ChrisRx/dungeonfs?utm_content=buffer7ce99&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[3]:	https://slack.engineering/typescript-at-slack-a81307fa288d
-[4]:	https://www.blog.google/topics/machine-learning/fast-drawing-everyone/?utm_content=buffer8f0d7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[5]:	http://shields.io/?utm_content=buffer20283&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[6]:	http://rhaas.blogspot.jp/2017/04/new-features-coming-in-postgresql-10.html?utm_content=buffer63dcd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[7]:	https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html?utm_content=buffer2dbb1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[8]:	https://sspai.com/post/38542?utm_campaign=buffer&utm_content=buffer46389&utm_medium=social&utm_source=twitter.com
-[9]:	https://sspai.com/post/38802?utm_campaign=buffer&utm_content=bufferb966e&utm_medium=social&utm_source=twitter.com
-[10]:	http://stackoverflow.com/a/15964489/667158
+[1]: https://medium.com/@Blankwonder/%E5%90%84%E7%A7%8D%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94-1ed52bf7a803
+[2]: https://github.com/ChrisRx/dungeonfs
+[3]: https://slack.engineering/typescript-at-slack-a81307fa288d
+[4]: https://www.blog.google/topics/machine-learning/fast-drawing-everyone/
+[5]: http://shields.io/
+[6]: http://rhaas.blogspot.jp/2017/04/new-features-coming-in-postgresql-10.html
+[7]: https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html
+[8]: https://sspai.com/post/38542
+[9]: https://sspai.com/post/38802
+[10]: http://stackoverflow.com/a/15964489/667158

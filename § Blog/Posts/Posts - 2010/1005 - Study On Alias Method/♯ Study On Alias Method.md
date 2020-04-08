@@ -23,41 +23,41 @@ Let $Z$ be the discrete random variable which has n possible outcomes $z_0,z_1,\
 Random variable $X$ is uniformly distributed in $(0, n)$, which probability density function is
 
 \\[
-	f(x) = \left\{
-	 \begin{array}{rl}
-	  1/n & \text{if } 0 < x < n\\
-	  0 & \text{otherwise}\\
-	 \end{array} \right.
+    f(x) = \left\{
+     \begin{array}{rl}
+      1/n & \text{if } 0 < x < n\\
+      0 & \text{otherwise}\\
+     \end{array} \right.
 \\]
 
 Now generate a variable $Y'$ that
 
 \\[
-	Y' =  \left\{
-	 \begin{array}{rl}
-	  \lfloor x  \rfloor & \text{if } (x - \lfloor x \rfloor) < F(\lfloor x \rfloor)\\
-	  A(\lfloor x \rfloor)  & \text{otherwise}\\
-	 \end{array} \right.
+    Y' =  \left\{
+     \begin{array}{rl}
+      \lfloor x  \rfloor & \text{if } (x - \lfloor x \rfloor) < F(\lfloor x \rfloor)\\
+      A(\lfloor x \rfloor)  & \text{otherwise}\\
+     \end{array} \right.
 \\]
 
 $A(i)$ is the alias function. When $x$ falls in range $[i, i + 1)$ ($i$ is an integer), $y$ has the probability $F(i)$ to be $i$, and probability $1 - F(i)$ to be $A(i)$. Because $x$ is uniformly distributed,
 
 \\[
-	\begin{aligned}
-	P\{x \in [i, i + F(i))\}     &= \displaystyle\int_i^{i+F(i)}\frac{1}{n}dx\\
+    \begin{aligned}
+    P\{x \in [i, i + F(i))\}     &= \displaystyle\int_i^{i+F(i)}\frac{1}{n}dx\\
                              &= (i + F(i) - i) \times 1/n\\
                              &= F(i)/n,\\
                              \\
-	P\{x \in [i + F(i), i + 1)\} &= \displaystyle\int_{i+F(i)}^{i+1}\frac{1}{n}dx\\
+    P\{x \in [i + F(i), i + 1)\} &= \displaystyle\int_{i+F(i)}^{i+1}\frac{1}{n}dx\\
                              &= (i + 1 - (i + F(i))) \times 1/n\\
                              &= (1-F(i))/n
-	\end{aligned}
+    \end{aligned}
 \\]
 
 Let's denote the set of values $j$ that satisfies $A(j) = i$ as $A^{-1}(i)$. The generated variable $Y'$ has following probability mass function:
 
 \\[
-	P\{Y' = i\} = F(i)/n + \sum_{j \in A^{-1}(i)}\frac{1-F(j)}{n}
+    P\{Y' = i\} = F(i)/n + \sum_{j \in A^{-1}(i)}\frac{1-F(j)}{n}
 \\]
 
 Alias method is the algorithm to construct $A$ and $F$ so that $P\{Y' = i\}$ equals to $P\{Y = i\}$ for all $i$. Because the domain of both $A$ and $F$ are integers $0,1,\ldots,n-1$, they can be stored in array and values can be looked up in *O(1)*, where the space efficiency is in *O(n)*.

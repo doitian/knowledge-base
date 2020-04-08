@@ -14,30 +14,30 @@ Ansible uses YAML to define tasks, playbooks and handlers. If the files follow s
 
 For example, following ctags options will index all the lines starting with `- name:` in `.yml` and `.yaml` files. Save it as `.ctags` in the playbook or role top directory.
 
-	--langdef=ansible
-	--langmap=ansible:.yml.yaml
-	--regex-ansible=/^[ \t]*-[ \t]*name:[ \t]*(.+)/\1/k,tasks/
-	--languages=ansible,ruby,python
+    --langdef=ansible
+    --langmap=ansible:.yml.yaml
+    --regex-ansible=/^[ \t]*-[ \t]*name:[ \t]*(.+)/\1/k,tasks/
+    --languages=ansible,ruby,python
 
 It is assumed that playbook and task files use extension `.yml` or `.yaml`. And `name` field just follows `-`.
 
-	- name: name must be the first field just following the dash
-	  hosts: all
-	  roles: [ site ]
+    - name: name must be the first field just following the dash
+      hosts: all
+      roles: [ site ]
 
 Now generate the tags
 
-	ctags -R .
+    ctags -R .
 
 And try it in vim
 
-	:tselect /keyword
+    :tselect /keyword
 
 To make it works with [ctrlp][2] `CtrlPBufTag`, add following config in vimrc
 
-	let g:ctrlp_buftag_types = {
-	  \ 'yaml'     : '--languages=ansible --ansible-types=k',
-	  \ }
+    let g:ctrlp_buftag_types = {
+      \ 'yaml'     : '--languages=ansible --ansible-types=k',
+      \ }
 
-[1]:	http://ctags.sourceforge.net
-[2]:	https://github.com/kien/ctrlp.vim
+[1]: http://ctags.sourceforge.net
+[2]: https://github.com/kien/ctrlp.vim
