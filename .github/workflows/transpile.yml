@@ -42,5 +42,23 @@ jobs:
         export KB_SRC_DIR="$(pwd)"
         export KB_CONTENT_DIR="$(cd ../iany.me/content && pwd)"
         python3 x.py run
-        ( cd ../iany.me && git status )
+    
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.DEPLOY_KEY }}
+        known_hosts: |
+          e.coding.net ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHOWdwLpkos2CLli6DFvQ36yQE6Pe/PtFp3XwyirfZCIoGWnedaWI8zkJWVCs0wgOB9/urFepTDfV2wN49KGy1sl2/CCDEH2K/zeoEAZlTcBrhU17bwg1yMHCyJ7IM+zdLzItDEKYjgoWqVdUGK1dXQQlwt7GP4W7HqffelQQoVxOMoZ5N50MzD+nvV4y8iq0KwDQNy62iU4hui9ajCSVUDLu/06ucd5IojSI9keRIYAXvQf52TJ5EbvoBggp9RhjuWNEG8IhnPP6rzPS11Ocmwg/HsP8xOKL28AeDBAh6B6MEBDtlyp5Yfu9cwZJ9CFtU/x5fHFPtANmgIphAfwN1
 
+    - name: Publish
+      run: |
+        cd ../iany.me
+        git diff-index --quiet HEAD && exit 0
+        git add .
+        git commit -m "Publish $(date)"
+        git push
+        git remote add builder git@e.coding.net:doitian/iany.me.git
+        git fetch --depth 1 builder master
+        git rebase -f builder/master
+        git push builder master
+      
