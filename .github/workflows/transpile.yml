@@ -57,9 +57,9 @@ jobs:
         cd iany.me
         git config --global user.email "me+cloud@iany.me"
         git config --global user.name ian
-        git diff-index --quiet HEAD && exit 0
         git add .
-        git commit -m "Publish $(date)"
+        git status
+        git commit -m "Publish $(date)" || exit 0
         git push
         git remote add builder git@e.coding.net:doitian/iany.me.git
         git fetch --depth 1 builder master
