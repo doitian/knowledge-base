@@ -21,6 +21,9 @@ jobs:
     steps:
     - name: Setup Python
       uses: actions/setup-python@v1.2.0
+    
+    - name: Pip
+      run: pip install PyYAML Inflector
 
     - name: Install SSH key
       uses: shimataro/ssh-key-action@v2
