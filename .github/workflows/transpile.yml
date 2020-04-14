@@ -54,6 +54,8 @@ jobs:
     - name: Publish
       run: |
         cd iany.me
+        git config --global user.email "me+cloud@iany.me"
+        git config --global user.name ian
         git diff-index --quiet HEAD && exit 0
         git add .
         git commit -m "Publish $(date)"
