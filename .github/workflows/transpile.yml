@@ -35,12 +35,12 @@ jobs:
       with:
         repository: doitian/mirror-iany.me
         token: ${{ secrets.GitHub_PAT }} # `GitHub_PAT` is a secret that contains your PAT
-        path: ../iany.me
+        path: iany.me
 
     - name: Build
       run: |
         export KB_SRC_DIR="$(pwd)"
-        export KB_CONTENT_DIR="$(cd ../iany.me/content && pwd)"
+        export KB_CONTENT_DIR="$KB_SRC_DIR/iany.me/content"
         python3 x.py run
     
     - name: Install SSH key
@@ -52,7 +52,7 @@ jobs:
 
     - name: Publish
       run: |
-        cd ../iany.me
+        cd iany.me
         git diff-index --quiet HEAD && exit 0
         git add .
         git commit -m "Publish $(date)"
