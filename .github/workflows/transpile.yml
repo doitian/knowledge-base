@@ -40,7 +40,7 @@ jobs:
         curl -LO https://raw.githubusercontent.com/doitian/blog-autobuild/master/x.py
 
     - name: Checkout Hugo site
-      run: git clone --depth 1 git@github.com:doitian/mirror-iany.me iany.me
+      run: git clone --depth 1 git@github.com:doitian/mirror-iany.me.git iany.me
 
     - name: Build
       run: |
