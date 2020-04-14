@@ -50,7 +50,11 @@ jobs:
       run: |
         export KB_SRC_DIR="$(pwd)/main"
         export KB_CONTENT_DIR="$(pwd)/iany.me/content"
+        ls "$KB_CONTENT_DIR"
+        rm -rf "$KB_CONTENT_DIR"
         python3 x.py run
+        ls "$KB_CONTENT_DIR"
+        exit 1
 
     - name: Publish
       run: |
