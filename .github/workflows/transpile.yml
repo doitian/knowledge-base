@@ -1,0 +1,67 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Transpile
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Setup Python
+      uses: actions/setup-python@v1.2.0
+    
+    - name: Pip
+      run: pip install PyYAML Inflector
+
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.DEPLOY_KEY }}
+        known_hosts: |
+          e.coding.net ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHOWdwLpkos2CLli6DFvQ36yQE6Pe/PtFp3XwyirfZCIoGWnedaWI8zkJWVCs0wgOB9/urFepTDfV2wN49KGy1sl2/CCDEH2K/zeoEAZlTcBrhU17bwg1yMHCyJ7IM+zdLzItDEKYjgoWqVdUGK1dXQQlwt7GP4W7HqffelQQoVxOMoZ5N50MzD+nvV4y8iq0KwDQNy62iU4hui9ajCSVUDLu/06ucd5IojSI9keRIYAXvQf52TJ5EbvoBggp9RhjuWNEG8IhnPP6rzPS11Ocmwg/HsP8xOKL28AeDBAh6B6MEBDtlyp5Yfu9cwZJ9CFtU/x5fHFPtANmgIphAfwN1
+          github.com ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+      with:
+        path: main
+
+    # Runs a single command using the runners shell
+    - name: Download transpiler
+      run: |
+        curl -LO https://raw.githubusercontent.com/doitian/blog-autobuild/master/x.py
+
+    - name: Checkout Hugo site
+      run: git clone --depth 1 git@github.com:doitian/mirror-iany.me.git iany.me
+
+    - name: Build
+      run: |
+        export KB_SRC_DIR="$(pwd)/main"
+        export KB_CONTENT_DIR="$(pwd)/iany.me/content"
+        python3 x.py run
+
+    - name: Publish
+      run: |
+        cd iany.me
+        git config --global user.email "me+cloud@iany.me"
+        git config --global user.name ian
+        git add .
+        git status
+        git commit -m "Publish $(date)" || true
+        git push
+        git remote add builder git@e.coding.net:doitian/iany.me.git
+        git fetch --depth 1 builder master
+        git rebase -f builder/master
+        git push builder master
