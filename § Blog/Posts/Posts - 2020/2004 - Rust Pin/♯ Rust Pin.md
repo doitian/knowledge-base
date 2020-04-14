@@ -30,8 +30,6 @@ It is not very interesting when the pointer is `Deref`. The essential of Pin is 
 
 `Unpin` is implemented for types by default. It acts as a safety which disables the core feature of Pin. Pin is only effective when the safety is turned off, a.k.a, when the type is explicitly marked as `!Unpin` via [PhantomPinned](https://doc.rust-lang.org/std/marker/struct.PhantomPinned.html).
 
-Pin is a singal that a self reference type may appear here. It is also a contract. The type provider must mark the type as `!Unpin` if it is unsafe to move. The type user must promise not to move the `!Unpin` data in the unsafe block.
-
 ## Further Readings
 
 The [pin module](https://doc.rust-lang.org/std/pin/index.html) document has explained why and the typical scenario.
