@@ -59,7 +59,7 @@ jobs:
         git config --global user.name ian
         git add .
         git status
-        git commit -m "Publish $(date)" || exit 0
+        git commit -m "Publish $(date)" || true
         git push
         git remote add builder git@e.coding.net:doitian/iany.me.git
         git fetch --depth 1 builder master
