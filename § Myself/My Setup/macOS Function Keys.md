@@ -3,8 +3,8 @@
 | <kbd>⇧⌃⌥⌘</kbd> | Usage |
 |:--|:--|
 | 1 | TextExpand Edit Last |
-| 2 | Evernote Quick |
-| 3 | Evernote New Window |
+| 2 | Drafts Quick |
+| 3 | Drafts Capture |
 | 4 |  |
 | 5 | Hidden Bar |
 | 6 |  |
