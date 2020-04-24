@@ -5,12 +5,13 @@ description: 如何解密 Rails Cookie，从而跨服务跨语言共享 Rails se
 katex: false
 share: true
 title: Rails Cookie 如何解密
-toc: true
 ---
 
 # Rails Cookie Encryption
 
 #rails #encryption
+
+{{TOC}}
 
 如果想在已有的 Rails app 上使用其它语言加些 API，同时能直接使用 Rails 的登陆信息，最简单的就是用 Nginx 等代理将不同的服务映射到相同的域名下，其它的 App 解密 Cookie 获得登陆信息。
 

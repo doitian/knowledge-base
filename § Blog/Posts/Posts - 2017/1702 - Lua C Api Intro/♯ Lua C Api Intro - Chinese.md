@@ -4,12 +4,13 @@ description: 介绍 Lua C API 使用方法，详细说明了 Lua 栈的操作
 series:
 - Lua C API
 title: Lua C API 简介
-toc: true
 ---
 
 # Lua C Api Intro
 
 #lua
+
+{{TOC}}
 
 公司主要用 skynet 和 cocos2d-x Lua 来开发游戏。两者都采用了嵌入 Lua 来开发。因为性能，要和原生代码交互等原因，需要在 Lua 和其它语言之间进行交互。最近做了挺多这样的工作，积累了一些心得，会陆续总结分享出来。
 

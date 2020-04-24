@@ -7,12 +7,13 @@ series:
 - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 收集日志
-toc: true
 ---
 
 # Graylog 集中日志管理 - 收集日志
 
 #graylog #devops
+
+{{TOC}}
 
 Graylog 通过 *Inputs* 收集日志，方式以被动接收为主，需要在产生日志的地方将日志发送给 Graylog。比较常用的一些方式：
 

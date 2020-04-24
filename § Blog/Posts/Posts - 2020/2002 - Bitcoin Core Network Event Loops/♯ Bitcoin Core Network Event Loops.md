@@ -7,12 +7,13 @@ series:
 - Bitcoin Core Network
 share: true
 title: Bitcoin Core Network Event Loops
-toc: true
 ---
 
 # Bitcoin Core Network Event Loops
 
 #blockchain #programming
+
+{{TOC}}
 
 This article is an analysis of the network event loops based on bitcoin core [v0.19.0](https://github.com/bitcoin/bitcoin/tree/v0.19.0).
 

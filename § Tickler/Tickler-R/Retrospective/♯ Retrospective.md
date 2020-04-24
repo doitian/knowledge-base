@@ -1,9 +1,7 @@
----
-toc: true
----
-
 # Retrospective
 
 #management
+
+{{TOC}}
 
 /Retrospective Templates.md
