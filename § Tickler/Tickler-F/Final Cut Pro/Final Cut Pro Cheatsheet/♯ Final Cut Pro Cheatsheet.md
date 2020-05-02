@@ -31,6 +31,7 @@ Range selection also works in clips, the selected ranges will be inserted instea
 * <kbd>⌘B</kbd>, <kbd>⇧⌘B</kbd>: Split
 * <kbd>⌥G</kbd>: Create compound clip.
 * <kbd>P</kbd>: Create gap, or use <kbd>⌦</kbd> to delete a clip and leave the gap.
+* <kbd>⌥F</kbd>: Insert freeze frame.
 
 ⚡ Playback
 
@@ -42,6 +43,11 @@ Range selection also works in clips, the selected ranges will be inserted instea
 * <kbd>/</kbd>: Play Range
 * <kbd>⇧?</kbd>: Play Around
 * <kbd>⌘L</kbd>: Loop Playback
+
+⚡ Marker
+
+* <kbd>M</kbd>, <kbd>⌥M</kbd>: Add marker. There are three different markers, Standard, To do and Chapter.
+* <kbd>⌃,</kbd>, <kbd>⌃.</kbd>: Navigate between markers.
 
 ## Audio
 
@@ -71,6 +77,16 @@ Range selection also works in clips, the selected ranges will be inserted instea
 * Dissolves: Cross Dissolve, Fade to Color
 * Lights: Bloom
 * Movements: Slide
+
+⚡ Transform
+
+* Kern Burns: Zoom in
+
+## Effects
+
+* Audio Compressor: and other Logic effects.
+* Video Security: Security Camera.
+* Video Keyer: Cut out objects
 
 # Titles and Generators
 
