@@ -17,7 +17,9 @@ I have
 ## Technology
 
 * [Testing sync at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+
     > Nearly all of our code runs on a single “control” thread.
+
 * [Rewriting the heart of our sync engine - Dropbox](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/)
 * [Rust Performance Pitfalls — Llogiq on stuff](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
@@ -27,6 +29,7 @@ I have
 ## Productivity
 
 * [More on Cultivating a Deep Life: Mindset](https://www.calnewport.com/blog/2020/04/20/more-on-cultivating-a-deep-life-mindset/)
+
     * Do less
     * Do better
     * Know why
@@ -43,7 +46,8 @@ I have
 ## Content Creation
 
 * [Sp 006 幕后故事： 回形针是怎么做视频的](https://www.youtube.com/watch?v=SVbckfMaI6w)
-	> 聊聊我们（回形针团队）是怎么工作的，都会在什么环节犯错，以及对于这些问题的看法。
+
+    > 聊聊我们（回形针团队）是怎么工作的，都会在什么环节犯错，以及对于这些问题的看法。
 
 ## Funny
 
