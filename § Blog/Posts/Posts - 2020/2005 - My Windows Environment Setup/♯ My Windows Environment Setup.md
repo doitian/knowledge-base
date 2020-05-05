@@ -14,7 +14,7 @@ I spend the most time on a computer in three apps: terminal, text editor and web
 
 I use [ColorTool](https://github.com/microsoft/terminal/tree/master/src/tools/ColorTool) to convert my favorite theme [PaperColor](https://github.com/aseom/dotfiles/blob/master/osx/iterm2/papercolor-light.itermcolors) into Windows Terminal schema. [This](https://gist.github.com/doitian/4677ce2da2eca2eccbb1637ef804bed1) is my full Windows Terminal config file.
 
-Since I don't do heavy development locally, I use PowerShell as default in the Windows Terminal. The command `echo $profile` will print the PowerShell config file path. I have only one line PowerShell config to enable Emacs style keybinding. 
+Since I don't do heavy development locally, I use PowerShell as default in the Windows Terminal. The command `echo $profile` will print the PowerShell config file path. The essential PowerShell config is enabling the Emacs style keybinding (full version [here](https://gist.github.com/doitian/db79d2dbfaa24093534c7411b0a926bd)).
 
 ```
 Set-PSReadLineOption -EditMode emacs
@@ -23,7 +23,7 @@ Set-PSReadLineOption -EditMode emacs
 [Scoop](https://scoop.sh/) is very handy to install essential command line utilities, for example:
 
 ```
-scoop install git ripgrep
+scoop install mingit ripgrep
 ```
 
 I use the OpenSSH Client component in Windows, which can be enabled in "Settings / Apps / Manage optional features". I used to set an SSH passphrase, but the ssh agent service is disabled. It can be enabled in PowerShell ran as admin:
@@ -49,6 +49,12 @@ $SSHPath = (Get-Command -Name 'ssh.exe').Source
 ```
 
 Restart Windows Terminal and now git will use the key in ssh agent.
+
+Git has the same issue with GPG. Use `git config` to tell where the GPG program is:
+
+```
+git config --global gpg.program (Get-Command -Name 'gpg.exe').Source
+```
 
 Following is a list of other apps I used in Windows:
 
