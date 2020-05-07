@@ -3,10 +3,10 @@ date: 2020-02-02
 description: My weekly review report.
 series:
 - What I Touched
+test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 ---
 
 # What I Touched This Week 2020-02-02
-
 
 ## Zero-knowledge Proof
 

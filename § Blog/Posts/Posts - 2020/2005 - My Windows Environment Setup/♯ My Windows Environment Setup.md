@@ -64,3 +64,9 @@ Following is a list of other apps I used in Windows:
 * Nebo: Handwriting notebook.
 * Clash for Windows
 * OneDrive and Google Keep for quickly synchronize data with other devices.
+
+No files found using the pattern: ^[^➫]*ia\-writer://open\?path=/Locations/iCloud/§%20Blog/Posts/Posts%20\-%202020/2005%20\-%20My%20Windows%20Environment%20Setup/♯%20My%20Windows%20Environment%20Setup\.md
+
+## 1 linked reference to "My Windows Environment Setup"
+
+* [➫ Vim Setup for Windows](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2005%20-%20Vim%20Setup%20for%20Windows/♯%20Vim%20Setup%20for%20Windows.md)

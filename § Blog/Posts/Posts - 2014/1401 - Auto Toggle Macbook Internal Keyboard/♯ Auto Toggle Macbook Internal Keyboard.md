@@ -7,7 +7,7 @@ title: Auto Toggle MacBook Internal Keyboard
 
 # Auto Toggle Macbook Internal Keyboard
 
-#mac #powerTool
+#macOS #powerTool
 
 I prefer using external keyboard with my MacBook. When no external monitors are used, a typical setup is placing the keyboard above the internal one, so I can still use the internal touchpad.
 
