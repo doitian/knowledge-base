@@ -2,6 +2,18 @@
 
 #windows #commandLine
 
+⚡ Familiar key bindings
+
+```
+Set-PSReadLineOption -EditMode emacs
+```
+
+⚡ Default config file
+
+```
+$PROFILE
+```
+
 ⚡ Quick Start
 
 ```
