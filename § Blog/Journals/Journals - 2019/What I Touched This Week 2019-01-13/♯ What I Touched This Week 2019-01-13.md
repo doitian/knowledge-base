@@ -10,7 +10,7 @@ series:
 
 My first post in 2019
 
-* [My Reading Workflow and IFTTT Applets – ~iany/blog](https://blog.iany.me/2019/01/my-reading-workflow-and-ifttt-applets/)
+* [My Reading Workflow and IFTTT Applets – ~iany/blog](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202019/1901%20-%20My%20Reading%20Workflow%20And%20IFTTT%20Applets/♯%20My%20Reading%20Workflow%20And%20IFTTT%20Applets.md)
 
 # Readings
 

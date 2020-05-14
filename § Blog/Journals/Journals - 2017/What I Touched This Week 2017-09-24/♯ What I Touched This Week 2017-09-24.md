@@ -8,7 +8,7 @@ series:
 # What I Touched This Week 2017-09-24
 
 
-- [Rails Cookie 如何解密](https://blog.iany.me/zh/2017/09/rails-cookie-encryption/)
+- [Rails Cookie 如何解密](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202017/1709%20-%20Rails%20Cookie%20Encryption/♯%20Rails%20Cookie%20Encryption%20-%20Chinese.md)
 - Jupyter Notebook: When running jupyter as daemon, remember set env variable LANG to en_US.UTF-8
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 

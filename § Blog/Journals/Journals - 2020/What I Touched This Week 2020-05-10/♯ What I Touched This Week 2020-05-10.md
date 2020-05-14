@@ -11,14 +11,14 @@ I have
 
 * reviewed my setup in Windows and shared several posts about it.
 * enrolled [CS166: Data Structures](http://web.stanford.edu/class/cs166/).
-* switched to [pass](https://blog.iany.me/2020/05/pass-a-password-manager-utilizing-gpg-and-git/) to manage my passwords.
+* switched to [pass](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2005%20-%20Pass%20A%20Password%20Manager%20Utilizing%20GPG%20and%20Git/♯%20Pass%20A%20Password%20Manager%20Utilizing%20GPG%20and%20Git.md) to manage my passwords.
 
 ## Windows Setup
 
 Recently, my colleagues showed interests working in Windows, so I reviewed my setup and published two posts.
 
-* [My Windows Environment Setup](https://blog.iany.me/2020/05/my-windows-environment-setup/)
-* [Vim Setup for Windows](https://blog.iany.me/2020/05/vim-setup-for-windows/)
+* [My Windows Environment Setup](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2005%20-%20My%20Windows%20Environment%20Setup/♯%20My%20Windows%20Environment%20Setup.md)
+* [Vim Setup for Windows](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2005%20-%20Vim%20Setup%20for%20Windows/♯%20Vim%20Setup%20for%20Windows.md)
 
 I also shared my config files in gist.
 
@@ -29,7 +29,7 @@ I also shared my config files in gist.
 PowerShell is really funny to play around.
 
 * [Filtering PowerShell Objects](https://www.itprotoday.com/powershell/powershell-basics-filtering-objects)
-* [My wiki entry about PowerShell](https://blog.iany.me/wiki/powershell/)
+* [My wiki entry about PowerShell](ia-writer://open?path=/Locations/iCloud/§%20Tickler/Tickler-_/PowerShell/♯%20PowerShell.md)
 
 Inspired by Windows snap move keyboard shortcuts, I have implemented a similar one in Keyboard Maestro for macOS.
 

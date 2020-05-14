@@ -8,7 +8,7 @@ series:
 # What I Touched This Week 2018-06-24
 
 
-* [Vim Marks Stack – ~iany/blog](https://blog.iany.me/2018/05/vim-marks-stack/)
+* [Vim Marks Stack – ~iany/blog](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202018/1805%20-%20Vim%20Marks%20Stack/♯%20Vim%20Marks%20Stack.md)
 
 <!--more-->
 

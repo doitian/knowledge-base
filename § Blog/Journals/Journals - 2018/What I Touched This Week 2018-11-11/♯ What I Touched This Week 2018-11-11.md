@@ -10,7 +10,7 @@ series:
 
 ## Papers
 
-- [Weekly Paper: Helix – ~iany/blog](https://blog.iany.me/2018/11/weekly-paper-helix/)
+- [Weekly Paper: Helix – ~iany/blog](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202018/1811%20-%20Weekly%20Paper%20Helix/♯%20Weekly%20Paper%20Helix.md)
 
 ## Other
 

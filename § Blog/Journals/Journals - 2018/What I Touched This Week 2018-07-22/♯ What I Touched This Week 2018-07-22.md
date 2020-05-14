@@ -20,7 +20,7 @@ series:
 
 ## Posts
 
-* [Decred Review](https://blog.iany.me/2018/07/decred-review/)
+* [Decred Review](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202018/1807%20-%20Decred%20Review/♯%20Decred%20Review.md)
 
 <!--more-->
 

@@ -7,7 +7,7 @@ series:
 
 # What I Touched This Week 2020-03-07
 
-I published 1 post last week: [Blocking Stdout](https://blog.iany.me/2020/03/blocking-stdout/)
+I published 1 post last week: [Blocking Stdout](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2003%20-%20Blocking%20Stdout/♯%20Blocking%20Stdout.md)
 
 -   Printing to stdout may block the thread. Close the pipes if you want to run a child process but don't care its output.
 -   [Blocking inside async code | Stjepan’s blog](https://stjepang.github.io/2019/12/04/blocking-inside-async-code.html)

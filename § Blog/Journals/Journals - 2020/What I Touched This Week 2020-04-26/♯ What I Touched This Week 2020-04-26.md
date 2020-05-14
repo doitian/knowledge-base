@@ -9,8 +9,8 @@ series:
 
 I have published two posts.
 
-* [使用 iOS 工作体验报告](https://blog.iany.me/zh/2020/04/working-on-ios-experience-report/)
-* [Write to Any iOS Files Location via Working Copy](https://blog.iany.me/2020/04/write-to-any-ios-files-location-via-working-copy/)
+* [使用 iOS 工作体验报告](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2004%20-%20Working%20on%20iOS%20Experience%20Report/♯%20Working%20on%20iOS%20Experience%20Report%20-%20Chinese.md)
+* [Write to Any iOS Files Location via Working Copy](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2004%20-%20Write%20to%20Any%20iOS%20Files%20Location%20via%20Working%20Copy/♯%20Write%20to%20Any%20iOS%20Files%20Location%20via%20Working%20Copy.md)
 
 I shared one link:
 

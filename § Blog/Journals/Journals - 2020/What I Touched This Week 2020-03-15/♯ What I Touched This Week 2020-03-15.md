@@ -9,7 +9,7 @@ series:
 
 I have:
 
-* Published a new post [Save Web Articles via Inoreader](https://blog.iany.me/2020/03/save-web-articles-via-inoreader/).
+* Published a new post [Save Web Articles via Inoreader](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2003%20-%20Save%20Web%20Articles%20via%20Inoreader/♯%20Save%20Web%20Articles%20via%20Inoreader.md).
 * Completed the course [Game Theory](https://twitter.com/doitian/status/1239147515494256640).
 * Read the book [The Most Dangerous Game](https://www.goodreads.com/review/show/3225593343?utm_medium=api&utm_source=rss).
 
@@ -24,14 +24,14 @@ I have:
     * 方便寻回 (recalling)
     * 定时复习
 
-    [♯ Taking Notes](https://blog.iany.me/wiki/taking-notes/)
+    [♯ Taking Notes](ia-writer://open?path=/Locations/iCloud/§%20Tickler/Tickler-T/Taking%20Notes/♯%20Taking%20Notes.md)
 
 
 * [Final Cut Pro X Essentials](https://www.youtube.com/playlist?list=PLs9bpmr0ZQc9tMUEkLSpu5VYbZNBW5L80)
 
     Learned many FCP shortcuts and tips here.
 
-    [♯ Final Cut Pro](https://blog.iany.me/wiki/final-cut-pro/)
+    [♯ Final Cut Pro](ia-writer://open?path=/Locations/iCloud/§%20Tickler/Tickler-F/Final%20Cut%20Pro/♯%20Final%20Cut%20Pro.md)
 
 ## Programming
 

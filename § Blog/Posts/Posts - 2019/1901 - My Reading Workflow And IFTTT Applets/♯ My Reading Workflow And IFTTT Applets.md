@@ -55,7 +55,7 @@ The similar group of applets save them into Inoreader.
 
 I tagged the saved articles, so Inoreader allows me to share it as an [RSS feed](https://www.inoreader.com/stream/user/1005740962/tag/ianFeed) or an [HTML page](https://www.inoreader.com/stream/user/1005740962/tag/ianFeed/view/html?cs=m).
 
-I review these shared articles weekly, and include them in my the [journal posts](https://blog.iany.me/journal/).
+I review these shared articles weekly, and include them in my the [journal posts](https://u.iany.me/journal).
 
 The last, I backup the data into Google Drive spreadsheets via these applets.
 

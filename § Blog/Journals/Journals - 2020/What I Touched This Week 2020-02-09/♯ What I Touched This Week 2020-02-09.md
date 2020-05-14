@@ -10,9 +10,9 @@ series:
 
 
 # My Posts
--   [How to Download Only Gmail Inbox -- ~iany/blog](https://blog.iany.me/2020/02/download-only-gmail-inbox/)
+-   [How to Download Only Gmail Inbox -- ~iany/blog](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2002%20-%20Download%20Only%20Gmail%20Inbox/♯%20Download%20Only%20Gmail%20Inbox.md)
 -   [The Brief Guide to Remote Work](https://gist.github.com/doitian/d11dab0b5afe385d8bca3c74a353c622)
--   [Vim iTerm Launcher -- ~iany/blog](https://blog.iany.me/2020/02/vim-iterm-launcher/)
+-   [Vim iTerm Launcher -- ~iany/blog](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2002%20-%20Vim%20iTerm%20Launcher/♯%20Vim%20iTerm%20Launcher.md)
 
 # Zero Knowledge Proof
 -   [Zero-Knowledge Proofs: A Layman's Introduction - Aventus Network](https://blog.aventus.io/zero-knowledge-proofs-a-laymans-introduction-7020b93beeda)

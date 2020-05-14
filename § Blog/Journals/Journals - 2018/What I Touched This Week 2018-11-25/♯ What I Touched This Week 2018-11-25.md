@@ -22,7 +22,7 @@ series:
 
 ## Read Papers
 
-- [Weekly Paper: 1945 - Hayek - The Use of Knowledge in Society](https://blog.iany.me/2018/11/weekly-paper-hayek-the-use-of-knowledge-in-society/)
+- [Weekly Paper: 1945 - Hayek - The Use of Knowledge in Society](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202018/1811%20-%20Weekly%20Paper%20Hayek%20The%20Use%20Of%20Knowledge%20In%20Society/♯%20Weekly%20Paper%20Hayek%20The%20Use%20Of%20Knowledge%20In%20Society.md)
 
 ## Other Readings
 
