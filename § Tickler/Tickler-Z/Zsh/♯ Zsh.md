@@ -1,5 +1,5 @@
 # Zsh
 
-#zsh
+#zsh #commandLine
 
 /Zsh Extended Glob.md

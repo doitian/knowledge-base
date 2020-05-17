@@ -1,5 +1,5 @@
 # Lightroom Library
 
-#softwareUsage
+#softwareUsage #photography
 
 /Lightroom Filename Template.md

@@ -1,5 +1,7 @@
 # SOLID Design Principles
 
+#softwareDesign #architecture
+
 [※ source](https://adevait.com/software/solid-design-principles-the-guide-to-becoming-better-developers)
 
 * Single Responsibility Principle
