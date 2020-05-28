@@ -1,0 +1,22 @@
+#!/bin/bash
+
+year="$(date "+%Y")"
+yy="$(date "+%y")"
+date="$(date "+%Y-%m-%d")"
+dir="§ Blog/Journals/Journals - $year/What I Touched This Week $date"
+mkdir -p "$dir"
+
+if ! [ -f "$dir/♯ What I Touched This Week $date.md" ]; then
+  (
+    echo '---'
+    echo "date: $date"
+    echo "description: My weekly review report."
+    echo "series:"
+    echo "- What I Touched"
+    echo '---'
+    echo
+    echo "# What I Touched This Week $date"
+  ) > "$dir/♯ What I Touched This Week $date.md"
+fi
+
+${EDITOR:-vim} "$dir/♯ What I Touched This Week $date.md"

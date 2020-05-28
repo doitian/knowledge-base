@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if (( $# == 0 )); then
+  echo -n 'title: '
+  read TITLE
+else
+  TITLE="$*"
+fi
+
+tickler="§ Tickler/Tickler-$(echo "${TITLE::1}" | tr a-z A-Z | tr -C 'A-Z\n' '_')"
+
+mkdir -p "$tickler/$TITLE"
+dir="$tickler/$TITLE"
+
+if ! [ -f "$dir/♯ $TITLE.md" ]; then
+  echo "# $TITLE" > "$dir/♯ $TITLE.md"
+fi
+
+${EDITOR:-vim} "$dir/♯ $TITLE.md"

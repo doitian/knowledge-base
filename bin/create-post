@@ -1,0 +1,27 @@
+#!/bin/bash
+
+if (( $# == 0 )); then
+  echo -n 'title: '
+  read TITLE
+else
+  TITLE="$*"
+fi
+
+year="$(date "+%Y")"
+yy="$(date "+%y")"
+mon="$(date "+%m")"
+dir="§ Blog/Posts/Posts - $year/$yy$mon - $TITLE"
+mkdir -p "$dir"
+
+if ! [ -f "$dir/♯ $TITLE.md" ]; then
+  (
+    echo '---'
+    echo "date: '$(date +"%FT%T%z")'"
+    echo "draft: true"
+    echo '---'
+    echo
+    echo "# $TITLE"
+  ) > "$dir/♯ $TITLE.md"
+fi
+
+${EDITOR:-vim} "$dir/♯ $TITLE.md"
