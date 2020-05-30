@@ -1,4 +1,4 @@
-Remove Duplicated Lines
+⚡ Remove Duplicated Lines
 
 ```
 :sort u
