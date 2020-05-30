@@ -1,6 +1,6 @@
 # GPG
 
-#softwareUsage
+#softwareUsage #security
 
 ## Tips
 
