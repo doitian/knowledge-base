@@ -9,3 +9,5 @@
 /Vim Tips/Vim, Fix Visual Highlight.md
 
 /Vim Tips/Vim, Removing Duplicated Lines.md
+
+/Vim Tips/Vim, Terminal.md
