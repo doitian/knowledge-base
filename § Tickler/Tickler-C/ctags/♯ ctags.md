@@ -7,7 +7,7 @@
 ```
   --langdef=markdown \
   --langmap=markdown:.md \
-  --regex-markdown='/^# ([a-zA-Z0-9]+)/\1/' \
+  --regex-markdown='/^# ([a-zA-Z0-9]+)/\1/h,heading,headings/' \
 ```
 
 ⚡ Ansible
