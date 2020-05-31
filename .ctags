@@ -1,3 +1,4 @@
 --langdef=markdown
 --langmap=markdown:.md
 --regex-markdown=/(^|\s)#([[:alnum:]]+)/\2/t,tags/
+--languages=markdown
