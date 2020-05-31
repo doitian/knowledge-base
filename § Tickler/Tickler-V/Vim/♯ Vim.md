@@ -4,6 +4,11 @@
 
 ## Tips
 
+⚡ [Making a list of numbers](https://vim.fandom.com/wiki/Making_a_list_of_numbers)
+
+* `:put =range(11,15)`
+* <kbd>g CTRL-A</kbd>
+
 /Vim Tips/TextExpander in Vim.md
 
 /Vim Tips/Vim, Fix Visual Highlight.md
