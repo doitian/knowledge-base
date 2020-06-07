@@ -16,3 +16,7 @@
 /Vim Tips/Vim, Removing Duplicated Lines.md
 
 /Vim Tips/Vim, Terminal.md
+
+/Vim Tips/Vim, Disable Automatic Newline At End Of File.md
+
+/Vim Tips/Vim, Location List.md
