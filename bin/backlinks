@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import re
+import os
+import sys
+import subprocess
+from urllib.parse import unquote
+from pathlib import Path
+
+def link2path(link):
+    return unquote(link.split('/Locations/iCloud/', 1)[-1])
+
+def path2link(path):
+    return "ia-writer://open?path=/Locations/iCloud/{}".format(path.replace(' ', '%20'))
+
+def title(path):
+    for line in open(path, "r"):
+        if line.startswith('# '):
+            return line[2:].strip()
+    return Path(path).stem.replace('♯ ', '')
+
+link = sys.argv[1]
+print(link)
+
+os.chdir('/Users/ian/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents')
+pattern = '^[^➫]*{}'.format(re.escape(link))
+
+status = subprocess.run(['rg', '-l', '-e', pattern], stdin=subprocess.DEVNULL, capture_output=True, encoding='utf-8')
+files = status.stdout.splitlines()
+
+if len(files) > 0:
+    references = 'reference' if len(files) == 1 else 'references'
+
+    print('## {} linked {} to "{}"\n'.format(
+        len(files), references, title(link2path(link))
+    ))
+
+    for file in files:
+        print('* [➫ {}]({})'.format(title(file), path2link(file)))
+
+else:
+    print("Not references found")
