@@ -67,6 +67,6 @@ Following is a list of other apps I used in Windows:
 
 ## 3 linked references to "My Windows Environment Setup"
 
-* [➫ Windows](ia-writer://open?path=/Locations/iCloud/§%20Tickler\Tickler-W\Windows\♯%20Windows.md)
-* [➫ Vim Setup for Windows](ia-writer://open?path=/Locations/iCloud/§%20Blog\Posts\Posts%20-%202020\2005%20-%20Vim%20Setup%20for%20Windows\♯%20Vim%20Setup%20for%20Windows.md)
-* [➫ What I Touched This Week 2020-05-10](ia-writer://open?path=/Locations/iCloud/§%20Blog\Journals\Journals%20-%202020\What%20I%20Touched%20This%20Week%202020-05-10\♯%20What%20I%20Touched%20This%20Week%202020-05-10.md)
+* [➫ Windows](ia-writer://open?path=/Locations/iCloud/§%20Tickler/Tickler-W/Windows/♯%20Windows.md)
+* [➫ What I Touched This Week 2020-05-10](ia-writer://open?path=/Locations/iCloud/§%20Blog/Journals/Journals%20-%202020/What%20I%20Touched%20This%20Week%202020-05-10/♯%20What%20I%20Touched%20This%20Week%202020-05-10.md)
+* [➫ Vim Setup for Windows](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2005%20-%20Vim%20Setup%20for%20Windows/♯%20Vim%20Setup%20for%20Windows.md)

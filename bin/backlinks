@@ -28,7 +28,7 @@ link = sys.argv[1]
 pattern = '^[^➫]*{}'.format(re.escape(link))
 
 status = subprocess.run(['rg', '-l', '-e', pattern], stdin=subprocess.DEVNULL, capture_output=True, encoding='utf-8')
-files = status.stdout.splitlines()
+files = status.stdout.replace('\\', '/').splitlines()
 
 if len(files) > 0:
     references = 'reference' if len(files) == 1 else 'references'

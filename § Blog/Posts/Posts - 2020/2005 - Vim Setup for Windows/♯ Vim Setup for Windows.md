@@ -64,5 +64,5 @@ hi Cursor guibg=#005f87 guifg=#eeeeee
 
 ## 2 linked references to "Vim Setup for Windows"
 
-* [➫ Windows](ia-writer://open?path=/Locations/iCloud/§%20Tickler\Tickler-W\Windows\♯%20Windows.md)
-* [➫ What I Touched This Week 2020-05-10](ia-writer://open?path=/Locations/iCloud/§%20Blog\Journals\Journals%20-%202020\What%20I%20Touched%20This%20Week%202020-05-10\♯%20What%20I%20Touched%20This%20Week%202020-05-10.md)
+* [➫ Windows](ia-writer://open?path=/Locations/iCloud/§%20Tickler/Tickler-W/Windows/♯%20Windows.md)
+* [➫ What I Touched This Week 2020-05-10](ia-writer://open?path=/Locations/iCloud/§%20Blog/Journals/Journals%20-%202020/What%20I%20Touched%20This%20Week%202020-05-10/♯%20What%20I%20Touched%20This%20Week%202020-05-10.md)
