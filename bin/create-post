@@ -24,4 +24,4 @@ if ! [ -f "$dir/♯ $TITLE.md" ]; then
   ) > "$dir/♯ $TITLE.md"
 fi
 
-${EDITOR:-vim} "$dir/♯ $TITLE.md"
+echo "$dir/♯ $TITLE.md"

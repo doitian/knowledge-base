@@ -19,4 +19,4 @@ if ! [ -f "$dir/♯ What I Touched This Week $date.md" ]; then
   ) > "$dir/♯ What I Touched This Week $date.md"
 fi
 
-${EDITOR:-vim} "$dir/♯ What I Touched This Week $date.md"
+echo "$dir/♯ What I Touched This Week $date.md"

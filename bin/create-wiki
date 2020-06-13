@@ -16,4 +16,4 @@ if ! [ -f "$dir/♯ $TITLE.md" ]; then
   echo "# $TITLE" > "$dir/♯ $TITLE.md"
 fi
 
-${EDITOR:-vim} "$dir/♯ $TITLE.md"
+echo "$dir/♯ $TITLE.md"
