@@ -20,10 +20,11 @@ def title(path):
             return line[2:].strip()
     return Path(path).stem.replace('♯ ', '')
 
-link = sys.argv[1]
-print(link)
+if len(sys.argv) < 2:
+  sys.exit(-1)
 
-os.chdir('/Users/ian/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents')
+link = sys.argv[1]
+
 pattern = '^[^➫]*{}'.format(re.escape(link))
 
 status = subprocess.run(['rg', '-l', '-e', pattern], stdin=subprocess.DEVNULL, capture_output=True, encoding='utf-8')

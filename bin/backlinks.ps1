@@ -1,1 +1,1 @@
-python bin/backlinks
+python bin/backlinks @Args
