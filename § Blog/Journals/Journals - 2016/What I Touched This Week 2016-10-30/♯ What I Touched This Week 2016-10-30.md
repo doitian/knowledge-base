@@ -34,7 +34,6 @@ This week I work on [terraform-provider-ucloud][1], which already has implemente
 * [You don’t need more than one cursor in vim – Medium][10] Use `cgn` and `.` to replace is handy.
 * [使用 Alfred 提高你的工作效率 | Matrix 精选 - 少数派][11]
 * [vitorgalvao][12] has shared [many useful Alfred workflows][13]. He is also a top contributor in [Packal][14].
-* [在服务器上快速使用 Shadowsocks 搭建一个代理 – Medium][15] Use polipo converting Shadowsocks proxy to HTTP proxy.
 
 ## Misc
 
@@ -68,7 +67,6 @@ This week I work on [terraform-provider-ucloud][1], which already has implemente
 [12]:   https://github.com/vitorgalvao
 [13]:   https://github.com/vitorgalvao/alfred-workflows
 [14]:   http://www.packal.org/
-[15]:   https://medium.com/@doitian/%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8-shadowsocks-%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%90%86-94b7fbf7f712#.l090q8e57
 [16]:   http://insights.thoughtworkers.org/how-to-study-without-teacher/
 [17]:   http://insights.thoughtworkers.org/obsession-og-technology/?utm_source=external-newsletter&mkt_tok=eyJpIjoiTmpJeU1qUmhPVGhoWkRVNCIsInQiOiI2Z2hydkM4dWdXVzB0ZWxcLytlOG9ubldmOUNnRk9tMWFQR09oaVYwSVJVWTNcL3pyaE1PZTFheWJhQVZZcGdPSUh4U25lYWNzWHhDZDdvT0lKdXdlemRRNjkrR21xRW5Rc3RHc2FpcE02Sm1rPSJ9
 [18]:   https://rainsoft.io/the-path-of-software-development-craftsmanship/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website
