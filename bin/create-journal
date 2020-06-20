@@ -1,22 +1,32 @@
-#!/bin/bash
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-year="$(date "+%Y")"
-yy="$(date "+%y")"
-date="$(date "+%Y-%m-%d")"
+import os
+import sys
+import datetime
+from pathlib import Path
+
+
+now  = datetime.datetime.now(datetime.timezone.utc).astimezone()
+year = now.year
+yy   = now.strftime('%y')
+date = now.strftime('%Y-%m-%d')
 dir="§ Blog/Journals/Journals - $year/What I Touched This Week $date"
-mkdir -p "$dir"
+dir  = Path("§ Blog") / "Journals" / f"Journals - {year}" / f"What I Touched This Week {date}"
+file = dir / f"♯ What I Touched This Week {date}.md"
 
-if ! [ -f "$dir/♯ What I Touched This Week $date.md" ]; then
-  (
-    echo '---'
-    echo "date: $date"
-    echo "description: My weekly review report."
-    echo "series:"
-    echo "- What I Touched"
-    echo '---'
-    echo
-    echo "# What I Touched This Week $date"
-  ) > "$dir/♯ What I Touched This Week $date.md"
-fi
+os.makedirs(dir, exist_ok=True)
 
-echo "$dir/♯ What I Touched This Week $date.md"
+if not file.exists():
+  with open(file, 'w') as fout:
+    fout.write(f"""---
+date: {date}
+description: My weekly review report.
+series:
+- What I Touched
+---
+
+# What I Touched This Week {date}
+""")
+
+print(file)

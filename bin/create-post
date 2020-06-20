@@ -1,27 +1,35 @@
-#!/bin/bash
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-if (( $# == 0 )); then
-  echo -n 'title: '
-  read TITLE
-else
-  TITLE="$*"
-fi
+import os
+import sys
+import datetime
+from pathlib import Path
 
-year="$(date "+%Y")"
-yy="$(date "+%y")"
-mon="$(date "+%m")"
-dir="§ Blog/Posts/Posts - $year/$yy$mon - $TITLE"
-mkdir -p "$dir"
 
-if ! [ -f "$dir/♯ $TITLE.md" ]; then
-  (
-    echo '---'
-    echo "date: '$(date +"%FT%T%z")'"
-    echo "draft: true"
-    echo '---'
-    echo
-    echo "# $TITLE"
-  ) > "$dir/♯ $TITLE.md"
-fi
+if len(sys.argv) == 1:
+  title = input('title: ')
+else:
+  title = ' '.join(sys.argv[1:])
 
-echo "$dir/♯ $TITLE.md"
+
+now  = datetime.datetime.now(datetime.timezone.utc).astimezone()
+year = now.year
+yy   = now.strftime('%y')
+mon  = now.strftime('%m')
+dir  = Path("§ Blog") / "Posts" / f"Posts - {year}" / f"{yy}{mon} - {title}"
+file = dir / f"♯ {title}.md"
+
+os.makedirs(dir, exist_ok=True)
+
+if not file.exists():
+  with open(file, 'w') as fout:
+    fout.write(f"""---
+date: '{now.strftime("%FT%T%z")}'
+draft: true
+---
+
+# {title}
+""")
+
+print(file)

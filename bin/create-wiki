@@ -1,19 +1,28 @@
-#!/bin/bash
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-if (( $# == 0 )); then
-  echo -n 'title: '
-  read TITLE
-else
-  TITLE="$*"
-fi
+import os
+import sys
+from pathlib import Path
 
-tickler="§ Tickler/Tickler-$(echo "${TITLE::1}" | tr a-z A-Z | tr -C 'A-Z\n' '_')"
+if len(sys.argv) == 1:
+  title = input('title: ')
+else:
+  title = ' '.join(sys.argv[1:])
 
-mkdir -p "$tickler/$TITLE"
-dir="$tickler/$TITLE"
+initial = title[0].upper()
+if ord(initial) < ord('A') or ord(initial) > ord('Z'):
+  initial = '_'
 
-if ! [ -f "$dir/♯ $TITLE.md" ]; then
-  echo "# $TITLE" > "$dir/♯ $TITLE.md"
-fi
+tickler = Path("§ Tickler") / f"Tickler-{initial}"
+dir = tickler / title
+file = dir / f"♯ {title}.md"
 
-echo "$dir/♯ $TITLE.md"
+os.makedirs(dir, exist_ok=True)
+
+if not file.exists():
+  with open(file, 'w') as fout:
+    fout.write(f"""# {title}
+""")
+
+print(file)
