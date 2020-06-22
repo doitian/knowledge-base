@@ -5,14 +5,18 @@ import re
 import os
 import sys
 import subprocess
+import shutil
 from urllib.parse import unquote
 from pathlib import Path
+
 
 def link2path(link):
     return unquote(link.split('/Locations/iCloud/', 1)[-1])
 
+
 def path2link(path):
     return "ia-writer://open?path=/Locations/iCloud/{}".format(path.replace(' ', '%20'))
+
 
 def title(path):
     for line in open(path, "r"):
@@ -20,15 +24,34 @@ def title(path):
             return line[2:].strip()
     return Path(path).stem.replace('♯ ', '')
 
+
 if len(sys.argv) < 2:
-  sys.exit(-1)
+    sys.exit(-1)
 
 link = sys.argv[1]
 
 pattern = '^[^➫]*{}'.format(re.escape(link))
 
-status = subprocess.run(['rg', '-l', '-e', pattern], stdin=subprocess.DEVNULL, capture_output=True, encoding='utf-8')
-files = status.stdout.replace('\\', '/').splitlines()
+if shutil.which('rg') is not None or shutil.which('rg.exe') is not None:
+    status = subprocess.run(['rg', '-l', '-e', pattern],
+                            stdin=subprocess.DEVNULL, capture_output=True, encoding='utf-8')
+    files = status.stdout.replace('\\', '/').splitlines()
+else:
+    pattern = re.compile(pattern, re.M)
+    files = []
+    for root, dirs, entries in os.walk(os.getcwd()):
+        if '.git' in dirs:
+            dirs.remove('.git')
+
+        root = Path(root)
+
+        for e in entries:
+            if e.endswith('.md'):
+                with open(root / e) as fin:
+                    for line in fin.readlines():
+                        if pattern.search(line) is not None:
+                            files.append(str(root / e).replace('\\', '/'))
+                            break
 
 if len(files) > 0:
     references = 'reference' if len(files) == 1 else 'references'
