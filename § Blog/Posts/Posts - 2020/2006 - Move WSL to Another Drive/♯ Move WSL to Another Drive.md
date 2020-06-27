@@ -8,7 +8,7 @@ date: '2020-06-26T16:51:34+0800'
 
 Following example moves the Ubuntu distribution to disk `D:\WSL\Ubuntu`.
 
-<--more-->
+<!--more-->
 
 **Step 1**. Install Ubuntu in the store. Launch it to initialize the default instance.
 
