@@ -10,7 +10,7 @@ This post records how I set up Yubico Key in Windows, so I’ll not delve into t
 
 The GPG encryption part is simple, GnuPG just works. Using the stored GPG key for SSH is a bit complex, because it requires collaboration between GnuPG and the SSH client. After experiment many different solutions, I decide to use the simplest one, using putty/plink as the SSH client and enabling thepageant support in GnuPG.
 
-<!—more—>
+<!--more-->
 
 ## Windows
 
