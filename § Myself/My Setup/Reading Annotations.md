@@ -3,10 +3,12 @@
 - ✔️ approved 赞同，信息 green
 - ✖️ rejected 反对 red
 - ❤️ perfect 喜欢 pink
-- ❓  question 疑问，不懂 blue
+- ❓ question 疑问，不懂 blue
 - ❗️ attention 注意 orange
 - ⭐️ Key
-- ◻️ action
+- ◻️ Action
+- 🔺 Caution
+- * Remark
 
 
 - ❝ quote 摘录
