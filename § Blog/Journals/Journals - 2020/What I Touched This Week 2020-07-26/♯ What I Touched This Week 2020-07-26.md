@@ -37,8 +37,6 @@ I'm trying P.A.R.A after reading [P.A.R.A. 是什么及在 Notion 中的应用](
 
 * [风投基金 Dragonfly 给加密世界画了一份创业寻宝图](https://mp.weixin.qq.com/s/cADAgeoADNATY_ixhfB5Ug)
 
-    功能介绍 ChainNews.com 为中国的 FinTech 金融科技菁英与决策者们提供每日不可或缺的新闻、深度分析以及评论。
-
 ┌ Life
 
 * [汉堡王被曝销售过期食品，遇到这种情况你该如何维权？](https://sspai.com/post/61606)
