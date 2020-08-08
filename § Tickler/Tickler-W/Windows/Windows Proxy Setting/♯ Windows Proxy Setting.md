@@ -42,7 +42,7 @@ Some apps depend on `AuthHost`, such as Nebo. I have tried using the package fam
 CheckNetIsolation.exe loopbackexempt -a "-p=S-1-15-2-2750798217-1343590035-1234819260-1030354384-3318145141-3720257911-3461195215"
 ```
 
-The SID is found by searching "AuthHost" inside the registry `HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\CurrentVersion\\AppContainer\\Mappings`.
+The SID is found by searching "AuthHost" inside the registry `HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings`.
 
 See [Web authentication broker - UWP applications](https://docs.microsoft.com/en-us/windows/uwp/security/web-authentication-broker) for details.
 
