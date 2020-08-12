@@ -12,7 +12,7 @@ series:
 
 ## Rust
 
-* [Use Lock Hierarchies to Avoid Deadlock](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2008/0801/071201hs01/071201hs01.html)
+* [Use Lock Hierarchies to Avoid Deadlock](https://herbsutter.com/2007/12/11/effective-concurrency-use-lock-hierarchies-to-avoid-deadlock/)
 * [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
     
     A perspective to explain wrap objects.
