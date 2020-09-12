@@ -28,8 +28,9 @@ ax.set_ylabel('kB')
 ax.axhline(y=300, color="grey", linestyle=":")
 ax.axhline(y=25000, color="green", linestyle="--", label="50 * effective_longterm_median")
 ax.set_yticks([300, 2000, 4000, 8000, 16000, 25000])
+ax.set_ylim(0, 31000)
 
-ax.plot(x, y, label='cumulative_weights_median')
+ax.step(x, y, label='cumulative_weights_median')
 
 # Add a legend
 plt.legend()
