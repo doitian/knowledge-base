@@ -53,7 +53,7 @@ Ethereum
 
 DeFi
 
-* [Scaling DeFi — Layer One](https://blog.0xproject.com/scaling-defi-layer-one-7eeb24aca4f0)
+* [Scaling DeFi — Layer One](https://blog.0xproject.com/scaling-defi-layer-one-7eeb24aca4f0)
 * [Should you use Uniswap v1 or v2?](https://medium.com/coinmonks/should-you-use-uniswap-v1-or-v2-70f8e6cb3c2c)
 * [分叉史罕见案例：为什么YFII能取得成功？](https://mp.weixin.qq.com/s/AruRlEa9m6R7llEs7Jb9mg)
 
