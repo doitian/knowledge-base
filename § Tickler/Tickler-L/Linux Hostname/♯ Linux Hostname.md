@@ -26,8 +26,8 @@ sudo hostname n1
 echo n1 | sudo tee /etc/hostname
 ```
 
-Edit `/etc/hosts`, and add both `n1` and `n1.iany.me` for `127.0.1.1`
+Edit `/etc/hosts`, and add both `n1.iany.me` and `n1` for `127.0.1.1`
 
 ```
-127.0.1.1 n1 n1.iany.me
+127.0.1.1 n1.iany.me n1
 ```
