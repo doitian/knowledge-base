@@ -30,9 +30,9 @@ series:
 
 ## Misc
 
-- [Read Various RSA Keys in Ruby – ~iany/blog](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202017/1711%20-%20Read%20Various%20RSA%20Keys%20In%20Ruby/♯%20Read%20Various%20RSA%20Keys%20In%20Ruby.md)
-- [ZFS 文件恢复 – ~iany 博客](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202017/1711%20-%20ZFS%20File%20Restore/♯%20ZFS%20File%20Restore%20-%20Chinese.md)
-- [个人习惯总结 – ~iany 博客](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202017/1711%20-%20Personal%20Habits%20Summary/♯%20Personal%20Habits%20Summary%20-%20Chinese.md)
+- [Read Various RSA Keys in Ruby – ~iany/blog](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1711%20-%20Read%20Various%20RSA%20Keys%20In%20Ruby/♯%20Read%20Various%20RSA%20Keys%20In%20Ruby.md)
+- [ZFS 文件恢复 – ~iany 博客](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1711%20-%20ZFS%20File%20Restore/♯%20ZFS%20File%20Restore%20-%20Chinese.md)
+- [个人习惯总结 – ~iany 博客](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1711%20-%20Personal%20Habits%20Summary/♯%20Personal%20Habits%20Summary%20-%20Chinese.md)
 - [GoogleCloudPlatform/container-diff: container-diff: Diff your Docker containers](https://github.com/GoogleCloudPlatform/container-diff)
 - [Brightbox Ruby NG : “Brightbox” team](https://launchpad.net/%7Ebrightbox/+archive/ubuntu/ruby-ng/+index?batch=75&memo=75&start=75)
 

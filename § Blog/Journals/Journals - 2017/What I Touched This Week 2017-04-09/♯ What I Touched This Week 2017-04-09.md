@@ -34,7 +34,7 @@ Last week I made a tool to preview Live2D models in batch, and back port TTF out
 [1]: https://github.com/3pjgames/live2dviewer
 [2]: https://github.com/doitian/nfd-unity3d
 [3]: https://github.com/u0u0/Quick-Cocos2dx-Community/pull/76
-[4]: ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202017/1704%20-%20Mindmap%20With%20Image%20As%20Center%20Topic/♯%20Mindmap%20With%20Image%20As%20Center%20Topic%20-%20Chinese.md
+[4]: ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1704%20-%20Mindmap%20With%20Image%20As%20Center%20Topic/♯%20Mindmap%20With%20Image%20As%20Center%20Topic%20-%20Chinese.md
 [5]: https://t.co/FHNUOVHc7C
 [6]: https://git-scm.com/blog/2010/03/08/rerere.html
 [7]: http://nginx.org/en/docs/http/ngx_http_limit_req_module.html

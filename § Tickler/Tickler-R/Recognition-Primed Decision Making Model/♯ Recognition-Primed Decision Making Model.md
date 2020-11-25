@@ -8,4 +8,4 @@
 
 ## 1 linked reference to "Recognition-Primed Decision Making Model"
 
-* [➫ Tacit Knowledge](ia-writer://open?path=/Locations/iCloud//private/var/mobile/Containers/Data/Application/6E23968A-02A1-4B0E-AE45-315F74F1C799/Library/ivim/Openbox/com.terrychou.ivim.mirrormark/2AE76619-D050-4340-95D8-04BEFED86880/knowledge-base/§%20Tickler/Tickler-T/Tacit%20Knowledge/♯%20Tacit%20Knowledge.md)
+* [➫ Tacit Knowledge](ia-writer://open?path=/Locations/_Publish//private/var/mobile/Containers/Data/Application/6E23968A-02A1-4B0E-AE45-315F74F1C799/Library/ivim/Openbox/com.terrychou.ivim.mirrormark/2AE76619-D050-4340-95D8-04BEFED86880/knowledge-base/§%20Tickler/Tickler-T/Tacit%20Knowledge/♯%20Tacit%20Knowledge.md)

@@ -11,9 +11,9 @@ I have re-read [黑客与画家](https://www.goodreads.com/review/show/326225083
 
 I have published:
 
-* [♯ Memory Tracing in Windows](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Memory%20Tracing%20in%20Windows/♯%20Memory%20Tracing%20in%20Windows.md)
-* [♯ Move WSL to Another Drive](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Move%20WSL%20to%20Another%20Drive/♯%20Move%20WSL%20to%20Another%20Drive.md)
-* [♯ Podman on Windows via WSL2](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Podman%20on%20Windows%20via%20WSL2/♯%20Podman%20on%20Windows%20via%20WSL2.md)
+* [♯ Memory Tracing in Windows](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Memory%20Tracing%20in%20Windows/♯%20Memory%20Tracing%20in%20Windows.md)
+* [♯ Move WSL to Another Drive](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Move%20WSL%20to%20Another%20Drive/♯%20Move%20WSL%20to%20Another%20Drive.md)
+* [♯ Podman on Windows via WSL2](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Podman%20on%20Windows%20via%20WSL2/♯%20Podman%20on%20Windows%20via%20WSL2.md)
 
 I have recommended:
 

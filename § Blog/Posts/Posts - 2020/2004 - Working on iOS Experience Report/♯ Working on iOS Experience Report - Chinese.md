@@ -40,7 +40,7 @@ iOS 的 App 生态已经很好了，但是当你把它作为效率工具来看�
 
 比如玄学的杀后台 App。因为重度依赖 Diigo 网页标注，本来打算以 Diigo Browser 作为主力浏览器，但是 Diigo 太容易被杀了。比如我在 Diigo 里打开 devdocs.io，在 iVim 里写代码，然后就这两个 App 互相切换，都经常发现它们后台被杀了，切换过去要重新加载。没有试过 Chrome，但是 Diigo Browser 其实是 Chrome 套壳，应该都会有相应的问题。而对于 iVim，意味着 IAP 中的自动恢复上次编辑会话是个必选功能。
 
-然后是 Files 限制太大，没法自动化。好在找到[方案可以通过 Working Copy 的双向同步功能解决大部分场景](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2004%20-%20Write%20to%20Any%20iOS%20Files%20Location%20via%20Working%20Copy/♯%20Write%20to%20Any%20iOS%20Files%20Location%20via%20Working%20Copy.md)。
+然后是 Files 限制太大，没法自动化。好在找到[方案可以通过 Working Copy 的双向同步功能解决大部分场景](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2004%20-%20Write%20to%20Any%20iOS%20Files%20Location%20via%20Working%20Copy/♯%20Write%20to%20Any%20iOS%20Files%20Location%20via%20Working%20Copy.md)。
 
 ## 我用的一些 Apps
 

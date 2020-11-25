@@ -9,7 +9,7 @@ series:
 
 I did research on Blockchain timestamp and timejacking attack last week.
 
-I have completed the course [Stanford CS166](http://web.stanford.edu/class/cs166/) and shared [my notes](https://www.evernote.com/pub/doitian/cs166datastructures) via Evernote.
+I have completed the course [Stanford CS166](http://web.stanford.edu/class/cs166/) and shared [my notes](https://www.dropbox.com/sh/xztn2u8wq0x1n52/AADHN-itkC2jAEQTvr0e3KwFa?dl=0) via Evernote.
 
 <!--more-->
 

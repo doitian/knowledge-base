@@ -19,7 +19,7 @@ series:
 
 ## Read Papers
 
-- [Weekly Paper: Liberal Radicalism](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202018/1812%20-%20Weekly%20Paper%20Liberal%20Radicalism/♯%20Weekly%20Paper%20Liberal%20Radicalism.md)
+- [Weekly Paper: Liberal Radicalism](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202018/1812%20-%20Weekly%20Paper%20Liberal%20Radicalism/♯%20Weekly%20Paper%20Liberal%20Radicalism.md)
 - Notes on 「[Blockchain Governance: Programming Our Future – Fred
   Ehrsam](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)」
 

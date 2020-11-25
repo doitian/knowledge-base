@@ -7,7 +7,7 @@ series:
 
 # What I Touched This Week 2020-03-29
 
-I have published a post [Fix iOS App Store Family Purchase Sharing](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2003%20-%20Fix%20iOS%20App%20Store%20Family%20Purchase%20Sharing/♯%20Fix%20iOS%20App%20Store%20Family%20Purchase%20Sharing.md) this week.
+I have published a post [Fix iOS App Store Family Purchase Sharing](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2003%20-%20Fix%20iOS%20App%20Store%20Family%20Purchase%20Sharing/♯%20Fix%20iOS%20App%20Store%20Family%20Purchase%20Sharing.md) this week.
 
 This weekend I have participated an internal Hackathon, here is [my project](https://github.com/doitian/animagus-xi).
 

@@ -21,7 +21,7 @@ There are several major issues to use Linux on surface:
 
 * [Using YubiKey Neo as gpg smartcard for SSH authentication - stafwag Blog](https://stafwag.github.io/blog/blog/2015/06/16/using-yubikey-neo-as-gpg-smartcard-for-ssh-authentication/)
 
-    This article helped me setting up the Yubico key in Fedora. [→ Wiki](ia-writer://open?path=/Locations/iCloud/§%20Tickler/Tickler-F/Fedora/Fedora%20Yubico/♯%20Fedora%20Yubico.md)
+    This article helped me setting up the Yubico key in Fedora. [→ Wiki](ia-writer://open?path=/Locations/_Publish/§%20Tickler/Tickler-F/Fedora/Fedora%20Yubico/♯%20Fedora%20Yubico.md)
 
 * [gnupg-agent: gpg agent refusing ssh agent work - Debian Bug report logs](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=835394)
 

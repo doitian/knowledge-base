@@ -9,7 +9,7 @@ series:
 
 I have been reading the book *Zero to Monero: Second Edition*.
 
-* [♯ Monero Dynamic Block Weight](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2009%20-%20Monero%20Dynamic%20Block%20Weight/♯%20Monero%20Dynamic%20Block%20Weight.md)
+* [♯ Monero Dynamic Block Weight](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2009%20-%20Monero%20Dynamic%20Block%20Weight/♯%20Monero%20Dynamic%20Block%20Weight.md)
 * [An index that links transaction fields with the related chapters in Zero to Monero: Second Version](https://www.xmind.net/m/dtiuxs/)
 
 I started to study TLA+ from the last week.

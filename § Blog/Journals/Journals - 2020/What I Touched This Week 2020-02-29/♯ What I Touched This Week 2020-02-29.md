@@ -10,7 +10,7 @@ series:
 
 In the last week, I have posted 2 articles and recommended two web pages.
 
-* [Excel as Diagram Maker](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2002%20-%20Excel%20as%20Diagram%20Maker/♯%20Excel%20as%20Diagram%20Maker.md)
+* [Excel as Diagram Maker](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2002%20-%20Excel%20as%20Diagram%20Maker/♯%20Excel%20as%20Diagram%20Maker.md)
 * [Paste Markdown as Code Block in Evernote](https://gist.github.com/9be340cba58cb459ed265f49202a05bf)
 * [Mundo - Visualize your Vim Undo Tree](https://simnalamburt.github.io/vim-mundo/)
     I use Gundo before. This one can search though the changes history.

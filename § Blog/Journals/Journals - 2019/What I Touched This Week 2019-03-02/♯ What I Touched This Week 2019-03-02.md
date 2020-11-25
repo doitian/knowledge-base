@@ -8,7 +8,7 @@ series:
 # What I Touched This Week 2019-03-02
 
 
-* My new post: [Rust Cell and RefCell](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202019/1902%20-%20Rust%20Cell%20And%20Refcell/♯%20Rust%20Cell%20And%20Refcell.md)
+* My new post: [Rust Cell and RefCell](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202019/1902%20-%20Rust%20Cell%20And%20Refcell/♯%20Rust%20Cell%20And%20Refcell.md)
 
 ## Rust
 

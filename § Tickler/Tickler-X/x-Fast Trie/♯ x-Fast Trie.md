@@ -11,5 +11,5 @@ The data structure x-Fast Trie is a binary trie that
 
 References
 
-* 🐘 [x-Fast and y-Fast Tries](https://www.evernote.com/l/AAKmSGi_uJVI26iCuhPNslbu3b-LQKE2tw8)
+* [x-Fast and y-Fast Tries](https://www.dropbox.com/s/0iujgypn9za2pog/CS166%20-%20x-Fast%20and%20y-Fast%20Tries.pdf?dl=0)
 * [CS166: Data Structures](http://web.stanford.edu/class/cs166/)

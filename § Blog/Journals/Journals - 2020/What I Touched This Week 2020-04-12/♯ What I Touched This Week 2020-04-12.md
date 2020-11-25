@@ -7,7 +7,7 @@ series:
 
 # What I Touched This Week 2020-04-12
 
-I have published a post about [Rust Pin](ia-writer://open?path=/Locations/iCloud/§%20Blog/Posts/Posts%20-%202020/2004%20-%20Rust%20Pin/♯%20Rust%20Pin.md).
+I have published a post about [Rust Pin](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2004%20-%20Rust%20Pin/♯%20Rust%20Pin.md).
 
 <!--more-->
 
