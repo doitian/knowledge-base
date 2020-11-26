@@ -19,25 +19,25 @@ The trick uses two features of Working Copy:
 
 The shortcut allows writing file into any path in a repository, and the synchronized repository synchronizes changes back to the target iOS Files location.
 
-/write-to-files-via-working-copy.png "Write to Files via Working Copy"
+![[write-to-files-via-working-copy.png|Write to Files via Working Copy]]
 
 In the following I'll show how to create a shortcut which saves files into an iCloud folder and sorts them into sub-directories by date.
 
 First create the target directory and set up the synchronized repository. I use `Desktop/Inbox`.
 
-/set-up-sync-repo-in-working-copy.jpg "Set Up Sync Repo in Working Copy"
+![[set-up-sync-repo-in-working-copy.jpg|Set Up Sync Repo in Working Copy]]
 
 Then create the shortcut. It accepts the file from Share Sheet and saves it into the synchronized repository sorted by date. It is important to check the option "Create" in the *Write Repository File* step.
 
-/shortcut-save-files-by-date.jpg "Shortcut: Save Files by Date"
+![[shortcut-save-files-by-date.jpg|Shortcut: Save Files by Date]]
 
 Now give it a try. Share a text file using the new created action.
 
-/test-shortcut.jpg "Test Shortcut"
+![[test-shortcut.jpg|Test Shortcut]]
 
 And the file appears in the `Desktop/Inbox`.
 
-/file-sorted-into-inbox.jpg "File Sorted into Inbox"
+![[file-sorted-into-inbox.jpg|File Sorted into Inbox]]
 
 ---
 

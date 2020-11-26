@@ -7,7 +7,7 @@ share: true
 title: 使用 Nginx 作 UDP 负载均衡
 ---
 
-# Nginx Udp Load Balance
+# 使用 Nginx 作 UDP 负载均衡
 
 #nginx
 

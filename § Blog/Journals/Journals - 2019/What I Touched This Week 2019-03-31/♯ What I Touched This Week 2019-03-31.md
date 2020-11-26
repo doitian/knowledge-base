@@ -8,7 +8,7 @@ series:
 # What I Touched This Week 2019-03-31
 
 
-* [How to Mock Time in Rust Tests and Cargo Gotchas We Met](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202019/1903%20-%20How%20To%20Mock%20Time%20In%20Rust%20Tests%20And%20Cargo%20Gotchas%20We%20Met/♯%20How%20To%20Mock%20Time%20In%20Rust%20Tests%20And%20Cargo%20Gotchas%20We%20Met.md)
+* [[♯ How To Mock Time In Rust Tests And Cargo Gotchas We Met]]
 * [A curated list of distributed systems research papers initiated via @palvaro](https://twitter.com/palvaro/status/1109257164235763712?s=09)
 
 # Read Papers

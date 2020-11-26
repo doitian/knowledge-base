@@ -14,8 +14,8 @@ title: Use Popup isearch For Yasnippet Prompt
 
 <!--more-->
 
-/choises.png "Popup snapshot: choices"
-/filter_by_keyword.png "Popup snapshot: filter"
+![[choises.png|Popup snapshot: choices]]
+![[filter_by_keyword.png|Popup snapshot: filter]]
 
 The integration is easy. Load `popup.el`, implement one prompt function and
 add it to `yas/prompt-functions`.

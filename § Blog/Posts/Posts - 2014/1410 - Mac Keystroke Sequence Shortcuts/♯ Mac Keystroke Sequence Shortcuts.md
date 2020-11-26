@@ -17,7 +17,7 @@ I switched to a new solution using keystroke sequence shortcuts recently. All my
 
 <!--more-->
 
-/cmd-m-menu.png "The shortcuts menu shows all available commands and the corresponding keyboard binding."
+![[cmd-m-menu.png|The shortcuts menu shows all available commands and the corresponding keyboard binding.]]
 
 ## Disable System Default Shortcut
 
@@ -37,7 +37,7 @@ The first solution is setting the same keyboard shortcut for multiple macros. Ke
 
 Since I want to use modifier, I use another solution: a group with the option “Shows a palette for one action when the hot key xxx is pressed”.
 
-/cmd-m-macro-group.png "Shows a pallete for one action when the hot key xxx is pressed."
+![[cmd-m-macro-group.png|Shows a pallete for one action when the hot key xxx is pressed.]]
 
 It is tricky to display the shortcuts and align them to the right in the menu like in the snapshot. The shortcuts should be added in command name manually and are aligned by inserting tabs and spaces.
 
@@ -47,7 +47,7 @@ Some application provides global shortcuts, but they cannot be used in Keyboard 
 
 For example, I defined the Alfred 2 clipboard manager shortcut to <kbd>Ctrl+Option+Shift+Command+F4</kbd>. I use <kbd>Command+M, Command+V</kbd> (Hold <kbd>Command</kbd>, type <kbd>M</kbd>, then <kbd>V</kbd>, and release <kbd>Command</kbd>) to show it, because I have a macro in the <kbd>Command+M</kbd> group which uses the action “Type a Keystroke”.
 
-/shortcut-forward.png "Send a global shortcut in an application from Keyboard Maestro by sending a keystroke."
+![[shortcut-forward.png|Send a global shortcut in an application from Keyboard Maestro by sending a keystroke.]]
 
 
 [^1]: [http://apple.stackexchange.com/a/73957](http://apple.stackexchange.com/a/73957)

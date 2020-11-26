@@ -22,7 +22,7 @@ series:
 
 - [How to auto scroll textarea in JavaFX](https://stackoverflow.com/a/30264399/667158)
 
-- [Resource Bundle in IntelliJ TornadoFX Gradle Project](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1706%20-%20Resource%20Bundle%20In%20Intellij%20Tornadofx%20Gradle%20Project/♯%20Resource%20Bundle%20In%20Intellij%20Tornadofx%20Gradle%20Project.md)
+- [[♯ Resource Bundle In Intellij Tornadofx Gradle Project]]
 
 <!--more-->
 

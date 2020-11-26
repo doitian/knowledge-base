@@ -168,7 +168,7 @@ If $P\{Y=i\} > 1/n$, we can allocate unused ranges in $(j + n\times P\{Y=j\}, j 
 
 See the figure below, which demonstrates how to generate $Y$ with probability mass function $n = 5$
 
-/alias-method.png "Alias Method"
+![[alias-method.png|Alias Method]]
 
 - $P\{Y=0\} = 0.16$
 - $P\{Y=1\} = 0.1$

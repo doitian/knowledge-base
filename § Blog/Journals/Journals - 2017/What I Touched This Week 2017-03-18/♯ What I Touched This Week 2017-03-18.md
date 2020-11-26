@@ -26,7 +26,7 @@ series:
 
 - Disable keychain access password prompt when use the Mac as CI server.
 
-    /macos-login-keychain-settings.png "macOS login keychain settings"
+    ![[macos-login-keychain-settings.png|macOS login keychain settings]]
 
 - Personal text and file sharing between devices:
     - Use [Telegram][2] to send text and small files.

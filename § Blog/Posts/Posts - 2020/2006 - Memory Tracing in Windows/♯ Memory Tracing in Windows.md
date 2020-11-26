@@ -37,7 +37,7 @@ Now `cargo build --release` will also creates a pdb file, which contains the deb
 
 ## 4. Start Recording
 
-/wpr-start-recording.png
+![[wpr-start-recording.png]]
 
 Start Windows Performance Recorder from Start Menu. Check "Heap usage" and "VirtualAlloc usage" in the resource analysis. Then click the "Start" button.
 
@@ -55,13 +55,13 @@ Open the saved report file in Windows Performance Analyzer.
 
 Expand the Memory in the left side bar and drag "VirtualAlloc Commit LifeTimes" chart to the Analysis tab.
 
-/wpa-analyze-virtualalloc.png
+![[wpa-analyze-virtualalloc.png]]
 
 VirtualAlloc Commit LifeTimes tracking records all the heap memory allocation, when they are allocated and freed. It can help us to find out who has allocated memories but not return them.
 
 First filter the the result to only show the target process. Find the process in the table and apply "Filter to Selection" in the right click context menu.
 
-/wpa-filter-to-selection.png
+![[wpa-filter-to-selection.png]]
 
 The key columns of interest are the following ([source](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/memory-footprint-optimization-exercise-2)):
 
@@ -80,11 +80,11 @@ However, I find out that it is hard to locate the leaf nodes when dragging the C
 
 Sometimes, it is useful to zoom into a specfic time range, such as a memory surge to see the impacting allocations.
 
-/wpa-zoom.png
+![[wpa-zoom.png]]
 
 The Commit Stack does not loads debug symbols by default. First configure the symbols paths to include target process pdb file via menu item "Trace ➤ Configure Symbols Paths".
 
-/wpa-configure-symbols-paths.png
+![[wpa-configure-symbols-paths.png]]
 
 Windows Performance Recorder also automatically saves system libraries debug symbols in a "NGENPDB" directory. Windows Performance Analyzer will automatically add it. But if the recording file is too large, and the computer is not powerful enought, the computer may stuck at loading symbols. If so, uncheck the "NGENPDB" in the symbols paths.
 

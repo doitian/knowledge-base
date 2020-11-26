@@ -2,7 +2,7 @@
 
 #english
 
-[♯ English](ia-writer://open?path=/Locations/_Publish/§%20Tickler/Tickler-E/English/♯%20English.md)
+[[♯ English]]
 
 ## What & How
 

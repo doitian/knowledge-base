@@ -20,7 +20,7 @@ series:
 
 ## Posts
 
-* [Decred Review](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202018/1807%20-%20Decred%20Review/♯%20Decred%20Review.md)
+* [[♯ Decred Review]]
 
 <!--more-->
 

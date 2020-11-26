@@ -2,4 +2,4 @@
 
 #softwareUsage #photography
 
-/Lightroom Filename Template.md
+![[Lightroom Filename Template]]

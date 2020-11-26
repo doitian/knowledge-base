@@ -4,4 +4,4 @@
 
 {{TOC}}
 
-/Retrospective Templates.md
+![[./Retrospective Templates]]

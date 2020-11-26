@@ -12,8 +12,8 @@ I have created a family group using the Apple ID *A*, and the account *B* is a m
 
 To fix it, just ensure every family member has set to share purchase as themselves in the Purchase Sharing setting.
 
-/ensure-correct-purchase-sharing-settings-squashed.png "Ensure Correct Purchase Sharing Settings in the Family Member Accounts"
+![[ensure-correct-purchase-sharing-settings-squashed.png|Ensure Correct Purchase Sharing Settings in the Family Member Accounts]]
 
 In case you don't know how to download the Family Shared Purchase:
 
-/download-ios-app-store-family-purchase-sharings-squashed.png "Download Family Purchase Sharing"
+![[download-ios-app-store-family-purchase-sharings-squashed.png|Download Family Purchase Sharing]]

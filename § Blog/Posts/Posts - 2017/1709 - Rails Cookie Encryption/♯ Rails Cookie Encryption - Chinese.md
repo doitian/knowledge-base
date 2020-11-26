@@ -17,7 +17,7 @@ title: Rails Cookie 如何解密
 
 本文以 Ruby 代码为例说明 Rails 的 Cookie 是如何加密，然后以 Go 为例说明如何解密的。
 
-/rails-cookie-encryption.png "Rails Cookie 加密"
+![[rails-cookie-encryption.png|Rails Cookie 加密]]
 
 <!--more-->
 

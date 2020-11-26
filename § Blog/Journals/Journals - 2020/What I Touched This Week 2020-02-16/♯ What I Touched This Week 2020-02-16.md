@@ -10,7 +10,7 @@ series:
 
 ## Featured
 
--   ✒️ [Bitcoin Core Network Event Loops](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2002%20-%20Bitcoin%20Core%20Network%20Event%20Loops/♯%20Bitcoin%20Core%20Network%20Event%20Loops.md)
+-   ✒️ [[♯ Bitcoin Core Network Event Loops]]
 
     This is a guide about how bitcoin-core handles network messages in the source code.
 

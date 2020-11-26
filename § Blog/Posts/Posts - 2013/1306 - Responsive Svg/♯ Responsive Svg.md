@@ -27,7 +27,7 @@ height 100.
 
 The figure below shows the same SVG in different container sizes: 50x50, 100x50, 100x100, 100x200, 200x200 from left to right.
 
-/same-svg-in-different-containers.png "Same SVG in Different Size Containers"
+![[same-svg-in-different-containers.png|Same SVG in Different Size Containers]]
 
 Attribute [preserveAspectRatio][] controls how SVG is scaled according to parent container. There are many combinations, but the most frequently used are default (when the attribute is not specified, or set to `xMidYMid meet` explicitly) and **none**.
 
@@ -36,7 +36,7 @@ Attribute [preserveAspectRatio][] controls how SVG is scaled according to parent
 
 See the figure similar to the previous one but setting `preserveAspectRatio` to `none`.
 
-/preserveaspectratio-none.png (`preserveAspectRatio="none"`)
+![[preserveaspectratio-none.png|`preserveAspectRatio="none"`]]
 
 ## Responsive SVG
 

@@ -24,7 +24,7 @@ title: Lua C API userdata 和 light userdata
 
 在 Lua C API 中提供了 userdata 和 light userdata 可以让 C 返回一个句柄给 Lua，而 Lua 可以将句柄再通过在 C 中注册的方法传回 C。
 
-/lua-c-api-userdata.png "Lua Userdata"
+![[lua-c-api-userdata.png|Lua Userdata]]
 
 <!--more-->
 

@@ -18,7 +18,7 @@ zstyle ':completion:all-matches:*' old-matches only
 zstyle ':completion:all-matches::::' completer _all_matches
 ```
 
-> UPDATE: The snippet above brings `insert-completions` to zsh. Thanks, Trevor Joynson, who has provided the solution in [comment](#comment-2754013033).
+> UPDATE: The snippet above brings `insert-completions` to zsh. Thanks, Trevor Joynson, who has provided the solution in the comment.
 
 Command `insert-completions` (see [man bash](http://linux.die.net/man/1/bash)) is the
 feature I most miss in bash.

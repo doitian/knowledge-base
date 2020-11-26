@@ -22,22 +22,22 @@ FreeType 本身不光提供的 API 文档，而且还有很丰富的文档说明
 
 Glyph 中可见像素的最小包围框被称作 Bouncing Box (略作 bbox)。Bouncing Box 左上角相对原点会有一个偏移，即 `(horiBearingX, horiBearingY)`。这样导出位图的时候就不用包含空白了。而 `horiAdvance` 则是下一个字符的原点相对该字符的偏移。
 
-/freetype-glyph.png "FreeType Glyph [图片参考来源](https://www.freetype.org/freetype2/docs/glyphs/glyphs-3.html)"
+![[freetype-glyph.png|FreeType Glyph [图片参考来源](https://www.freetype.org/freetype2/docs/glyphs/glyphs-3.html)]]
 
 
 要显示一行文本只需要先确定第一个字符原点的位置，相对这个位置找到 bbox 左上角的点，然后把 Glyph 位图填充在这个位置。再根据 `horiAdvance` 确定下一个字符的原点，重复直到处理完所有字符。
 
-/freetype-glyphs-line.png "Glyphs Line"
+![[freetype-glyphs-line.png|Glyphs Line]]
 
 ## Stroker
 
 要添加描边的话，实际是每个字符用 FreeType 导出了两次位图，一次是字符本体，一次是描边。描边本身的位图是会比本体大的，如下如示。
 
-/freetype-glyph-outline.png "Glyphs 加描边"
+![[freetype-glyph-outline.png|Glyphs 加描边]]
 
 之前的代码比较粗暴地把本体和描边中心对齐，然后也没改位图左上角相对原点的偏移。因为不同的字符描边在各个方向多出的尺寸并不是一致的，放在一起就明显会不齐了。
 
-/freetype-glyph-invalid-position.png "Glyph 没对齐"
+![[freetype-glyph-invalid-position.png|Glyph 没对齐]]
 
 ## 测试代码
 

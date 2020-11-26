@@ -37,7 +37,7 @@ The B buckets are separated by B - 1 upper bounds, which split the fee rate rang
 
 The following is an example of 4 buckets.
 
-/fee-rate-buckets.png "Fee Rate Buckets" fit
+![[fee-rate-buckets.png|Fee Rate Buckets|fit]]
 
 ### Confirmation Fraction
 
@@ -60,7 +60,7 @@ The confirmation fraction is:
 Confirmation Fraction = C / (U + T + F)
 ```
 
-/confirmation-fraction.png "Confirmation Fraction" fit
+![[confirmation-fraction.png|Confirmation Fraction|fit]]
 
 The estimator needs to find the bucket in which confirmation fraction is larger than a specific threshold.
 
@@ -75,11 +75,11 @@ There are two modes to find the optimal bucket which fee rate meets the confirma
 
 Not every bucket has enough data points, Bitcoin will merge consecutive buckets until there are enough transactions, a.k.a, the total number of confirmed transactions are larger than a specific threshold. At the end of the scan, if all the remaining blocks combined have no enough data points, the estimation fails.
 
-/scan-and-merge.png "Buckets Merge" fit
+![[scan-and-merge.png|Buckets Merge|fit]]
 
 If the found best bucket is a merged bucket range, the one containing the transaction with the median fee rate is selected. And the estimated fee rate is the average fee rate of all the confirmed transactions in the bucket.
 
-/median-bucket.png "Median Bucket" fit
+![[median-bucket.png|Median Bucket|fit]]
 
 ## Tracking
 
@@ -109,9 +109,9 @@ Bitcoin uses a data structure to track the number of unconfirmed transactions fo
 
 To avoid moving data around, the first N counters 0 to N-1 are organized as a ring. Assume that the current chain height is H, the transactions added at the height `H - i` belongs to counter r where r is the remainder after dividing `H - i` by N.
 
-/tracking-unconfirmed-transactions.png "Tracking Unconfirmed Transactions" fit
+![[tracking-unconfirmed-transactions.png|Tracking Unconfirmed Transactions|fit]]
 
-/rotating-unconfirmed-transactions-counters.png "Rotating Unconfirmed Transactions" fit
+![[rotating-unconfirmed-transactions-counters.png|Rotating Unconfirmed Transactions|fit]]
 
 The counter N, the last counter, records the number of unconfirmed transactions which lifespan is greater than or equal to N. When a counter in the ring is about to be replaced, the count is added to the counter N.
 
@@ -121,7 +121,7 @@ See `TxConfirmStats::unconfTxs` and `TxConfirmStats::oldUnconfTxs` in the source
 
 There are N / S counters, 0 to N/S-1, for each fee rate bucket to track failed transactions number. The counter i tracks the removed transactions in which lifespan is greater than `i * S + 1`. The counter `ceil(X / S) - 1` gives an approximate answer to *F: Failed and the lifespan is greater than X blocks*.
 
-/tracking-failed-transactions.png "Tracking Failed Transactions" fit
+![[tracking-failed-transactions.png|Tracking Failed Transactions|fit]]
 
 The counters are keeping moving average instead of the total count, which means at the beginning of each new chain height, the old counter decays with a configured percentage `decay` which is less than 1.
 
@@ -129,7 +129,7 @@ The counters are keeping moving average instead of the total count, which means 
 count = count * decay
 ```
 
-/decaying-moving-average.png "Decaying Moving Average" fit
+![[decaying-moving-average.png|Decaying Moving Average|fit]]
 
 See `TxConfirmStats::failAvg` in the source code.
 
@@ -137,7 +137,7 @@ See `TxConfirmStats::failAvg` in the source code.
 
 There are N / S counters, 0 to N/S-1, for each fee rate bucket to track confirmed transactions number. The counter i tracks the confirmed transactions which lifespan is less than or equal to `(i + 1) * S`. The counter `ceil(X / S) - 1` gives an approximate answer to *C: Confirmed and the lifespan is less than or equal to X blocks*
 
-/tracking-confirmed-transactions.png "Tracking Confirmed Transactions" fit
+![[tracking-confirmed-transactions.png|Tracking Confirmed Transactions|fit]]
 
 There are two extra counters, one tracks the total number of confirmed transactions and another tracks the total fee rates of all confirmed transactions. They provide answers to *T: Total number of confirmed transactions*, and *R: Sum of fee rates of all the confirmed transactions*.
 

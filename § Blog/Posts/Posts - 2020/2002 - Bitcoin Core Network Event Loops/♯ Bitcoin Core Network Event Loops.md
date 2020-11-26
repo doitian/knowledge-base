@@ -27,7 +27,7 @@ The [Socket Handler Thread](https://github.com/bitcoin/bitcoin/blob/1bc9988993ee
 
 It loops each connected peer in a round-robin schedule. The handler reads messages from the peer socket into the receiving queue `vProcessMsg`, and sends message in the sending queue `vSendMsg` to peer.
 
-/socket-handler.png "Socket Handler"
+![[socket-handler.png|Socket Handler]]
 
 ### Read from Socket
 
@@ -55,11 +55,11 @@ Then, the thread [sends](https://github.com/bitcoin/bitcoin/blob/1bc9988993ee84b
 
 The behavior of the Message Handler Thread is similar to the Socket Handler Thread. Both loops each connected peer in the round-robin way. And for each peer, they first process incoming messages, and then send outgoing messages. The difference is that Message Handler Thread reads messages from the queue `vProcessMsg` and queues outgoing messages in the queue `vSendMsg`.
 
-/message-handler.png "Message Handler"
+![[message-handler.png|Message Handler]]
 
 The two loops are connected at these two message queues.
 
-/two-loops.png "Two Loops are connected on two queues."
+![[two-loops.png|Two Loops are connected on two queues.]]
 
 ### Process Incoming Messages
 

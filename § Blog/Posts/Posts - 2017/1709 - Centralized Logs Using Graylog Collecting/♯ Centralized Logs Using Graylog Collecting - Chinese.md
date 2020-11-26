@@ -47,11 +47,11 @@ Graylog 集群每个节点有自己独立的 Journal，扩展 Graylog 本身节�
 
 首先要在 Graylog 中通过 `System / Inputs` 创建 input 来接收日志。可以选 Syslog UDP 或者 Syslog TCP，俩者区别不大，TCP 的话 rsyslog 是[能保证日志不会丢失](http://www.rsyslog.com/doc/v8-stable/tutorials/reliable_forwarding.html)，UDP 的话开销相对更小，但是可能丢数据。TCP 的话负载均衡选择也更多，如果不知道用哪个就选 TCP。
 
-/graylog-syslog-tcp-input.png "Create Graylog Syslog TCP Input"
+![[graylog-syslog-tcp-input.png|Create Graylog Syslog TCP Input]]
 
 大部分不需要改，`Global` 的话会在所有 Graylog 节点上启动，Bind address 使用默认的 `0.0.0.0` 这样其它机器才能转发日志过来。Port 需要配置一个大于 1024 的端口。
 
-如果启用了集群，还需要使用负载均衡将 rsyslog 转发的日志分发给 Graylog 节点。如果用 TCP，可以用  HAProxy，很多云服务也提供了现成甚至免费的内网 TCP 负载均衡产品。如果用 UDP，可以参考我之前写的 [使用 Nginx 作 UDP 负载均衡](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1708%20-%20Nginx%20Udp%20Load%20Balance/♯%20Nginx%20Udp%20Load%20Balance%20-%20Chinese.md)。
+如果启用了集群，还需要使用负载均衡将 rsyslog 转发的日志分发给 Graylog 节点。如果用 TCP，可以用  HAProxy，很多云服务也提供了现成甚至免费的内网 TCP 负载均衡产品。如果用 UDP，可以参考我之前写的 [[♯ Nginx Udp Load Balance - Chinese|使用 Nginx 作 UDP 负载均衡]]。
 
 ## 日志发往 rsyslog
 

@@ -50,4 +50,4 @@ Remove the key from `~/.gnupg/private-keys-v1.d/` by keygrip.
 gpg -k --keyid-format long
 ```
 
-/GPG in Linux Server.md
+![[./GPG in Linux Server]]

@@ -22,7 +22,7 @@ In simple words, Pin is a pointer wrapper. When a pointer is trapped inside Pin,
 
 The following diagram has listed what Pin provides and constraints on when we can use those functions.
 
-/Rust Pin.png
+![[Rust Pin.png]]
 
 In Rust, the pointer is indeed the trait `Deref` and `DerefMut`, from which we can get the shared or mut reference.
 

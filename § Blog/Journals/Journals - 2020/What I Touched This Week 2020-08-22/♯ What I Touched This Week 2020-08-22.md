@@ -9,7 +9,7 @@ series:
 
 I have posted:
 
-* [Bitcoin Core Fee Estimate Algorithm](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2008%20-%20Bitcoin%20Core%20Fee%20Estimate%20Algorithm/♯%20Bitcoin%20Core%20Fee%20Estimate%20Algorithm.md), a study on the fee estimate algorithm implemented in Bitcoin Core.
+* [[♯ Bitcoin Core Fee Estimate Algorithm]], a study on the fee estimate algorithm implemented in Bitcoin Core.
 * [Illustration of "Bitcoin - New attack against LN payment atomicity related to Fee Bumping"](https://twitter.com/doitian/status/1295697713179361281)
 
 I have finished three books

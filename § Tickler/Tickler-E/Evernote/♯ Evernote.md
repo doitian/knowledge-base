@@ -4,8 +4,8 @@
 
 ## Tips
 
-/Evernote Advanced Search.md
+![[./Evernote Advanced Search]]
 
-/Evernote Note Links.md
+![[./Evernote Note Links]]
 
-/Evernote Spotlight Index.md
+![[./Evernote Spotlight Index]]

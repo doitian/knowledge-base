@@ -28,6 +28,6 @@ Since Apple Mail does not allow configuring mailboxes for a Google account, I ha
 
 After adding the new account, use local mail boxes in the Mailbox Behaviors settings pane. Leave the Archive mail box remote, since we cannot change it.
 
-/apple-mail-mailboxes-behaviors.png "Apple Mail Mailboxes Behaviors Settings Pane"
+![[apple-mail-mailboxes-behaviors.png|Apple Mail Mailboxes Behaviors Settings Pane]]
 
 Now Apple Mail will only download mails in the inbox. There is one last thing, if I archive a mail in the client, it will be labeled `[Imap]/Archive` in Gmail, you may want to hide it from the label list and message like me in the [labels settings](https://mail.google.com/mail/u/0/#settings/labels).

@@ -2,4 +2,4 @@
 
 #iOS #automation
 
-/Amap iOS URL Schema.md
+![[./Amap iOS URL Schema]]

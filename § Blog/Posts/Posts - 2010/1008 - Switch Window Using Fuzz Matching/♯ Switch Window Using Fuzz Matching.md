@@ -34,7 +34,7 @@ For example, use gpicker to select a number between 1 and 10:
 $ seq -w 1 10 | gpicker -n "\n" -
 ```
 
-/picker_1_to_10.png "Gpicker picks 1 to 10" fit
+![[picker_1_to_10.png|Gpicker picks 1 to 10|fit]]
 
 
 The last dash tells gpicker to read list from standard input, and option "-n"
@@ -106,8 +106,8 @@ are some examples:
 | sys/usrshare   | The terminal I opened visit /usr/share in workspace "1.sys" |
 
 
-/picker-windows-list.png "Windows list"
-/picker-xpdf-ruby.png "Select Ruby document opened in Xpdf"
+![[picker-windows-list.png|Windows list]]
+![[picker-xpdf-ruby.png|Select Ruby document opened in Xpdf]]
 
 Sure, we have to remove "/" from workspace name and window title.
 

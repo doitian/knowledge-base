@@ -2,6 +2,6 @@
 
 #macOS
 
-/MacTex Basic.md
+![[./MacTex Basic]]
 
-/MacTex Uninstallation.md
+![[./MacTex Uninstallation]]

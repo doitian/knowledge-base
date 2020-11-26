@@ -8,8 +8,8 @@ series:
 # What I Touched This Week 2017-10-08
 
 
-- [Graylog 集中日志管理 - 收集日志](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1709%20-%20Centralized%20Logs%20Using%20Graylog%20Collecting/♯%20Centralized%20Logs%20Using%20Graylog%20Collecting%20-%20Chinese.md)
-- [Graylog 集中日志管理 - 日志处理](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1710%20-%20Centralized%20Logs%20Using%20Graylog%20Processing/♯%20Centralized%20Logs%20Using%20Graylog%20Processing%20-%20Chinese.md)
+- [[♯ Centralized Logs Using Graylog Collecting - Chinese|Graylog 集中日志管理 - 收集日志]]
+- [[♯ Centralized Logs Using Graylog Processing - Chinese|Graylog 集中日志管理 - 日志处理]]
 - To make android cmd tools work with Java 9
 
         export JAVA_OPTS="--add-modules=java.se.ee"

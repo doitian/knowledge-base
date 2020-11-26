@@ -8,7 +8,7 @@ series:
 # What I Touched This Week 2018-11-04
 
 
-* [Flatbuffers Compatible Table](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202018/1811%20-%20Flatbuffers%20Compatible%20Table/♯%20Flatbuffers%20Compatible%20Table.md)
+* [[♯ Flatbuffers Compatible Table]]
 * [2018 国内Rust社区调查报告 - 知乎](https://zhuanlan.zhihu.com/p/48236630)
 * [My release checklist for Rust programs - DEV Community](https://dev.to/sharkdp/my-release-checklist-for-rust-programs-1m33)
 * [Is Rust functional?](https://www.fpcomplete.com/blog/2018/10/is-rust-functional)

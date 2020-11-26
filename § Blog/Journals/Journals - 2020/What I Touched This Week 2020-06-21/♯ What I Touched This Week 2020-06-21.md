@@ -9,7 +9,7 @@ series:
 
 I'm recently working in Windows, so I take many notes about setting up the Windows environment.
 
-* [♯ Minimize any window into system tray in Windows](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2006%20-%20Minimize%20any%20window%20into%20system%20tray%20in%20Windows/♯%20Minimize%20any%20window%20into%20system%20tray%20in%20Windows.md)
+* [[♯ Minimize any window into system tray in Windows]]
 * How to open site pinned to taskbar in its own window in Edge?
 
     1. Open `edge://apps`

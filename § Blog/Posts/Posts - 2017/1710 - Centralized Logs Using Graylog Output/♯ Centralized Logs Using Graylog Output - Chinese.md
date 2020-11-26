@@ -29,7 +29,7 @@ Graylog 支持一些简单的统计，如果想做更复杂的统计，推荐使
 
 Index name 根据 Graylog Index Set 中设置的前缀配置。Version 根据安装的 Elastic 版本选择。
 
-/graylog-grafana-data-source.png "Grayfana Data Source"
+![[graylog-grafana-data-source.png|Grayfana Data Source]]
 
 然后创建图标选择 Elastic 的 Data Source 就可以了。
 

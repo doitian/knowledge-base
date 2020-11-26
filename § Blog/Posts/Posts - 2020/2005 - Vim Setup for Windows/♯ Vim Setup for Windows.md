@@ -6,7 +6,7 @@ date: '2020-05-05T10:28:26+0800'
 
 #windows
 
-I used to use Visual Studio Code in Windows as mentioned in a [previous post](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2005%20-%20My%20Windows%20Environment%20Setup/♯%20My%20Windows%20Environment%20Setup.md). But its startup time is terrible on Surface Go, so I decide to give vim another try.
+I used to use Visual Studio Code in Windows as mentioned in a previous post, [[♯ My Windows Environment Setup]]. But its startup time is terrible on Surface Go, so I decide to give vim another try.
 
 <!--more-->
 
@@ -64,5 +64,5 @@ hi Cursor guibg=#005f87 guifg=#eeeeee
 
 ## 2 linked references to "Vim Setup for Windows"
 
-* [➫ Windows](ia-writer://open?path=/Locations/_Publish/§%20Tickler/Tickler-W/Windows/♯%20Windows.md)
-* [➫ What I Touched This Week 2020-05-10](ia-writer://open?path=/Locations/_Publish/§%20Blog/Journals/Journals%20-%202020/What%20I%20Touched%20This%20Week%202020-05-10/♯%20What%20I%20Touched%20This%20Week%202020-05-10.md)
+* ➫ [[♯ Windows]]
+* ➫ [[♯ What I Touched This Week 2020-05-10]]

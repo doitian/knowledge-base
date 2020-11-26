@@ -17,4 +17,4 @@
 * <kbd>⌃⇧␣</kbd>: 手写输入
 * <kbd>⇧⌥L</kbd>: 编码查询
 
-/macOS 简体双拼速记表.png
+![[macOS 简体双拼速记表.png]]

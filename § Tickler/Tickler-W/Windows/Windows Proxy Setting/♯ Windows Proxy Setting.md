@@ -4,7 +4,7 @@
 
 ## System Proxy
 
-/windows-system-proxy.png fit
+![[windows-system-proxy.png||fit]]
 
 ## UWP
 
@@ -60,7 +60,7 @@ git config --global http.proxy http://127.0.0.1:7890
 
 ## Putty And Plink
 
-/putty-proxy.png fit
+![[putty-proxy.png||fit]]
 
 ## Aria2
 

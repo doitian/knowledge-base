@@ -14,7 +14,7 @@ When I implement
 want to split the datetime into date and time parts, so JavaScript date picker
 and time picker can be used. This post introduces two methods I found.
 
-/compound_datetime_input.png "Compound datetime input"
+![[compound_datetime_input.png|Compound datetime input]]
 
 `composed_of` utilizes `assign_multiparameter_attributes` trick like
 `datetime_select`, and `fields_for` mocks an association.

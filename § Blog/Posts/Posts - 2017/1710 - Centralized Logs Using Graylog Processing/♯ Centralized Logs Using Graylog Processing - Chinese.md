@@ -21,7 +21,7 @@ Graylog 中日志搜索的基本单位是 Stream，每个 Stream 可以有自己
 
 下图是日志处理流程图
 
-/graylog-log-processing.png "Graylog 日志处理"
+![[graylog-log-processing.png|Graylog 日志处理]]
 
 后文会分别分享各个步骤需要注意的一些地方。
 

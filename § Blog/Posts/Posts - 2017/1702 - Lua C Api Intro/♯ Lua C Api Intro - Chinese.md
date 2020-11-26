@@ -61,7 +61,7 @@ Lua C API 的核心就是操作栈，所有的操作都是通过栈实现的。�
 
 使用栈要注意，谁负责压入就要负责弹出，很多 Lua C API 出现错误都是栈操作不当引起的。
 
-/lua_stack.png "Lua 栈"
+![[lua_stack.png|Lua 栈]]
 
 查看 C API 的文档重要一部分就是查看其对栈操作的约定。 以设置全局变量的 API `lua_setglobal` 为例
 
@@ -102,7 +102,7 @@ lua_setglobal(L, "g_table");
 
 以最复杂的 `g_table` 为例说明栈的变化。
 
-/lua_setglobal.png "Lua 栈变化示例"
+![[lua_setglobal.png|Lua 栈变化示例]]
 
 ## Function
 
@@ -180,7 +180,7 @@ API `lua_pushcfunction` 的使用本身比较简单，关键是如果实现 C �
 - 把返回的 Lua value 依次压入栈，第一个返回结果最先入栈。
 - 将结果个数作为 C 方法的返回值返回，0 个返回结果就返回 0
 
-/lua_cfunction.png "Lua C 方法"
+![[lua_cfunction.png|Lua C 方法]]
 
 下面是一个用 C 实现的 `string_split` 方法示例，其中 `string_split` 的具体实现可以点击文件名查看完整文件。
 
@@ -235,7 +235,7 @@ API `lua_pushcclosure` 同样将一个 C Function 压入栈，不过可以关联
 
 使用 `lua_upvalueindex` 会返回 upvalue 的 `pseudo-index`。从 1 开始按照入栈顺序编号。通过 `lua_to*` 和 `lua_replace` 就可以读取和修改这些在多次调用间共享的变量了。
 
-/lua_cclosure.png "Lua C 闭包方法"
+![[lua_cclosure.png|Lua C 闭包方法]]
 
 下面是一个用 C 闭包实现的随机数发生器的例子。
 

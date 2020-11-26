@@ -10,7 +10,7 @@ title: CSS Line Wrap Indicator
 
 Many editor can wrap a line that reaches the window width and show an indicator in the margin, for example, Emacs.
 
-/emacs.png "Emacs line wrap with bent arrow in fringe"
+![[emacs.png|Emacs line wrap with bent arrow in fringe]]
 
 I want to add such line wrap indicators to the code block in HTML. It is easy to add indicators as background image in CSS. But the indicators should only be shown when the line is wrapped. And from the figure, the wrap indicator is not displayed on the last line in the right margin, and not on the first line in the left margin. There's a `:first-line` pseudo element selector, there's no `:last-line`. However, it can be achieved by using `:before` and `:after` with position trick.
 

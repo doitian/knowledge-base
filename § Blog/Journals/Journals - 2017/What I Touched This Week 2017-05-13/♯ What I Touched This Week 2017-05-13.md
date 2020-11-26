@@ -8,7 +8,7 @@ series:
 # What I Touched This Week 2017-05-13
 
 
-- [Cocos2D-X TTF 字体排版 – ~iany 博客](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202017/1705%20-%20Cocos2D%20X%20TTF/♯%20Cocos2D%20X%20TTF%20-%20Chinese.md)。如何使用 FreeType 库进行字符排版。
+- [[♯ Cocos2D X TTF - Chinese|Cocos2D-X TTF 字体排版]]，如何使用 FreeType 库进行字符排版。
 - [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html). Check instructions per cycle (IPC) to see whether CPU is stalled
 - [Beware of Transparent Pixels - Adrian Courrèges](http://www.adriancourreges.com/blog/2017/05/09/beware-of-transparent-pixels/). Leaned bilinear filtering and color blending, and usage of premultiplied alpha.
 - [“go build” became very slow after installing a new version of Go](http://stackoverflow.com/a/24341946/667158). It saved me when I found out I have to wait for minutes when running `go run` after several homebrew upgrades. I event spent time to [profiling my app](https://blog.golang.org/profiling-go-programs).

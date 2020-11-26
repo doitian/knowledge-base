@@ -16,7 +16,7 @@ The major reference of this article is chapter 7.3 Money supply in the book *Zer
 
 The current block's `cumulative_weights_median` is the base limit for the next block. The max block weight of the next block is `2 ∗ cumulative_weights_median` and the block reward decays when the block weight is greater than `cumulative_weights_median`.
 
-/block_reward.png "Block Reward decays when the weight is greater than cumulative_weights_median"
+![[block_reward.png|Block Reward decays when the weight is greater than `cumulative_weights_median`]]
 
 The definition of `cumulative_weights_median`  is
 
@@ -45,7 +45,7 @@ If the network runs at full load,  `cumulative_weights_median` doubles every 50 
 
 Pay attention that `cumulative_weights_median` falls immediately when the network load drops. If there are 50 in the last 100 blocks which weight is less than 300kB, `cumulative_weights_median` will become 300kB. Maintaining `cumulative_weights_median` at a value higher than 300kB requires continuous transaction traffic. 
 
-/cumulative_weights_median.png "An example of how cumulative_weights_median changes"
+![[cumulative_weights_median.png|An example of how `cumulative_weights_median` changes]]
 
 ## Long Term Limit
 

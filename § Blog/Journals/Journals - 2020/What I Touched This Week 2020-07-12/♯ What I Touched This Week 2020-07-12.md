@@ -7,7 +7,7 @@ series:
 
 # What I Touched This Week 2020-07-12
 
-I have posted [♯ Yubico for Windows](ia-writer://open?path=/Locations/_Publish/§%20Blog/Posts/Posts%20-%202020/2007%20-%20Yubico%20for%20Windows/♯%20Yubico%20for%20Windows.md).
+I have posted [[♯ Yubico for Windows]].
 
 I have finished the book [Regretting You](https://www.goodreads.com/review/show/3149842860).
 
