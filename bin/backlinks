@@ -10,14 +10,6 @@ from urllib.parse import unquote
 from pathlib import Path
 
 
-def link2path(link):
-    return unquote(link.split('/Locations/iCloud/', 1)[-1])
-
-
-def path2link(path):
-    return "ia-writer://open?path=/Locations/iCloud/{}".format(path.replace(' ', '%20'))
-
-
 def title(path):
     for line in open(path, "r"):
         if line.startswith('# '):
@@ -28,9 +20,13 @@ def title(path):
 if len(sys.argv) < 2:
     sys.exit(-1)
 
-link = sys.argv[1]
+target = Path(sys.argv[1])
+basename = target.name
+if basename.endswith('.md'):
+    basename = basename[:-3]
 
-pattern = '^[^➫]*{}'.format(re.escape(link))
+pattern = r'^[^➫]*\[\[(.*/)?{}(\.md)?(\|.*)?\]\]'.format(
+    re.escape(basename)).replace('\\ ', ' ')
 
 if shutil.which('rg') is not None or shutil.which('rg.exe') is not None:
     status = subprocess.run(['rg', '-l', '-e', pattern],
@@ -57,11 +53,18 @@ if len(files) > 0:
     references = 'reference' if len(files) == 1 else 'references'
 
     print('## {} linked {} to "{}"\n'.format(
-        len(files), references, title(link2path(link))
+        len(files), references, title(target)
     ))
 
     for file in files:
-        print('* [➫ {}]({})'.format(title(file), path2link(file)))
+        basename = file.split('/')[-1]
+        if basename.endswith('.md'):
+            basename = basename[:-3]
+        file_title = title(file)
+        if '♯ ' + file_title == basename:
+          print('* ➫ [[{}]]'.format(basename))
+        else:
+          print('* ➫ [[{}|{}]]'.format(basename, file_title))
 
 else:
     print("Not references found")
