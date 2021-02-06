@@ -66,11 +66,11 @@ I have migrated a Ghost theme to Hugo for my blog.
 -   [Geometric progression - Wikipedia](http://en.wikipedia.org/wiki/Geometric_progression)
     I have to use the formula to find the solution of a quiz in the Game Theory course.
 
-    \\[ \sum _{i=1} ^{n} {ar^{i-1}} = \frac{a(1 - r^n)}{1 - r} \\]
+    $$ \sum _{i=1} ^{n} {ar^{i-1}} = \frac{a(1 - r^n)}{1 - r} $$
 
     When p is between 0 and 1, and the sequence is infinite, the sum is
 
-    \\[ \sum _{i=1} ^{\infty} {ar^{i-1}} = \frac{a}{1 - r} \\]
+    $$ \sum _{i=1} ^{\infty} {ar^{i-1}} = \frac{a}{1 - r} $$
 
 -   [How To Correctly Use AP (and APA) Style Title Case](https://www.bkacontent.com/how-to-correctly-use-apa-style-title-case/)
 

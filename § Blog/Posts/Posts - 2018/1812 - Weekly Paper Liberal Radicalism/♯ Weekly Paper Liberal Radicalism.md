@@ -53,53 +53,53 @@ Given:
 
 We need to find a funding distribution solution $\left\{F^p\right\}^p$ which is a p-dimention vector. $F^p$ is the funds allocated to project $p$. The solution maximize:
 
-\\[
+$$
     \sum _ { p } \left(V _ { i } ^ { p } \left( F ^ { p } \right) - c _ { i } ^ { p }\right)  - t _ { i }
-\\]
+$$
 
 where
 
-\\[
+$$
     \sum _ { i } t _ { i } = \sum _ { p } \left( F ^ { p } - \sum _ { i } c _ { i } ^ { p } \right)
-\\]
+$$
 
 Since V is concave, smooth and increasing, it is easy to find the maximum using the first order derivative, which gives
 
-\\[
+$$
     V ^ { p ^ { \prime } } = 1
-\\]
+$$
 
 ### Capitalism
 
-\\[
+$$
     F ^ { p } = \sum _ { i } c _ { i } ^ { p }
-\\]
+$$
 
 Result
 
-\\[
+$$
     V ^ { p ^ { \prime } } = N
-\\]
+$$
 
 ### 1p1v
 
-\\[
+$$
     N \cdot \operatorname{Median}_{i} V_{i} ^ { p ^ { \prime } } \left( F ^ { P } \right) = 1
-\\]
+$$
 
 The optimal solution requires mean, where median is absolutely different with mean.
 
 ### LR
 
-\\[
+$$
     F ^ { p } = \left( \sum _ { i } \sqrt { c _ { i } ^ { p } } \right) ^ { 2 }
-\\]
+$$
 
 > (We) assume that citizens ignore their impact on the budget and costs imposed by it.  
 
 After incorporating the deficit:
 
-\\[ V ^ { p ^ { \prime } } \approx 1 + \Lambda \\]
+$$ V ^ { p ^ { \prime } } \approx 1 + \Lambda $$
 
 It is assumed that $\Lambda$ is on the order of $1/N$.
 
@@ -109,7 +109,7 @@ It is assumed that $\Lambda$ is on the order of $1/N$.
 
 CLR: linear combine LR and Capitalism until the deficit is under the budget.
 
-\\[ F ^ { p } = \alpha \left( \sum _ { i } \sqrt { c _ { i } ^ { p } } \right) ^ { 2 } + ( 1 - \alpha ) \sum _ { i } c _ { i } ^ { p } \\]
+$$ F ^ { p } = \alpha \left( \sum _ { i } \sqrt { c _ { i } ^ { p } } \right) ^ { 2 } + ( 1 - \alpha ) \sum _ { i } c _ { i } ^ { p } $$
 
 LR allows every project gets the optimal funding by incentivize citizens via the deficit. CLR is more practically, because in real world, there is always a budget.
 
