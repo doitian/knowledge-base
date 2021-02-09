@@ -4,11 +4,11 @@ date: '2020-07-11T16:38:25+0800'
 
 # Yubico for Windows
 
-#windows [[Yubico]]
+#windows #yubikey [[Yubico]]
 
 This post records how I set up Yubico Key in Windows, so I’ll not delve into too much details. I have the model YubiKey 5 NFC. I frequently use 2 GPG keys stored in the key, one for encryption, another for SSH authentication.
 
-The GPG encryption part is simple, GnuPG just works. Using the stored GPG key for SSH is a bit complex, because it requires collaboration between GnuPG and the SSH client. After experiment many different solutions, I decide to use the simplest one, using putty/plink as the SSH client and enabling thepageant support in GnuPG.
+The GPG encryption part is simple, GnuPG just works. Using the stored GPG key for SSH is a bit complex, because it requires collaboration between GnuPG and the SSH client. ~~After experiment many different solutions, I decide to use the simplest one, using putty/plink as the SSH client and enabling thepageant support in GnuPG.~~ See [[♯ SSH Authentication Using a YubiKey on Windows And the OpenSSH Client]] how to use OpenSSH client with YubiKey.
 
 <!--more-->
 
