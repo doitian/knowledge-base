@@ -9,7 +9,7 @@ title: Study on Alias Method
 
 #algorithm #probability
 
-{{TOC}}
+%%TOC%%
 
 [@miloyip](http://twitter.com/miloyip) has published a [post](http://www.cnblogs.com/miloyip/archive/2010/05/27/reply_discrete.html) recently which motioned the Alias Method to generate a discrete random variable in *O(1)*. After some research, I find out that it is a neat and clever algorithm. Following are some notes of my study on it.
 

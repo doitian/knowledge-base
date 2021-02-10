@@ -2,6 +2,6 @@
 
 #management
 
-{{TOC}}
+%%TOC%%
 
 ![[./Retrospective Templates]]

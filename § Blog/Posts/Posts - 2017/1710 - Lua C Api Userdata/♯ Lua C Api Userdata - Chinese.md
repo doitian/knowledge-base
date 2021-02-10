@@ -10,7 +10,7 @@ title: Lua C API userdata 和 light userdata
 
 #lua
 
-{{TOC}}
+%%TOC%%
 
 填半年前挖的坑。分享 Lua C API 中的 userdata 和 light userdata。
 
