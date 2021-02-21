@@ -72,6 +72,8 @@ Each peer acts as a state machine. For some reasons, the state is stored in two 
 
 ### Schedule more Outgoing Messages
 
+^a17745
+
 Besides the queued messages acting as responses to the incoming messages, the Message Handler Thread also [schedules more outgoing messages](https://github.com/bitcoin/bitcoin/blob/1bc9988993ee84bc814e5a7f33cc90f670a19f6a/src/net_processing.cpp#L3561).
 
 There are mainly two kinds of outgoing messages in this step:
