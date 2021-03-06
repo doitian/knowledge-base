@@ -50,9 +50,7 @@ curl -H "Content-Type:application/json" \
   "https://api.github.com/repos/$ORG/$REPO/actions/workflows/$ACTION_ID/dispatches"
 ```
 
-┌ [7 Ways to Support Your Team During the Pandemic](https://blog.doist.com/ask-doist-student-productivity/)
-
-%% [[Highlights of 7 Ways to Support Your Team During the Pandemic  And Any Crisis]] %%
+┌ [Ask Doist: How Can I Stay Productive and Organized as a Student While Maintaining Work-Life Balance](https://blog.doist.com/ask-doist-student-productivity/)
 
 - Focus on the hard things. Get out of the comfort zones.
 - Combine school and relationships by studying together.
