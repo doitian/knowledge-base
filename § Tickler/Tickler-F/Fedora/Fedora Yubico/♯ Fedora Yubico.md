@@ -57,3 +57,26 @@ systemctl enable pcscd
 ```
 gpg-connect-agent updatestartuptty /bye
 ```
+
+Γ Remote Access
+
+```
+# cd /usr/share/polkit-1/rules.d/                                    
+# vi 30_smartcard_access.rules 
+```
+
+```
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.debian.pcsc-lite.access_pcsc" &&
+        subject.user == "staf") {
+            return polkit.Result.YES;
+    }
+});
+
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.debian.pcsc-lite.access_card" &&
+        action.lookup("reader") == 'name_of_reader' &&
+        subject.user == "staf") {
+            return polkit.Result.YES;    }
+});
+```
