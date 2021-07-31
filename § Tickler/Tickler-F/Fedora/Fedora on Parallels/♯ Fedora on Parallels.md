@@ -1,6 +1,6 @@
 # Fedora on Parallels
 
-#linux #macOS
+#linux #macos
 
 ## Apply Patch on Parallels Tools
 

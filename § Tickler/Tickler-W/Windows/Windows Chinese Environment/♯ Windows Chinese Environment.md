@@ -1,6 +1,6 @@
 # Windows Chinese Environment
 
-#windows #Chinese
+#windows #chinese
 
 ## Telegram
 

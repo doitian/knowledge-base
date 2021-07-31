@@ -1,6 +1,6 @@
 # Linux Root Password
 
-#linux #systemAdmin
+#linux #system-admin
 
 ## Fedora
 

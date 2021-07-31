@@ -1,6 +1,6 @@
 # macOS 拼音输入法
 
-#macOS
+#macos
 
 ## 双拼快捷键
 

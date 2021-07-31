@@ -1,6 +1,6 @@
 # Google Sheets
 
-#softwareUsage
+#software-usage
 
 ## Functions
 

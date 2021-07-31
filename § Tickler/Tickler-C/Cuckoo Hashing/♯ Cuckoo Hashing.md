@@ -1,6 +1,6 @@
 # Cuckoo Hashing
 
-#dataStructure
+#data-structure
 
 Cuckoo hashing is a perfect hashing algorithm. It has two tables T1, T2 and uses two different hash functions h1, h2.
 

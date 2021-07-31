@@ -1,6 +1,6 @@
 # FoundationDB Test Technologies
 
-#softwareTest
+#software-test
 
 ## Repeatability
 

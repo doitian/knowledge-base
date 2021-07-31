@@ -1,6 +1,6 @@
 # TextExpander
 
-#softwareUsage
+#software-usage
 
 ## Snippet
 

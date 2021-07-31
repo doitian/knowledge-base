@@ -1,6 +1,6 @@
 # Fusion Tree
 
-#dataStructure
+#data_structure
 
 Fusion is a B-tree that there are at most $w^{1/6}$ keys in a node. These keys can be compressed into a single machine word using approximate Patricia code.
 

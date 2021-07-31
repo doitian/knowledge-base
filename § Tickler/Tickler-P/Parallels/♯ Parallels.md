@@ -1,6 +1,6 @@
 # Parallels
 
-#macOS #virtualMachine
+#macos #virtual-machine
 
 ⚡️ Mount Shared Folders in Linux Guest
 

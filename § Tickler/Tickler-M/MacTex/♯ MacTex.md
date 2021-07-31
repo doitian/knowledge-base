@@ -1,6 +1,6 @@
 # MacTex
 
-#macOS
+#macos
 
 ![[./MacTex Basic]]
 

@@ -11,7 +11,7 @@ title: Vim iTerm Launcher
 
 # Vim iTerm Launcher
 
-#macOS #automation
+#macos #automation
 
 I prefer using Vim in a terminal. I can switch to the shell with <kbd>Ctrl-Z</kbd> and back with `fg`. However it is hard to integrate a terminal command with other GUI tools, such as editing a file in Vim from Finder.
 

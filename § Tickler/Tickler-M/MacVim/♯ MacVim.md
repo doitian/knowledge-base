@@ -1,6 +1,6 @@
 # MacVim
 
-#softwareUsage #macOS
+#software-usage #macos
 
 ┌ Fix python3 support
 

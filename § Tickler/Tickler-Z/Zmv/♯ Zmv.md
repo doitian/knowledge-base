@@ -1,6 +1,6 @@
 # Zmv
 
-#commandLine #zsh
+#command-line #zsh
 
 Zmv is a zsh utility to rename files in batch.
 

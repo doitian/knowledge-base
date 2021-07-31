@@ -5,7 +5,7 @@ feature: big-sur.jpg
 
 # Install macOS Big Sur in 2021
 
-#macOS
+#macos
 
 My MacBook's battery capacity is significantly reduced and it has many weird issues so I decide to do a clean installation of macOS Big Sur. This article is a reference for my own reference in case I need to do it again.
 

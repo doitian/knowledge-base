@@ -1,6 +1,6 @@
 # Sardine Tree
 
-#dataStructure #BTree
+#data-structure #b-tree
 
 Sardine tree is a B-tree which keys are small integers, and all the keys in a node can be packed into a single machine word.
 

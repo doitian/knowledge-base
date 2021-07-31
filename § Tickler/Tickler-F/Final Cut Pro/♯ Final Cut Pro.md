@@ -1,3 +1,3 @@
 # Final Cut Pro
 
-#macOS #videoEditing
+#macos #video-editing

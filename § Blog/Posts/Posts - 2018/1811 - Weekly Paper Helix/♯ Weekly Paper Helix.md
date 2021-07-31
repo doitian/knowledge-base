@@ -11,7 +11,7 @@ title: 'Weekly Paper: Helix'
 
 # Weekly Paper Helix
 
-#consensus #distributedSystem
+#consensus #distributed-system
 
 [Orbs - Read the Helix Consensus Algorithm White Paper](https://orbs.com/helix-consensus-whitepaper/)
 

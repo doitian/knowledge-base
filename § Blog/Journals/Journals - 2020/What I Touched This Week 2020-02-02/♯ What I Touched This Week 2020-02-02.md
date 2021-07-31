@@ -72,7 +72,7 @@ test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 
 -   [武汉封城后，这支上海的队伍进去了！沪首批重症和呼吸科医师已出征，今夜到达](http://wenhui.whb.cn/zhuzhanapp/yiliao/20200123/317060.html?from=timeline&isappinstalled=0)
 
--   Noisy Turtle (@NoisyTurtle2600): Updated Wuhan #2019-nCoV cases compared with other viruses. I managed to find some numbers on MERS, but that disease didn't rapidly rise from 100 like Wuhan, SARS and Swine Flu has. Lower cases and higher fatality rate makes that more like the two Ebola viruses (EVD). [Tweet](https://twitter.com/NoisyTurtle2600/status/1221365780849119233)
+-   Noisy Turtle (@NoisyTurtle2600): Updated Wuhan \#2019-nCoV cases compared with other viruses. I managed to find some numbers on MERS, but that disease didn't rapidly rise from 100 like Wuhan, SARS and Swine Flu has. Lower cases and higher fatality rate makes that more like the two Ebola viruses (EVD). [Tweet](https://twitter.com/NoisyTurtle2600/status/1221365780849119233)
 -   方舟子 (@fangshimin): 《柳叶刀》总编呼吁媒体不要夸大2019新型肺炎的危害，因为根据现在掌握的情况该新型病毒只有中等的传染性和较低的致病性，没必要夸大其词制造恐慌。[Tweet](https://twitter.com/fangshimin/status/1221287783714574336)
 -   Dayomoses (@Dayo_Moses): 没错，不要小看明星后援会的组织能力和能动性，既有经验又有决心，在统筹分配方面有效率多了。[Tweet](https://twitter.com/Dayo_Moses/status/1221696130955612161)
 

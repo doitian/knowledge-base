@@ -6,7 +6,7 @@ title: Bear，接近我心目中完美的笔记应用
 
 # Bear Close To My Perfect Note App
 
-#powerTool #productivity
+#power-tool #productivity
 
 最近已经把 [Bear](http://www.bear-writer.com)  作为自己的主力笔记应用了，之前是同时用 [Day One](http://dayoneapp.com) 和 [Ulysses](https://ulyssesapp.com) 。Ulysses 还会偶尔用到导出和发布到 Medium 的功能，以及 [把富文本或者网页上内容转成 Markdown](https://medium.com/@doitian/convert-web-page-to-markdown-using-ulysses-or-bear-d59546164891?source=user_profile---------1-) ，Day One 基本上不用了。
 

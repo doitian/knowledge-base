@@ -1,6 +1,6 @@
 # Command Line Tips
 
-#commandLine
+#command-line
 
 ⚡ Find dead symbol links
 

@@ -1,6 +1,6 @@
 # SOLID Design Principles
 
-#softwareDesign #architecture
+#software-design #architecture
 
 [※ source](https://adevait.com/software/solid-design-principles-the-guide-to-becoming-better-developers)
 

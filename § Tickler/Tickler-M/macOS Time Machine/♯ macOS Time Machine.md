@@ -1,6 +1,6 @@
 # macOS Time Machine
 
-#macOS
+#macos
 
 ⚡ Test whether a path is excluded
 

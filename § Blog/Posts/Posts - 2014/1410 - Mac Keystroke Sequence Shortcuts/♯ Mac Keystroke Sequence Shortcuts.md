@@ -6,7 +6,7 @@ title: Keystroke Sequence Shortcuts in Mac OS X
 
 # Mac Keystroke Sequence Shortcuts
 
-#macOS #productivity
+#macos #productivity
 
 It is a headache to find an available keyboard shortcuts in Mac OS X.  I used <kbd>Option + Letter</kbd>  and <kbd>Shift + Option + Letter</kbd> before, since they are preserved for inputting special characters. It has some problems:
 

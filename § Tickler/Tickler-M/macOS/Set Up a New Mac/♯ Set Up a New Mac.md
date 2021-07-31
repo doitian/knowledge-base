@@ -1,6 +1,6 @@
 # Set Up a New Mac
 
-#macOS
+#macos
 
 ## Prepare the Setup
 

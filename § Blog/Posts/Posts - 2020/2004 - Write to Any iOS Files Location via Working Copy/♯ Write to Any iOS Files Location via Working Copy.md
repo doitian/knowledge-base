@@ -6,7 +6,7 @@ feature: write-to-files-via-working-copy.png
 
 # Write to Any iOS Files Location via Working Copy
 
-#iOS #automation
+#ios #automation
 
 I use file system to manage my knowledge base. The [repository](https://github.com/doitian/knowledge-base/) has a well defined directory structure. I have a bunch of scripts to help me creating these directories on the laptop. But in iOS, I have to create them manually. Recently, I have found out a way to work around it via Working Copy.
 

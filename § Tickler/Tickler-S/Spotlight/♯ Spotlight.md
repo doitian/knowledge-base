@@ -1,5 +1,5 @@
 # Spotlight
 
-#macOS
+#macos
 
 * <kbd>⌘B</kbd>: Search in Browser

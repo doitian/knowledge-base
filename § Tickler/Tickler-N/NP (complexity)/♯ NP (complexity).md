@@ -1,6 +1,6 @@
 # NP (complexity)
 
-#computerScience
+#computer-science
 
 > NP is the set of decision problems for which the problem instances, where the answer is "yes", have proofs verifiable in polynomial time.
 

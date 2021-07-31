@@ -1,6 +1,6 @@
 # Final Cut Pro Interface
 
-#macOS #videoEditing
+#macos #video-editing
 
 ![[Final Cut Pro Interface.png|Final Cut Pro Interface]]
 

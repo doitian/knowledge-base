@@ -1,6 +1,6 @@
 # Tacit Knowledge
 
-#knowledgeManagement
+#knowledge-management
 
 > Tacit knowledge is "knowledge that cannot be captured through words alone".
 > ― By [Cedric Chin](https://commoncog.com/blog/the-tacit-knowledge-series/)

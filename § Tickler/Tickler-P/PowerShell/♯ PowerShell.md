@@ -1,6 +1,6 @@
 # PowerShell
 
-#windows #commandLine
+#windows #command-line
 
 ⚡ Familiar key bindings
 

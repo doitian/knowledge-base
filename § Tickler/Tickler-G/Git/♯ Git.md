@@ -1,6 +1,6 @@
 # Git
 
-#commandLine
+#command-line
 
 ## Tips
 

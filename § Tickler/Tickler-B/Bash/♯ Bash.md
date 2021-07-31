@@ -1,6 +1,6 @@
 # Bash
 
-#commandLine
+#command-line
 
 ⚡ Shebang
 

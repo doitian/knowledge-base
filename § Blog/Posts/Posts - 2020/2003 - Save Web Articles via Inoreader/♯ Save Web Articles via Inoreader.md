@@ -5,7 +5,7 @@ feature: evernote-saved-articles-squashed.png
 
 # Save Web Articles via Inoreader
 
-#automation #knowledgeManagement
+#automation #knowledge-management
 
 One of my favorite features of [Inoreader](https://www.inoreader.com/) is saving the article to external services, such as Evernote, OneDrive or Google Drive. I can archive the articles I liked for future references.
 

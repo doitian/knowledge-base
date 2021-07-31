@@ -1,6 +1,6 @@
 # Neomutt
 
-#mail #commandLine
+#mail #command-line
 
 ## GPG
 

@@ -1,5 +1,5 @@
 # Lightroom Library
 
-#softwareUsage #photography
+#software-usage #photography
 
 ![[Lightroom Filename Template]]

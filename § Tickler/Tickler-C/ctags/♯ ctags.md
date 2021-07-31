@@ -1,6 +1,6 @@
 # ctags
 
-#commandLine
+#command-line
 
 Ctags will append options listed in `.ctags` file.
 

@@ -1,6 +1,6 @@
 # Vim
 
-#softwareUsage
+#software-usage
 
 ## Tips
 

@@ -5,7 +5,7 @@ description: Tips to get started making diagrams in Excel
 
 # Excel as Diagram Maker
 
-#screencast #powerTool
+#screencast #power-tool
 
 Excel is a full featured vector graphics app. It has bundled many shapes and styles, and even supports anchoring connectors to the shapes. All these features make Excel also a good diagram maker.
 

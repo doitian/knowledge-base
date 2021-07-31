@@ -1,5 +1,5 @@
 # Zsh
 
-#zsh #commandLine
+#zsh #command-line
 
 ![[./Zsh Extended Glob]]

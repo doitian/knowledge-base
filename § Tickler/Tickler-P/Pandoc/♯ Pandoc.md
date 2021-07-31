@@ -1,6 +1,6 @@
 # Pandoc
 
-#commandLine
+#command-line
 
 ┌ Clean Markdown
 

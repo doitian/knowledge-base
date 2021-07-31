@@ -1,6 +1,6 @@
 # iA Writer
 
-#softwareUsage
+#software-usage
 
 ## Keyboard Shortcuts
 

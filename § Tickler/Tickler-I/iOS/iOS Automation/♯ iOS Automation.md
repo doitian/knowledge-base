@@ -1,5 +1,5 @@
 # iOS Automation
 
-#iOS #automation #uriProtocol 
+#ios #automation #uri-protocol 
 
 ![[./Amap iOS URL Schema]]

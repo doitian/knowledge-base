@@ -1,3 +1,3 @@
 # macOS
 
-#macOS
+#macos

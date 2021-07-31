@@ -1,6 +1,6 @@
 # Final Cut Pro Cheatsheet
 
-#macOS #videoEditing
+#macos #video-editing
 
 ## Timeline
 
