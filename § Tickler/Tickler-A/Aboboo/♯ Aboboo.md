@@ -1,6 +1,6 @@
 # Aboboo
 
-#windows #english #software-usage
+#windows #lang/en #software-usage
 
 Aboboo is an English learning tool on Windows.
 

@@ -1,6 +1,6 @@
 # Lexile Measure
 
-#english
+#lang/en
 
 [[♯ English]]
 

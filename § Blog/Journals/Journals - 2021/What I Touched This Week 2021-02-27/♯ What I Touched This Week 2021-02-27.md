@@ -16,7 +16,7 @@ I have read 2 books:
 
 ┌ Extreme Ownership
 
-%% [[Highlights of Extreme Ownership - Shortform]] %%
+%% [[Extreme Ownership - Shortform]] %%
 
 * A leader must take the responsibility of team failures.
 * A leader must help the team to reach high standards.
@@ -24,7 +24,7 @@ I have read 2 books:
 
 ┌ Ikigai
 
-%% [[Highlights of Ikigai The Japanese Secret to a Long and Happy Life - Shortform]] %%
+%% [[Ikigai The Japanese Secret to a Long and Happy Life - Shortform]] %%
 
 Ikigai means having a life purpose.
 
@@ -33,7 +33,7 @@ Ikigai means having a life purpose.
 
 ┌ GNU Parallel
 
-%% [[Highlights of Get More Done at the Linux Command Line With GNU Parallel]] %%
+%% [[Get More Done at the Linux Command Line With GNU Parallel]] %%
 
 [GNU Parallel](https://opensource.com/article/18/5/gnu-parallel) is similar to `xargs` but runs commands in parallel.
 
@@ -58,7 +58,7 @@ curl -H "Content-Type:application/json" \
 
 ┌ [Git - Switching Branches Without Touching the Working Tree](https://stackoverflow.com/questions/6070179/switching-branches-without-touching-the-working-tree)
 
-%% [[Highlights of git - Switching Branches Without Touching the Working Tree]] %%
+%% [[git - Switching Branches Without Touching the Working Tree]] %%
 
 ```
 git symbolic-ref HEAD refs/heads/debug-branch

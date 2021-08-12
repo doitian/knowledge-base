@@ -40,7 +40,7 @@ EXIF，打码，网络浏览痕迹，临时手机号和邮箱
 
 ### [Andrew Ng Advice on Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
 
-%% [[Highlights of Reading Research Papers]] %%
+%% [[Reading Research Papers]] %%
 
 * Compile list of papers and articles.
 * Skip around the list. Read 10% of each paper and choose the ones worth the time to delve into.
@@ -67,13 +67,13 @@ A curated list of papers.
 
 ### [Anti Bloat | Tauri Studio](https://tauri.studio/en/docs/usage/recipes/bundler/anti-bloat/)
 
-%% [[Highlights of Anti Bloat  Tauri Studio]] %%
+%% [[Anti Bloat  Tauri Studio]] %%
 
 Some tips about reducing the size of the Rust executable.
 
 ### [Conway's law - Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
 
-%% [[Highlights of Conways Law - Wikipedia the Free Encyclopedia]] %%
+%% [[Conways Law - Wikipedia, the Free Encyclopedia]] %%
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
 >
@@ -81,7 +81,7 @@ Some tips about reducing the size of the Rust executable.
 
 ### [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 
-%% [[Highlights of Mistakes Ive Made as an Engineering Manager  CSS-Tricks]] %%
+%% [[Mistakes Ive Made as an Engineering Manager  CSS-Tricks]] %%
 
 - Mistake 1: Thinking people give feedback the way they want to receive it
 - Mistake 2: Trying to do everything yourself as a manager is the best way to help
@@ -90,7 +90,7 @@ Some tips about reducing the size of the Rust executable.
 
 ### [People Who Adopt These 5 Verbal Habits in 2021 Have Very High Emotional Intelligence](https://www.inc.com/bill-murphy-jr/people-who-adopt-these-5-verbal-habits-in-2021-have-very-high-emotional-intelligence.html)
 
-%% [[Highlights of People Who Adopt These 5 Verbal Habits in 2021 Have Very High Emotional Intelligence]] %%
+%% [[People Who Adopt These 5 Verbal Habits in 2021 Have Very High Emotional Intelligence]] %%
 
 1. "Tell me more."
 2. "Thanks for your understanding."
@@ -100,7 +100,7 @@ Some tips about reducing the size of the Rust executable.
 
 ### [卡片笔记法、Roam Research 与个人笔记体系的建立——拯救「写过就忘」 - 少数派](https://sspai.com/post/65224)
 
-%% [[Highlights of 卡片笔记法、Roam Research 与个人笔记体系的建立——拯救「写过就忘」 - 少数派]] %%
+%% [[Qia Pian Bi Ji Fa , Roam Research Yu Ge Ren Bi Ji Ti Xi De Jian Li ----Zheng Jiu Xie Guo Jiu Wang   - Shao Shu Pai ]] %%
 
 - 无论是写永久笔记还是瞬时笔记，把句子写得尽量清楚、完整。这样在回顾笔记的时候自己的想法一目了然。
 - 把所有的链接性语句也完整地写下来，这个过程可以更好地帮助自己发现思考中的漏洞，使得笔记内容更加严谨。

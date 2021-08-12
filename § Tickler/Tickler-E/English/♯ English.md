@@ -1,6 +1,6 @@
 # English
 
-#english
+#lang/en
 
 ![[./How to Find Proper English Books to Read]]
 
