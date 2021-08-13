@@ -1,4 +1,0 @@
-# -*- cperl -*-
-@default_files = qw/lead_software_engineer-ian_yang/;
-$pdf_previewer = 'start xpdf';
-$pdflatex = 'pdflatex -shell-escape';

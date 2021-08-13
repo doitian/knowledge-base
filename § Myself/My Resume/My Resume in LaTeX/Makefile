@@ -1,2 +1,0 @@
-all:
-	latexmk -pdf
