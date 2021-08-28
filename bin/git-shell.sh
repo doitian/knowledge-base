@@ -1,2 +1,2 @@
-export GIT_DIR=$HOME/codebase/my/kb.git
+export GIT_DIR=$HOME/codebase/kb.git
 exec $SHELL
