@@ -19,6 +19,7 @@ It’s funny to see those handwriting like italic characters while coding, so I 
 For Visual Studio Code, I use Noctis. But it uses too much italic style, which decreases the readability. Here are my customizations:
 
 ```json
+{
   “editor.tokenColorCustomizations”: {
     “[Noctis]”: {
       “textMateRules”: [
@@ -33,6 +34,8 @@ For Visual Studio Code, I use Noctis. But it uses too much italic style, which d
       ]
     }
   },
+  // ...
+}
 ```
 
 ![[vscode.png|Visual Studio Code|wide]]
@@ -41,13 +44,13 @@ It's handy to inspect the syntax highlight scope under cursor using the command 
 
 In macOS Terminal, I can use the escape code `\e[3m` to enable italic and `\e[23m` to reset.
 
-```
+```bash
 printf “\e[3mitalic\e[23m”
 ```
 
 Or using echo
 
-```
+```bash
 echo “^[[3mitalic^[[23m”
 ```
 
@@ -57,7 +60,7 @@ I switched to [starship] recently, so I don't need to bother setting up the ital
 
 [starship]: https://starship.rs/
 
-```
+```toml
 format = “[$all](italic)”
 
 [directory]
@@ -78,25 +81,25 @@ I changed the nodejs symbol, because Cartograph CF has no the nerd font icons.
 
 I'm a heavy user of tmux, it's tricky to enable italics in tmux. The secret is setting `default-terminal` to tmux.
 
-```
+```bash
 set -g default-terminal “tmux”
 ```
 
 Then set back the terminal to `xterm-256color` via `default-command` because macOS Terminal does not understand what is the *tmux* terminal.
 
-```
+```bash
 set -g default-command “env TERM=xterm-256color zsh”
 ```
 
 I only configure the session name to be italic.
 
-```
+```bash
 set -g status-left “#[fg=white,bg=colour31,nobold,italics] #S ”
 ```
 
 I cannot find a cross-platform way to show italic font in vim, so I manually enable it when I want to see the funny italic characters in the comment:
 
-```
+```vim
 function! s:Italic(enable)
   if a:enable
     hi Comment cterm=italic gui=italic
