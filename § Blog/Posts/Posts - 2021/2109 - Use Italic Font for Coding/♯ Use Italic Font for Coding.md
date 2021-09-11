@@ -7,13 +7,14 @@ feature: cartograph-cf.png
 
 I discovered [Noctis] theme recently and found that the font [Cartograph CF] is really interesting.
 
-[Noctis]: https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
-
-[Cartograph CF]: https://connary.com/[cartograph.html](cartograph.html)
-
 > Cartograph is a handsome monospaced font family featuring lush italics, code-friendly ligatures
 
 It’s funny to see those handwriting like italic characters while coding, so I purchased the font and integrated it into my tools.
+
+<!--more-->
+
+[Noctis]: https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
+[Cartograph CF]: https://connary.com/[cartograph.html](cartograph.html)
 
 For Visual Studio Code, I use Noctis. But it uses too much italic style, which decreases the readability. Here are my customizations:
 
