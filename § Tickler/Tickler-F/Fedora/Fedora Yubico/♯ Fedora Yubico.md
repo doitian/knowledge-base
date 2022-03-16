@@ -6,7 +6,7 @@
 
 Γ Install dependencies
 
-```
+```shell
 sudo dnf install -y ykpers pcsc-tools opensc pcsc-lite
 ```
 
@@ -29,7 +29,7 @@ LABEL="yubico_end"
 
 Reload and check whether it works
 
-```
+```shell
 udevadm control --reload
 udevadm trigger
 ykinfo -v
@@ -47,20 +47,34 @@ enable-ssh-support
 
 Γ Enable and start the service
 
-```
-systemctl start pcscd
-systemctl enable pcscd
+```shell
+sudo systemctl start pcscd
+sudo systemctl enable pcscd
 ```
 
 Γ Troubleshooting
 
-```
+```shell
 gpg-connect-agent updatestartuptty /bye
+```
+
+I also met problem recently that gpg has no permission to access the USB device. I fixed it by disable pcscd,
+
+```shell
+sudo systemctl stop pcscd
+sudo systemctl disable pcscd
+```
+
+and start it manually in the terminal.
+%% [[pcscd troubleshooting]] %%
+
+```shell
+sudo pcscd --foreground --apdu --color | tee pcscd.log
 ```
 
 Γ Remote Access
 
-```
+```shell-session
 # cd /usr/share/polkit-1/rules.d/                                    
 # vi 30_smartcard_access.rules 
 ```
