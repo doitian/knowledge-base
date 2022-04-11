@@ -40,7 +40,7 @@ Userdata 和 light userdata 的区别是 Userdata 通过 Lua API 分配一片内
 
 ## 示例
 
-以下所有示例代码和编译脚本都可以在该 [Git 仓库的 userdata 分支](https://coding.net/u/doitian/p/lua-c-api-intro/git/tree/userdata/)找到。
+以下所有示例代码和编译脚本都可以在该 [Git 仓库的 userdata 分支](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/userdata)找到。
 
 ### Userdata 示例
 
@@ -49,7 +49,7 @@ Userdata 的 API 主要是 `lua_newuserdata` 和 `lua_touserdata`。
 以实现简单的复数为例，创建时调用 `lua_newuserdata` 分配内存并把新的 userdata 压入栈。然后通过返回的内存指针进行初始化。
 
 
-※ [userdata.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/userdata/userdata.c)
+※ [userdata.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/userdata/userdata.c)
 
 ``` c
 struct Complex {
@@ -88,7 +88,7 @@ Light userdata 的 API 主要是 `lua_pushlightuserdata` 和 `lua_touserdata`。
 
 以封装 C FILE API 为例，打开文件时将 `FILE *` 作为 lightuser data 返回。这里因为 `FILE *` 是由 libc 来管理生命周期的，所以不能使用 `lua_newuserdata` 来分配内存再初始化。
 
-※ [light_userdata.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/userdata/light_userdata.c)
+※ [light_userdata.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/userdata/light_userdata.c)
 
 ``` c
 static int file_open(lua_State* L) {

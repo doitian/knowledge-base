@@ -24,7 +24,7 @@ title: Lua C API 简介
 
 先介绍如何在 C 中嵌入 Lua。下面的例子中初始化了 Lua 虚拟机，并执行了一段 Lua 代码。
 
-※ [lua-c-api-template.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/master/lua-c-api-template.c)
+※ [lua-c-api-template.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/userdata/lua-c-api-template.c)
 
 ``` c
 #include <lua.h>
@@ -55,7 +55,7 @@ int main(int argc, char* argv[]) {
 
 上面代码要求使用至少 Lua 5.1，否则 `luaL_newstate` 需要改成 `lua_open`, `luaL_openlibs` 要拆成单独的各个标准库加载方法比如 `luaopen_io`。
 
-编译需要引用 Lua 头文件并链接 Lua 库。本文所有示例和编译脚本都放在 [这个 Git 仓库](https://coding.net/u/doitian/p/lua-c-api-intro/git) 中。
+编译需要引用 Lua 头文件并链接 Lua 库。本文所有示例和编译脚本都放在 [这个 Git 仓库](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files) 中。
 
 Lua C API 的核心就是操作栈，所有的操作都是通过栈实现的。访问栈可以用正数或者负数。每次函数调用会标记当前栈顶的位置，之后压入的元素位置从 1 开始。下面会提到函数的参数会首先压入栈，所以正数 i 引用的栈位置就是第 i 个参数。负数就是从栈顶开始数的位置，-1 就是栈顶元素，-2 就是栈顶下面一个元素，依此类推。
 
@@ -71,7 +71,7 @@ Lua C API 的核心就是操作栈，所有的操作都是通过栈实现的。�
 
 执行该方法需要把全局变量的值压入栈，调用成功后会被自动弹出。下面是使用的例子，注释中是等价的 Lua 代码。完整代码点击文件名查看。
 
-※ [globals.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/master/globals.c)
+※ [globals.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/master/globals.c)
 
 ``` c
 // g_int = 10
@@ -135,7 +135,7 @@ end
 
 下面是 `lua_call` 和 `lua_pcall` 的例子。
 
-※ [call-lua-function.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/master/call-lua-function.c)
+※ [call-lua-function.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/master/call-lua-function.c)
 
 ``` c
 lua_getglobal(L, "identity"); // identity
@@ -184,7 +184,7 @@ API `lua_pushcfunction` 的使用本身比较简单，关键是如果实现 C �
 
 下面是一个用 C 实现的 `string_split` 方法示例，其中 `string_split` 的具体实现可以点击文件名查看完整文件。
 
-※ [cfunction.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/master/cfunction.c)
+※ [cfunction.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/master/cfunction.c)
 
 ``` c
 /***
@@ -239,7 +239,7 @@ API `lua_pushcclosure` 同样将一个 C Function 压入栈，不过可以关联
 
 下面是一个用 C 闭包实现的随机数发生器的例子。
 
-※ [cclosure.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/master/cclosure.c)
+※ [cclosure.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/master/cclosure.c)
 
 ``` c
 // 算法提取自 POSIX.1-2001 rand()实现
@@ -292,7 +292,7 @@ require "cjson.safe"
 
 下面把之前的 `string_split` 变成模块作为示例。这里只贴出了入口方法，完整文件点击文件名查看。其中的 `l_string_split` 就是上面定义的 C Function。注意入口方法必须 export 才能被动态加载，DLL 应该用 `__declspec(dllexport)`，so 应该用 `extern`。下面的例子定义了一个宏 `STRING_SPLIT_EXPORT`
 
-※ [string_split.c](https://coding.net/u/doitian/p/lua-c-api-intro/git/blob/master/csrc/string_split.c)
+※ [string_split.c](https://doitian.coding.net/public/lua-c-api-intro/lua-c-api-intro/git/files/master/csrc/string_split.c)
 
 ``` c
 #ifdef _MSC_VER
