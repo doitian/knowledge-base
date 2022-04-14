@@ -16,7 +16,7 @@ jobs:
     - name: Link Checker
       uses: lycheeverse/lychee-action@master
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GITHUB_TOKEN: ${{secrets.LYCHEE_PAT}}
       with:
         args: '--verbose --exclude-private --exclude-loopback --max-retries 4 --no-progress "**/*.md"'
 
