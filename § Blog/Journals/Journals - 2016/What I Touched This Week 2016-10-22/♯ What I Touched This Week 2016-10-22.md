@@ -58,7 +58,7 @@ series:
 
 [1]:    https://www.terraform.io/docs/plugins/
 [2]:    https://github.com/rakutentech/terraform-provider-vsphere
-[3]:    https://github.com/hashicorp/terraform/tree/master/builtin/providers/aws
+[3]:    https://github.com/hashicorp/terraform-provider-aws
 [4]:    https://github.com/3pjgames/terraform-provider-ucloud
 [5]:    http://blog.codingnow.com/2016/10/gamesync.html
 [6]:    http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html
@@ -75,6 +75,6 @@ series:
 [17]:   http://a-sharper-scaling.com/
 [18]:   http://coala.io/
 [19]:   http://zh.dontstarve.wikia.com/wiki/Don't_Starve_%E4%B8%AD%E6%96%87%E7%B6%AD%E5%9F%BA
-[20]:   http://jmd.im/black.html
+[20]:   https://jmd.im/black
 [21]:   http://mvark.blogspot.jp/2016/10/tips-for-more-effective-white-boarding.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WebDevelopmentTipsTricksTrivia+(Tech+Tips,+Tricks+&+Trivia)
 [22]:   https://github.com/sparanoid/chinese-copywriting-guidelines

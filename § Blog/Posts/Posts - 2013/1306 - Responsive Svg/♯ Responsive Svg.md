@@ -108,7 +108,7 @@ Then set `data-preserveAspectRatio` on any container that needs preserve aspect 
 </div>
 ```
 
-See the demo in this [pen](http://cdpn.io/Dlirz).
+See the demo in this [pen](https://codepen.io/doitian/pen/njmzrR).
 
 ## References
 
@@ -117,4 +117,4 @@ See the demo in this [pen](http://cdpn.io/Dlirz).
 
 [viewBox]: http://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute
 [preserveAspectRatio]: http://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute
-[making-responsive-svg]: http://meloncholy.com/blog/making-responsive-svg-graphs/
+[making-responsive-svg]: https://web.archive.org/web/20171114160758/http://meloncholy.com/blog/making-responsive-svg-graphs/

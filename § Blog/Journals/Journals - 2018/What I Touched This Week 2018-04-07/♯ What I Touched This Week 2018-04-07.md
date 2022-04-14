@@ -50,4 +50,4 @@ series:
 
 * [Surge 傻瓜配置](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/LAZY_RULES/Surge.conf)
 
-* [美股交易选择什么样的券商？史考特、盈透、Firstrade、老虎证券深度对比](https://zhuanlan.zhihu.com/p/25131561)
+* [美股交易选择什么样的券商？史考特、盈透、Firstrade、老虎证券深度对比](https://web.archive.org/web/20200707120422/https://zhuanlan.zhihu.com/p/25131561)

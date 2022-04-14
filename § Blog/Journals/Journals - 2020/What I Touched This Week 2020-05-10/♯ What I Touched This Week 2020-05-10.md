@@ -52,7 +52,6 @@ Some Git repositories contains symbol links, which does not work in Windows, her
 ## Interesting Stuffs
 
 * [@matthen2: a method of drawing infinitely many touching circles](https://twitter.com/matthen2/status/1256824725814120448)
-* [@9GAG: French vs English](https://twitter.com/9GAG/status/1256659974832488448)
 * [RT @lizife: 左图是法新社记者拍的：一种庄严的大片感、空灵的历史感右边是新华社记者拍的，还以为哪个酒店开庆典， 审美没有，连基本的构图水平都差到极点。](https://twitter.com/doitian/status/1258748549858127872)
 * [@KenWong_: 副业](https://twitter.com/KenWong_/status/1257519490868244480)
 

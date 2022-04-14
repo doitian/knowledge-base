@@ -28,7 +28,7 @@ function performMailActionWithMessages(messages) {
 ## Games
 
 - [Flinthook：动静结合的Roguelite佳作 - 知乎专栏](https://zhuanlan.zhihu.com/p/26679861?utm_content=buffer3b0b8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
-- [【敖厂长】让你耳朵怀孕的FC游戏_单机游戏_游戏_哔哩哔哩](http://m.bilibili.com/video/av10310868.html?utm_content=buffer61fdb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). 使用扩展芯片有着出色 8bit 音乐的 FC 游戏。也是款不错的平台游戏，good ending 达成条件有些变态。
+- [【敖厂长】让你耳朵怀孕的FC游戏_单机游戏_游戏_哔哩哔哩](https://www.bilibili.com/video/BV1wx411m7S6/). 使用扩展芯片有着出色 8bit 音乐的 FC 游戏。也是款不错的平台游戏，good ending 达成条件有些变态。
 
 ## Tools
 

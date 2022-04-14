@@ -48,7 +48,7 @@ Repeat following procedure:
 
 Ben Maurer shared several software reliability techniques used in Facebook.
 
-┌ [Writing a Time Series Database from Scratch](https://fabxc.org/tsdb/)
+┌ [Writing a Time Series Database from Scratch](https://web.archive.org/web/20220205173824/https://fabxc.org/tsdb/)
 
 Fabian Reinartz introduced how he designed the V3 storage structure of Prometheus.
 

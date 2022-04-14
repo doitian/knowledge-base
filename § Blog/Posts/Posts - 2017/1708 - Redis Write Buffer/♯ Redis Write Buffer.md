@@ -20,7 +20,7 @@ But if the system bottleneck is in writing, the solution above does not work. Bu
 - Write: Just write into Redis. Notify background worker via message queue to flush the cache into backend storage.
 - The background worker watches message queue, save data and delete from Redis.
 
-The message queue can be implemented using Redis LIST. Official [RPOPLPUSH – Redis](https://redis.io/commands/rpoplpush) command document already described how to implement a reliable queue. The remaining issue is how to safely delete saved data from Redis.
+The message queue can be implemented using Redis LIST. Official [RPOPLPUSH – Redis](https://redis.io/commands/rpoplpush/) command document already described how to implement a reliable queue. The remaining issue is how to safely delete saved data from Redis.
 
 The save step can be split into:
 
@@ -30,9 +30,9 @@ The save step can be split into:
 
 If new change comes between 1 and 3, the change is discarded in step 3. It must be resolved using lock, or transaction.
 
-After research, it is a bit complex to [implement a lock](https://redis.io/topics/distlock). Fortunately, it is easy to use transaction.
+After research, it is a bit complex to [implement a lock](https://redis.io/docs/reference/patterns/distributed-locks/). Fortunately, it is easy to use transaction.
 
-Redis provides `MULTI`  and  `EXEC` to wrap several commands into a transaction. Although it does not support rollback on error, it guarantees that either none of the commands are executed, or all of them have been executed. Command  `WATCH` can monitor the changes on a key. If the key changes after `WATCH` and before executing the transaction, the transaction is cancelled. See details in official document [here](https://redis.io/topics/transactions). So the save step can be implemented in following steps:
+Redis provides `MULTI`  and  `EXEC` to wrap several commands into a transaction. Although it does not support rollback on error, it guarantees that either none of the commands are executed, or all of them have been executed. Command  `WATCH` can monitor the changes on a key. If the key changes after `WATCH` and before executing the transaction, the transaction is cancelled. See details in official document [here](https://redis.io/docs/manual/transactions/). So the save step can be implemented in following steps:
 
 1. `WATCH` the key to flush
 2. Read from Redis.

@@ -8,7 +8,6 @@ series:
 # What I Touched This Week 2017-02-25
 
 
-- [Jukedeck - Create unique, royalty-free soundtracks for your videos.][1]
 - [Enzyme][2] React test.
 - [Design Patterns for Humans™ - An ultra-simplified explanation][3]
 - [RandyGaul/tinyheaders: Collection of one-file C/C++ libraries with no dependencies, primarily used for games][4]
@@ -16,7 +15,6 @@ series:
 - [Favicon & App Icon Generator][6]. Generate HTML meta and convert upload image to various format icons for website.
 - [小丸工具箱][7], Windows 上的视频工具
 
-[1]: https://www.jukedeck.com/?no-redirect=true
 [2]: http://airbnb.io/enzyme/?ref=stackshare
 [3]: https://github.com/kamranahmedse/design-patterns-for-humans
 [4]: https://github.com/RandyGaul/tinyheaders

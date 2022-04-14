@@ -8,11 +8,11 @@ series:
 # What I Touched This Week 2019-06-09
 
 
-* [tokio/azure-pipelines.yml at master · tokio-rs/tokio](https://github.com/tokio-rs/tokio/blob/master/azure-pipelines.yml)
+* [tokio/azure-pipelines.yml at master · tokio-rs/tokio](https://github.com/tokio-rs/tokio/blob/43d69d77e2b01322a5d2a378be02108e302d1bbf/azure-pipelines.yml)
 
     A template to setup Rust project in Azure Pipelines
 
-* [Windows Image Installers](https://github.com/microsoft/azure-pipelines-image-generation/tree/master/images/win/scripts/Installers)
+* [Windows Image Installers](https://github.com/actions/virtual-environments/tree/main/images/win/scripts/Installers)
 
     Scripts may be useful later to setup Windows environment.
 

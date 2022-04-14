@@ -5,7 +5,7 @@ tags: [ async-programming ]
 
 # Blocking Stdout
 
-When I first read Stjepan's article [Blocking inside async code](https://stjepang.github.io/2019/12/04/blocking-inside-async-code.html), I never though I will met the problem mentioned in the post.
+When I first read Stjepan's article [Blocking inside async code](https://web.archive.org/web/20200815123809/https://stjepang.github.io/2019/12/04/blocking-inside-async-code.html), I never though I will met the problem mentioned in the post.
 
 <!--more-->
 

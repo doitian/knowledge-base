@@ -79,7 +79,6 @@ I have finished the book [白鹿原](https://www.goodreads.com/review/show/31705
 
 ## Bookmarks
 
-* [Quickref](https://quickref.dev), a search engine for developers
 * [Kami](https://www.kamiapp.com), a PDF annotation tool in Chrome
 * [Google - Site Reliability Engineering](https://landing.google.com/sre/books/)
 * [Basic Knowledge 101](http://www.basicknowledge101.com/index.html), a knowledge base

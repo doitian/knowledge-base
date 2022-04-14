@@ -12,7 +12,7 @@ series:
 
     > The kitchen is clean when there is no dirt in the oven. But if its electric panel speaks French, I can’t use the kitchen. Even if it’s perfectly clean. It’s not clear how to use it—that’s why it’s useless.
 
-* [Resistant protocols: How decentralization evolves – John Backus – Medium](https://medium.com/@jbackus/resistant-protocols-how-decentralization-evolves-2f9538832ada)
+* [Resistant protocols: How decentralization evolves – John Backus – Medium](https://www.gwern.net/docs/technology/2018-07-25-johnbackus-howdecentralizationevolves.html)
 
     Introduce the history of how file sharing protocols evolved.
 

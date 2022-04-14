@@ -30,7 +30,7 @@ series:
 
     Generate API Doc from comments.
 
-- [NATS Documentation](https://nats.io/documentation/)
+- [NATS Documentation](https://docs.nats.io/)
 
     Message Queue using Golang.
 

@@ -59,7 +59,7 @@ I have migrated a Ghost theme to Hugo for my blog.
     The 4 L's exercise is designed for YOU as a LEADER or ROLE MODEL. How do you be the best version of YOU. Start by doing it for yourself first and then do it as a team.
 -   [5 fun sprint retrospective ideas with templates - Work Life by Atlassian](https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates)
 -   [Waveform – FFmpeg](https://trac.ffmpeg.org/wiki/Waveform)
-    -   [A list of examples on how you can use filters to make visual representations of audio using ffmpeg](https://gist.github.com/seyoum/4455e9bed74241bfbd640a8083fd38b3)
+    -   [A list of examples on how you can use filters to make visual representations of audio using ffmpeg](https://gist.github.com/CannonballSkippy/4455e9bed74241bfbd640a8083fd38b3)
 -   [Using Filename Template Editor in Lightroom](https://photographylife.com/using-filename-template-editor-in-lightroom)
     Difference between Sequence \# and Image \#
 -   [OpenPGP - The almost perfect key pair | Blog Eleven Labs](https://blog.eleven-labs.com/en/openpgp-almost-perfect-key-pair-part-1/)

@@ -25,8 +25,8 @@ series:
 - [Simple calculation to render cheap water effects.][10] An example to study shader.
 - [Ant Design of React][11]. A React component library.
 
-[1]: https://www.zhihu.com/question/22696632/answer/162234202 "编辑于 12:42"
-[2]: http://guoqiao.me/post/2015/1212-pip-install-offline-via-wheels
+[1]: https://www.zhihu.com/question/22696632/answer/162234202
+[2]: https://web.archive.org/web/20170609192231/http://guoqiao.me/post/2015/1212-pip-install-offline-via-wheels
 [3]: http://www.makeuseof.com/tag/excel-flash-auto-fill/
 [4]: https://www.buzzfeed.com/nicolenguyen/your-problematic-free-faves?utm_content=buffer4e4eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&utm_term=.rczxVyXe5#.py75mwk7o
 [5]: https://codefresh.io/blog/node_docker_multistage/?utm_content=buffer65688&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer

@@ -43,5 +43,5 @@ How to use syslog in [skynet][1]:
 [8]:    https://im.logcg.com
 [9]:    https://qingg.im
 [10]:   https://ruby-china.org/topics/31498
-[11]:   https://blog.tylerchr.com/golang-18-whats-coming/
+[11]:   https://web.archive.org/web/20161105023449/https://blog.tylerchr.com/golang-18-whats-coming/
 [12]:   https://tip.golang.org/pkg/plugin/

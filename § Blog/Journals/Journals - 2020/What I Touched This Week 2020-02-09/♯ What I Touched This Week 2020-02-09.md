@@ -32,15 +32,15 @@ series:
     -   [Fat Protocols | Union Square Ventures](https://www.usv.com/writing/2016/08/fat-protocols/)
     -   [Thin Applications --- Placeholder](https://www.placeholder.vc/blog/2020/1/30/thin-applications)
 -   [为什么比特币可以防篡改 - Why's THE Design?](https://draveness.me/whys-the-design-bitcoin-database)
--   [多维对比以太坊二层扩容方案 ZK Rollup 与 Optimistic Rollup - 链闻 ChainNews](https://www.chainnews.com/articles/932935429481.htm)
-    Optimistic Rollup 支持通用合约，短期内能上线。ZK Rollup 不需要挑战，但是目前还不支持通用合约。
+-   [Optimistic vs. ZK Rollup: Deep Dive](https://blog.matter-labs.io/optimistic-vs-zk-rollup-deep-dive-ea141e71e075)
+    链闻: Optimistic Rollup 支持通用合约，短期内能上线。ZK Rollup 不需要挑战，但是目前还不支持通用合约。
     -   "大部分现有的代码库都可以轻松移植到 Optimistic Rollup 上。"
     -   "大型区块的欺诈证明可能需要比 Layer 1 区块 gas limit 所允许的更多的 gas。那么，这些欺诈证明必须被分解为多个 ETH 交易。"
--   [观点 | 生产性资产的质押获利模型 » 论坛 » EthFans | 以太坊爱好者](https://ethfans.org/posts/staking-models-for-productive-assets)
+-   [观点 | 生产性资产的质押获利模型 » 论坛 » EthFans | 以太坊爱好者](https://web.archive.org/web/20210414082741/https://ethfans.org/posts/staking-models-for-productive-assets)
 
 # Rust
--   [Build your own block_on() | Stjepan's blog](https://stjepang.github.io/2020/01/25/build-your-own-block-on.html)
--   [Build your own executor | Stjepan's blog](https://stjepang.github.io/2020/01/31/build-your-own-executor.html)
+-   [Build your own block_on() | Stjepan's blog](https://web.archive.org/web/20200320020653/https://stjepang.github.io/2020/01/25/build-your-own-block-on.html)
+-   [Build your own executor | Stjepan's blog](https://web.archive.org/web/20200207092849/https://stjepang.github.io/2020/01/31/build-your-own-executor.html)
 -   [spacejam/extreme: extremely boring async function runner!](https://github.com/spacejam/extreme)
 -   [Why Discord is switching from Go to Rust - Discord Blog](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 
@@ -79,7 +79,7 @@ series:
 -   [The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html?utm_source=Iterable)
 
 # References
--   [Custom Vim Functions to Format Your Text ](https://bobbywlindsey.com/dev/2017/07/30/vim-functions/)
+-   [Custom Vim Functions to Format Your Text ](https://www.bobbywlindsey.com/2017/07/30/vim-functions/)
     Use vimscript to automate file editing.
 -   [Reset NVRAM or PRAM on your Mac - Apple Support](https://support.apple.com/en-us/HT204063)
 -   [How to reset the SMC of your Mac - Apple Support](https://support.apple.com/en-us/HT201295)
@@ -101,6 +101,6 @@ series:
 -   [Protocol documentation - Bitcoin Wiki](https://en.bitcoin.it/wiki/Protocol_documentation)
 -   [MDS: 3XX | LibraryThing](http://www.librarything.com/mds/3)
 -   [OCLC Classify -- an Experimental Classification Service](http://classify.oclc.org/classify2/)
--   [Data Transmission Service](https://rixcloud.com/)
+-   ~~rixcloud.com~~ 已经停止服务
 -   [Proxifier - The Most Advanced Proxy Client](https://www.proxifier.com/)
 -   [Morning Edition : NPR](https://www.npr.org/programs/morning-edition/)

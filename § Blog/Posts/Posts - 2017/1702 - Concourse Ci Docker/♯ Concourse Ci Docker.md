@@ -11,7 +11,7 @@ title: Deploy Concourse CI using Docker
 
 #docker #ci
 
-[Concourse CI](https://concourse.ci) is an awesome open source continuous integration tool. If you are not using Gitlab, and want to setup a CI server, it is a good choice.
+[Concourse CI](https://concourse-ci.org/) is an awesome open source continuous integration tool. If you are not using Gitlab, and want to setup a CI server, it is a good choice.
 
 Concourse CI provides Docker image and docker compose sample config. But when I run the hello world example, I have met several problems.
 
@@ -29,7 +29,7 @@ Second, if Concourse is deployed via docker compose, DNS is changed to loopback 
 
     lookup registry-1.docker.io on 127.0.0.11:53: read udp 127.0.0.1:54286->127.0.0.11:53: read: connection refused
 
-Just add DNS config based on [official compose sample](https://concourse.ci/installing.html) to solve this error. I have configured custom DNS for `concourse-web` and `concourse-worker`. It is also required to setup a DNS for  `concourse-worker` using environment variable `CONCOURSE_GARDEN_DNS_SERVER`[^2]。
+Just add DNS config based on [official compose sample](https://concourse-ci.org/install.html) to solve this error. I have configured custom DNS for `concourse-web` and `concourse-worker`. It is also required to setup a DNS for  `concourse-worker` using environment variable `CONCOURSE_GARDEN_DNS_SERVER`[^2]。
 
 If your cloud server provider has its own DNS servers, log into any host and check `/etc/resolv.conf`. Use the DNS servers to replace `8.8.8.8` 和 `8.8.4.4` in the example below.
 

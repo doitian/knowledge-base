@@ -27,7 +27,7 @@
 * [Note-taking | Transkills: supporting transition to University](https://www.transkills.admin.cam.ac.uk/resources/history/transitions-study-history-part-i/note-taking)
     -   It is important to learn how to 'see the wood for the trees'
     -   Do create your own critical summaries
-* [Effective Note-Taking in Class | Athletic Study Center](https://asc.berkeley.edu/resources/students/academic-support-resources/academic-skills-resource-library/effective-note-taking)
+* Effective Note-Taking in Class | Athletic Study Center ( **Broken Link** )
     -   Include your own questions, observations and other critical thoughts
     -   Cornell Style: Take notes on the right two-thirds of the page. List key words in the left column. Summarize the entire page in the space at the bottom
 * [The Best Note-Taking Methods - GoodNotes Blog](https://medium.goodnotes.com/the-best-note-taking-methods-for-college-students-451f412e264e)

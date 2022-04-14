@@ -33,7 +33,7 @@ My picks
       proxy_pass http://apache/$1$is_args$args;
     ```
 
-* [Why Not Rust?](https://matklad.github.io//2020/09/20/why-not-rust.html)
+* [Why Not Rust?](https://matklad.github.io/2020/09/20/why-not-rust.html)
 
     Situations when Rust is not a proper choice.
 

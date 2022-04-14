@@ -9,7 +9,7 @@ title: How Rails Assets Prefix Disables the Session
 #rails
 
 This is original posted on
-[intridea blog](http://www.intridea.com/blog/2013/3/20/rails-assets-prefix-may-disable-your-session).
+[intridea blog](https://web.archive.org/web/20151009055627/http://www.intridea.com/blog/2013/3/20/rails-assets-prefix-may-disable-your-session).
 
 I recently worked in a Rails project with [Peter (@sporkd)][Peter]. The
 project is intended to be used as a sub-site, and should be served under

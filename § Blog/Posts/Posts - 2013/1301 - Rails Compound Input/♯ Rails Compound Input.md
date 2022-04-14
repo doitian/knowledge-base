@@ -9,7 +9,7 @@ title: Rails Compound Input
 #rails
 
 When I implement
-[time input feature](https://github.com/saberma/19wu/pull/160) for
+[time input feature](https://github.com/19wu/19wu/pull/160) for
 [19wu](https://github.com/saberma/19wu) (an open source ticket sale system), I
 want to split the datetime into date and time parts, so JavaScript date picker
 and time picker can be used. This post introduces two methods I found.

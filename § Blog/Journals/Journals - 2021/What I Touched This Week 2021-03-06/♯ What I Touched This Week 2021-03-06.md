@@ -65,12 +65,6 @@ Turn the contributions chart to a 3D model. [Here](https://skyline.github.com/do
 
 A curated list of papers.
 
-### [Anti Bloat | Tauri Studio](https://tauri.studio/en/docs/usage/recipes/bundler/anti-bloat/)
-
-%% [[Anti Bloat  Tauri Studio]] %%
-
-Some tips about reducing the size of the Rust executable.
-
 ### [Conway's law - Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
 
 %% [[Conways Law - Wikipedia, the Free Encyclopedia]] %%

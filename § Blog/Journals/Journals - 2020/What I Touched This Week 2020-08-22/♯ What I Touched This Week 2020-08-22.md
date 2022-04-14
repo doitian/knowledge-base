@@ -33,7 +33,7 @@ I have finished three books
 
 ## Programming
 
-* [To Learn Computer Science the Old-Fashioned Way](http://blog.thomasyao.wtf/2020/08/to-learn-computer-science-the-old-fashioned-way/)
+* [To Learn Computer Science the Old-Fashioned Way](https://web.archive.org/web/20210121055049/http://blog.thomasyao.wtf/2020/08/to-learn-computer-science-the-old-fashioned-way/)
 
     * Learn what operating system really is first.
     * Try out [Linux From Scratch](http://www.linuxfromscratch.org/).

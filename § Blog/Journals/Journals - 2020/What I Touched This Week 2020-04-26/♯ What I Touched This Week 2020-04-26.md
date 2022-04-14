@@ -51,8 +51,6 @@ I shared one link:
 ## Technology
 
 * [央行数字货币（DC/EP）技术的无责任猜想](https://zhuanlan.zhihu.com/p/133817993)
-* [World of Engineering (@engineers_feed): We have the technology.](https://twitter.com/engineers_feed/status/1252822745999478788)
-    * Eliminate blood clots
 * [Transparency, evidence and dispute resolution](https://www.benthamsgaze.org/2020/04/21/transparency-evidence-and-dispute-resolution/)
 
 ## Social

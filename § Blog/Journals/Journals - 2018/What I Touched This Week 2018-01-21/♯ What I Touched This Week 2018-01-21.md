@@ -13,7 +13,7 @@ series:
 
     OOP and FP in harmony
 
-* [The 100x Engineer – Zef.me](https://zef.me/the-100x-engineer-6d50a690a866)
+* [The 100x Engineer – Zef.me](https://zef.me/musing/the-100x-engineer/)
 
     100x Engineer vs 10x Programmer
 

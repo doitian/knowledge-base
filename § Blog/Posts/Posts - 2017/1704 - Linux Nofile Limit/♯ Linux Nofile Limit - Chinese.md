@@ -60,4 +60,4 @@ Upstart 是 Ubuntu 之前使用的 init，可以在服务的配置文件里添�
       </dict>
     </plist>
 
-[1]: http://docs.basho.com/riak/kv/2.0.2/using/performance/open-files-limit/
+[1]: https://docs.riak.com/riak/kv/2.0.2/using/performance/open-files-limit/

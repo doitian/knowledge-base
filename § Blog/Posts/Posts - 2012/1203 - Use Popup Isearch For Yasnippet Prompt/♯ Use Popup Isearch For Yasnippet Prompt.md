@@ -51,6 +51,6 @@ add it to `yas/prompt-functions`.
 (setq yas/prompt-functions '(yas/popup-isearch-prompt yas/no-prompt))
 ```
 
-[yasnippet]: http://capitaomorte.github.com/yasnippet/index.html
-[popup]: https://github.com/m2ym/popup-el
-[auto-complete]: https://github.com/m2ym/auto-complete
+[yasnippet]: https://github.com/joaotavora/yasnippet
+[popup]: https://github.com/auto-complete/popup-el
+[auto-complete]: https://github.com/auto-complete/auto-complete

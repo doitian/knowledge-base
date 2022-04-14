@@ -10,7 +10,7 @@ series:
 
 * [Routing and extraction in Tide: a first sketch | Rust Network Services
   Working
-  Group](https://rust-lang-nursery.github.io/wg-net/2018/10/16/tide-routing.html)
+  Group](https://rustasync.github.io/team/2018/10/16/tide-routing.html)
     * [tide/endpoint.rs](https://github.com/rust-net-web/tide/blob/853f6204c5ce6b103dddc46d332b3e4426baef5a/src/endpoint.rs)
       is a trick to allow multiple `impl for T`
 
@@ -44,7 +44,7 @@ series:
 ## Other Readings
 
 * [The Hidden Dangers You Have Never Noticed: target = "\_blank" and "opener"
-  - TutorialDocs](https://www.tutorialdocs.com/article/html-opener-blank.html)
+  - TutorialDocs](https://web.archive.org/web/20201108142009/https://www.tutorialdocs.com/article/html-opener-blank.html)
 
     The opened page can replace the location of the opener tab.
 
@@ -54,4 +54,4 @@ series:
 * PostgreSQL extensions
     * [Timescale | an open-source time-series SQL database optimized for fast ingest, complex queries and scale.](https://www.timescale.com/)
     * [Citus Data | Worry-free Postgres for SaaS. Built to scale out.](https://www.citusdata.com/)
-    * [PipelineDB - High-Performance Time-Series Aggregation for PostgreSQL](https://www.pipelinedb.com/)
+    * [PipelineDB - High-Performance Time-Series Aggregation for PostgreSQL](https://github.com/pipelinedb/pipelinedb)

@@ -12,8 +12,8 @@ series:
 
     Further readings
 
-    * [Understanding (and Mitigating) Re-Orgs - Anthony Lusardi - Medium](https://medium.com/@pyskell/understanding-and-mitigating-re-orgs-921c7768fa18)
-    * [A Lower Bound on Miner Rewards](https://bkcm.co/research/economicfinality.pdf)
+    * [Understanding (and Mitigating) Re-Orgs - Anthony Lusardi - Medium](https://web.archive.org/web/20210121154317/https://medium.com/@pyskell/understanding-and-mitigating-re-orgs-921c7768fa18)
+    * [A Lower Bound on Miner Rewards](https://doitian.notion.site/A-Lower-Bound-on-Miner-Rewards-1254d805b5c54a70aa61480059f65171)
 
 * [Alert Fast – Software the Hard way](https://software.rajivprab.com/2019/08/04/alert-fast/)
 * [Get Everything Done & Still Have Time to Play, Productivity Method](https://doist.com/blog/get-everything-done-still-have-time-to-play/)

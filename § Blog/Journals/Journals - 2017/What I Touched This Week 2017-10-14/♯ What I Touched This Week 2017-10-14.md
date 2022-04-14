@@ -17,7 +17,7 @@ series:
 
     A pattern to categorize Redux State.
 
-- [Developing a Redux Edge {Book}](https://www.safaribooksonline.com/library/view/developing-a-redux/9781939902436/)
+- [Developing a Redux Edge {Book}](https://www.amazon.com/Developing-Redux-Edge-Johannes-Lumpe-ebook/dp/B01KL5RJHU)
 
     A book recommended if you want to learn Redux in depth.
 
@@ -33,7 +33,7 @@ series:
 ## Projects
 
 - [Ramda](http://ramdajs.com/#) Functional library for Javascript, It is pure, immutable and auto curried.
-- [Heron](https://twitter.github.io/heron/) Stream processing framework via Twitter, which API is compatible with Apache Storm.
+- [Heron](https://heron.incubator.apache.org/) Stream processing framework via Twitter, which API is compatible with Apache Storm.
 
 ## Shell, vim tips
 

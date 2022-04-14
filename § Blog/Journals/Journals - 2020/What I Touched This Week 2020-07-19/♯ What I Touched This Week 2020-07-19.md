@@ -67,7 +67,7 @@ I recommended [The Recognition-Primed Decision Making Model](https://commoncog.c
 
 # Quotes
 
-* 有人问一位加拿大神经心理学家唐纳德.赫布：“先天和后天哪个对人性影响更大？”，他是这么回答的：“哪个对矩形的面积影响更大，长度还是宽度呢？” [→](https://zh.twgreatdaily.com/PswT7m0BMH2_cNUgDELc.html)
+* 有人问一位加拿大神经心理学家唐纳德.赫布：“先天和后天哪个对人性影响更大？”，他是这么回答的：“哪个对矩形的面积影响更大，长度还是宽度呢？” [→](https://twgreatdaily.com/zh-hans/PswT7m0BMH2_cNUgDELc.html)
 
 # Bookmarks
 

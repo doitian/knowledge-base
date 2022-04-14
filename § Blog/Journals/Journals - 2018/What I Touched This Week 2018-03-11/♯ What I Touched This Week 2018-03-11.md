@@ -19,7 +19,7 @@ series:
 
 * [awesome-cn-cafe/README.md at master · ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe/blob/master/README.md)
 * [2017，非主流英语自学指南 - 少数派](https://sspai.com/post/43410)
-* [你所不知道的伊朗 | 人在旅途](https://zh.cyaontheroad.com/post/155712858851/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BC%8A%E6%9C%97)
+* [你所不知道的伊朗](https://www.backpackers.com.tw/forum/showthread.php?t=1949067)
 * [自我实现的预期](https://mp.weixin.qq.com/s/LB0cG1PXBYMgLyaWGZzRGQ)
 
     关于通货膨胀经济科普文

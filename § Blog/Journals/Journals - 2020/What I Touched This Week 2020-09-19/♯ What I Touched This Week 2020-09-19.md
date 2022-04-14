@@ -44,7 +44,7 @@ My picks:
     * Use the crate [`mockall`](https://github.com/asomers/mockall) to auto-generate a mocked implementation that I instantiate in my test.
     * But it turns out you can still do this, using the nightly compiler! Enter [Mocktopus](https://github.com/CodeSandwich/Mocktopus), a module-level mocking library.
 
-* [Rust HTTP Testing with httpmock | Alex Liesenfeld](https://alexliesenfeld.com/posts/2020/rust-http-testing-with-httpmock/)
+* [Rust HTTP Testing with httpmock | Alex Liesenfeld](https://alexliesenfeld.com/posts/mocking-http-services-in-rust/)
 
     > According to the comparison matrix the most complete package is currently provided by [httpmock](https://github.com/alexliesenfeld/httpmock).
 

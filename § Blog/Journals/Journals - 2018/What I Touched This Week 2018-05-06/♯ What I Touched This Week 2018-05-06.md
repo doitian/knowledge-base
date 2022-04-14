@@ -16,7 +16,7 @@ series:
 
     Use `entry` function.
 
-* [This Exercise Will Help You To Stop Wasting Your Time](https://medium.com/darius-foroux/this-exercise-will-help-you-to-wasting-your-time-447cce156205)
+* [This Exercise Will Help You To Stop Wasting Your Time](https://web.archive.org/web/20190411014558/https://medium.com/darius-foroux/this-exercise-will-help-you-to-wasting-your-time-447cce156205)
 
     Keep activity log to know how time is spent
 

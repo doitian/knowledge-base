@@ -44,11 +44,10 @@ series:
 
 - [Chrome and Firefox Phishing Attack Uses Domains Identical to Known Safe Sites][21]. Fake site using unicode domain.
 - [Mastering Group Resizing Feature in Sketch – Design + Sketch][22]. How to design responsible components using group resizing.
-- [安卓 & 卡顿 & APP - 知乎专栏][23]。实测 Android 上国产毒瘤 App 对性能和续航的影响。
 - [α Clock – 壁纸与时间联动，「索大好」带来世界文化遗产的一天 - 小众软件][24]. 很漂亮的 Android 壁纸应用。
 - CG 绘画入门：[零基础如何学习数位板绘画？ - 知乎][25]，[ARTLESSON Theory | 如何提高你的绘画和设计技巧][26]
 - [设计界出了一件大事儿！][27] ARKie 是一个智能设计助手，聚焦于中英文排版、秒级自动生成作品。10秒，帮你完成一个设计。
-- Windows 软件推荐，[菲菲更名宝贝 之 得意非凡 v3.0 正式版][28]，[Windows 上有什么鲜为人知的好软件？| 自爆区 #023][29]，[Windows 绝赞应用][30]。
+- Windows 软件推荐，[菲菲更名宝贝 之 得意非凡 v3.0 正式版][28]，[Windows 上有什么鲜为人知的好软件？| 自爆区 #023][29]
 
 [1]: https://www.youtube.com/watch?v=E8I19uA-wGY
 [2]: https://medium.com/@trojanh/working-of-yarn-and-npm-974b79f10341
@@ -72,11 +71,9 @@ series:
 [20]: https://flow.org/
 [21]: https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/
 [22]: https://medium.com/sketch-app-sources/mastering-group-resizing-feature-in-sketch-38266286155
-[23]: https://zhuanlan.zhihu.com/p/26263557?hmsr=toutiao.io
 [24]: http://www.appinn.com/sony-clock-for-android/
 [25]: https://www.zhihu.com/question/21312624
 [26]: https://www.douban.com/note/380163098/
 [27]: http://mp.weixin.qq.com/s/uQjAbLVQn8LXvkijuJJsrg
 [28]: http://www.ffhome.com/works/1406.html
 [29]: http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650498413&idx=1&sn=1b15a76bc3b5e43e96b19a975ac56c05&chksm=bea357ca89d4dedcf2f3a85b191c014b06fec0a99527a581a27836d5f8db734169c1e45fc7cb&scene=27#wechat_redirect
-[30]: https://emlvirus.gitbooks.io/windows-apps-that-amaze-us/content/

@@ -111,7 +111,7 @@ are some examples:
 
 Sure, we have to remove "/" from workspace name and window title.
 
-I use a Ruby [script](http://gist.github.com/551432) to format the
+I use a Ruby [script](https://gist.github.com/doitian/551432) to format the
 list. Workspace name can be listed using `wmctrl -d`.
 
 Now we can use the ruby script in the revised version:

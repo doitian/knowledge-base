@@ -42,7 +42,7 @@ echo 'export GPG_TTY=$(tty)' >> ~/.profile
     * Play Big and Embrace Failure
     * Find Balance
 
-* [Blocking inside async code | stjepang.github.io](https://stjepang.github.io/2019/12/04/blocking-inside-async-code.html)
+* [Blocking inside async code | stjepang.github.io](https://web.archive.org/web/20200815123809/https://stjepang.github.io/2019/12/04/blocking-inside-async-code.html)
 
     * As said by [@hayeah](https://twitter.com/hayeah/status/1205698254081380353), "the upside is, you get the worst of both worlds".
     * The crate async-std [tries to solve this problem](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/)

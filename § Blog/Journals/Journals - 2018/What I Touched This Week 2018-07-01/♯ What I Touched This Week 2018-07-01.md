@@ -32,4 +32,3 @@ series:
 ## Bookmarks
 
 - [Papers with Code : the latest in machine learning](https://paperswithcode.com/)
-- [DevTube - The best developer videos in one place](https://dev.tube/)

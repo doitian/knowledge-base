@@ -64,7 +64,7 @@ series:
     > ETH is the only thing that Ethereum really recognizes as an asset that can be owned. Everything else is relegated to the land of “virtual” ownership
 
 * [Myths Programmers Believe about CPU Caches – Software the Hard way](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
-* [The Story of OP_CHECKDATASIG](https://www.yours.org/content/the-story-of-op_checkdatasig-f79679d52b23/)
+* [The Story of OP_CHECKDATASIG](https://mengerian.medium.com/the-story-of-op-checkdatasig-c2b1b38e801a)
 
 ## Bookmarks
 

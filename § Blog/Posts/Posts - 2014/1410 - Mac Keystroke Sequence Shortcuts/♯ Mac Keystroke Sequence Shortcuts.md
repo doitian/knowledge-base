@@ -50,6 +50,6 @@ For example, I defined the Alfred 2 clipboard manager shortcut to <kbd>Ctrl+Opti
 ![[shortcut-forward.png|Send a global shortcut in an application from Keyboard Maestro by sending a keystroke.]]
 
 
-[^1]: [http://apple.stackexchange.com/a/73957](http://apple.stackexchange.com/a/73957)
+[^1]: http://apple.stackexchange.com/a/73957
 
 [1]: http://www.keyboardmaestro.com/main/ "Work Faster with Macros for Mac OS X"

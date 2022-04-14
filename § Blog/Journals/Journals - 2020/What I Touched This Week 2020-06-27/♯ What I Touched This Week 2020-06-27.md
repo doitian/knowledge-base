@@ -58,7 +58,7 @@ I have recommended:
 
 ┌ Privacy
 
-* [RT @lizife: 原来微信通过盗取你隐私发布的广告真的可以关！路径超复杂如下： 微信，我的，设置，关于微信，隐私保护指引，9其他，隐私政策，广告，关于广告，管理，关闭个性化推荐广告 我已关闭，半年后需要再关一次，超级不要脸。](https://twitter.com/doitian/status/1276792351839510528)
+* [RT @lizife: 原来微信通过盗取你隐私发布的广告真的可以关！路径超复杂如下： 微信，我的，设置，关于微信，隐私保护指引，9其他，隐私政策，广告，关于广告，管理，关闭个性化推荐广告 我已关闭，半年后需要再关一次，超级不要脸。](https://twitter.com/lizife/status/1276420121435574272)
 * [RT @jeremyburge: Okay so TikTok is grabbing the contents of my clipboard every 1-3 keystrokes. iOS 14 is snitching on it](https://twitter.com/doitian/status/1276124261095096320)
 
 ## Interesting

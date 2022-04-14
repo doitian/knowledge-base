@@ -98,7 +98,7 @@ And several about databases.
 
 -   [@tualatrix: 又买了本新书《转型中的地方政府：官员激励与治理》（第二版）。在 @KindleBookDeal 上看到书名时就好奇了一下，去豆瓣搜了下：9.3 分，于是立马下单了。最近书多的看不完了…看不完才好](https://twitter.com/doitian/status/1239076098635268097)
 -   [@novoreorx: 向所有 macOS 用户推荐 QSpace，迄今为止最好用的 Finder Replacement。已使用一周并删掉了 Commander One Pro, TotalFinder 等老劣产品。昨天又有一大波更新，加入了批量重命名和文件堆叠（类似 Yoink）等功。我现在只想给作者再塞点钱，定价真的低了](https://twitter.com/doitian/status/1238491907031891968)
--   [「死亡搁浅」游戏产业的革新之作 – 精神病患者阅读室](http://blog.thomasyao.wtf/2020/03/%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E7%9A%84%E9%9D%A9%E6%96%B0%E4%B9%8B%E4%BD%9C/)
+-   [「死亡搁浅」游戏产业的革新之作 – 精神病患者阅读室](https://web.archive.org/web/20210925072047/http://blog.thomasyao.wtf/2020/03/%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E7%9A%84%E9%9D%A9%E6%96%B0%E4%B9%8B%E4%BD%9C/)
     这是我第一次在博客中写关于游戏的内容，以后会将游戏与影视作品等归类为流行文化的分类中去进行阐述，这个分类中的所有文章都将包含一定剂量的剧透，请酌情阅读。
 
 

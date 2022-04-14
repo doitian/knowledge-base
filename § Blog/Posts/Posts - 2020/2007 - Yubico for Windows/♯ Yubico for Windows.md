@@ -48,7 +48,7 @@ gpg --card-status
 gpg -K
 ```
 
-If `gpg --card-status` complains that it cannot find the key card, refer to [this article](https://support.yubico.com/support/solutions/articles/15000014892-troubleshooting-issues-with-gpg) to save `reader-port Yubico Yubi` in the file ``$(scoop prefix gpg)\home\scdaemon.conf` and try again.
+If `gpg --card-status` complains that it cannot find the key card, refer to [this article](https://support.yubico.com/hc/en-us/articles/360013714479-Troubleshooting-Issues-with-GPG) to save `reader-port Yubico Yubi` in the file ``$(scoop prefix gpg)\home\scdaemon.conf` and try again.
 
 ## WSL
 

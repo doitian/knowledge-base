@@ -16,7 +16,7 @@ series:
     > - *Acquire*: an acquire access ensures that every access after it stays after it.
     > - *Release*: a release access ensures that every access before it stays before it.
 
-- [Julio Biason .Net 4.0 - Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
+- [Julio Biason .Net 4.0 - Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 
     > Solve the problem you have right now. Then solve the next one. And the next one. At one point, you'll realize there is a pattern emerging from those solutions and then you'll find your "solve everything".
 

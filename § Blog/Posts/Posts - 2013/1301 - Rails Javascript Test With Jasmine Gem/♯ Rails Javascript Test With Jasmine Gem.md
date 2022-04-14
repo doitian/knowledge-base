@@ -151,7 +151,7 @@ before_install:
 [railscasts #261]: http://railscasts.com/episodes/261-testing-javascript-with-jasmine "#261 Testing JavaScript with Jasmine - RailsCasts"
 [railscasts #261 revised]: http://railscasts.com/episodes/261-testing-javascript-with-jasmine-revised "#261 Testing JavaScript with Jasmine (revised) - RailsCasts"
 [jasmine-gem issue #120]: https://github.com/pivotal/jasmine-gem/issues/120 "jasmine_config.rb is not read in Jasmine 1.3.1"
-[jasmine-1-3-1-load-jasmine-config]: http://log.iany.me/post/41885818751/ "Load jasmine_config.rb in jasmine 1.3.1"
+[jasmine-1-3-1-load-jasmine-config]: https://gist.github.com/doitian/20c35dd980634d2fc7a72bbda573843a "Load jasmine_config.rb in jasmine 1.3.1"
 [phantomjs]: http://phantomjs.org/ "PhantomJS: Headless WebKit with JavaScript API"
 [gui-and-headless-browsers]: http://about.travis-ci.org/docs/user/gui-and-headless-browsers/ "Travis CI: GUI & Headless browser testing on travis-ci.org"
 [commits]: https://github.com/doitian/rails-jasmine-demo/commits/master

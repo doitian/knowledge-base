@@ -10,7 +10,7 @@ series:
 I published 1 post last week: [[♯ Blocking Stdout]]
 
 -   Printing to stdout may block the thread. Close the pipes if you want to run a child process but don't care its output.
--   [Blocking inside async code | Stjepan’s blog](https://stjepang.github.io/2019/12/04/blocking-inside-async-code.html)
+-   [Blocking inside async code | Stjepan’s blog](https://web.archive.org/web/20200707120422/https://zhuanlan.zhihu.com/p/25131561)
 
 <!--more-->
 

@@ -86,14 +86,8 @@ I shared
 
 -   [Baye (@waylybaye): 大部分语言开源项目的 README vs Rust 语言开源项目的 README](https://twitter.com/waylybaye/status/1240484380239331328)
 -   [@tyomateee: 後ろ姿は完全に少女](https://twitter.com/tyomateee/status/1239161039830171649)
--   [Ian Yang (@doitian): More competitive than F1](https://twitter.com/davdchristmas/status/1239196410857340933)
--   [@AlextheBullet: 同学转给我的图，莫名戳笑点 https://t.co/IMURNlPn3M](https://twitter.com/AlextheBullet/status/1239722161532628992)
-
-    > 如果你选择吃蓝色的药，你的持仓下有周还会继续大跌…
-
 -   [To be, or not to be (@not\_2b\_or\_2b):](https://twitter.com/not_2b_or_2b/status/1239515936043999233) 在股票市场，一般账户里只有0-50万的人 ，会天天驾人。 50-100万的人，不怎么讲话，会专心研究股市。 100万以上的人都会很嫌虚，别人问起来都会说，我是菜乌、不怎么懂。 我刚进股市的时候很谦虚，后面慢慢开始研究股市，直到现在变的也开始骂人了
 
--   [@PollySy1: @BNODesk People normally and people during quarantine](https://twitter.com/PollySy1/status/1240804429068226560)
 -   [@luinlee: 每一次新 iPad 发布我都会看一下这个 issue: “今天 VS Code 支持 iPad 了吗？”](https://twitter.com/luinlee/status/1240262664728629248)
 -   [@williamwoo7: 谁是妈妈最爱的儿子？CNN主播采访扭腰州长新闻直播演变成了兄弟二人争宠吵架现场......对，没错，他们是亲兄弟我们电视台是不带干私活的](https://twitter.com/williamwoo7/status/1240270525638696963)
 

@@ -18,7 +18,7 @@ series:
 -   [Introduction - Roguelike Tutorial - In Rust](http://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
     Learn by doing tutorial about developing a roguelike game with Rust.
 -   [Copying data is wasteful, mutating data is dangerous](https://pythonspeed.com/articles/minimizing-copying/)
--   [30 Python Best Practices, Tips, And Tricks - Towards Data Science](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
+-   [30 Python Best Practices, Tips, And Tricks - Towards Data Science](https://medium.com/pythonland/30-python-best-practices-tips-and-tricks-19172564f9c)
     -   "Since version 3.7, Python offers data classes. There are several advantages over regular classes or other alternatives like returning multiple values or dictionaries"
     -   "In place variable swapping"
         ```
@@ -45,7 +45,7 @@ series:
 -   [An Introduction to the Efficient Market Hypothesis for Bitcoiners](https://medium.com/@nic__carter/an-introduction-to-the-efficient-market-hypothesis-for-bitcoiners-ed7e90be7c0d)
     As we approach the Bitcoin halving due in May 2020, a heated debate has raged among Bitcoiners about whether the issuance change is being anticipated by the market or not. Those who downplay the purported impact of the issuance change tend to make references to market efficiency.
 -   [自动分类 + 键盘启动，LaunchCuts 让快捷指令更高效 - 少数派](https://sspai.com/post/58437)
--   [Crypto Commons - Noteworthy - The Journal Blog](https://blog.usejournal.com/crypto-commons-da602fb98138)
+-   [Crypto Commons - Noteworthy - The Journal Blog](https://medium.com/@m2jr/crypto-commons-da602fb98138)
 -   [The 3 Myths of Observability - The New Stack](https://thenewstack.io/the-3-myths-of-observability/)
 -   [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb)
     Kent Beck Jan 8 - 5 min read Outcome Matters Most Gusto is reflecting on how we observe our own activity and results. We have been wildly, improbably successful...
@@ -60,8 +60,6 @@ series:
 ## Remote Work
 -   [Remote Work Archives - Open](https://open.buffer.com/category/remote-work/)
 -   [State of Remote Work 2019 | Buffer](https://buffer.com/state-of-remote-work-2019)
--   [4 Ways Our Remote Team Creates Water Cooler Moments | HiringThing](https://www.hiringthing.com/4-ways-our-remote-team-creates-water-cooler-moments/)
-    As a 100 percent remote company, it can be challenging to have "water cooler moments" --- times when we strike up casual conversations and learn interesting things about one another.
 -   [Achieve High Productivity in Your Remote Team](https://www.theremoteworksummit.com/improve-productivity-in-remote-team/)
     Remote workers boast about being more productive than traditional office workers. Instead of wasting time at the water cooler and trying to look busy a remote worker actually gets stuff done. This is because remote teams have always been result-oriented and not otherwise.
     -   "long and short time goals should be well communicated to all the employees to keep their interests aligned"
@@ -98,6 +96,3 @@ series:
 -   [Tarsnap - Online backups for the truly paranoid](https://www.tarsnap.com/)
 -   [Wizard Zines 中文版](https://member.selfhostedserver.com/zine/)
     via Julia Evans
--   [一图看懂｜湖北等30省份启动的一级响应是什么？_美数课_澎湃新闻-The Paper](https://www.diigo.com/outliner/diigo_items/899907/431777/537950198?key=wcwok1u45o)
-
-    ![](https://www.diigo.com/file/image/edbqqqzodqsoabsrzeaqppbsc/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%EF%BD%9C%E6%B9%96%E5%8C%97%E7%AD%8930%E7%9C%81%E4%BB%BD%E5%90%AF%E5%8A%A8%E7%9A%84%E4%B8%80%E7%BA%A7%E5%93%8D%E5%BA%94%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F_%E7%BE%8E%E6%95%B0%E8%AF%BE_%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-The+Paper.jpg?image_size=550)

@@ -18,5 +18,5 @@ Ulysses way:
 Bear way:
 
 1. Copy page URL.
-2. Use [/grab-url](http://www.bear-writer.com/x-callback-url/) x-callback-url
+2. Use [/grab-url](https://bear.app/faq/X-callback-url%20Scheme%20documentation/#grab-url) x-callback-url
 3. After the article is grabbed, use menu `Edit > Markdown` to copy
