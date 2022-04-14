@@ -13,12 +13,19 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Cache .lycheecache
+      id: cache-lychee
+      uses: actions/cache@v3
+      with:
+        path: .lycheecache
+        key: lychee
+
     - name: Link Checker
       uses: lycheeverse/lychee-action@master
       env:
         GITHUB_TOKEN: ${{secrets.LYCHEE_PAT}}
       with:
-        args: '--verbose --exclude-private --exclude-loopback --cache --max-concurrency 32 --max-retries 4 --no-progress "**/*.md"'
+        args: '--verbose --exclude-private --exclude-loopback --cache -a 429 --max-concurrency 64 --max-retries 4 --no-progress "**/*.md"'
 
     - name: Create Issue From File
       uses: peter-evans/create-issue-from-file@v2
