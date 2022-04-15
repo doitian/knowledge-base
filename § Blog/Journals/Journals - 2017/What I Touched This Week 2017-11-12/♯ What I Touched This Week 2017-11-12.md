@@ -38,7 +38,7 @@ series:
 
 ## AI
 
-- [Building AI That Can Build AI – The New York Times – Medium](https://medium.com/the-new-york-times/building-ai-that-can-build-ai-7a0546be97bf)
+- [Building AI That Can Build AI – The New York Times – Medium](https://www.nytimes.com/2017/11/05/technology/machine-learning-artificial-intelligence-ai.html)
 - How to calculate derivatives using [backpropation](https://www.youtube.com/watch?v=Ilg3gGewQ5U), and the [calculus explanation](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 ## Productivity
@@ -61,7 +61,7 @@ series:
 
     > Stop doing what average people do.  
 
-    Also mentioned in [Five Unproductive Habits I’ve QUIT So I Can Get More Done](https://medium.com/personal-growth/five-unproductive-habits-ive-quit-so-i-can-get-more-done-830c6836e694)
+    Also mentioned in [Five Unproductive Habits I’ve QUIT So I Can Get More Done](https://web.archive.org/web/20181216174950/https://medium.com/darius-foroux/five-unproductive-habits-ive-quit-so-i-can-get-more-done-830c6836e694)
 
     Actions:
 
@@ -71,7 +71,7 @@ series:
 
 ## Life
 
-- [Rules for Happier Parents: Children Change — When We Let Them](https://betterhumans.coach.me/rules-for-happier-parents-children-change-when-we-let-them-cb93816b41ce)
+- [Rules for Happier Parents: Children Change — When We Let Them](https://betterhumans.pub/rules-for-happier-parents-children-change-when-we-let-them-cb93816b41ce)
 
     > Stick to describing your child’s behavior on any one occasion as nothing more than that.
 

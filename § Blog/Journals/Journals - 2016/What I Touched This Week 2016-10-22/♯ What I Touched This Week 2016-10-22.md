@@ -66,7 +66,7 @@ series:
 [8]:    http://stackoverflow.com/a/28007631/667158
 [9]:    https://twitter.com/brodiegames/status/786041246321999873
 [10]:   http://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650586822&idx=4&sn=cca55822c77793d8aa093cfed8ea7ab5&chksm=8796af3bb0e1262dfc24fb4ed354f498e502d2dd98e7bb75d56564059ceab717b111cc1018af&scene=0#wechat_redirect
-[11]:   https://paulbakaus.com/2016/10/13/debunked-10-misconceptions-about-amp/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website
+[11]:   https://paulbakaus.com/2016/10/13/debunked-10-misconceptions-about-amp/
 [12]:   https://medium.com/@gokulrajaram/all-you-ever-wanted-to-know-about-all-hands-but-were-afraid-to-ask-b13f7b97f2d9#.ovwq0mbix
 [13]:   http://stackoverflow.com/questions/32814161/how-to-make-spoiler-text-in-github-wiki-pages/39920717?stw=2#39920717
 [14]:   https://github.com/Microsoft/LightGBM
@@ -76,5 +76,5 @@ series:
 [18]:   http://coala.io/
 [19]:   http://zh.dontstarve.wikia.com/wiki/Don't_Starve_%E4%B8%AD%E6%96%87%E7%B6%AD%E5%9F%BA
 [20]:   https://jmd.im/black
-[21]:   http://mvark.blogspot.jp/2016/10/tips-for-more-effective-white-boarding.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WebDevelopmentTipsTricksTrivia+(Tech+Tips,+Tricks+&+Trivia)
+[21]:   http://mvark.blogspot.jp/2016/10/tips-for-more-effective-white-boarding.html
 [22]:   https://github.com/sparanoid/chinese-copywriting-guidelines

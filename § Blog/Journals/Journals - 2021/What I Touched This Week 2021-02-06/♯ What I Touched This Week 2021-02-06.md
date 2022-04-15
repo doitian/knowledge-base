@@ -42,7 +42,7 @@ Picks:
 -   [Application Monitoring for Ruby, PHP, Node.js, Python, and Elixir ~ Scout](https://scoutapm.com/)
 -   [OpenTelemetry](https://opentelemetry.io/)
 -   [Site Reliability Engineering - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
--   [Distributed Systems Observability](https://www.goodreads.com/review/show/3820814357?utm_medium=api&utm_source=rss)
+-   [Distributed Systems Observability](https://www.goodreads.com/review/show/3820814357)
 
 ## Productivity
 

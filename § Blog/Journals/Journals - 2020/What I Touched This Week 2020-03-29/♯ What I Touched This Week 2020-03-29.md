@@ -55,8 +55,8 @@ This weekend I have participated an internal Hackathon, here is [my project](htt
 
 ## Bookmarks
 
--   [@coolXiao: The Sweet Setup 的站长 Shawn Blanc 放出了他的价值247美金的时间管理课程供大家免费注册学习，共克时艰。我已注册，无需付款方式，终身有效。Free Time Management Course from Shawn Blanc https://t.co/vTIROzfmnV https://t.co/JbHgNi3jo7](https://twitter.com/coolXiao/status/1243093742837329920)
-    Happy (@coolXiao): The Sweet Setup 的站长 Shawn Blanc 放出了他的价值247美金的时间管理课程供大家免费注册学习，共克时艰。 我已注册，无需付款方式，终身有效。 Free Time Management Course from Shawn Blanc https://t.co/vTIROzfmnV https://t.co/JbHgNi3jo7
+-   [@coolXiao: The Sweet Setup 的站长 Shawn Blanc 放出了他的价值247美金的时间管理课程供大家免费注册学习，共克时艰。我已注册，无需付款方式，终身有效。Free Time Management Course from Shawn Blanc](https://twitter.com/coolXiao/status/1243093742837329920)
+    Happy (@coolXiao): The Sweet Setup 的站长 Shawn Blanc 放出了他的价值247美金的[时间管理课程](https://talk.macpowerusers.com/t/free-time-management-course-from-shawn-blanc/16239)供大家免费注册学习，共克时艰。 我已注册，无需付款方式，终身有效。 Free Time Management Course from Shawn Blanc
 -   [Seastar - Seastar](http://seastar.io/) Seastar is an advanced, open-source C++ framework for high-performance server applications on modern hardware.
 -   [@WongJian42: 想买的链接在此：手机蓝牙自拍遥控器无线拍照红外线远程控制多功能抖音快手翻页拍摄照相苹果安卓通用视频录制快门万能神器](https://twitter.com/WongJian42/status/1239109455737810944)
 

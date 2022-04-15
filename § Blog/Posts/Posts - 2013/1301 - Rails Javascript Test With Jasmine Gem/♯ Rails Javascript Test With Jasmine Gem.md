@@ -143,8 +143,8 @@ before_install:
 - [#261 Testing JavaScript with Jasmine (revised) - RailsCasts][RailsCasts #261 revised]
 - [Travis CI: GUI & Headless browser testing on travis-ci.org][gui-and-headless-browsers]
 
-[jasmine]: http://pivotal.github.com/jasmine/
-[jasmine gem]: https://github.com/pivotal/jasmine-gem "jasmine-gem"
+[jasmine]: https://jasmine.github.io/
+[jasmine gem]: https://github.com/jasmine/jasmine-gem "jasmine-gem"
 [jasminerice]: https://github.com/bradphelan/jasminerice "bradphelan/jasminerice"
 [guard-jasmine]: https://github.com/netzpirat/guard-jasmine "netzpirat/guard-jasmine"
 [travis]: https://travis-ci.org/ "Travis CI"

@@ -47,6 +47,6 @@ series:
 [9]: http://www.jianshu.com/p/21dba966264d
 [10]: https://www.youtube.com/watch?v=1l81A3MyyZ4
 [11]: https://discussions.apple.com/thread/1443463?start=0&tstart=0
-[12]: https://knsv.github.io/mermaid/
+[12]: https://mermaid-js.github.io/mermaid/
 [13]: http://getcloudify.org/
 [14]: https://github.com/redux-saga/redux-saga

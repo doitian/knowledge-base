@@ -36,7 +36,7 @@ This week I mainly worked on setting up monitoring system using prometheus and g
           <id>nexus-aliyun</id>
           <mirrorOf>*</mirrorOf>
           <name>Nexus aliyun</name>
-          <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+          <url>https://maven.aliyun.com/repository/public</url>
         </mirror> 
 
 - An example that caches maven dependencies in Gitlab CI:
@@ -60,7 +60,7 @@ This week I mainly worked on setting up monitoring system using prometheus and g
 - [Groundera — Indie books by entrepreneurs][7]
 
 
-[1]:  [graylog-plugin-slack/SlackMessageOutput.java%20at%20master%20%C2%B7%20Graylog2/graylog-plugin-slack](%20https://github.com/Graylog2/graylog-plugin-slack/blob/master/src/main/java/org/graylog2/plugins/slack/output/SlackMessageOutput.java%20)
+[1]:  https://github.com/graylog-labs/graylog-plugin-slack/blob/master/src/main/java/org/graylog2/plugins/slack/output/SlackMessageOutput.java
 [2]:  https://lug.ustc.edu.cn/wiki/mirrors/help
 [3]:  http://bitbar.com/how-to-use-image-recognition-for-mobile-app-and-game-testing/
 [4]:  http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/

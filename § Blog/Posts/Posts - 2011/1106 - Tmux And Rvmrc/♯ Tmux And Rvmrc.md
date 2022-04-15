@@ -44,5 +44,5 @@ starts, including shells in Tmux.
 [tmux]: http://tmux.sourceforge.net/
 [screen]: http://www.gnu.org/software/screen/
 [rvm]: http://beginrescueend.com/
-[rvmrc]: http://beginrescueend.com/workflow/rvmrc/
+[rvmrc]: https://rvm.io/workflow/rvmrc
 [tmuxinator]:  https://github.com/aziz/tmuxinator

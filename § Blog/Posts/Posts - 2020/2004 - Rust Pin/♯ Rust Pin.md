@@ -38,4 +38,4 @@ The [pin module](https://doc.rust-lang.org/std/pin/index.html) document has expl
 
 > It is sometimes useful to have objects that are guaranteed not to move, in the sense that their placement in memory does not change, and can thus be relied upon. A prime example of such a scenario would be building self-referential structs, as moving an object with pointers to itself will invalidate them, which could cause undefined behavior.
 
-`Pin` was suggested in [RFC#2349](https://github.com/rust-lang/rfcs/blob/master/text/2349-pin.md). It was also well explained in the book [Futures Explained in 200 Lines of Rust.](https://cfsamson.github.io/books-futures-explained/4_pin.html)
+`Pin` was suggested in [RFC#2349](https://github.com/rust-lang/rfcs/blob/master/text/2349-pin.md). It was also well explained in the book [Futures Explained in 200 Lines of Rust.](https://cfsamson.github.io/books-futures-explained/5_pin.html)

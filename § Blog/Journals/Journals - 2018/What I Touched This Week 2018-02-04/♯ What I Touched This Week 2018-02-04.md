@@ -28,7 +28,7 @@ series:
 
 * [How To Digest Books Above Your “Level” And Increase Your Intelligence](https://medium.com/personal-growth/how-to-digest-books-above-your-level-and-increase-your-intelligence-a11bd134da13)
 * [Top 10 Elon Musk Productivity Secrets for Insane Success](https://medium.com/swlh/https-medium-com-dsilvestre-elon-musk-productivity-secrets-for-insane-success-7f033d98916b)
-* [How I Measure My Life – The Blog Of Darius Foroux – Medium](https://medium.com/darius-foroux/how-i-measure-my-life-d92c52368f90)
+* [How I Measure My Life – The Blog Of Darius Foroux – Medium](https://dariusforoux.com/how-i-measure-my-life/)
 * [How to biohack your intelligence — with everything from sex to modafinil to MDMA](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
 * [Plateau Kindle Before Peak Kindle – 500ish Words](https://500ish.com/plateau-kindle-before-peak-kindle-96f8948bd880)
 

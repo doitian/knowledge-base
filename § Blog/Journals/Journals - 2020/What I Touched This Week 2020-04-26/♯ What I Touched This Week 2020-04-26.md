@@ -56,7 +56,7 @@ I shared one link:
 ## Social
 
 * [58 | 一切烦恼都来自人际关系](https://mp.weixin.qq.com/s?__biz=MjM5NzEwNjA5Mg==&mid=2648672012&idx=1&sn=8550a3f304887e31b83fa7fb89e277b1&chksm=bef43fcf8983b6d99ea9b2fa9e45ba6fa410fc35e23791089fcf30476d9272ea9c07d86c1efc&token=223595660%E2%8C%A9=zh_CN)
-* [谈谈追求财富自由道路上的几个误区](https://www.youtube.com/watch?v=SfyalmV_B_k)
+* [谈谈追求财富自由道路上的几个误区](https://www.youtube.com/watch?v=VEjrYfAfcBs)
 * [How to sell a product that doesn't exist yet](https://zapier.com/blog/sell-a-product-that-doesnt-exist/)
 * [Coronavirus lessons from World War II - Vox](https://www.vox.com/2020/4/10/21214980/coronavirus-economy-jobs-ppe)
 * [为什么别人发钱我们却发消费券](https://mp.weixin.qq.com/s/aLuW6yF3bH8cy5R62bin6A)

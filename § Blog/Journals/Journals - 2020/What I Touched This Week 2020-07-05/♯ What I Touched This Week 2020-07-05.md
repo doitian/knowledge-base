@@ -7,7 +7,7 @@ series:
 
 # What I Touched This Week 2020-07-05
 
-I have read [幻夜](https://www.goodreads.com/review/show/3418312356?utm_medium=api&utm_source=rss).
+I have read [幻夜](https://www.goodreads.com/review/show/3418312356).
 
 <!--more-->
 

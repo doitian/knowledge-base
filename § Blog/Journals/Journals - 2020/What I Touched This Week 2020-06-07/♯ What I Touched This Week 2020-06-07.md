@@ -31,7 +31,7 @@ There are several major issues to use Linux on surface:
     gpg-connect-agent updatestartuptty /bye
     ```
 
-* [How to use a GPG key for SSH authentication | Linode](https://www.linode.com/docs/security/authentication/gpg-key-for-ssh-authentication/)
+* [How to use a GPG key for SSH authentication | Linode](https://www.linode.com/docs/guides/gpg-key-for-ssh-authentication/)
 
 ## Tech
 

@@ -13,7 +13,7 @@ title: 'Weekly Paper: Helix'
 
 #consensus #distributed-system
 
-[Orbs - Read the Helix Consensus Algorithm White Paper](https://orbs.com/helix-consensus-whitepaper/)
+[Orbs - Read the Helix Consensus Algorithm White Paper](https://www.orbs.com/introducing-helix-the-orbs-consensus-algorithm/)
 
 Hazel is a **Byzantine fault-tolerant** and **scalable** consensus algorithm for the fair ordering of transactions among nodes in a distributed network.
 

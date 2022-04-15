@@ -16,7 +16,7 @@ series:
 ## Blockchain
 
 * [A Beginner’s Guide: Private and Public Key Cryptography Deciphered](https://medium.com/coinmonks/private-and-public-key-cryptography-explained-simply-4c374d371736)
-* [Using Merklix tree to checkpoint an UTXO set | Deadalnix's den](https://www.deadalnix.me/2016/09/29/using-merklix-tree-to-checkpoint-an-utxo-set/)
+* [Using Merklix tree to checkpoint an UTXO set | Deadalnix's den](https://web.archive.org/web/20210612120011/https://www.deadalnix.me/2016/09/29/using-merklix-tree-to-checkpoint-an-utxo-set/)
 
 ## Posts
 

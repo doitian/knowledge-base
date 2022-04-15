@@ -22,7 +22,7 @@ series:
 
 - [Qt API设计原则 (译) | 酷 壳 - CoolShell](http://coolshell.cn/articles/18024.html)
 
-- [debian apt-get update：public key 错误修复 - NILYANG](https://my.oschina.net/lxrm/blog/466837)
+- [debian apt-get update：public key 错误修复 - NILYANG](https://web.archive.org/web/20151022045219/https://my.oschina.net/lxrm/blog/466837)
 
     ```
     apt-get install debian-keyring debian-archive-keyring
@@ -63,9 +63,9 @@ series:
 
 ## Misc
 
-- [The Stanley Parable：一场反设计与荒谬哲学的狂欢 - 知乎专栏](https://zhuanlan.zhihu.com/p/24265418?utm_content=bufferf48fc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [The Stanley Parable：一场反设计与荒谬哲学的狂欢 - 知乎专栏](https://zhuanlan.zhihu.com/p/24265418)
 
-- [A safe and accurate .gitignore for Unity3D (Unity5 onwards) | T-machine.org](http://t-machine.org/index.php/2017/08/03/a-safe-and-accurate-gitignore-for-unity3d-unity5-onwards/)
+- [A safe and accurate .gitignore for Unity3D (Unity5 onwards) | T-machine.org](https://web.archive.org/web/20171214032324/http://t-machine.org/index.php/2017/08/03/a-safe-and-accurate-gitignore-for-unity3d-unity5-onwards/)
 
 - [Powershell Cmdlets That'll Improve Your Windows Admin Skills](http://www.makeuseof.com/tag/powershell-cmdlets-windows-admin/)
 

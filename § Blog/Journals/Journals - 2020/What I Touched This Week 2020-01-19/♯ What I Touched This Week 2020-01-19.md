@@ -70,4 +70,4 @@ I have finished the first week and read the material
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) Maintain a wiki using
     Vim.
 - [T1 | t1lang.github.io](https://t1lang.github.io) A programming language may be suitable used in embedded environment.
-- [Generative Placeholders](https://generative-placeholders.glitch.me/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter&utm_content=01-07-20)
+- [Generative Placeholders](https://generative-placeholders.glitch.me/)

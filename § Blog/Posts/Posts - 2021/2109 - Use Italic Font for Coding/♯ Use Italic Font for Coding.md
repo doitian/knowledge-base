@@ -14,7 +14,7 @@ It’s funny to see those handwriting like italic characters while coding, so I 
 <!--more-->
 
 [Noctis]: https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
-[Cartograph CF]: https://connary.com/[cartograph.html](cartograph.html)
+[Cartograph CF]: https://connary.com/cartograph.html
 
 For Visual Studio Code, I use Noctis. But it uses too much italic style, which decreases the readability. Here are my customizations:
 
@@ -122,7 +122,7 @@ command! ItalicDisable call s:Italic(0)
 
 The last tool is [Obsidian], I use the CSS snippet to customize the appearance:
 
-[Obsidian]: [https://obsidian.md/](https://obsidian.md/)
+[Obsidian]: https://obsidian.md/
 
 ```css
 :root {

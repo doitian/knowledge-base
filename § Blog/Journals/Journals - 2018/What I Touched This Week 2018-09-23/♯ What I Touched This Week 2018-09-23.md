@@ -22,7 +22,7 @@ series:
 
 <!--more-->
 
-* [Identity and Reputation in Web 3](https://sinahab.com/2018/09/identity-and-reputation-in-web-3/)
+* [Identity and Reputation in Web 3](https://sinahab.com/identity-and-reputation-in-web-3/)
 * [On Linus Torvalds, technical & corporate communications • ds9a.nl articles](https://ds9a.nl/articles/posts/linus-communications/)
 * [GitHub的中国乱象：刷星、高仿、骂街和版聊-PingWest 品玩](https://www.pingwest.com/a/177413)
 * [如何点亮你的人生技能树：《斜杠青年》读书笔记 - 少数派](https://sspai.com/post/47122)

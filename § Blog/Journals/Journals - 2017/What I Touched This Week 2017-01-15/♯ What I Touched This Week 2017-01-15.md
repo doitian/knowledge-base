@@ -33,7 +33,6 @@ There is a gotcha to register tolua bindings in AppDelegate.cpp in Quick Communi
 
 ## Misc
 
-- 腾讯 Bugly 提供的 [Android SDK 代理][3]
 - [MSDN, 我告诉你][4] 要下载微软老版本的开发工具可以来这找
 - Use https proxy in Emacs
 
@@ -41,6 +40,5 @@ There is a gotcha to register tolua bindings in AppDelegate.cpp in Quick Communi
         emacs -nw --insecure
 
 [1]:    http://stackoverflow.com/a/6142700/667158
-[2]:    http://gad.qq.com/article/detail/7182056
-[3]:    http://android-mirror.bugly.qq.com:8080
+[2]:    https://gameinstitute.qq.com/community/detail/111993
 [4]:    http://msdn.itellyou.cn/

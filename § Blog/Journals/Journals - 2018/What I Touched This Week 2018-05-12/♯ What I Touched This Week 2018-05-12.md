@@ -12,7 +12,7 @@ series:
 
     Only use Rust in proper components.
 
-* [根域名的知识 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/05/root-domain.html?utm_campaign=digest&utm_medium=email&utm_source=nuzzel)
+* [根域名的知识 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/05/root-domain.html)
 * [One Decision Separates The Wealthy From The Non-Wealthy](https://medium.com/thrive-global/want-automatic-motivation-and-wealth-do-this-one-thing-immediately-7ae22a88731c)
 * [区块链上无民主](https://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODkzMw%3D%3D&chksm=fe42080cc935811a131e4205cf12d1b7e9b9003a20a96799eefc3a5bdeca82d3214ea4135164&idx=1&mid=2247484182&mpshare=1&scene=1&sn=2796988d47aa6da3d0a8f55e01872a0a&srcid=0504Df0qbuLvCTGlTdjVMsDb%23rd)
 
@@ -34,4 +34,4 @@ series:
 
     分析腾讯为什么失去了创新能力，变成了一家投资公司
 
-* [Why founders need hobbies - Baremetrics](https://baremetrics.com/blog/why-founders-need-hobbies?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+* [Why founders need hobbies - Baremetrics](https://baremetrics.com/blog/why-founders-need-hobbies)

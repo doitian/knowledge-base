@@ -21,7 +21,7 @@ series:
 
 ## Papers
 
-* [Tezos: A Self-Amending Crypto-Ledger Position Paper](https://tezos.com/pdf/position_paper.pdf)
+* [Tezos: A Self-Amending Crypto-Ledger Position Paper](https://wiki.tezosagora.org/positionpaper)
 
 ## Bookmarks
 

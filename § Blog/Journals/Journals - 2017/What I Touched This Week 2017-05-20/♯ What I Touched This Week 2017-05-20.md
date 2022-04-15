@@ -19,7 +19,7 @@ series:
 
 - ..., and it is [offically supported in Android Development](http://marketingland.com/google-io-2-214945).
 
-- [The Horror in the Standard Library](https://www.zerotier.com/blog/2017-05-05-theleak.shtml)
+- [The Horror in the Standard Library](https://www.zerotier.com/2017/05/05/the-horror-in-the-standard-library/)
 
     libstdc++ is broken. Set GLIBCPP_FORCE_NEW, link jemalloc
 
@@ -54,7 +54,7 @@ series:
 
 - [Kawoou/FlexibleImage: A simple way to play with the image!](https://github.com/Kawoou/FlexibleImage) Swift image library.
 - [dgraph-io/badger: Fastest key/value store in Go.](https://github.com/dgraph-io/badger)
-- [Aerobatic - Professional static web publishing](https://www.aerobatic.com/). Easy static web hosting solution.
+- [Aerobatic - Professional static web publishing](https://github.com/aerobatic). Easy static web hosting solution.
 - [Siege Home](https://www.joedog.org/siege-home/). An HTTP benchmark tool.
 - [lovoo/goka: Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.](https://github.com/lovoo/goka)
 - [zetcd: running ZooKeeper apps without ZooKeeper | CoreOS](https://coreos.com/blog/introducing-zetcd). Proxy of etcd that acts as ZooKeeper server.
@@ -62,5 +62,5 @@ series:
 
 ## Misc
 
-- [How a Blind Developer uses Visual Studio - YouTube](https://www.youtube.com/watch?v=iWXebEeGwn0)
+- [How a Blind Developer uses Visual Studio - YouTube](https://www.youtube.com/watch?v=94swlF55tVc)
 - [Rust turns Two](https://blog.rust-lang.org/2017/05/15/rust-at-two-years.html)

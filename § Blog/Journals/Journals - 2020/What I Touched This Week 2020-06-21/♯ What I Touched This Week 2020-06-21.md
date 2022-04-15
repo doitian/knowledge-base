@@ -157,7 +157,7 @@ I'm recently working in Windows, so I take many notes about setting up the Windo
 
 ┌ Productivity
 
-* [How to Scroll Horizontally?](https://support.meistertask.com/hc/en-us/articles/115000064550-How-to-Scroll-Horizontally-#:~:text=You%20can%20use%20the%20keyboard,the%20left%20or%20the%20right.)
+* [How to Scroll Horizontally?](https://support.meistertask.com/hc/en-us/articles/360015778780-How-do-I-scroll-horizontally-in-a-project-)
 
     I have switched to Logitech Trackball recently and it has no horizontal scroll wheel.
 
@@ -229,7 +229,3 @@ I'm recently working in Windows, so I take many notes about setting up the Windo
 * [Welcome! | minikube](https://minikube.sigs.k8s.io/docs/), a devops tool.
 * [搭建家庭数据管理中心：QNAP NAS 应用指南](https://sspai.com/post/60856)
 * [用开源免费的内网穿透工具 frp，实现远程桌面和文件传输](https://sspai.com/post/60852)
-
-## Funny
-
-* [快手模仿《后浪》搞了个《看见》，冬泳怪鸽主讲：加油奥利给！](https://www.youtube.com/watch?v=x54hX1RqEVU)

@@ -33,7 +33,7 @@ series:
 
 ## Misc
 
-* [What is it like to be a dev in Iran | Shahin Sorkh’s Blog](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran?utm_campaign=Wanqu)
+* [What is it like to be a dev in Iran | Shahin Sorkh’s Blog](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 * [不小心将 U 盘抹成 APFS 格式，应该如何恢复？ | 一日一技 - 少数派](https://sspai.com/post/55703)
 * [在电脑上体验 Android 应用，你可以试试 Fyde OS - 少数派](https://sspai.com/post/56068)
 * [要在《乐队的夏天》翻唱一首歌，怎么处理版权才能不侵权？ - 少数派](https://sspai.com/post/55822)

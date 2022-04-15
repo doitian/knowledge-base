@@ -177,7 +177,7 @@ Recommended in the last week:
 
 * [Timeful Texts](https://numinous.productions/timeful/)
 
-    Book designed with [spaced repetition memory systems](https://augmentingcognition.com/ltm.html) in mind.
+    Book designed with [spaced repetition memory systems](https://en.wikipedia.org/wiki/Spaced_repetition) in mind.
 
 * [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 

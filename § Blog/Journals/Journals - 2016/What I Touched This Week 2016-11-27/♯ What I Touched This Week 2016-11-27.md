@@ -99,10 +99,10 @@ This week I worked on syslog integration in [skynet][1] and delve into details o
 [4]: https://github.com/3pjgames/terraform-provider-dnspod
 [5]: http://serverfault.com/questions/615641/how-can-i-selectively-override-some-a-records-on-a-bind-dns-server/615684
 [6]: http://dockone.io/article/667
-[7]: http://www.afewmorelines.com/backing-up-your-minions-databases-to-the-salt-master/
+[7]: https://web.archive.org/web/20170121012541/http://www.afewmorelines.com/backing-up-your-minions-databases-to-the-salt-master/
 [8]: https://medium.com/@doitian/bear-%E6%8E%A5%E8%BF%91%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E7%AC%94%E8%AE%B0%E5%BA%94%E7%94%A8-27c511af778c#.tdynedo3q
 [9]: https://github.com/tj/git-extras
 [10]: https://github.com/tpope/vim-eunuch
 [11]: https://blog.bugsnag.com/benefits-of-using-tmux/
 [12]: http://applehelpwriter.com/2014/07/13/how-to-remove-googles-secret-update-software-from-your-mac/
-[13]: https://m.signalvnoise.com/a-shining-example-of-how-to-teach-91b718009b33#.mtftvl7ku
+[13]: https://web.archive.org/web/20170505012341/https://m.signalvnoise.com/a-shining-example-of-how-to-teach-91b718009b33

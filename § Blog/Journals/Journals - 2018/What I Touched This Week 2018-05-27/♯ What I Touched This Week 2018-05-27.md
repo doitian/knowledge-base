@@ -20,7 +20,7 @@ series:
     
             watchexec -w app -w config -p reload-chrome
 
-* [Devops Security Checklist | Sqreen](http://www.sqreen.io/checklists/devops-security-checklist.html)
+* [Devops Security Checklist | Sqreen](https://doitian.notion.site/The-DevOps-Security-Checklist-ed9b5125ff7945e3b3b4ffa9e6643131)
 
     Best practices to check security before release.
 

@@ -10,7 +10,7 @@ series:
 
 ## Tech Readings
 
-* [区块链里的 “Oracle”是什么？](http://www.bitecoin.com/online/2018/01/28850.html)
+* [区块链里的 “Oracle”是什么？](https://web.archive.org/web/20180905083904/http://www.bitecoin.com/online/2018/01/28850.html)
 * [Fundamental challenges with public blockchains – Preethi Kasireddy](https://medium.com/@preethikasireddy/fundamental-challenges-with-public-blockchains-253c800e9428)
 
     List of challenges and research directions.

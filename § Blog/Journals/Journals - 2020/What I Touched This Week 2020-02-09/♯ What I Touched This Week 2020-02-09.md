@@ -71,12 +71,12 @@ series:
     Over a third of the U.S. population uses voice assistants like Alexa, Siri, or Google Assistant to accomplish everyday tasks like checking calendars, getting...
 -   [NP (complexity) - Wikipedia](https://en.wikipedia.org/wiki/NP_(complexity))
 -   [NP-completeness - Wikipedia](https://en.wikipedia.org/wiki/NP-completeness)
--   [Sublinear function - Wikipedia](https://en.wikipedia.org/wiki/Sublinear_function?oldformat=true)
+-   [Sublinear function - Wikipedia](https://en.wikipedia.org/wiki/Sublinear_function)
 -   [Your brain isn't a computer, and that's a good thing ](https://zapier.com/blog/you-are-not-a-machine/)
     You are not a machine---and that's a good thing. You can do things, right now, that no machine ever could. And I'm not talking about mushy stuff like loving your...
     -   "You can't run faster than a car, or swim faster than a motorboat. It's so obvious that we don't think to compare runners to cars or swimmers to boats. We compare ourselves to computers all the time, though, which causes us to miss the ways in which our minds are different."
 -   [How containers changed the world](https://dev.to/heroku/how-containers-changed-the-world-1jip)
--   [The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html?utm_source=Iterable)
+-   [The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html)
 
 # References
 -   [Custom Vim Functions to Format Your Text ](https://www.bobbywlindsey.com/2017/07/30/vim-functions/)

@@ -31,7 +31,7 @@ series:
 
     Learn by doing tutorials.
 
-* [Devops Security Checklist | Sqreen](https://www.sqreen.com/checklists/devops-security-checklist.html)
+* [Devops Security Checklist | Sqreen](https://doitian.notion.site/The-DevOps-Security-Checklist-ed9b5125ff7945e3b3b4ffa9e6643131)
 * [Visual Studio Live Share | Visual Studio](https://www.visualstudio.com/services/live-share/)
 
     Pair programming tool.

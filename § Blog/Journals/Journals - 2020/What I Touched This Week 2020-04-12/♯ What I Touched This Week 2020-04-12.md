@@ -41,7 +41,7 @@ I have published a post about [[♯ Rust Pin]].
 ## Productivity
 
 -   [The 13 Most Impactful Things Teams Can Do To Stay Productive While Working From Home](https://doist.com/blog/work-from-home-advice/)
--   [A practical guide to writing technical specs - Stack Overflow Blog](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
+-   [A practical guide to writing technical specs - Stack Overflow Blog](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 -   [互联网与我的生活｜我用这些方法夺回被侵占的注意力 - 少数派](https://sspai.com/post/59606)
 
 ## Technology

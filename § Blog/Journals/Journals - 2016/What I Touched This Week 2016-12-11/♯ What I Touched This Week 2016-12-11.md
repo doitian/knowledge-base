@@ -93,7 +93,7 @@ Check a value is in array in zsh:
 [7]:    https://github.com/doitian/dotfiles/blob/master/bin/tt
 [8]:    https://github.com/zsh-users/zsh-completions
 [9]:    http://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck
-[10]:   http://kotojs.org/
+[10]:   https://github.com/kotojs/kotojs
 [11]:   https://github.com/edvin/tornadofx
 [12]:   https://www.alfredapp.com/help/workflows/inputs/script-filter/json/
 [13]:   https://peteris.rocks/blog/htop/

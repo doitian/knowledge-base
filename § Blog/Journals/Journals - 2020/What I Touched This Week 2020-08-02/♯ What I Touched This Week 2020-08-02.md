@@ -76,6 +76,6 @@ I was reading Leading Snowflakes and posts from [Forte Labs](https://fortelabs.c
 ## Bookmarks
 
 * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/), creating diagrams from plain text.
-* [Make better decisions](https://www.ruminate.io/?utm_source=untools.co&utm_medium=email), decision matrix
-* [LOOPY: a tool for thinking in systems](https://ncase.me/loopy/?utm_source=untools.co&utm_medium=email)
-* [Mozilla VPN: Protect Your Entire Device](https://vpn.mozilla.org/?utm_medium=email&utm_source=2020fxatips-en&utm_campaign=july2020&utm_content=vpn)
+* [Make better decisions](https://www.ruminate.io/), decision matrix
+* [LOOPY: a tool for thinking in systems](https://ncase.me/loopy/)
+* [Mozilla VPN: Protect Your Entire Device](https://vpn.mozilla.org/)

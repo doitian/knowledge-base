@@ -11,7 +11,7 @@ title: 使用 Docker 部署 Concourse CI
 
 #docker #ci
 
-[Concourse CI](https://concourse.ci) 是个很不错的开源持续集成工具，安装和上手都相当简单。如果没有在用 Gitlab 又想自己架设 CI 服务的话是个不错的选择。
+[Concourse CI](https://concourse-ci.org/) 是个很不错的开源持续集成工具，安装和上手都相当简单。如果没有在用 Gitlab 又想自己架设 CI 服务的话是个不错的选择。
 
 Concouse CI 提供了 Docker 镜像，部署起来相当方便。不过可能会踩到一些坑。
 
@@ -29,7 +29,7 @@ Concouse CI 提供了 Docker 镜像，部署起来相当方便。不过可能会
 
     lookup registry-1.docker.io on 127.0.0.11:53: read udp 127.0.0.1:54286->127.0.0.11:53: read: connection refused
 
-这个问题可以在[官方 Compose 示例](https://concourse.ci/installing.html)的基础上配置下 DNS。为保险可以为 `concourse-web` 和 `concourse-worker` 都配置上自定义 DNS，并且在 `concourse-worker` 里配置下环境变量 `CONCOURSE_GARDEN_DNS_SERVER`[^2]。
+这个问题可以在[官方 Compose 示例](https://concourse-ci.org/install.html)的基础上配置下 DNS。为保险可以为 `concourse-web` 和 `concourse-worker` 都配置上自定义 DNS，并且在 `concourse-worker` 里配置下环境变量 `CONCOURSE_GARDEN_DNS_SERVER`[^2]。
 
 如果使用云主机一般提供了内网用的 DNS 服务器，可以随便登录一台查看下 `/etc/resolv.conf` 然后替换下面例子中使用的公共 DNS 地址 `8.8.8.8` 和 `8.8.4.4`。
 

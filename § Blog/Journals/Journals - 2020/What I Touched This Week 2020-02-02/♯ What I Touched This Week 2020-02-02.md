@@ -50,7 +50,7 @@ test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 
     Why Mist team no longer builds a single app
 
--   [以太坊二层扩容之路：Plasma 衰落与 Rollup 崛起 - 链闻 ChainNews](https://www.chainnews.com/articles/321827333242.htm)
+-   [以太坊二层扩容之路：Plasma 衰落与 Rollup 崛起 - 链闻 ChainNews](https://medium.com/dragonfly-research/the-life-and-death-of-plasma-b72c6a59c5ad)
 
     -   "第一个问题是， 每个用户 必须监控和验证 Plasma MVP 链上的所有交易，以检测恶意运营商的行为并及时退出。然而，事务验证成本高昂，并且这种监视需求为参与 Plasma 链增加了大量开销。"
 
@@ -65,8 +65,6 @@ test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 -   [Complexity of the Basic Reproduction Number (R0) - Volume 25, Number 1---January 2019 - Emerging Infectious Diseases journal - CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article)
 
 -   [新型冠状病毒的来龙去脉](https://pic1cdn.luojilab.com/html/p/w42LM6M/rrpKM7BV4XIWLK3l8z2q.html?from=timeline&isappinstalled=0)
-
--   [关于印发新型冠状病毒感染的肺炎诊疗方案（试行第三版）的通知](http://www.nhc.gov.cn/xcs/zhengcwj/202001/f492c9153ea9437bb587ce2ffcbee1fa.shtml)
 
 -   [试剂盒困局：为何确诊这么难？](https://mp.weixin.qq.com/s/Xq7jT0ErmFsIXZY5m3xoNQ)
 
@@ -114,7 +112,7 @@ test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 
     That's right, I'm that guy that reads a book multiple times. The first time I go through because I'm excited and inspired about some topic, and I don't want to lose the momentum by putting the book down --- without regard for the author's advice to do just that.
 
--   [Technical Debt Is like a Tetris Game - Fluent C++](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter&utm_content=01-22-20)
+-   [Technical Debt Is like a Tetris Game - Fluent C++](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/)
 
 -   [Goodbye, Clean Code ](https://overreacted.io/goodbye-clean-code/)
 
@@ -130,15 +128,15 @@ test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 
 -   [NP-completeness - Wikiwand](https://www.wikiwand.com/en/NP-completeness)
 
-    -   "A problem is said to be [NP-hard](https://www.diigo.com/en/NP-hard) if everything in NP can be transformed in polynomial time into it, and a problem is NP-complete if it is both in NP and NP-hard."
+    -   "A problem is said to be [NP-hard](https://www.wikiwand.com/en/NP-hard) if everything in NP can be transformed in polynomial time into it, and a problem is NP-complete if it is both in NP and NP-hard."
 
 -   [NP (complexity) - Wikiwand](https://www.wikiwand.com/en/NP_(complexity))
 
-    -   "NP is the [set](https://www.diigo.com/en/Set_(mathematics)) of decision problems for which the [problem instances](https://www.diigo.com/en/Computational_complexity_theory#Problem_instances), where the answer is "yes", have [proofs](https://www.diigo.com/en/Mathematical_proof) verifiable in [polynomial time](https://www.diigo.com/en/Polynomial_time)."
+    -   "NP is the [set](https://www.wikiwand.com/en/Set_(mathematics)) of decision problems for which the [problem instances](https://www.wikiwand.com/en/Computational_complexity_theory#Problem_instances), where the answer is "yes", have [proofs](https://www.wikiwand.com/en/Mathematical_proof) verifiable in [polynomial time](https://www.wikiwand.com/en/Polynomial_time)."
 
         There exists a verifier which can checks a solution is correct in polynomial time.
 
-    -   "the complexity class [co-NP](https://www.diigo.com/en/Co-NP) for which the answer "no" can be verified in polynomial time."
+    -   "the complexity class [co-NP](https://www.wikiwand.com/en/Co-NP) for which the answer "no" can be verified in polynomial time."
 
         Verifier which checks the answer is wrong in polynomial time
 

@@ -49,11 +49,10 @@ Replace "appnamehere" with the name of the app as it appears in the Accessibilit
 
 ## Misc
 
-* [A Javascript journey with only six characters][12] Create a Turing machine using only six characters `[`,`]`,`(`,`)`,`+` and `!`.
 * [Dash and Apple: My Side of the Story][13] A popular app for developer has been [removed from apple store][14], and here is the story from the author.
 
-[1]:    http://gad.qq.com/article/detail/7171237?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-[2]:    https://code.facebook.com/posts/1840075619545360?utm_campaign=digest&utm_medium=email&utm_source=app
+[1]:    https://www.cnblogs.com/zhouyuanzhong/p/6296193.html
+[2]:    https://code.facebook.com/posts/1840075619545360
 [3]:    https://blog.codeship.com/a-review-of-immutability-in-ruby/
 [4]:    http://www.theverge.com/tldr/2016/9/25/12284400/how-to-read-more-books
 [5]:    https://discussions.apple.com/thread/5522241?tstart=0
@@ -63,6 +62,5 @@ Replace "appnamehere" with the name of the app as it appears in the Accessibilit
 [9]:    http://launchpadmanager.com/
 [10]:   http://www.yingdev.com/projects/tickeys
 [11]:   https://github.com/docopt/docopt
-[12]:   http://jazcash.com/a-javascript-journey-with-only-six-characters/
-[13]:   https://blog.kapeli.com/dash-and-apple-my-side-of-the-story?utm_campaign=digest&utm_medium=email&utm_source=app
+[13]:   https://blog.kapeli.com/dash-and-apple-my-side-of-the-story
 [14]:   https://blog.kapeli.com/apple-removed-dash-from-the-app-store#what-happened

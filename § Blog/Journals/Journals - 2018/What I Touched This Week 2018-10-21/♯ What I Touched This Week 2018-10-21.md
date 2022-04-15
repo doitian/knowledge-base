@@ -20,7 +20,7 @@ series:
 
 ## Other Readings
 
-* [Disappearing videos and disappointed grandmothers](https://rachelbythebay.com/w/2018/10/05/recipes/)
+* [Disappearing videos and disappointed grandmothers](https://web.archive.org/web/20200203175320/https://rachelbythebay.com/w/2018/10/05/recipes/)
 
     Videos are deleted and nobody noticed it.
 
