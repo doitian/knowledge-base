@@ -57,7 +57,6 @@ This week I mainly worked on setting up monitoring system using prometheus and g
   - [Image Recognition in Mobile Game Testing][4]
   - [《腾讯Android自动化测试实战》][5] 也有在测试中使用 OpenCV 做图像识别的例子。
 - [如何做一款有趣有毒的游戏：独立团队 Laser Dog 新游戏的幕后故事 - 少数派][6]
-- [Groundera — Indie books by entrepreneurs][7]
 
 
 [1]:  https://github.com/graylog-labs/graylog-plugin-slack/blob/master/src/main/java/org/graylog2/plugins/slack/output/SlackMessageOutput.java
@@ -66,4 +65,3 @@ This week I mainly worked on setting up monitoring system using prometheus and g
 [4]:  http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/
 [5]:  https://item.jd.com/11985901.html
 [6]:  http://sspai.com/36392
-[7]:  https://groundera.com/
