@@ -31,8 +31,8 @@ This week I have worked on Lua API of Sentry using its Objective-C and Android c
 - [Iris](https://docs.iris-go.com/iris/), A go web framework.
 - In Lua, following two statements are identicated:
 
-        require “xx.” .. foo
-        (require “xx.”) .. foo
+        require "xx." .. foo
+        (require "xx.") .. foo
 
 
 - 写了篇[游戏分享：Shenzhen IO](/zh/games/2017/02/shenzhen-io/)。花了一个多月备案，现在放在腾讯云上，改成了用 Hugo，加上了英文，中文多语言支持。      

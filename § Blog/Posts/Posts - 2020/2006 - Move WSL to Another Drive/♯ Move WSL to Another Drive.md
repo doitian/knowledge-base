@@ -10,7 +10,7 @@ Following example moves the Ubuntu distribution to disk `D:\WSL\Ubuntu`.
 
 <!--more-->
 
-**Step 1**. Install Ubuntu in the store. Launch it to initialize the default instance. Create the user used in Ubuntu as prompted.
+**Step 1**. Install Ubuntu in the Microsoft Store. Launch it to initialize the default instance. Create the user used in Ubuntu as prompted.
 
 **Step 2**. Export the instance and import into the target directory.
 
@@ -26,7 +26,13 @@ wsl --import Ubuntu Ubuntu ubuntu.tar
 
 The commands above also unregister the default instance.
 
-Now it is also OK to uninstall Ubuntu.
+Command explanation:
+
+- `wsl --export Ubuntu ubuntu.tar`: Export the WSL instance with name `Ubuntu` into the file `ubuntu.tar` in the current directory.
+- `wsl --unregister Ubuntu`: Unregister the WSL instance with name `Ubuntu`.
+- `wsl --import Ubuntu Ubuntu ubuntu.tar`
+
+Now it is also OK to uninstall Ubuntu in the store.
 
 **Step 3**. Set the default user for the moved Ubuntu.
 

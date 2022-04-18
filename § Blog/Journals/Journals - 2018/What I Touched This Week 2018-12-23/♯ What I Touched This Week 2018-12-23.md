@@ -20,7 +20,7 @@ series:
 
     > `sed -i.bak`
 
-* [“阿波罗“登月中的工程管理一瞥](https://mp.weixin.qq.com/s/-u0TtSBA5EynVpTkuSVdog)
+* [“阿波罗”登月中的工程管理一瞥](https://mp.weixin.qq.com/s/-u0TtSBA5EynVpTkuSVdog)
 
     需要对项目管理做下反思，感觉确实是披着敏捷的皮，实际上是佛系管理，做到哪算
     哪儿。

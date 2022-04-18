@@ -67,7 +67,7 @@ Check a value is in array in zsh:
 * `${v[(r)value]}` returns value if it is in array, returns empty otherwise
 
 ```
-[ “${array[(i)value]}” -le “${#array[@]}” ]
+[ "${array[(i)value]}" -le "${#array[@]}" ]
 ```
 
 [zsh-users/zsh-completions: Additional completion definitions for Zsh][8] is a good getting started manual for zsh completion. Helper `_arguments` is enough for most simple command completion.

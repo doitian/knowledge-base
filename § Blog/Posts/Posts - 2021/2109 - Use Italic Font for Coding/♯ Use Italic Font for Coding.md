@@ -20,16 +20,16 @@ For Visual Studio Code, I use Noctis. But it uses too much italic style, which d
 
 ```json
 {
-  “editor.tokenColorCustomizations”: {
-    “[Noctis]”: {
-      “textMateRules”: [
+  "editor.tokenColorCustomizations": {
+    "[Noctis]": {
+      "textMateRules": [
         {
-          “scope”: “markup.list”,
-          “settings”: { “fontStyle”: “” }
+          "scope": "markup.list",
+          "settings": { "fontStyle": "" }
         },
         {
-          “scope”: “text.markdown.notes.tag”,
-          “settings”: { “fontStyle”: “italic” }
+          "scope": "text.markdown.notes.tag",
+          "settings": { "fontStyle": "italic" }
         }
       ]
     }
@@ -45,13 +45,13 @@ It's handy to inspect the syntax highlight scope under cursor using the command 
 In macOS Terminal, I can use the escape code `\e[3m` to enable italic and `\e[23m` to reset.
 
 ```bash
-printf “\e[3mitalic\e[23m”
+printf "\e[3mitalic\e[23m"
 ```
 
 Or using echo
 
 ```bash
-echo “^[[3mitalic^[[23m”
+echo "^[[3mitalic^[[23m"
 ```
 
 Where the `^[` is indeed how the terminal displays Esc. One way to insert Esc is via `Ctrl-v Esc`.
@@ -61,20 +61,20 @@ I switched to [starship] recently, so I don't need to bother setting up the ital
 [starship]: https://starship.rs/
 
 ```toml
-format = “[$all](italic)”
+format = "[$all](italic)"
 
 [directory]
-format = ‘[%\(4~|%-1~/…/%2~|%~\)]($style)[$read_only]($read_only_style) ‘
+format = '[%\(4~|%-1~/…/%2~|%~\)]($style)[$read_only]($read_only_style) '
 
 [git_branch]
-symbol = “±”
-style = “purple bold italic”
+symbol = "±"
+style = "purple bold italic"
 
 [status]
 disabled = false
 
 [nodejs]
-symbol = ‘🤖 ‘
+symbol = '🤖 '
 ```
 
 I changed the nodejs symbol, because Cartograph CF has no the nerd font icons.
@@ -82,19 +82,19 @@ I changed the nodejs symbol, because Cartograph CF has no the nerd font icons.
 I'm a heavy user of tmux, it's tricky to enable italics in tmux. The secret is setting `default-terminal` to tmux.
 
 ```bash
-set -g default-terminal “tmux”
+set -g default-terminal "tmux"
 ```
 
 Then set back the terminal to `xterm-256color` via `default-command` because macOS Terminal does not understand what is the *tmux* terminal.
 
 ```bash
-set -g default-command “env TERM=xterm-256color zsh”
+set -g default-command "env TERM=xterm-256color zsh"
 ```
 
 I only configure the session name to be italic.
 
 ```bash
-set -g status-left “#[fg=white,bg=colour31,nobold,italics] #S ”
+set -g status-left "#[fg=white,bg=colour31,nobold,italics] #S "
 ```
 
 I cannot find a cross-platform way to show italic font in vim, so I manually enable it when I want to see the funny italic characters in the comment:
@@ -104,13 +104,13 @@ function! s:Italic(enable)
   if a:enable
     hi Comment cterm=italic gui=italic
     hi Folded cterm=italic gui=italic
-    let &t_ZH = “\e[3m”
-    let &t_ZR = “\e[23m”
+    let &t_ZH = "\e[3m"
+    let &t_ZR = "\e[23m"
   else
     hi Comment cterm=none gui=none
     hi Folded cterm=none gui=none
-    let &t_ZH = ‘’
-    let &t_ZR = ‘’
+    let &t_ZH = ''
+    let &t_ZR = ''
   endif
 endfunction
 
@@ -126,7 +126,7 @@ The last tool is [Obsidian], I use the CSS snippet to customize the appearance:
 
 ```css
 :root {
-  --font-monospace: ‘Cartograph CF’, monospace;
+  --font-monospace: 'Cartograph CF', monospace;
 }
 
 .cm-meta, .cm-hmd-frontmatter, .tag, .image-embed[alt]:after {

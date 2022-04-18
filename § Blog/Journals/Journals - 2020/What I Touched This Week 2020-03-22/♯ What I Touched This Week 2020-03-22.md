@@ -80,7 +80,7 @@ I shared
 -   [Hao Chen (@haoel):](https://twitter.com/haoel/status/1240503475504418816) 疫情在全世界爆发后，总会看到嘲笑别国的做法的观点，觉得别国都应该来抄中国的作业。 我们前期的失误，其实是需要反思的。 而我们后期的有效，别的国家也是学不来的——体制和国情不同。 何况，这是场灾难。 不管是嘲笑别国疫情蔓延，还是猛夸自己国家棒，其实都是对灾难和逝者的亵渎。 —— 张文宏
 -   [Recognizing Ignaz Semmelweis and Handwashing](https://www.youtube.com/watch?v=h8OX0FNWANM)
     Today’s Doodle follows the official guidelines on how to properly wash your hands from the World Health Organization.
--   [@doitian: RT @mranti: 美国国务卿彭佩奥是自川普之后，又一个美国政客正式称呼新冠病毒为Chinese Virus。我觉得大家得记着这些名字，我们在中国抨击自己政府错误的同时，也别忘了是哪些美国人以种族主义攻击我们。我们学习和尊重美国，是因为马丁路德金、肯尼迪和“纽约时报 vs…](https://twitter.com/doitian/status/1241163178114834432)
+-   [@doitian: RT @mranti: 美国国务卿彭佩奥是自川普之后，又一个美国政客正式称呼新冠病毒为Chinese Virus。我觉得大家得记着这些名字，我们在中国抨击自己政府错误的同时，也别忘了是哪些美国人以种族主义攻击我们。我们学习和尊重美国，是因为马丁路德金、肯尼迪 …](https://twitter.com/doitian/status/1241163178114834432)
 
 ## Funny
 

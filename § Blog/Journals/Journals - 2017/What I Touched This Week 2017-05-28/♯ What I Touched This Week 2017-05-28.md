@@ -44,7 +44,7 @@ series:
 
     国内现状分析和前景展望。体量大，发展晚。
 
-- [游戏中的”成长感“设计 The New Face In Entertainment - 知乎专栏](https://zhuanlan.zhihu.com/p/27130622)
+- [游戏中的“成长感”设计 The New Face In Entertainment - 知乎专栏](https://zhuanlan.zhihu.com/p/27130622)
 
     - 玩法技巧成长感
     - 游戏设计的成长感

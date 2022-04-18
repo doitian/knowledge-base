@@ -70,7 +70,7 @@ Recommended in the last week:
 
 * [Code review – from good to great](https://sizovs.net/2020/07/19/the-code-review/)
 
-    In a team I sat next to, a junior developer asked a senior to conduct code review for a newly completed feature. According to the process, that Senior had to approve all changes going to production. Here is how it went: Senior: “No, I am busy.
+    In a team I sat next to, a junior developer asked a senior to conduct code review for a newly completed feature. According to the process, that Senior had to approve all changes going to production. Here is how it went: Senior: “No, I am busy.”
 
 ## Software Development
 
