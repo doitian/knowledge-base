@@ -28,9 +28,9 @@ The commands above also unregister the default instance.
 
 Command explanation:
 
-- `wsl --export Ubuntu ubuntu.tar`: Export the WSL instance with name `Ubuntu` into the file `ubuntu.tar` in the current directory.
+- `wsl --export Ubuntu ubuntu.tar`: Export the WSL instance with name `Ubuntu` into the file `ubuntu.tar` in the current directory. So you will get the file `D:\WSL\ubuntu.tar`.
 - `wsl --unregister Ubuntu`: Unregister the WSL instance with name `Ubuntu`.
-- `wsl --import Ubuntu Ubuntu ubuntu.tar`
+- `wsl --import Ubuntu Ubuntu ubuntu.tar`: The first `Ubuntu` is the new created instance name. The second `Ubuntu` is the instance saved location. The last parameter is the file created by `wsl --export`. This will import `ubuntu.tar` and use `D:\WSL\Ubuntu` to save the WSL instance data.
 
 Now it is also OK to uninstall Ubuntu in the store.
 
