@@ -27,6 +27,7 @@ if not file.exists():
     fout.write(f"""---
 date: '{now.strftime("%FT%T%z")}'
 draft: true
+aliases: ["{title}"]
 ---
 
 # {title}

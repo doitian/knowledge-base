@@ -22,7 +22,11 @@ os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
   with open(file, 'w') as fout:
-    fout.write(f"""# {title}
+    fout.write(f"""---
+aliases: ["{title}"]
+---
+
+# {title}
 """)
 
 print(file)
