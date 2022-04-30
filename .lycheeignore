@@ -10,3 +10,4 @@ https:/\[
 ^https://gitlab\.com/api/v3/projects/ID
 ^https://www.canva.cn/$
 ^https://www.canva.com/$
+/%7Bdistro%7D/

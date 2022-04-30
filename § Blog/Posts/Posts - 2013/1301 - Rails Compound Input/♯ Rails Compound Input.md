@@ -100,12 +100,10 @@ The form view just needs set correct name:
 
 ## fields_for
 
-`fields_for` is usually used to embed associations in
-form. However,
-
-> all it required was a method to return the named attribute, and then a
-> `<field>_attributes=` writer to interpret the hash on the other side.
-> <small>[Compound Attributes and fields_for in Rails | Wondible](http://wondible.com/2011/06/11/compound-attributes-and-fields_for-in-rails/)</small>
+`fields_for` is usually used to embed associations in form. However, all it
+required was a method to return the named attribute, and then a `<field>_attributes=`
+writer to interpret the hash on the other side. See the section "Nested Attributes Examples" in the
+[`fields_for` API document](https://apidock.com/rails/ActionView/Helpers/FormHelper/fields_for).
 
 First create `CompoundDatetime` class which exposes date and time
 fields. `assign_attributes` handles the hash params passed from form. Method
