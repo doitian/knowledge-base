@@ -181,7 +181,7 @@ The form view uses `fields_for` helper to nest fields of `compound_begining_time
 ## Reference
 
 - [Alex Rothenberg - How to use dates in Rails when your database stores a string](http://www.alexrothenberg.com/2009/05/21/how-to-use-dates-in-rails-when-your.html)
-- [Compound Attributes and fields_for in Rails \| Wondible](http://wondible.com/2011/06/11/compound-attributes-and-fields_for-in-rails/)
+- [`fields_for` API document](https://apidock.com/rails/ActionView/Helpers/FormHelper/fields_for).
 - [Ruby on Rails Guides: Rails Form helpers](http://guides.rubyonrails.org/form_helpers.html)
 - [assign_multiparameter_attributes][]
 - [composed_of][]
