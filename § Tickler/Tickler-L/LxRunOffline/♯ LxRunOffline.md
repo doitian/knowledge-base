@@ -1,7 +1,3 @@
----
-aliases: ["LxRunOffline"]
----
-
 # LxRunOffline
 
 #windows #wsl

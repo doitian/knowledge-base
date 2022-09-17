@@ -1,7 +1,3 @@
----
-aliases: ["SWR"]
----
-
 # SWR
 
 #react #web-programming

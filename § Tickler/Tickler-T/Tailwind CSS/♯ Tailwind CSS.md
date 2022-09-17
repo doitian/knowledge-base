@@ -1,7 +1,3 @@
----
-aliases: ["Tailwind CSS"]
----
-
 # Tailwind CSS
 
 ## FAQ

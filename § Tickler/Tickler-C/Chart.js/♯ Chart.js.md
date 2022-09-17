@@ -1,7 +1,3 @@
----
-aliases: ["Chart.js"]
----
-
 # Chart.js
 
 #javascript #web-programming #visualization

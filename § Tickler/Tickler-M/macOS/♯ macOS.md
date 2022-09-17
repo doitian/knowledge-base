@@ -1,6 +1,3 @@
----
-aliases: macOS
----
 # macOS
 
 #macos
