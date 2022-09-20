@@ -1,6 +1,14 @@
+---
+aliases: ["Feynman Technique"]
+---
 # Feynman Technique
 
 #sop
+
+**Status**:: #x
+**Zettel**:: #zettel/permanent
+**Kind**:: #blog/tickler
+**Created**:: [[2020-03-08]]
 
 1. Choose a concept to learn.
 2. Teach it to yourself or someone else.

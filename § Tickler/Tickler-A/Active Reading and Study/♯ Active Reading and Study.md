@@ -1,6 +1,18 @@
+---
+aliases: ["Active Reading and Study"]
+---
 # Active Reading and Study
 
 #sop #productivity
+
+**Status**:: #x
+**Zettel**:: #zettel/permanent
+**Kind**:: #blog/tickler
+**Created**:: [[2021-09-09]]
+**Reference**:: [[Reading Research Papers (Highlights)]]
+**Reference**:: [[Study Less Study Smart (Highlights)]]
+**Reference**:: [[How to Read a Book - Shortform Summary (Highlights)]]
+**Reference**:: [[Highlighting – Learning Center (Highlights)]]
 
 ## SQ3R
 
@@ -31,14 +43,8 @@ Annotate rather than highlighting.  The problem is that highlighting will trick 
  - What other references do you want to follow? 
 
 ## References
-%%
-- [[Reading Research Papers]]
-- [[Study Less Study Smart]]
-- [[How to Read a Book - Shortform Summary]]
-- [[Highlighting – Learning Center]]
-%%
 
-- [Andrwe Ng, Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
-- [Marty Lobdell, Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
-- Mortimer J. Adler and Charles van Doren, How to Read a Book
-- [learningcenter.unc.edu, Highlighting](https://learningcenter.unc.edu/tips-and-tools/using-highlighters/)
+- Adler, M. J., &#38; Doren, C. L. V. (1972). How to read a book. M J F Books.
+- University of North Carolina at Chapel. (2016, November 2). Learning Center: Highlighting. The Learning Center. https://learningcenter.unc.edu/tips-and-tools/using-highlighters/
+- Lobdell, M. (2011). Study Less Study Smart [Video]. In YouTube. https://www.youtube.com/watch?v=IlU-zDU6aQ0
+- Ng, A. (2019). Stanford CS230: Deep Learning. Career Advice: Reading Research Papers [Video]. In YouTube. https://www.youtube.com/watch?v=733m6qBH-jI

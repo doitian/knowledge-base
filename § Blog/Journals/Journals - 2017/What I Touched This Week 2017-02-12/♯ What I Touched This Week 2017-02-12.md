@@ -35,7 +35,7 @@ This week I have worked on Lua API of Sentry using its Objective-C and Android c
         (require "xx.") .. foo
 
 
-- 写了篇[游戏分享：Shenzhen IO](/zh/games/2017/02/shenzhen-io/)。花了一个多月备案，现在放在腾讯云上，改成了用 Hugo，加上了英文，中文多语言支持。      
+- 写了篇[[♯ Shenzhen IO - Chinese|游戏分享：Shenzhen IO]]。花了一个多月备案，现在放在腾讯云上，改成了用 Hugo，加上了英文，中文多语言支持。
 
 [1]:    https://web.archive.org/web/20150930184544/http://dualface.github.io/blog/2013/01/01/call-java-from-lua/
 [2]:    https://github.com/joshdholtz/Sentry-Android
