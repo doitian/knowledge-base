@@ -45,6 +45,6 @@ Annotate rather than highlighting.  The problem is that highlighting will trick 
 ## References
 
 - Adler, M. J., &#38; Doren, C. L. V. (1972). How to read a book. M J F Books.
-- University of North Carolina at Chapel. (2016, November 2). Learning Center: Highlighting. The Learning Center. https://learningcenter.unc.edu/tips-and-tools/using-highlighters/
 - Lobdell, M. (2011). Study Less Study Smart [Video]. In YouTube. https://www.youtube.com/watch?v=IlU-zDU6aQ0
+- University of North Carolina at Chapel. (2016, November 2). Learning Center: Highlighting. The Learning Center. https://learningcenter.unc.edu/tips-and-tools/using-highlighters/
 - Ng, A. (2019). Stanford CS230: Deep Learning. Career Advice: Reading Research Papers [Video]. In YouTube. https://www.youtube.com/watch?v=733m6qBH-jI
