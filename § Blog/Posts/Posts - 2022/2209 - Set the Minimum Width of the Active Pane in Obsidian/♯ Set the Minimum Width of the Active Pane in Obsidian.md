@@ -5,13 +5,18 @@ aliases: ["Set the Minimum Width of the Active Pane in Obsidian"]
 
 # Set the Minimum Width of the Active Pane in Obsidian
 
-**Status**:: #now
+**Status**:: #x
 **Topic**:: [[♯ Obsidian]]
 **Zettel**:: #zettel/permanent
 **Created**:: [[2022-09-23]]
 **Reference**:: [[Obsidian QuickAdd Plugin]]
 **Reference**:: [[Obsidian Excalibrain Plugin]]
 **Reference**:: [[Obsidian Snippet Commands Plugin]]
+**Friend**:: [[Obsidian Min Width Plugin]]
+
+
+> [!info] Updates
+> I have created [an plugin](https://github.com/doitian/obsidian-min-width) for this feature.
 
 A simple CSS rule sets the minimum width of the active pane in Obsidian.
 
