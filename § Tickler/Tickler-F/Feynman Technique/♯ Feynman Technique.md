@@ -1,6 +1,3 @@
----
-aliases: ["Feynman Technique"]
----
 # Feynman Technique
 
 #sop

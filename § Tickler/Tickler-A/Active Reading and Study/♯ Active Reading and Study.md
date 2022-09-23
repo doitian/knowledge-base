@@ -1,6 +1,3 @@
----
-aliases: ["Active Reading and Study"]
----
 # Active Reading and Study
 
 #sop #productivity
