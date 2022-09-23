@@ -5,6 +5,8 @@ aliases: ["Set the Minimum Width of the Active Pane in Obsidian"]
 
 # Set the Minimum Width of the Active Pane in Obsidian
 
+#obsidian
+
 **Status**:: #x
 **Topic**:: [[♯ Obsidian]]
 **Zettel**:: #zettel/permanent
@@ -66,7 +68,7 @@ First, update the CSS snippet to make Excalibrain panes wider. Indeed, it makes 
 
 The last, let Obsidian run some code when the active pane has changed. I use QuickAdd[^3] to manage the scripts. Save the following code snippet as `min-width.js` in the vault.
 
-> [!file] min-width.js
+> [!file]- min-width.js
 > ```javascript
 > const DATA_TYPE = "data-type";
 >
