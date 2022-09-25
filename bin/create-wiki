@@ -16,7 +16,7 @@ if ord(initial) < ord('A') or ord(initial) > ord('Z'):
 
 tickler = Path("§ Tickler") / f"Tickler-{initial}"
 dir = tickler / title
-file = dir / f"♯ {title}.md"
+file = dir / f"§ {title}.md"
 
 os.makedirs(dir, exist_ok=True)
 

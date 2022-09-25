@@ -11,7 +11,7 @@ else:
   title = ' '.join(sys.argv[1:])
 
 dir = Path(title)
-file = dir / f"♯ {title}.md"
+file = dir / f"§ {title}.md"
 
 os.makedirs(dir, exist_ok=True)
 

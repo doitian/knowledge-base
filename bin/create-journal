@@ -13,7 +13,7 @@ yy   = now.strftime('%y')
 date = now.strftime('%Y-%m-%d')
 dir="§ Blog/Journals/Journals - $year/What I Touched This Week $date"
 dir  = Path("§ Blog") / "Journals" / f"Journals - {year}" / f"What I Touched This Week {date}"
-file = dir / f"♯ What I Touched This Week {date}.md"
+file = dir / f"§ What I Touched This Week {date}.md"
 
 os.makedirs(dir, exist_ok=True)
 

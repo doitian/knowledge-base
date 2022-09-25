@@ -26,6 +26,6 @@ This data structure takes very little space, so it makes little sense to erase i
 
 Incidentally, when you remove a TeX Distribution, say TeX Live 2018, it is not necessary to remove its related links from the TeX Distribution Data structure. The software is smart enough to know that these links no longer point to live data.
 
-### Uninstalling Ghostscript 
+### Uninstalling Ghostscript
 
 This step is more difficult. One way to proceed is to open the MacTeX-2019 install package and select "Show Files" from the resulting "File" menu of Apple's installer. This will give a complete list of files installed, and their install locations. Find files related to Ghostscript and remove them. Most Ghostscript files are in /usr/local/bin or /usr/local/share.

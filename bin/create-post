@@ -18,7 +18,7 @@ year = now.year
 yy   = now.strftime('%y')
 mon  = now.strftime('%m')
 dir  = Path("§ Blog") / "Posts" / f"Posts - {year}" / f"{yy}{mon} - {title}"
-file = dir / f"♯ {title}.md"
+file = dir / f"§ {title}.md"
 
 os.makedirs(dir, exist_ok=True)
 
