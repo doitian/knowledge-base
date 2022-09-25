@@ -6,10 +6,6 @@
 **Zettel**:: #zettel/permanent
 **Kind**:: #blog/tickler
 **Created**:: [[2021-09-09]]
-**Reference**:: [[Reading Research Papers (Highlights)]]
-**Reference**:: [[Study Less Study Smart (Highlights)]]
-**Reference**:: [[How to Read a Book - Shortform Summary (Highlights)]]
-**Reference**:: [[Highlighting – Learning Center (Highlights)]]
 
 ## SQ3R
 
@@ -40,6 +36,11 @@ Annotate rather than highlighting.  The problem is that highlighting will trick 
  - What other references do you want to follow?
 
 ## References
+
+**Reference**:: [[Reading Research Papers (Highlights)]]
+**Reference**:: [[Study Less Study Smart (Highlights)]]
+**Reference**:: [[How to Read a Book by Mortimer Adler (Highlights)]]
+**Reference**:: [[Highlighting – Learning Center (Highlights)]]
 
 - Adler, M. J., &#38; Doren, C. L. V. (1972). How to read a book. M J F Books.
 - Lobdell, M. (2011). Study Less Study Smart [Video]. In YouTube. https://www.youtube.com/watch?v=IlU-zDU6aQ0

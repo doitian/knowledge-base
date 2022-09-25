@@ -13,7 +13,6 @@ aliases: ["Set the Minimum Width of the Active Pane in Obsidian"]
 **Created**:: [[2022-09-23]]
 **Reference**:: [[Obsidian QuickAdd Plugin]]
 **Reference**:: [[Obsidian Excalibrain Plugin]]
-**Reference**:: [[Obsidian Snippet Commands Plugin]]
 **Friend**:: [[Obsidian Min Width Plugin]]
 
 
