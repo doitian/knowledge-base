@@ -37,10 +37,10 @@ Annotate rather than highlighting.  The problem is that highlighting will trick 
 
 ## References
 
-**Reference**:: [[Reading Research Papers (Highlights)]]
-**Reference**:: [[Study Less Study Smart (Highlights)]]
-**Reference**:: [[How to Read a Book by Mortimer Adler (Highlights)]]
-**Reference**:: [[Highlighting – Learning Center (Highlights)]]
+**Reference**:: [[Andrew Ng - Reading Research Papers (Highlights)]]
+**Reference**:: [[Marty Lobdell - Study Less Study Smart (Highlights)]]
+**Reference**:: [[Calibre 363 - Mortimer J. Adler et al - How to Read a Book - Shortform Summary|Mortimer J. Adler et al - How to Read a Book - Shortform Summary]]
+**Reference**:: [[UNC Learning Center Authors - Highlighting (Highlights)]]
 
 - Adler, M. J., &#38; Doren, C. L. V. (1972). How to read a book. M J F Books.
 - Lobdell, M. (2011). Study Less Study Smart [Video]. In YouTube. https://www.youtube.com/watch?v=IlU-zDU6aQ0
