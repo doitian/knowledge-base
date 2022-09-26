@@ -10,6 +10,7 @@ from pathlib import Path
 now  = datetime.datetime.now(datetime.timezone.utc).astimezone()
 year = now.year
 yy   = now.strftime('%y')
+mon  = now.strftime('%m')
 date = now.strftime('%Y-%m-%d')
 dir="§ Blog/Journals/Journals - $year/What I Touched This Week $date"
 dir  = Path("§ Blog") / "Journals" / f"Journals - {year}" / f"What I Touched This Week {date}"
@@ -28,6 +29,11 @@ series:
 ---
 
 # What I Touched This Week {date}
+
+**Status**:: #i
+**Zettel**:: #zettel/literature
+**Created**:: [[{date}]]
+**URL**:: [blog.iany.me](https://blog.iany.me/journal/{year}/{mon}/what-i-touched-this-week-{date}/)
 """)
 
 print(file)

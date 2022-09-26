@@ -4,7 +4,16 @@
 import os
 import sys
 import datetime
+import re
 from pathlib import Path
+
+
+def slugify(text):
+  text = re.sub('::', '/', text)
+  text = re.sub(r'([A-Z]+)([A-Z][a-z])', '\\1_\\2', text)
+  text = re.sub(r'([a-z\d])([A-Z])', '\\1_\\2', text)
+  text = re.sub(r'[^A-Z^a-z^0-9^\/]+', '_', text).lower()
+  return re.sub(r'^_|_$', '', text)
 
 
 if len(sys.argv) == 1:
@@ -31,6 +40,12 @@ aliases: ["{title}"]
 ---
 
 # {title}
+
+**Status**:: #i
+**Zettel**:: #zettel/permanent
+**Created**:: [[{now.strftime("%Y-%m-%d")}]]
+**URL**:: [blog.iany.me](https://blog.iany.me/{year}/{mon}/{slugify(title)}/)
+
 """)
 
 print(file)
