@@ -8,13 +8,12 @@ aliases: ["Set the Minimum Width of the Active Pane in Obsidian"]
 #obsidian
 
 **Status**:: #x
-**Topic**:: [[♯ Obsidian]]
 **Zettel**:: #zettel/permanent
 **Created**:: [[2022-09-23]]
 **Reference**:: [[Obsidian QuickAdd Plugin]]
 **Reference**:: [[Obsidian Excalibrain Plugin]]
 **Friend**:: [[Obsidian Min Width Plugin]]
-
+**URL**:: [blog.iany.me](https://blog.iany.me/2022/09/set-the-minimum-width-of-the-active-pane-in-obsidian/)
 
 > [!info] Updates
 > I have created [an plugin](https://github.com/doitian/obsidian-min-width) for this feature.
