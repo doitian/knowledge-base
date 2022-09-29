@@ -40,7 +40,7 @@ EXIF，打码，网络浏览痕迹，临时手机号和邮箱
 
 ### [Andrew Ng Advice on Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
 
-**Reference**:: [[Reading Research Papers (Highlights)]]
+**Reference**:: [[Andrew Ng - Reading Research Papers (Highlights)]]
 
 * Compile list of papers and articles.
 * Skip around the list. Read 10% of each paper and choose the ones worth the time to delve into.
@@ -67,7 +67,7 @@ A curated list of papers.
 
 ### [Conway's law - Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
 
-**Reference**:: [[Conway's Law - Wikipedia, the Free Encyclopedia (Highlights)]]
+**Reference**:: [[Wikipedia Authors - Conway's Law (Highlights)]]
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
 >
@@ -75,7 +75,7 @@ A curated list of papers.
 
 ### [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 
-**Reference**:: [[Mistakes I've Made as an Engineering Manager  CSS-Tricks (Highlights)]]
+**Reference**:: [[Sarah Drasner - Mistakes I've Made as an Engineering Manager  CSS-Tricks (Highlights)]]
 
 - Mistake 1: Thinking people give feedback the way they want to receive it
 - Mistake 2: Trying to do everything yourself as a manager is the best way to help
@@ -84,7 +84,7 @@ A curated list of papers.
 
 ### [People Who Adopt These 5 Verbal Habits in 2021 Have Very High Emotional Intelligence](https://www.inc.com/bill-murphy-jr/people-who-adopt-these-5-verbal-habits-in-2021-have-very-high-emotional-intelligence.html)
 
-**Reference**:: [[People Who Adopt These 5 Verbal Habits in 2021 Have Very High Emotional Intelligence (Highlights)]]
+**Reference**:: [[Bill Murphy Jr. - People Who Adopt These 5 Verbal Habits in 2021 Have Very High Emotional Intelligence (Highlights)]]
 
 1. "Tell me more."
 2. "Thanks for your understanding."
@@ -94,7 +94,7 @@ A curated list of papers.
 
 ### [卡片笔记法、Roam Research 与个人笔记体系的建立——拯救「写过就忘」 - 少数派](https://sspai.com/post/65224)
 
-**Reference**:: [[卡片笔记法、Roam Research 与个人笔记体系的建立——拯救「写过就忘」 - 少数派 (Highlights)]]
+**Reference**:: [[和燕燕 - 卡片笔记法、Roam Research 与个人笔记体系的建立——拯救「写过就忘」 (Highlights)]]
 
 - 无论是写永久笔记还是瞬时笔记，把句子写得尽量清楚、完整。这样在回顾笔记的时候自己的想法一目了然。
 - 把所有的链接性语句也完整地写下来，这个过程可以更好地帮助自己发现思考中的漏洞，使得笔记内容更加严谨。

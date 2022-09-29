@@ -16,7 +16,7 @@ I have read 2 books:
 
 ┌ Extreme Ownership
 
-**Reference**:: [[Extreme Ownership by Jocko Willink (Highlights)]]
+**Reference**:: [[Shortform - Extreme Ownership by Jocko Willink (Highlights)]]
 
 * A leader must take the responsibility of team failures.
 * A leader must help the team to reach high standards.
@@ -24,7 +24,7 @@ I have read 2 books:
 
 ┌ Ikigai
 
-**Reference**:: [[Ikigai by Héctor García and Francesc Miralles (Highlights)]]
+**Reference**:: [[Shortform - Ikigai by Héctor García and Francesc Miralles (Highlights)]]
 
 Ikigai means having a life purpose.
 
@@ -33,13 +33,13 @@ Ikigai means having a life purpose.
 
 ┌ GNU Parallel
 
-**Reference**:: [[Get More Done at the Linux Command Line With GNU Parallel (Highlights)]]
+**Reference**:: [[Seth Kenlon - Get More Done at the Linux Command Line With GNU Parallel (Highlights)]]
 
 [GNU Parallel](https://opensource.com/article/18/5/gnu-parallel) is similar to `xargs` but runs commands in parallel.
 
 ┌ GitHub Actions Manual Trigger
 
-**Reference**:: [[GitHub Actions Manual Triggers With Workflow_dispatch - GitHub Changelog (Highlights)]]
+**Reference**:: [[GitHub Authors - GitHub Actions Manual Triggers With Workflow_dispatch - GitHub Changelog (Highlights)]]
 
 GitHub Actions can add [manual triggers](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/). This [article](https://github.com/yihong0618/gitblog/issues/198) introduces the API to fire the trigger.
 
@@ -58,7 +58,7 @@ curl -H "Content-Type:application/json" \
 
 ┌ [Git - Switching Branches Without Touching the Working Tree](https://stackoverflow.com/questions/6070179/switching-branches-without-touching-the-working-tree)
 
-**Reference**:: [[git - Switching Branches Without Touching the Working Tree (Highlights)]]
+**Reference**:: [[CB Bailey et al. - Git - Switching Branches Without Touching the Working Tree (Highlights)]]
 
 ```
 git symbolic-ref HEAD refs/heads/debug-branch

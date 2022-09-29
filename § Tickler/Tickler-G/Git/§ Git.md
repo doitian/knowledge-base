@@ -15,7 +15,7 @@ git diff --color-words=.
 
 ⚡ [Synchronize Between Clones](https://stackoverflow.com/a/28381311)
 
-**Reference**:: [[Ciro Santilli et al - How to Push to a Non-Bare Git Repository (Highlights)]]
+**Reference**:: [[Ciro Santilli et al. - How to Push to a Non-Bare Git Repository (Highlights)]]
 
 ```
 git config --local receive.denyCurrentBranch updateInstead
