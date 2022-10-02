@@ -2,6 +2,8 @@
 
 #command-line
 
+**Topic**:: [[♯ Git]]
+
 ## Tips
 
 ⚡ [Diff per word or character](https://makandracards.com/makandra/28067-git-diff-per-word-or-character)
