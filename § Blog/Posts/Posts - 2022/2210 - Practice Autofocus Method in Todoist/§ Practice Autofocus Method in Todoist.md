@@ -16,7 +16,7 @@ I read the article *Autofocus: The Productivity System That Treats Your to-Do Li
 
 ## The River Filter
 
-I will continue using Todoist. I created a filter named *River*. The tasks are sorted by added date. I added he filter to the sidebar and set it as my home view for easy access.
+I will continue using Todoist. I created a filter named *River*. The tasks are sorted by added date. I added the filter to the sidebar and set it as my home view for easy access.
 
 The filter has three sections:
 
