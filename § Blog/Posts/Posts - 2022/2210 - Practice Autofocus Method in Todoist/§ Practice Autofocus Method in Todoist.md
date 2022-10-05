@@ -22,12 +22,12 @@ The filter has three sections:
 
 - Overdue tasks: `overdue`
 - Tasks I am doing: `today | @now💧`
-- Tasks in River: `!##⏰ Events & !@someday🪨`
+- Tasks in River: `!##⏰ Events & !overdue & !today & !@now💧 & !@someday🪨`
 
 Todoist supports filter sections by separating queries with comma (`,`). So here is the final filter query:
 
 ```
-overdue, today | @now💧, !##⏰ Events & !@someday🪨
+overdue, today | @now💧, !##⏰ Events & !overdue & !today & !@now💧 & !@someday🪨
 ```
 
 ### Section 1: Overdue Tasks
