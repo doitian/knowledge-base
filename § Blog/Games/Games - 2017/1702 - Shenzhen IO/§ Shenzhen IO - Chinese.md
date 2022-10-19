@@ -4,6 +4,8 @@ title: "Shenzhen IO"
 copyright: "game"
 description: "分享 Shengzhen IO，一款需要使用汇编写代码的游戏。"
 feature: 'ConceptOS.jpg'
+banner: "![[ConceptOS.jpg]]"
+banner_y: 0.22377
 ---
 
 # Shenzhen IO
