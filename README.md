@@ -3,7 +3,7 @@ aliases: ["Blog.iany.me Repository"]
 ---
 # Knowledge Base
 
-The content of this folder is available in [GitHub](https://github.com/doitian/knowledge-base) and [Obsidian Publish](https://publish.obsidian.md/ian/output/README)
+The content of this folder is available in [GitHub](https://github.com/doitian/knowledge-base) and [Obsidian Publish](https://kb.iany.me/output/README)
 
 I use a [script](https://github.com/doitian/blog-autobuild/blob/master/x.py) to convert this repository to a Hugo site, so that I can organize the contents in a comfort way. The Hugo site is published to [blog.iany.me](https://blog.iany.me).
 
