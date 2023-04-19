@@ -2,6 +2,8 @@
 
 #macos #video-editing
 
+**Parent**:: [[§ Final Cut Pro]]
+
 ## Timeline
 
 ⚡ Mouse
