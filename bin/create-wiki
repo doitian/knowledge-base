@@ -3,28 +3,27 @@
 
 import os
 import sys
-import re
 import datetime
 from pathlib import Path
+from inflector import English as EnglishInflector
+
+INFLECTOR = EnglishInflector()
+
 
 def slugify(text):
-  text = re.sub('::', '/', text)
-  text = re.sub(r'([A-Z]+)([A-Z][a-z])', '\\1_\\2', text)
-  text = re.sub(r'([a-z\d])([A-Z])', '\\1_\\2', text)
-  text = re.sub(r'[^A-Z^a-z^0-9^\/]+', '_', text).lower()
-  return re.sub(r'^_|_$', '', text)
+    return INFLECTOR.urlize(text.lower()).replace('_', '-')
 
 
 if len(sys.argv) == 1:
-  title = input('title: ')
+    title = input('title: ')
 else:
-  title = ' '.join(sys.argv[1:])
+    title = ' '.join(sys.argv[1:])
 
 initial = title[0].upper()
 if ord(initial) < ord('A') or ord(initial) > ord('Z'):
-  initial = '_'
+    initial = '_'
 
-now  = datetime.datetime.now(datetime.timezone.utc).astimezone()
+now = datetime.datetime.now(datetime.timezone.utc).astimezone()
 tickler = Path("§ Tickler") / f"Tickler-{initial}"
 dir = tickler / title
 file = dir / f"§ {title}.md"
@@ -32,8 +31,8 @@ file = dir / f"§ {title}.md"
 os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
-  with open(file, 'w') as fout:
-    fout.write(f"""# {title}
+    with open(file, 'w') as fout:
+        fout.write(f"""# {title}
 
 **Status**:: #i
 **Zettel**:: #zettel/permanent

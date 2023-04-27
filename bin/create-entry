@@ -7,19 +7,19 @@ import datetime
 from pathlib import Path
 
 if len(sys.argv) == 1:
-  title = input('title: ')
+    title = input('title: ')
 else:
-  title = ' '.join(sys.argv[1:])
+    title = ' '.join(sys.argv[1:])
 
-now  = datetime.datetime.now(datetime.timezone.utc).astimezone()
+now = datetime.datetime.now(datetime.timezone.utc).astimezone()
 dir = Path(title)
 file = dir / f"§ {title}.md"
 
 os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
-  with open(file, 'w') as fout:
-    fout.write(f"""# {title}
+    with open(file, 'w') as fout:
+        fout.write(f"""# {title}
 
 **Status**:: #i
 **Zettel**:: #zettel/permanent

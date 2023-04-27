@@ -4,36 +4,34 @@
 import os
 import sys
 import datetime
-import re
 from pathlib import Path
+from inflector import English as EnglishInflector
+
+INFLECTOR = EnglishInflector()
 
 
 def slugify(text):
-  text = re.sub('::', '/', text)
-  text = re.sub(r'([A-Z]+)([A-Z][a-z])', '\\1_\\2', text)
-  text = re.sub(r'([a-z\d])([A-Z])', '\\1_\\2', text)
-  text = re.sub(r'[^A-Z^a-z^0-9^\/]+', '_', text).lower()
-  return re.sub(r'^_|_$', '', text)
+    return INFLECTOR.urlize(text.lower()).replace('_', '-')
 
 
 if len(sys.argv) == 1:
-  title = input('title: ')
+    title = input('title: ')
 else:
-  title = ' '.join(sys.argv[1:])
+    title = ' '.join(sys.argv[1:])
 
 
-now  = datetime.datetime.now(datetime.timezone.utc).astimezone()
+now = datetime.datetime.now(datetime.timezone.utc).astimezone()
 year = now.year
-yy   = now.strftime('%y')
-mon  = now.strftime('%m')
-dir  = Path("§ Blog") / "Posts" / f"Posts - {year}" / f"{yy}{mon} - {title}"
+yy = now.strftime('%y')
+mon = now.strftime('%m')
+dir = Path("§ Blog") / "Posts" / f"Posts - {year}" / f"{yy}{mon} - {title}"
 file = dir / f"§ {title}.md"
 
 os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
-  with open(file, 'w') as fout:
-    fout.write(f"""---
+    with open(file, 'w') as fout:
+        fout.write(f"""---
 date: '{now.strftime("%FT%T%z")}'
 draft: true
 aliases: ["{title}"]
