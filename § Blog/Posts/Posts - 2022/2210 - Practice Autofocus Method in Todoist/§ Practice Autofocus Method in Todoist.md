@@ -7,6 +7,8 @@ banner_y: 0.54093
 ---
 # Practice Autofocus Method in Todoist
 
+#productivity #todoist
+
 **Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2022-10-03]]
