@@ -8,7 +8,7 @@ aliases: ["Transforming Markdown to Attractive PDFs: A Guide to Using Pandoc wit
 
 #markdown #pdf #latex
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2023-04-29]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2023/04/transforming-markdown-to-attractive-pdfs-a-guide-to-using-pandoc-with-xelatex/)
