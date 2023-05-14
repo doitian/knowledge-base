@@ -1,10 +1,12 @@
 ## Retrospective Templates
 
-### Start, Stop, Continue
+### Keep – Stop – Start.
 
-* What should the team start doing?
+A variant of Start, Stop, Continue suggested by [[Tamira Buttner - The “Start, Stop, Continue” Retro - Why It Sucks and What You Should Do Instead (Highlights)|Tamira Buttner]].
+
+* What should the team keep doing?
 * What should the team stop doing?
-* What should the team continue doing?
+* What should the team start doing?
 
 ### Sailboat
 
