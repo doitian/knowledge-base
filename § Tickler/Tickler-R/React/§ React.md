@@ -1,3 +1,0 @@
-# React
-
-#javascript #web-programming

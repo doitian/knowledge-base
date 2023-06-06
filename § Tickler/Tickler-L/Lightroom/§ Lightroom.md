@@ -1,3 +1,0 @@
-# Lightroom
-
-#software-usage #photography

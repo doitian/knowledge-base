@@ -24,13 +24,13 @@ I have:
     * 方便寻回 (recalling)
     * 定时复习
 
-    [[§ Taking Notes]]
+    [[Taking Notes]]
 
 * [Final Cut Pro X Essentials](https://www.youtube.com/playlist?list=PLs9bpmr0ZQc9tMUEkLSpu5VYbZNBW5L80)
 
     Learned many FCP shortcuts and tips here.
 
-    [[§ Final Cut Pro]]
+    [[output/§ Tickler/Tickler-F/Final Cut Pro/♯ Final Cut Pro]]
 
 ## Programming
 

@@ -73,5 +73,4 @@ SORT file.name
 ```
 
 - (Backlinks:: [[§ What I Touched This Week 2020-05-10]])
-- (Backlinks:: [[§ Windows]])
 %%+END%%
