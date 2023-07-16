@@ -6,7 +6,7 @@ date: '2020-07-11T16:38:25+0800'
 
 #windows #yubikey
 
-**Topic**:: [[♯ Yubico]]
+**Topic**:: [[♯ Yubikey]]
 
 This post records how I set up Yubico Key in Windows, so I’ll not delve into too much details. I have the model YubiKey 5 NFC. I frequently use 2 GPG keys stored in the key, one for encryption, another for SSH authentication.
 
