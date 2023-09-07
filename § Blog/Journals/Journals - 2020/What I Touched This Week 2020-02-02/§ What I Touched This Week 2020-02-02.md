@@ -2,8 +2,7 @@
 date: 2020-02-02
 description: My weekly review report.
 series:
-- What I Touched
-test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
+    - What I Touched
 ---
 
 # What I Touched This Week 2020-02-02
@@ -130,9 +129,9 @@ test: https://medium.com/qed-it/the-incredible-machine-4d1270d7363a
 
     -   "A problem is said to be [NP-hard](https://www.wikiwand.com/en/NP-hard) if everything in NP can be transformed in polynomial time into it, and a problem is NP-complete if it is both in NP and NP-hard."
 
--   [NP (complexity) - Wikiwand](https://www.wikiwand.com/en/NP_(complexity))
+-   [NP (complexity) - Wikiwand](<https://www.wikiwand.com/en/NP_(complexity)>)
 
-    -   "NP is the [set](https://www.wikiwand.com/en/Set_(mathematics)) of decision problems for which the [problem instances](https://www.wikiwand.com/en/Computational_complexity_theory#Problem_instances), where the answer is "yes", have [proofs](https://www.wikiwand.com/en/Mathematical_proof) verifiable in [polynomial time](https://www.wikiwand.com/en/Polynomial_time)."
+    -   "NP is the [set](<https://www.wikiwand.com/en/Set_(mathematics)>) of decision problems for which the [problem instances](https://www.wikiwand.com/en/Computational_complexity_theory#Problem_instances), where the answer is "yes", have [proofs](https://www.wikiwand.com/en/Mathematical_proof) verifiable in [polynomial time](https://www.wikiwand.com/en/Polynomial_time)."
 
         There exists a verifier which can checks a solution is correct in polynomial time.
 

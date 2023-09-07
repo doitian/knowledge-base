@@ -1,9 +1,8 @@
 ---
-date: '2023-07-21T20:31:59+0800'
+date: "2023-07-21T20:31:59+0800"
 draft: false
 aliases:
   - Renaming Browser Tab Names
-updated: 2023-07-21T20:35:03+08:00
 ---
 
 # Renaming Browser Tab Names
@@ -54,7 +53,7 @@ if (!("_renameTitle" in document)) {
   // Remembers the real title
   let titleWithoutRenaming = document.title;
   // User set title
-  let titleWithRenaming = '';
+  let titleWithRenaming = "";
 
   // Rename the document title to v.
   // If v contains the token %t, replace all occurences to the
@@ -82,7 +81,10 @@ if (!("_renameTitle" in document)) {
   });
 }
 
-const title = prompt("Rename tab (Use token %t for original title)", document.title);
+const title = prompt(
+  "Rename tab (Use token %t for original title)",
+  document.title
+);
 // title is null when user cancel the dialog.
 if (title !== null) {
   document._renameTitle(title);
