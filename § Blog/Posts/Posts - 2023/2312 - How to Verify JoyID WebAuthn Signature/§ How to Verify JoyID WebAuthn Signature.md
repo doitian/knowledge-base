@@ -41,7 +41,6 @@ This is the example I obtained from the demo.
 The `pubkey` field represents the uncompressed public key concatenating two 32-byte integers in hex. PyCryptodome can import the key by prepending the flag `0x04`. OpenSSL uses PEM to encode keys, and PyCryptodome can help here to export the key in PEM format.
 
 ```python
-
 from Crypto.PublicKey import ECC
 
 pubkey_raw_hex = "3538dfd53ad93d2e0a6e7f470295dcd71057d825e1f87229e5afe2a906aa7cfc099fdfa04442dac33548b6988af8af58d2052529088f7b73ef00800f7fbcddb3"
@@ -79,7 +78,7 @@ The section [section 6.1](https://www.w3.org/TR/webauthn-2/#sctn-authenticator-d
 - `flags`, 1 byte: `0x05` in JoyID
 - `signCount`, 4 bytes: all zeros
 
-```sh
+```shell
 base64 -d <<<'
 K4sF4fAwPvuJj-TW3mARmMenuGSrvmohxzsueH4YfFIFAAAAAHsidHlwZSI6Indl
 YmF1dGhuLmdldCIsImNoYWxsZW5nZSI6IlUybG5iaUIwYUdseklHWnZjaUJ0WlEi
@@ -96,14 +95,14 @@ aHR0cHM6Ly9nb28uZ2wveWFiUGV4In0=' |
 
 Check the first two lines with the sha256 checksum:
 
-```sh
+```shell
 echo -n 'testnet.joyid.dev' | sha256sum
 #=> 2b8b05e1f0303efb898fe4d6de601198c7a7b864abbe6a21c73b2e787e187c52  -
 ```
 
 The client data JSON looks like this:
 
-```sh
+```shell
 base64 -d <<<'
 K4sF4fAwPvuJj-TW3mARmMenuGSrvmohxzsueH4YfFIFAAAAAHsidHlwZSI6Indl
 YmF1dGhuLmdldCIsImNoYWxsZW5nZSI6IlUybG5iaUIwYUdseklHWnZjaUJ0WlEi
@@ -124,7 +123,7 @@ aHR0cHM6Ly9nb28uZ2wveWFiUGV4In0=' |
 
 Notice the `challenge` field. It is the parameter passed to `signChallenge`, in base64.
 
-```sh
+```shell
 base64 -d <<<'U2lnbiB0aGlzIGZvciBtZQ=='
 #=> Sign this for me
 ```
@@ -134,7 +133,7 @@ Attention that message is not the binary to be signed. According to the Figure 4
 The following code shows how to prepare the message to sign and save it into the file `message.bin`. Attention that base64 must use the alternative keys `-` and `_` to replace `+` and `/` respectively.
 
 > [!attention]
-> To decode base64 [RFC 4648 §5] in python, use either `base64.b64decode(s, altchars="-_")` or `binascii.a2b_base64`.
+> To decode base64 "RFC 4648 §5" in python, use either `base64.b64decode(s, altchars="-_")` or `binascii.a2b_base64`.
 
 ```python
 import base64
@@ -248,7 +247,7 @@ print("Verified OK")
 
 OpenSSL:
 
-```sh
+```shell
 openssl dgst -sha256 -verify pubkey.pem -signature signature.der message.bin
 ```
 
