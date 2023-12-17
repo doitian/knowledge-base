@@ -9,6 +9,8 @@ I use a [script](https://github.com/doitian/blog-autobuild/blob/master/x.py) to 
 
 The markdown files here take advantage of some features from Obsidian, such as embed markdown file and image. I can get the best preview experience in Obsidian, however, I still can edit the files with any editor at hand.
 
+Publish process: `lazygit -g ~/codebase/knowledge-base.git -w .`
+
 ## Obsidian Links
 
 **Topic**:: [[♯ blog.iany.me]]
