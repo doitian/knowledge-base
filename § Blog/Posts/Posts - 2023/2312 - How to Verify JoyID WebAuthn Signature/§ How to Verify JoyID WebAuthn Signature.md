@@ -229,8 +229,9 @@ signature_der = base64.b64decode(
 
 signature = decode_signature(signature_der)
 print(signature[0:32].hex())
+# => 2176e6a74eea72eb784a011e7c9ac3ef51e971476c8bbe370b00239dedd35eaa
 print(signature[32:].hex())
-# =>
+# => 826865c1310cc685b12a3efd475ad4901ffa9eb8497f0b3cd83a87918fc79ea4
 ```
 
 ## Verifying
