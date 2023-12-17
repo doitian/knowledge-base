@@ -7,7 +7,7 @@ tags:
 ---
 # How to Verify JoyID WebAuthn Signature
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2023-12-17]]
 
@@ -68,7 +68,7 @@ NIST CURVE: P-256
 
 ### message
 
-The `message` is a binary encoded by base64 [RFC 4648 §5](https://datatracker.ietf.org/doc/html/rfc4648#section-5) without the equal sign (`=`) paddings. Many base64 tools and libraries require padding equal sign (`=`)  in the end of the string to make the length multiple of 4. The `message` in the example response has a length 351, which requires one `=` padding.
+The `message` is a binary encoded by base64 [RFC 4648 §5](https://datatracker.ietf.org/doc/html/rfc4648#section-5) without the equal sign (`=`) paddings. Many base64 tools and libraries require padding equal sign (`=`)  in the end of the string to make the length multiple of 4. The `message` in the example response has a length 351, which requires one `=` padding. A trick is always padding two equals at the end of the string before decoding.
 
 The first 37 bytes in `message` are authenticator data, and the following bytes are client data in JSON.
 
@@ -133,20 +133,19 @@ Attention that message is not the binary to be signed. According to the Figure 4
 The following code shows how to prepare the message to sign and save it into the file `message.bin`. Attention that base64 must use the alternative keys `-` and `_` to replace `+` and `/` respectively.
 
 > [!attention]
-> To decode base64 "RFC 4648 §5" in python, use either `base64.b64decode(s, altchars="-_")` or `binascii.a2b_base64`.
+> To decode base64 "RFC 4648 §5" in python, use either `base64.b64decode(s, altchars="-_")` or `binascii.urlsafe_b64decode(s)`.
 
 ```python
 import base64
 from Crypto.Hash import SHA256
 
-message_bin = base64.b64decode(
+message_bin = base64.urlsafe_b64decode(
     "K4sF4fAwPvuJj-TW3mARmMenuGSrvmohxzsueH4YfFIFAAAAAHsidHlwZSI6Indl"
     "YmF1dGhuLmdldCIsImNoYWxsZW5nZSI6IlUybG5iaUIwYUdseklHWnZjaUJ0WlEi"
     "LCJvcmlnaW4iOiJodHRwczovL3Rlc3RuZXQuam95aWQuZGV2IiwiY3Jvc3NPcmln"
     "aW4iOmZhbHNlLCJvdGhlcl9rZXlzX2Nhbl9iZV9hZGRlZF9oZXJlIjoiZG8gbm90"
     "IGNvbXBhcmUgY2xpZW50RGF0YUpTT04gYWdhaW5zdCBhIHRlbXBsYXRlLiBTZWUg"
     "aHR0cHM6Ly9nb28uZ2wveWFiUGV4In0==",
-    "-_"
 )
 authenticator_data = message_bin[:37]
 client_data = message_bin[37:]
@@ -183,53 +182,22 @@ openssl asn1parse -dump -inform DER -in signature.der
 #    36:d=1  hl=2 l=  33 prim: INTEGER           :826865C1310CC685B12A3EFD475AD4901FFA9EB8497F0B3CD83A87918FC79EA4
 ```
 
-PyCryptodome expects the signature of 64 bytes for two 32-byte integers. Following code uses a simple parser to extract the raw signature from the DER binary.
+PyCryptodome expects the signature of 64 bytes for two 32-byte integers. Following code uses the `asn1` module to extract the raw signature from the DER binary.
 
 ```python
 import base64
+from Crypto.Util.asn1 import DerSequence
 
-
-# byte 0: SEQ (0x30)
-# byte 1: SEQ length = n1 + n2 + 4
-# byte 2: INT (0x02)
-# byte 3: INT length n1
-# byte 4 ~ 3 + n1: the first int payload
-# byte 4 + n1: INT (0x02)
-# byte 5 + n1: INT length n2
-# remaining: the second int payload
-def decode_signature(signature):
-    if signature[0] != 0x30 or signature[1] != len(signature) - 2:
-        raise ValueError("invalid asn1 DER")
-
-    x = decode_u32(signature[2:])
-    y = decode_u32(signature[2 + 2 + signature[3] :])
-
-    return x + y
-
-
-def decode_u32(bytes):
-    if bytes[0] != 0x02:
-        raise ValueError("invalid asn1 DER")
-    u32 = bytes[2 : 2 + bytes[1]]
-
-    if len(u32) == 32:
-        return u32
-    elif len(u32) > 32:
-        return u32[(len(u32) - 32) :]
-    else:
-        return b"\0" * (32 - len(u32)) + u32
-
-
-signature_der = base64.b64decode(
+signature_der = base64.urlsafe_b64decode(
     "MEUCICF25qdO6nLreEoBHnyaw-9R6XFHbIu-NwsAI53t016qAiEAgmhlwTEMxoWx"
     "Kj79R1rUkB_6nrhJfws82DqHkY_HnqQ=",
-    "-_",
 )
 
-signature = decode_signature(signature_der)
-print(signature[0:32].hex())
+signature_seq = DerSequence()
+signature_seq.decode(signature_der)
+print(signature_seq[0].to_bytes(32).hex())
 # => 2176e6a74eea72eb784a011e7c9ac3ef51e971476c8bbe370b00239dedd35eaa
-print(signature[32:].hex())
+print(signature_seq[1].to_bytes(32).hex())
 # => 826865c1310cc685b12a3efd475ad4901ffa9eb8497f0b3cd83a87918fc79ea4
 ```
 
@@ -258,41 +226,12 @@ openssl dgst -sha256 -verify pubkey.pem -signature signature.der message.bin
 > from Crypto.Hash import SHA256
 > from Crypto.PublicKey import ECC
 > from Crypto.Signature import DSS
->
->
-> def decode_signature(signature):
->     if signature[0] != 0x30 or signature[1] != len(signature) - 2:
->         raise ValueError("invalid asn1 DER")
->
->     x = decode_u32(signature[2:])
->     y = decode_u32(signature[2 + 2 + signature[3] :])
->
->     return x + y
->
->
-> def decode_u32(bytes):
->     if bytes[0] != 0x02:
->         raise ValueError("invalid asn1 DER")
->     u32 = bytes[2 : 2 + bytes[1]]
->
->     if len(u32) == 32:
->         return u32
->     elif len(u32) > 32:
->         return u32[(len(u32) - 32) :]
->     else:
->         return b"\0" * (32 - len(u32)) + u32
->
->
-> def b64decode(encoded_string):
->     if len(encoded_string) % 4 != 0:
->         encoded_string = encoded_string + "=" * (4 - len(encoded_string) % 4)
->
->     # RFC 4648
->     return base64.b64decode(encoded_string, "-_")
+> from Crypto.Util.asn1 import DerSequence
 >
 >
 > response = {
->     "signature": "MEUCICF25qdO6nLreEoBHnyaw-9R6XFHbIu-NwsAI53t016qAiEAgmhlwTEMxoWxKj79R1rUkB_6nrhJfws82DqHkY_HnqQ",
+>     "signature": "MEUCICF25qdO6nLreEoBHnyaw-9R6XFHbIu-NwsAI53t016qAiEAgmhlwTEMxoWx"
+>     "Kj79R1rUkB_6nrhJfws82DqHkY_HnqQ",
 >     "message": "K4sF4fAwPvuJj-TW3mARmMenuGSrvmohxzsueH4YfFIFAAAAAHsidHlwZSI6IndlYmF1dGhuLmdldCIsImNoYWxsZW5nZSI6IlUybG5iaUIwYUdseklHWnZjaUJ0WlEiLCJvcmlnaW4iOiJodHRwczovL3Rlc3RuZXQuam95aWQuZGV2IiwiY3Jvc3NPcmlnaW4iOmZhbHNlLCJvdGhlcl9rZXlzX2Nhbl9iZV9hZGRlZF9oZXJlIjoiZG8gbm90IGNvbXBhcmUgY2xpZW50RGF0YUpTT04gYWdhaW5zdCBhIHRlbXBsYXRlLiBTZWUgaHR0cHM6Ly9nb28uZ2wveWFiUGV4In0",
 >     "challenge": "Sign this for me",
 >     "alg": -7,
@@ -306,7 +245,8 @@ openssl dgst -sha256 -verify pubkey.pem -signature signature.der message.bin
 > )
 > with open("pubkey.pem", "wt") as fout:
 >     fout.write(pubkey.export_key(format="PEM"))
-> message_bin = b64decode(response["message"])
+>
+> message_bin = base64.urlsafe_b64decode(response["message"] + "==")
 > authenticator_data = message_bin[:37]
 > client_data = message_bin[37:]
 > # https://github.com/duo-labs/py_webauthn/blob/master/webauthn/authentication/verify_authentication_response.py
@@ -314,10 +254,13 @@ openssl dgst -sha256 -verify pubkey.pem -signature signature.der message.bin
 > with open("message.bin", "wb") as fout:
 >     fout.write(message_to_sign)
 >
-> signature_der = b64decode(response["signature"])
+> signature_der = base64.urlsafe_b64decode(response["signature"] + "==")
 > with open("signature.der", "wb") as fout:
 >     fout.write(signature_der)
-> signature = decode_signature(signature_der)
+> signature_seq = DerSequence()
+> signature_seq.decode(signature_der)
+> signature = signature_seq[0].to_bytes(32) + signature_seq[1].to_bytes(32)
+>
 > DSS.new(pubkey, "fips-186-3").verify(SHA256.new(message_to_sign), signature)
 > print("Verified OK")
 > ```
