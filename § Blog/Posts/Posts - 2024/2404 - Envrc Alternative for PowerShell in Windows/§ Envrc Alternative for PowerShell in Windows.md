@@ -3,6 +3,8 @@ date: 2024-04-06T08:55:34+0800
 draft: false
 aliases:
   - Envrc Alternative for PowerShell in Windows
+tags:
+  - windows
 ---
 
 # Envrc Alternative for PowerShell in Windows
