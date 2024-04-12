@@ -7,7 +7,6 @@ series:
 
 # What I Touched This Week 2017-02-20
 
-
 I had to work on Windows for a project, thus did some research to make it suck less.
 
 - [Visual Studio product name and internal version numbers][1]
