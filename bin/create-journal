@@ -1,39 +1,50 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 import os
+import sys
 import datetime
 from pathlib import Path
+from inflector import English as EnglishInflector
+
+INFLECTOR = EnglishInflector()
+
+
+def slugify(text):
+    return INFLECTOR.urlize(text.lower()).replace("_", "-")
+
+
+if len(sys.argv) == 1:
+    title = input("title: ")
+else:
+    title = " ".join(sys.argv[1:])
 
 
 now = datetime.datetime.now(datetime.timezone.utc).astimezone()
 year = now.year
-yy = now.strftime('%y')
-mon = now.strftime('%m')
-date = now.strftime('%Y-%m-%d')
-dir = "§ Blog/Journals/Journals - $year/What I Touched This Week $date"
-dir = Path("§ Blog") / "Journals" / \
-    f"Journals - {year}" / f"What I Touched This Week {date}"
-file = dir / f"§ What I Touched This Week {date}.md"
+yy = now.strftime("%y")
+mon = now.strftime("%m")
+dir = Path("§ Blog") / "Journals" / f"Journals - {year}" / f"{yy}{mon} - {title}"
+file = dir / f"§ {title}.md"
 
 os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
-    with open(file, 'w') as fout:
-        fout.write(f"""---
-date: {date}
-description: My weekly review report.
-aliases: ["What I Touched This Week {date}"]
-series:
-- What I Touched
+    with open(file, "w") as fout:
+        fout.write(
+            f"""---
+date: '{now.strftime("%FT%T%z")}'
+draft: true
+aliases: ["{title}"]
 ---
 
-# What I Touched This Week {date}
+# {title}
 
 **Status**:: #i
 **Zettel**:: #zettel/literature
-**Created**:: [[{date}]]
-**URL**:: [blog.iany.me](https://blog.iany.me/journal/{year}/{mon}/what-i-touched-this-week-{date}/)
-""")
+**Created**:: [[{now.strftime("%Y-%m-%d")}]]
+**URL**:: [blog.iany.me](https://blog.iany.me/journal/{year}/{mon}/{slugify(title)}/)
+
+"""
+        )
 
 print(file)
