@@ -43,6 +43,13 @@ In Step 1, you have created a user for Ubuntu. After export and import, the new 
 
 Find the directory in registry `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Lxss` which `DistributionName` is "Ubuntu". Set its `DefaultUid` to decimal 1000 (or hex 3e8).
 
+Or create a file `/etc/wsl.conf` in the WSL instance with following contents:
+
+```ini
+[user]
+default = yournamehere
+```
+
 **Step 4**. Migrate to WSL2
 
 Use `wsl -l -v` to check whether the new created instance use WSL2. The command `wsl --set-version Ubuntu 2` upgrades an instance with name `Ubuntu` to version 2.
