@@ -40,6 +40,8 @@ Quotient space is a set of all translates (set of sets):
 
 Quotient space is a set of sets. There are duplicates for each $v \in V$ because for some $v_1, v_2 \in V$, $v_1 + U$ and $v_2 + U$ can be identical set.
 
+A quotient space $V/U$ is formed by "collapsing" a subspace $U$ to zero within a larger vector space $V$. This construction is based on an equivalence relation where two vectors $x, y \in V$ are considered equivalent if their difference lies in $U$—that is, $x \sim y$ if and only if $x - y \in U$. [wikipedia](https://en.wikipedia.org/wiki/Quotient_space_(linear_algebra))
+
 ## Lemmas
 
 > [!definition] 3.101 *two translates of a subspace are equal or disjoint*
