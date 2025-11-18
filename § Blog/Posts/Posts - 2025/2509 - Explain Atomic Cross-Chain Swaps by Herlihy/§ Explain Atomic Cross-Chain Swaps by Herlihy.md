@@ -11,7 +11,7 @@ description: A study on the paper Atomic Cross-Chain Swaps by Herlihy
 ---
 # Explain Atomic Cross-Chain Swaps by Herlihy
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2025-09-19]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2025/09/explain-atomic-cross-chain-swaps-by-herlihy/)
