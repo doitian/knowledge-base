@@ -16,7 +16,7 @@ katex: true
 **Zettel**:: #zettel/permanent
 **Created**:: [[2025-11-18]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2025/11/study-on-quotient-spaces/)
-**Parent**:: [[Axler - Linear algebra done right]]
+**Parent**:: [[Axler - Linear Algebra Done Right]]
 **Zotero Item**:: [Quotient Spaces](zotero://select/library/items/RXK6B2WB)
 
 I'm reading *Linear Algebra Done Right* by Axler and found the section on quotient spaces difficult to understand, so I researched and took these notes.
