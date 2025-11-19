@@ -17,6 +17,7 @@ katex: true
 **Created**:: [[2025-11-18]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2025/11/study-on-quotient-spaces/)
 **Parent**:: [[Axler - Linear Algebra Done Right]]
+**Reference**:: [[NotebookLM - Quotient Spaces]]
 **Zotero Item**:: [Quotient Spaces](zotero://select/library/items/RXK6B2WB)
 
 I'm reading *Linear Algebra Done Right* by Axler and found the section on quotient spaces difficult to understand, so I researched and took these notes.
@@ -42,6 +43,8 @@ Quotient space is a set of sets. There are duplicates for each $v \in V$ because
 
 A quotient space $V/U$ is formed by "collapsing" a subspace $U$ to zero within a larger vector space $V$. This construction is based on an equivalence relation where two vectors $x, y \in V$ are considered equivalent if their difference lies in $U$—that is, $x \sim y$ if and only if $x - y \in U$. [wikipedia](https://en.wikipedia.org/wiki/Quotient_space_(linear_algebra))
 
+
+
 ## Lemmas
 
 > [!definition] 3.101 *two translates of a subspace are equal or disjoint*
@@ -66,6 +69,10 @@ We can write that
 $$
 \pi(v_1) = \pi(v_2) \iff v_1 - v_2 \in U
 $$
+
+The quotient map has two essential properties:
+*   The **null space** of $\pi$ is exactly the subspace $U$, because $v+U=0+U \iff v-0 \in U \iff v \in U$
+*   The **range** of $\pi$ is the entire quotient space $V/U$
 
 ## Quotient Space Is a Vector Space
 
@@ -109,6 +116,15 @@ $$
 
 We must show that $(\lambda v_1) + U = (\lambda v_2) + U$.
 
+## Dimension
+
+The dimension of the quotient space is given by a simple subtraction, relating the dimension of $V/U$ to the "lost" dimension of $U$:
+
+> [!definition] 3.105 *dimension of quotient space*
+>
+> Suppose $V$ is finite-dimensional and $U$ is a subspace of V. Then
+> $$\text{dim } V/U = \text{dim }V - \text{dim }U.$$
+
 ## Linear Map from V/(null T) to W
 
 > [!definition] 3.106 notation: $\widetilde{T}$
@@ -124,6 +140,8 @@ For any $v_1, v_2 \in V$ that $Tv_1 = Tv_2$, $v_1 + \mathrm{null}\, T$ and $v_2 
 
 3.63 shows us that $\widetilde{T}$ is invertible, and according to the definition of isomorphic, $V/(\mathrm{null}\, T)$ and $\mathrm{range}\,T$ are isomorphic vector spaces and $\widetilde{T}$ is their isomorphism.
 
-> [!definition] definition: *isomorphism, isomorphic*
+> [!definition] 3.69 definition: *isomorphism, isomorphic*
 > - An *isomorphism* is an invertible linear map.
 > - Two vector spaces are called isomorphic if there is an isomorphism from one vector space onto the other one.
+
+One of the key uses of $\widetilde{T}$ is demonstrating a canonical isomorphism. For any linear map $T \in \mathcal{L}(V, W)$, the quotient space $V/(\text{null } T)$ is isomorphic to the image space $\text{range } T$. This shows that the quotient space $V/(\text{null } T)$ serves as a way to "mod out" the non-injective part of $T$.
