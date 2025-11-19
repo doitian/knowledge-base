@@ -2,11 +2,12 @@
 date: '2020-04-11T21:08:33+0800'
 draft: false
 description: "Pin is a pointer wrapper. When a pointer is trapped inside Pin, and the pointee type is !Unpin, there's no safe way to get a mut reference to the pointee."
+tags:
+- async-programming
+- rust
 ---
 
 # Rust Pin
-
-#rust
 
 `Pin` is an obscure type in Rust because of the naming and indirect concepts.
 

@@ -7,11 +7,12 @@ series:
 - Weekly Paper
 share: true
 title: 'Weekly Paper: Helix'
+tags:
+  - consensus
+  - distributed-system
 ---
 
 # Weekly Paper Helix
-
-#consensus #distributed-system
 
 [Orbs - Read the Helix Consensus Algorithm White Paper](https://www.orbs.com/introducing-helix-the-orbs-consensus-algorithm/)
 

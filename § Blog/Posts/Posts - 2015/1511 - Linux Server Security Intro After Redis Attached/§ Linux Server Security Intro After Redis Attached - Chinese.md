@@ -1,11 +1,14 @@
 ---
 date: 2015-11-11
 title: 从 Redis 攻击例子谈谈基本的 Linux 服务器安全
+tags:
+- linux
+- redis
+- security
+- ssh
 ---
 
 # Linux Server Security Intro After Redis Attached
-
-#security
 
 最近看到一篇文章详细说明了[如何通过 Redis 获得 SSH 登录权限](http://www.antirez.com/news/96)。简单来说就是如果 Redis 开放了外网端口访问，又没配置防火墙，也没有配置任何 Redis 的连接验证，而且还是用很高权限的用户在运行 Redis，就可以通过 dump 数据库把任意 key 注入到 `authorized_keys` 文件中，从而获得用户的 SSH 登录权限。条件很苛刻，但是很容易自动化，估计还是可以扫描到不少肉鸡的。
 

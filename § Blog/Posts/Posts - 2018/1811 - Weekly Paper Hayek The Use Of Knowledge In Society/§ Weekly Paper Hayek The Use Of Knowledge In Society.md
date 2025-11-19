@@ -7,11 +7,11 @@ series:
 - Weekly Paper
 share: true
 title: 'Weekly Paper: 1945 - Hayek - The Use of Knowledge in Society'
+tags:
+- economics
 ---
 
 # Weekly Paper Hayek The Use Of Knowledge In Society
-
-#economics
 
 > Economic problem of society is mainly one of rapid **adaptation to changes** in **the particular circumstances of time and place**, it would seem to follow that the ultimate decisions must be left to the people who are familiar with these circumstances, who know directly of the relevant changes and of the resources immediately available to meet them.
 

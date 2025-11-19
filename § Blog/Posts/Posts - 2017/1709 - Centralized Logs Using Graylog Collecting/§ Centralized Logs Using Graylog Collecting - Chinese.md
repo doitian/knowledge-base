@@ -7,11 +7,12 @@ series:
 - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 收集日志
+tags:
+  - devops
+  - graylog
 ---
 
 # Graylog 集中日志管理 - 收集日志
-
-#graylog #devops
 
 %%TOC%%
 

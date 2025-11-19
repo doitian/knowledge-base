@@ -2,11 +2,13 @@
 date: '2017-05-13T17:43:59+08:00'
 description: 介绍 Cocos2D-X 中用到的 FreeType 如何排版
 title: Cocos2D-X TTF 字体排版
+tags:
+  - game-development
+  - cocos2dx
+  - typography
 ---
 
 # Cocos2D X TTF 字体排版
-
-#cocos2dx #typography
 
 最近在公司的一个 Cocos2D-X 项目中碰到一个问题，TTF 文本加描边后会变宽，而且很明显没有对齐，字和描边之间没齐，每个字的水平基准线也没有对齐。最后发现是排版的代码有问题，官方分支上已经修复，但是这个项目使用的是 quick 分支出来的社区版，所以手动把修改做了个补丁提交了个[修复TTF 描边效果的 PR](https://github.com/u0u0/Quick-Cocos2dx-Community/pull/76)。
 

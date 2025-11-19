@@ -2,11 +2,11 @@
 date: '2012-03-31'
 description: There are two TAB's in Emacs, it is hard to make the TAB keybinding works as expected in Emacs.
 title: Fix TAB Binding For yasnippet And auto-complete
+tags:
+  - emacs
 ---
 
 # Fix Tab Binding For Yasnippet And Auto Complete
-
-#emacs
 
 There are two TAB's in Emacs, `(kbd "TAB")` (`\t`, `[9]`) and `(kbd "<tab>")` (`[tab]`). If modes like [yasnippet][] and [auto-complete][] want to bind on `TAB`, their trigger key must be the same with the original Tab command. Since Emacs binds `indent-for-tab-command` on `(kbd "TAB")`, so it's better to use it as the trigger key. Yasnippet binds to it by default, It is also easy to setup `auto-complete` to trigger using Tab.
 

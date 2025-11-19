@@ -2,11 +2,12 @@
 date: '2023-04-27T21:22:30+0800'
 draft: false
 aliases: ["The Ultimate Guide to Customizing Obsidian Vim Mode via QuickAdd"]
+tags:
+  - obsidian
+  - vim
 ---
 
 # The Ultimate Guide to Customizing Obsidian Vim Mode via QuickAdd
-
-#obsidian #vim
 
 **Status**:: #x
 **Zettel**:: #zettel/permanent

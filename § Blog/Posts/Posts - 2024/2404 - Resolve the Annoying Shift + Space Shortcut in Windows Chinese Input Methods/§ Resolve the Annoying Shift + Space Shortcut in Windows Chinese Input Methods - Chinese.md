@@ -2,9 +2,11 @@
 date: 2024-04-10T19:32:40+0800
 draft: false
 aliases:
-  - Resolve the Annoying Shift + Space Shortcut in Windows Chinese Input Methods
+- Resolve the Annoying Shift + Space Shortcut in Windows Chinese Input Methods
 tags:
-  - windows
+- ime
+- shortcut
+- windows
 ---
 
 # 解决 Windows 中文输入法下 Shift + Space 快捷键的困扰

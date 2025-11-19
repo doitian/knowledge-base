@@ -5,11 +5,12 @@ description: ''
 katex: false
 share: true
 title: OmniGraffle 绘制图片作为中心的思维导图
+tags:
+- diagram
+- productivity
 ---
 
 # Mindmap With Image As Center Topic
-
-#diagram
 
 一图胜千言，通过截图加标注能够很直白的说明问题。不过有时候会碰到标注很多很复杂的情况，比如针对截图对 UI 或者游戏系统进行分析，这个时候结合思维导图就比较方便了。
 

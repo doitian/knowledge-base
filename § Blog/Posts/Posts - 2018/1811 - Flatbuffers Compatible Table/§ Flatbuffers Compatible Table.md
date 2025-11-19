@@ -6,11 +6,12 @@ summary: How various flatbuffers types are compatible when one is used as child 
 katex: false
 share: true
 title: Flatbuffers Compatible Table
+tags:
+- flatbuffers
+- serialization
 ---
 
 # Flatbuffers Compatible Table
-
-#serialization
 
 | parent | table | struct | union | vector | string | enum | scalar |
 | ------ | ----- | ------ | ----- | ------ | ------ | ---- | ------ |

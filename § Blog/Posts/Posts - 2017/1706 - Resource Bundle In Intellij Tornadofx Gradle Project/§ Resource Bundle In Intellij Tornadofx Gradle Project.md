@@ -4,11 +4,11 @@ date: '2017-06-03T16:09:41+08:00'
 description: Where to create properties files for TornadoFX in IntelliJ Gradle Project.
 share: true
 title: Resource Bundle in IntelliJ TornadoFX Gradle Project
+tags:
+  - java
 ---
 
 # Resource Bundle In Intellij Tornadofx Gradle Project
-
-#java
 
 - Add properties files into `src/main/resources`
 - Global messages location:

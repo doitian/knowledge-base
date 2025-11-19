@@ -1,11 +1,14 @@
 ---
 date: '2016-11-27'
 title: Convert Web Page to Markdown using Ulysses or Bear
+tags:
+- automation
+- macos
+- markdown
+- note-taking
 ---
 
 # Convert Web Page To Markdown Using Ulysses Or Bear
-
-#power-tool
 
 > [!info] Updates
 > - **2017-05-09**: The bear current version made clipper easier to use.

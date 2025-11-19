@@ -7,11 +7,12 @@ series:
 - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 安装
+tags:
+  - devops
+  - graylog
 ---
 
 # Graylog 集中日志管理 - 安装
-
-#graylog #devops
 
 使用 [Graylog](https://www.graylog.org) 之前试过很多方案，包括流行的 ELK，也用过 fluentd 搭配各种存储，influxdb, mongodb 等等。但这些方案在日志量大了之后出现性能瓶颈都没有提供解决方案。而 Graylog 作为整合方案，使用 elasticsearch 存储，mongodb 缓存，带流量控制 (throttling)，简单易用的查询界面，方便的管理界面，易于扩展。转移到 Graylog 省心了不少。在使用过程中积累了些经验，准备陆续分享出来。
 

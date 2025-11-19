@@ -2,11 +2,13 @@
 date: '2013-07-16'
 description: Gotcha of the three functions uniq, count and distince
 title: ActiveRecord uniq, count and distinct
+tags:
+- active-record
+- database
+- rails
 ---
 
 # Active Record Uniq Count And Distinct
-
-#rails
 
 `ActiveRecord` has two methods to remove duplicates. Method `uniq` and option `distinct: true` in method `count`. I thought `uniq.count` and `count(distinct: true)` were identical. Indeed, `uniq.count` still counts duplicates, and `count(distinct: true)` must be used here.
 

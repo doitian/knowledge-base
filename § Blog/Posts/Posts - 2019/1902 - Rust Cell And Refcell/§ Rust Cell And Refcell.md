@@ -5,11 +5,12 @@ description: Talk about the differences between Cell and RefCell in Rust, and ho
 katex: false
 share: true
 title: Rust Cell and RefCell
+tags:
+- memory-management
+- rust
 ---
 
 # Rust Cell And Refcell
-
-#rust
 
 In Rust document, *Cell* is “A mutable memory location”, and *RefCell* is “A mutable memory location with dynamically checked borrow rules”.
 

@@ -1,10 +1,11 @@
 ---
 date: '2020-05-05T10:28:26+0800'
+tags:
+- vim
+- windows
 ---
 
 # Vim Setup for Windows
-
-#windows
 
 I used to use Visual Studio Code in Windows as mentioned in a previous post, [[§ My Windows Environment Setup]]. But its startup time is terrible on Surface Go, so I decide to give vim another try.
 

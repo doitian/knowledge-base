@@ -4,11 +4,12 @@ description: I like the feature to Insert all completions in bash, and I can get
 summary: I like the feature to Insert all completions in bash, and I can get this feature in zsh now
 lastmod: '2017-01-19'
 title: Select multiple zsh completions item
+tags:
+  - console
+  - zsh
 ---
 
 # Select Multiple Zsh Completions Item
-
-#zsh #console
 
 ``` zsh
 # ^Xa to insert all matches

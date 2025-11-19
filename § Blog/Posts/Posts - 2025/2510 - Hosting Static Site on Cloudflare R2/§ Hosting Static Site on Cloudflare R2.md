@@ -4,6 +4,9 @@ draft: false
 aliases:
   - Hosting Static Site on Cloudflare R2
 allowFullDomainLink: true
+tags:
+  - ci
+  - automation
 ---
 
 # Hosting Static Site on Cloudflare R2

@@ -5,11 +5,13 @@ description: ZFS 查看文件错误并修复
 katex: false
 share: true
 title: ZFS 文件恢复
+tags:
+- file-system
+- system-admin
+- zfs
 ---
 
 # ZFS File Restore
-
-#system-admin
 
 zfs 会在访问文件时记录下问题文件，也可用使用 `scrub` 来扫描文件，其中 `poolname` 是卷名。
 

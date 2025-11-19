@@ -7,11 +7,13 @@ series:
 - macOS Automation
 share: true
 title: Capture Anything using macOS Javascript automation
+tags:
+- automation
+- javascript
+- macos
 ---
 
 # Capture Anything using macOS Javascript automation
-
-#macos
 
 I have written many scripts to automate the work in macOS. This one is the most frequently used one. The script can capture the current selection in frontend most app in OmniFocus, and I can jump back to the app using URL.
 

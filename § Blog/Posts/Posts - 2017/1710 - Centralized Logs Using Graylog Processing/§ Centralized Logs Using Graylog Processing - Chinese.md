@@ -7,11 +7,12 @@ series:
 - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 日志处理
+tags:
+  - devops
+  - graylog
 ---
 
 # Graylog 集中日志管理 - 日志处理
-
-#graylog #devops
 
 Graylog 通过 Input 搜集日志，每个 Input 单独配置 Extractors 用来做字段转换。
 

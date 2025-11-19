@@ -5,11 +5,12 @@ description: 个人总结提升效率的一些习惯
 katex: false
 share: true
 title: 个人习惯总结
+tags:
+- habit
+- productivity
 ---
 
 # Personal Habits Summary
-
-#productivity
 
 - 11 点睡觉，7 点起床
 - 坚持锻炼。主要是跑步，大概每周 20 公里，天气不好就玩 Just Dance 代替。游泳，大概每周 5 公里。

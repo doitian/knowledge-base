@@ -5,11 +5,12 @@ description: ''
 katex: false
 share: true
 title: Deploy Concourse CI using Docker
+tags:
+  - ci
+  - docker
 ---
 
 # Deploy Concourse CI using Docker
-
-#docker #ci
 
 [Concourse CI](https://concourse-ci.org/) is an awesome open source continuous integration tool. If you are not using Gitlab, and want to setup a CI server, it is a good choice.
 

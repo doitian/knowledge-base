@@ -2,11 +2,13 @@
 date: '2023-04-29T21:43:02+0800'
 draft: false
 aliases: ["Transforming Markdown to Attractive PDFs: A Guide to Using Pandoc with Xelatex"]
+tags:
+  - latex
+  - markdown
+  - pdf
 ---
 
 # Transforming Markdown to Attractive PDFs: A Guide to Using Pandoc with Xelatex
-
-#markdown #pdf #latex
 
 **Status**:: #x
 **Zettel**:: #zettel/permanent

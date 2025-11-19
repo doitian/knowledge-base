@@ -1,10 +1,11 @@
 ---
 date: '2020-07-11T16:38:25+0800'
+tags:
+  - windows
+  - yubikey
 ---
 
 # Yubico for Windows
-
-#windows #yubikey
 
 **Topic**:: [[♯ Yubikey]]
 

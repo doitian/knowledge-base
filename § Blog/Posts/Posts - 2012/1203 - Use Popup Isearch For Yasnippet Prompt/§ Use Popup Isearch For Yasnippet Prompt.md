@@ -2,11 +2,11 @@
 date: '2012-03-30'
 description: Use popup as a backend of yasnippet prompt
 title: Use Popup isearch For Yasnippet Prompt
+tags:
+  - emacs
 ---
 
 # Use Popup Isearch For Yasnippet Prompt
-
-#emacs
 
 [Yasnippet][] tries functions in `yas/prompt-functions` when it needs user to select one choice, such as selecting snippets with the same trigger key, such as helper method `yas/choose-value`.
 

@@ -5,11 +5,12 @@ description: Use marks as a stack in Vim
 katex: false
 share: true
 title: Vim Marks Stack
+tags:
+- productivity
+- vim
 ---
 
 # Vim Marks Stack
-
-#vim
 
 I rarely used more than two marks in Vim, so why not use them as a stack and keep latest history?
 

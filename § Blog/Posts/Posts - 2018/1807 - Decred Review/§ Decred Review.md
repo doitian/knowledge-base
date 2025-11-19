@@ -7,11 +7,13 @@ series:
 - Blockchain Projects Review
 share: true
 title: Decred Review
+tags:
+- blockchain
+- consensus
+- cryptocurrency
 ---
 
 # Decred Review
-
-#blockchain
 
 [Official References](https://docs.decred.org/research/overview/)
 

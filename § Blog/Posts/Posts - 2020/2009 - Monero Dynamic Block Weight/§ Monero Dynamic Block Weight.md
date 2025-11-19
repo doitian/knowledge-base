@@ -1,10 +1,12 @@
 ---
 date: '2020-09-05T17:52:10+0800'
+tags:
+- blockchain
+- cryptoeconomics
+- monero
 ---
 
 # Monero Dynamic Block Weight
-
-#blockchain
 
 Monero dynamic block weight is an interesting design. Instead of a fixed supply of transaction space, Monero uses the history blocks to determine the dynamic limit and use the median to control the increasing pace.
 

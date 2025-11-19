@@ -5,11 +5,13 @@ feature: keyboard-on-mac.png
 banner: "![[keyboard-on-mac.png]]"
 title: Auto Toggle MacBook Internal Keyboard
 banner_y: 0
+tags:
+- automation
+- keyboard-maestro
+- macos
 ---
 
 # Auto Toggle Macbook Internal Keyboard
-
-#macos #power-tool
 
 I prefer using external keyboard with my MacBook. When no external monitors are used, a typical setup is placing the keyboard above the internal one, so I can still use the internal touchpad.
 

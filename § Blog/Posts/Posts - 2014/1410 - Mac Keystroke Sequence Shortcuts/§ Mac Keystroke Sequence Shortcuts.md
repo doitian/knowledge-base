@@ -2,11 +2,12 @@
 date: '2014-10-13'
 description: Setup visual keystroke sequence shortcuts using Keyboard Maestro in Mac OS X.
 title: Keystroke Sequence Shortcuts in Mac OS X
+tags:
+  - macos
+  - productivity
 ---
 
 # Mac Keystroke Sequence Shortcuts
-
-#macos #productivity
 
 It is a headache to find an available keyboard shortcuts in Mac OS X.  I used <kbd>Option + Letter</kbd>  and <kbd>Shift + Option + Letter</kbd> before, since they are preserved for inputting special characters. It has some problems:
 

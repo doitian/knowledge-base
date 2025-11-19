@@ -3,11 +3,13 @@ date: '2010-05-29'
 description: A study on alias method, an algorithm that generates a descrete random variable in O(1) time.
 katex: true
 title: Study on Alias Method
+tags:
+  - algorithm
+  - math
+  - probability
 ---
 
 # Study On Alias Method
-
-#algorithm #probability
 
 %%TOC%%
 

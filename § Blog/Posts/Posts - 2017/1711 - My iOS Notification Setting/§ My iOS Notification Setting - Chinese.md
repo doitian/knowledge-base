@@ -5,11 +5,12 @@ description: 我的 iPhone 通知管理
 katex: false
 share: true
 title: 我的 iPhone 通知管理
+tags:
+- ios
+- productivity
 ---
 
 # My iOS Notification Setting
-
-#productivity
 
 iOS 的通知可以按 App 配置
 

@@ -5,11 +5,12 @@ description: ''
 katex: false
 share: true
 title: 使用 Docker 部署 Concourse CI
+tags:
+  - ci
+  - docker
 ---
 
 # 使用 Docker 部署 Concourse CI
-
-#docker #ci
 
 [Concourse CI](https://concourse-ci.org/) 是个很不错的开源持续集成工具，安装和上手都相当简单。如果没有在用 Gitlab 又想自己架设 CI 服务的话是个不错的选择。
 

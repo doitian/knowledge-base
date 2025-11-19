@@ -1,10 +1,12 @@
 ---
 date: '2020-06-20T16:39:57+0800'
+tags:
+- productivity
+- tool
+- windows
 ---
 
 # Minimize any window into system tray in Windows
-
-#windows
 
 There are two apps both work for me in scoop extras bucket.
 

@@ -7,11 +7,12 @@ series:
 - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 日志输出
+tags:
+  - devops
+  - graylog
 ---
 
 # Graylog 集中日志管理 - 日志输出
-
-#graylog #devops
 
 这是 Graylog 系列最后一篇。
 

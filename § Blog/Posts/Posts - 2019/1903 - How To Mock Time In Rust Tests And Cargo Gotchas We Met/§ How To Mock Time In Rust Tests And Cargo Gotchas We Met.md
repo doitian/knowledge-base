@@ -5,11 +5,12 @@ description: I'm working in a team developing a big Rust project recently. The p
 katex: false
 share: true
 title: How to Mock Time in Rust Tests and Cargo Gotchas We Met
+tags:
+  - cargo
+  - rust
 ---
 
 # How To Mock Time In Rust Tests And Cargo Gotchas We Met
-
-#rust #cargo
 
 How to mock time in Rust tests and Cargo gotchas we met.
 I'm working in a team developing a big Rust project recently. The project has some features depending on time. We, the developers, want to be able to mock the time in the test. In this post, I'll talk about the problems we have met, mostly related to Cargo.

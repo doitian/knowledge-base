@@ -1,15 +1,18 @@
 ---
 comment: true
 date: '2017-11-18T10:46:07+08:00'
-description: "Introduce how to read various public/private key in Ruby"
+description: Introduce how to read various public/private key in Ruby
 katex: false
 share: true
 title: Read Various RSA Keys in Ruby
+tags:
+- cryptography
+- openssl
+- rsa
+- ruby
 ---
 
 # Read Various RSA Keys in Ruby
-
-#ruby
 
 I recently worked in a Ruby on Rails project which should integrate with many different payment systems. There system mostly use RSA in encryption and signature. However they provide the RSA keys in different formats, it is a challenge to choose a right way to read the keys in Ruby.
 

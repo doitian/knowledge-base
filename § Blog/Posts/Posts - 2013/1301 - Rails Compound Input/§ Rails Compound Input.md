@@ -2,11 +2,13 @@
 date: '2013-01-19'
 description: How to use multiple HTML input controllers for a single field in model.
 title: Rails Compound Input
+tags:
+- form
+- frontend
+- rails
 ---
 
 # Rails Compound Input
-
-#rails
 
 When I implement
 [time input feature](https://github.com/19wu/19wu/pull/160) for

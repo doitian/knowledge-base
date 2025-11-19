@@ -2,11 +2,12 @@
 date: '2013-04-28'
 description: Introduce how we fix a bug, and what we learned about sprockets internals.
 title: How Rails Assets Prefix Disables the Session
+tags:
+- rails
+- session
 ---
 
 # How Rails Assets Prefix Disables The Session
-
-#rails
 
 This is original posted on
 [intridea blog](https://web.archive.org/web/20151009055627/http://www.intridea.com/blog/2013/3/20/rails-assets-prefix-may-disable-your-session).

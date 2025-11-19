@@ -5,11 +5,13 @@ description: 开发服务端程序，nofile 是很重要的配置。它限制了
 katex: false
 share: true
 title: Linux nofile 限制
+tags:
+- linux
+- performance
+- system-admin
 ---
 
 # Linux Nofile Limit
-
-#linux
 
 在上一次游戏测试中，因为用了新的机器，并且从 ansible 切换到了 salt stack，其中 `nofile` 相关的配置步骤漏掉了，结果所有进程的 `nofile` 限制是默认的 1024。结果就是当在线人数达到一定数据之后，出现大量 lua 找不到文件的错误，导致后来的玩家没法登录，已经在线的玩家也没法正常游戏。
 

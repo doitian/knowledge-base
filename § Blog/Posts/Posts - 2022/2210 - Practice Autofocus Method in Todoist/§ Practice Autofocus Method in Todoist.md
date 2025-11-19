@@ -4,10 +4,12 @@ aliases: ["Practice Autofocus Method in Todoist"]
 feature: "featured-river-flowing-with-maple-leaves-on-the-rocks.jpg"
 banner: "![[featured-river-flowing-with-maple-leaves-on-the-rocks.jpg]]"
 banner_y: 0.54093
+tags:
+  - productivity
+  - todoist
 ---
-# Practice Autofocus Method in Todoist
 
-#productivity #todoist
+# Practice Autofocus Method in Todoist
 
 **Status**:: #x
 **Zettel**:: #zettel/permanent

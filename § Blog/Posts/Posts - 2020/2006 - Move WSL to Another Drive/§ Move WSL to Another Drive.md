@@ -1,10 +1,11 @@
 ---
 date: '2020-06-26T16:51:34+0800'
+tags:
+  - windows
+  - wsl
 ---
 
 # Move WSL to Another Drive
-
-#windows #wsl
 
 Following example moves the Ubuntu distribution to disk `D:\WSL\Ubuntu`.
 

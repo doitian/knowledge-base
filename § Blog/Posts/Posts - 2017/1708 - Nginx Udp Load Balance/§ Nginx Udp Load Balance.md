@@ -5,11 +5,11 @@ description: Use Nginx stream proxy as UDP load balance
 katex: false
 share: true
 title: "Nginx as UDP Load Balance"
+tags:
+  - nginx
 ---
 
 # Nginx as UDP Load Balance
-
-#nginx
 
 Just upgraded Graylog to cluster in a project. Because syslog UDP is used as input, a UDP load balance is required to distribute logs to servers in the cluster. Since the servers are hosted in Aliyun, I tried Aliyun UDP Load Balance first. But it does not forward requests evenly, and health detection diagram cannot be disabled. The popular HTTP load balance tool HAProxy does not support UDP. Fortunately, Nginx can be used as a UDP load balance.
 

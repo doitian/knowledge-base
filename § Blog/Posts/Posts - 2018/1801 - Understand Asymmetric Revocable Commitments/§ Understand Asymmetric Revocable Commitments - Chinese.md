@@ -5,11 +5,13 @@ description: 通过一步一步分析每一步可能的结果，理解 Asymmetri
 katex: false
 share: true
 title: 理解 Asymmetric Revocable Commitments
+tags:
+- blockchain
+- cryptography
+- payment-channel
 ---
 
 # Understand Asymmetric Revocable Commitments
-
-#blockchain
 
 Asymmetric Revocable Commitments 是 Lighting Network 的基础，是非对称加密技术很巧妙的应用。它用于互不信任的双方在链下通过协商完成一系列交易。最终需要提交到链上的只需要最初的创建和最后的结算两个交易，大大提高了交易处理速度。
 

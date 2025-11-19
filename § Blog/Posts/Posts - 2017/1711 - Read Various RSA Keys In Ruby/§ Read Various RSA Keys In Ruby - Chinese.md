@@ -5,11 +5,14 @@ description: 简单介绍各种 Key 格式，以及如何在 Ruby 中读取
 katex: false
 share: true
 title: Ruby 中读取各种 RSA Keys
+tags:
+- cryptography
+- openssl
+- rsa
+- ruby
 ---
 
 # Read Various RSA Keys In Ruby
-
-#ruby
 
 最近在一个 Ruby on Rails 项目中需要集成各种支付系统。这些系统多使用 RSA 进行加密和签名验证。不过提供的 RSA Key 格式公式个样，所以把各种格式和如何在 Ruby 中读取整理了一下。
 

@@ -9,11 +9,12 @@ series:
 share: true
 title: Bitcoin Core Network Event Loops
 banner_y: 0.26174
+tags:
+  - blockchain
+  - programming
 ---
 
 # Bitcoin Core Network Event Loops
-
-#blockchain #programming
 
 %%TOC%%
 

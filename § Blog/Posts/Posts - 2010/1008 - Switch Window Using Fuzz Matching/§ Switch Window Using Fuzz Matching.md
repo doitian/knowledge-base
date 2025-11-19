@@ -2,11 +2,14 @@
 date: '2010-08-25'
 description: This article demonstrates how to quickly switch to a window using gpicker and wmctrl.
 title: Switch Window Using Fuzz Matching
+tags:
+  - desktop
+  - linux
+  - productivity
+  - script
 ---
 
 # Switch Window Using Fuzz Matching
-
-#desktop #linux #productivity #script
 
 This article demonstrates how to quickly switch to a window using **gpicker**
 and **wmctrl**. You type significant letters of workspace name, application name

@@ -5,11 +5,12 @@ description: Vcpkg 是微软推出的在 Windows 上管理 C/C++ 库的工具，
 katex: false
 share: true
 title: 使用 vcpkg 链接静态库
+tags:
+  - cpp
+  - windows
 ---
 
 # Vcpkg Static Linking
-
-#cpp #windows
 
 [Vcpkg][1] 是微软推出的用于在 Windows 上管理 C/C++ 库的工具。通过它能够方便的安装常用的 C/C++ 库，而且提供了 CMake 的集成。这使得使用 CMake 的项目在 Windows 下构建方便了很多，不需要自己手动去指定在 Windows 下如何找到依赖的库了。
 

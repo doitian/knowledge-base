@@ -1,11 +1,13 @@
 ---
 date: '2013-01-31'
 title: A trick to use just jasmine gem to test Javascript in Rails
+tags:
+  - javascript
+  - rails
+  - software-test
 ---
 
 # Rails Javascript Test With Jasmine Gem
-
-#rails #javascript #software-test
 
 > [Jasmine][] is a behavior-driven development framework for testing JavaScript
 > code. It does not depend on any other JavaScript frameworks. It does not

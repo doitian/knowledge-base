@@ -1,10 +1,11 @@
 ---
 date: '2020-06-27T16:52:48+0800'
+tags:
+  - performance
+  - windows
 ---
 
 # Memory Tracing in Windows
-
-#windows #performance
 
 The article mainly refers [Exercise 2 - Track User Mode Process Allocations | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/memory-footprint-optimization-exercise-2).
 

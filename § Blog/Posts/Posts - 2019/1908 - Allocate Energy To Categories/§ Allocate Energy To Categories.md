@@ -5,11 +5,12 @@ description: I group my objectives into categories, and allocate my time into th
 katex: false
 share: true
 title: Allocate Energy to Categories
+tags:
+- life-management
+- productivity
 ---
 
 # Allocate Energy To Categories
-
-#productivity
 
 I have read the post [Get Everything Done & Still Have Time to Play][1] by Jackie Ashton recently and adopted some strategies into my process.
 

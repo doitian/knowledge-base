@@ -2,11 +2,13 @@
 date: '2013-08-23'
 description: Post about the differences of includes and preload
 title: ActiveRecord includes and preload
+tags:
+- active-record
+- performance
+- rails
 ---
 
 # Active Record Includes And Preload
-
-#rails
 
 `ActiveRecord` has two [query methods][] to eager load associations, [includes][] and [preload][].  Although the documentation of `preload` says
 

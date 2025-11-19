@@ -5,11 +5,11 @@ description: 使用 Nginx stream 代理作 UDP 负载均衡
 katex: false
 share: true
 title: 使用 Nginx 作 UDP 负载均衡
+tags:
+  - nginx
 ---
 
 # 使用 Nginx 作 UDP 负载均衡
-
-#nginx
 
 最近把 Graylog 升级到集群。因为使用了 syslog UDP 作为输入，所以需要做个 UDP 的负载均衡。因为机器在阿里云，所以首先是创建了个阿里云内网的 UDP 负载均衡，但是发现负载不平均，而且也没办法关闭检测连接的心跳包。而常见的 HTTP 负载均衡工具 HAProxy 不支持 UDP。最后发现 Nginx 是可以实现 UDP 负载均衡的。
 

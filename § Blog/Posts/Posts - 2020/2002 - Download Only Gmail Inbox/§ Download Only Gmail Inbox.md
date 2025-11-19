@@ -5,11 +5,13 @@ description: How to configure Apple Mail to download only the mails in Gmail inb
 katex: false
 share: true
 title: How to Download Only Gmail Inbox
+tags:
+- automation
+- email
+- power-tool
 ---
 
 # Download Only Gmail Inbox
-
-#power-tool
 
 I prefer reading my mails in the Gmail web client directly. I rarely send new mails or replies. But when I do, I want to use PGP to encrypt or sign the mail. I have tried two extensions to use PGP in Gmail, FlowCrypt and Mailvelope. But both of them are far from a competent solution for me. GPG Mail in the GPG Suite for macOS is still my preferred way. However, GPG Mail is an Apple Mail plugin, which requires downloading mails first. Based on my scenarios, I only need to download the mails I left in the inbox. But the basic setup of Gmail in Apple Mail will download many mails in the background.
 

@@ -1,11 +1,13 @@
 ---
 date: '2020-08-16T14:38:10+0800'
 description: 'An introduction to the fee stimate algorithm in the Bitcoin Core'
+tags:
+- algorithm
+- bitcoin
+- fee-market
 ---
 
 # Bitcoin Core Fee Estimate Algorithm
-
-#bitcoin
 
 In bitcoin, the total size of transactions added to the chain in a specific time is limited. This creates a fee market. Transactions with a higher fee rate are likely to be confirmed more quickly. A good fee estimator predicates which fee rate to pay where there is a high probability the transaction will be confirmed into the chain within the target period.
 

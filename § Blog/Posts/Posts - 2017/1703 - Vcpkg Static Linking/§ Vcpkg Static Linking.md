@@ -5,11 +5,12 @@ description: "Vcpkg is a C/C++ libraries management tool in Windows provided by 
 katex: false
 share: true
 title: Vcpkg static linking
+tags:
+  - cpp
+  - windows
 ---
 
 # Vcpkg static linking
-
-#cpp #windows
 
 [Vcpkg][1] is a tool published by Microsoft, which is used to manage C/C++ libraries in Windows. It makes libraries installation easier, and it works well with CMake.
 

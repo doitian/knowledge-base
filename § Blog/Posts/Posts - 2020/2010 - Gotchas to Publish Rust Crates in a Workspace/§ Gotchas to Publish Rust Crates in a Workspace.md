@@ -1,11 +1,12 @@
 ---
 date: '2020-10-11T12:03:32+0800'
 draft: false
+tags:
+- cargo
+- rust
 ---
 
 # Gotchas to Publish Rust Crates in a Workspace
-
-#rust
 
 It is recommended to split a huge Rust project into crates and manage them in a workspace. I'm currently working on a project which consists of about 60 crates. It works well so far until I try to publish these crates to crates.io.
 

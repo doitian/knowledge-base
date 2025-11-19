@@ -2,11 +2,13 @@
 date: '2013-06-16'
 description: Introduction to make SVG responsive.
 title: Responsive SVG
+tags:
+- css
+- frontend
+- svg
 ---
 
 # Responsive Svg
-
-#svg
 
 SVG can use percentage as unit, but it is often more convenient to use px as unit. Framework such as d3 also uses px internally. However, it is still easy to scale an SVG using attributes `viewBox` and `preserveAspectRatio` even px is used as unit internally.
 

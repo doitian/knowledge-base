@@ -3,11 +3,12 @@ date: '2021-02-06T20:06:11+0800'
 feature: big-sur.jpg
 banner: "![[big-sur.jpg]]"
 banner_y: 0.4463
+tags:
+- macos
+- system-admin
 ---
 
 # Install macOS Big Sur in 2021
-
-#macos
 
 My MacBook's battery capacity is significantly reduced and it has many weird issues so I decide to do a clean installation of macOS Big Sur. This article is a reference for my own reference in case I need to do it again.
 

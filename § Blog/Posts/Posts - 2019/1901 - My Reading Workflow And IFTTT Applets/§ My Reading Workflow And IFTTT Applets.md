@@ -5,11 +5,12 @@ description: I'll share my detailed reading workflow and the IFTTT applets used 
 katex: false
 share: true
 title: My Reading Workflow and IFTTT Applets
+tags:
+  - knowledge-management
+  - productivity
 ---
 
 # My Reading Workflow And Ifttt Applets
-
-#productivity #knowledge-management
 
 I categorize reading into 3 different categories:
 

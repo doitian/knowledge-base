@@ -1,10 +1,11 @@
 ---
 date: '2020-05-03T22:03:22+0800'
+tags:
+- dev-environment
+- windows
 ---
 
 # My Windows Environment Setup
-
-#windows
 
 I have only one Windows device, the Surface Go. I work on it occasionally, especially on short trips. I prefer Surface Go because of handwriting. I have a simple setup to meet my work requirements.
 

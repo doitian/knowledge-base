@@ -3,11 +3,12 @@ date: '2020-04-24T21:14:17+08:00'
 description: "Write to Any iOS Files Location via Working Copy with its two features: Synced Directory and Write Repository File Shortcut"
 feature: write-to-files-via-working-copy.png
 banner: "![[write-to-files-via-working-copy.png]]"
+tags:
+  - automation
+  - ios
 ---
 
 # Write to Any iOS Files Location via Working Copy
-
-#ios #automation
 
 I use file system to manage my knowledge base. The [repository](https://github.com/doitian/knowledge-base/) has a well defined directory structure. I have a bunch of scripts to help me creating these directories on the laptop. But in iOS, I have to create them manually. Recently, I have found out a way to work around it via Working Copy.
 

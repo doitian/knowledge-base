@@ -1,10 +1,12 @@
 ---
 date: '2021-02-09T20:08:23+0800'
+tags:
+  - ssh
+  - windows
+  - yubikey
 ---
 
 # SSH Authentication Using a YubiKey on Windows And the OpenSSH Client
-
-#windows #ssh #yubikey
 
 As mentioned in [[§ Yubico for Windows]], I used PuTTY/Plink instead of the OpenSSH client together with YubiKey because the OpenSSH Client does not support the socket file created by GnuPG.
 

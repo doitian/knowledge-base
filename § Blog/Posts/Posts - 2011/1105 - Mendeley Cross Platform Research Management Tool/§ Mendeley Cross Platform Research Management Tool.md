@@ -2,11 +2,13 @@
 date: '2011-05-18'
 description: How Mendeley manages documents and citations.
 title: 'Mendeley: Cross Platform Research Management Tool'
+tags:
+- productivity
+- reference-management
+- software
 ---
 
 # Mendeley Cross Platform Research Management Tool
-
-#utility #productivity #app
 
 [Mendeley][] is a research management tool for desktop & web. It has clients for Linux, Mac, Windows and iPhone and a Web interface. Mendeley can manage any document, but is better to work with PDF. The file meta data are synchronized though Mendeley server. The attached files (PDF or any other formats) can also be synchronized, but the free account has a quota of 500MB. However, the attached files directory and underlying sqlite database can be synchronized manually.
 

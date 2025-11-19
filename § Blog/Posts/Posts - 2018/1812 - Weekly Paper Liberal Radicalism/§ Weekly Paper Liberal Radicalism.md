@@ -7,11 +7,12 @@ series:
 - Weekly Paper
 share: true
 title: 'Weekly Paper: Liberal Radicalism'
+tags:
+  - economics
+  - governance
 ---
 
 # Weekly Paper Liberal Radicalism
-
-#governance #economics
 
 [paper source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656)
 

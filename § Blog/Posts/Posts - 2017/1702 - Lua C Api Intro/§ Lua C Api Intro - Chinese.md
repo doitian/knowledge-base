@@ -4,11 +4,13 @@ description: 介绍 Lua C API 使用方法，详细说明了 Lua 栈的操作
 series:
 - Lua C API
 title: Lua C API 简介
+tags:
+- c
+- lua
+- programming
 ---
 
 # Lua C Api Intro
-
-#lua
 
 %%TOC%%
 

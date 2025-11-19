@@ -7,11 +7,13 @@ series:
 - macOS Automation
 share: true
 title: 使用 macOS Javascript 自动化来集成各种 App 的任务收集
+tags:
+- automation
+- javascript
+- macos
 ---
 
 # 使用 macOS Javascript 自动化来集成各种 App 的任务收集
-
-#macos
 
 我写了不少 macOS 脚本来自动化我的工作。这个脚本可以是用的最多的。我用它来在各种 App 中，将当前选中的对象做为任务添加到 OmniFocus 中。通过捕获的链接可以在 OmniFocus 中直接打开相关的文档。
 

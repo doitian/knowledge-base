@@ -4,11 +4,11 @@ date: '2017-08-19T23:41:07+08:00'
 description: "How to use Redis as Write Buffer, and how to savely flush cached data to backend storage and remove cache from Redis."
 share: true
 title: Redis as Write Buffer
+tags:
+  - redis
 ---
 
 # Redis as Write Buffer
-
-#redis
 
 It is common to use Redis as read buffer。To read data, first check whether it exists in Redis. If so, use the cached data, otherwise read from the backend storage and save a copy into Redis. To write data, first save into backend storage, then clear or update Reids cache.
 
