@@ -79,7 +79,7 @@ First define the addition and scalar multiplication operations:
 > \end{align*}$$
 > for all $v, w \in V$ and $\lambda \in \mathbf{F}$.
 
-$v+U$ is not the unique way to represent a member in $V/U$, because there may exist $v’\ne v$ that $u + U = v’ + U$. The operations make sense only when the choice of $v$ to represent a translate makes no differences.
+$v+U$ is not the unique way to represent a member in $V/U$, because there may exist $v'\ne v$ that $u + U = v' + U$. The operations make sense only when the choice of $v$ to represent a translate makes no differences.
 
 Specifically, suppose $v_1, v_2, w_1, w_2 \in V$ such that
 
