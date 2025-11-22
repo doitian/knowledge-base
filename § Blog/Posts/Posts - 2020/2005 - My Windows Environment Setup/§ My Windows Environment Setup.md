@@ -65,17 +65,3 @@ Following is a list of other apps I used in Windows:
 * Nebo: Handwriting notebook.
 * Clash for Windows
 * OneDrive and Google Keep for quickly synchronize data with other devices.
-
-## Linked mentions
-
-%%+BEGIN: #dataviewx%%
-```dataviewx
-LIST WITHOUT ID "(Backlinks:: [[" + file.name + "]])"
-FROM [[]] and "output"
-WHERE !contains(Backlinks, [[]])
-SORT file.name
-```
-
-- (Backlinks:: [[§ Vim Setup for Windows]])
-- (Backlinks:: [[§ What I Touched This Week 2020-05-10]])
-%%+END%%

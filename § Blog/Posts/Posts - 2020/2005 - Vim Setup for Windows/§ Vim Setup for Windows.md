@@ -62,16 +62,3 @@ set renderoptions=type:directx
 " Fix the ugly cursor color
 hi Cursor guibg=#005f87 guifg=#eeeeee
 ```
-
-## Linked mentions
-
-%%+BEGIN: #dataviewx%%
-```dataviewx
-LIST WITHOUT ID "(Backlinks:: [[" + file.name + "]])"
-FROM [[]] and "output"
-WHERE !contains(Backlinks, [[]])
-SORT file.name
-```
-
-- (Backlinks:: [[§ What I Touched This Week 2020-05-10]])
-%%+END%%
