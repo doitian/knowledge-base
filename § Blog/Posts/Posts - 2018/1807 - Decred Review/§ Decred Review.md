@@ -10,7 +10,7 @@ title: Decred Review
 tags:
 - blockchain
 - consensus
-- cryptocurrency
+- crypto-currency
 ---
 
 # Decred Review

@@ -17,8 +17,8 @@ consensus
 console
 container
 cpp
-cryptocurrency
-cryptoeconomics
+crypto-currency
+crypto-economics
 cryptography
 css
 database
