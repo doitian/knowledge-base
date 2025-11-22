@@ -3,6 +3,8 @@ date: 2020-06-07
 description: My weekly review report.
 series:
 - What I Touched
+obsidianFiles:
+- para/lets/y/Yubikey/Yubico on Fedora
 ---
 
 # What I Touched This Week 2020-06-07
@@ -78,5 +80,3 @@ There are several major issues to use Linux on surface:
 * [FiloSottile/age: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.](https://github.com/FiloSottile/age)
 * [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 * [Firefox Send](https://send.firefox.com/)
-
-[Yubico on Fedora]: https://kb.iany.me/para/lets/y/Yubikey/Yubico+on+Fedora

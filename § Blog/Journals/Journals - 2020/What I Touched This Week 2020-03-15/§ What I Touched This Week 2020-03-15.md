@@ -3,6 +3,8 @@ date: 2020-03-15
 description: My weekly review report.
 series:
 - What I Touched
+obsidianFiles:
+- para/lets/p/Personal SOPs/Taking Notes
 ---
 
 # What I Touched This Week 2020-03-15
@@ -16,7 +18,6 @@ I have:
 <!--more-->
 
 ## Picks
-
 
 * [让每一次听讲都有所收获：我的讲座笔记经验分享 - 少数派](https://sspai.com/post/59095)
     * 速记
@@ -114,5 +115,3 @@ And several about databases.
 -   [Seeing Theory](https://seeing-theory.brown.edu/) visualizes statistics.
 -   [@CPriestman: Breath of the Wild players are out of control https://t.co/zWPEHq1ncH https://t.co/YdsZtgeQXF](https://twitter.com/CPriestman/status/1237045136657395717)
 -   [用英文怼人的最高境界](http://mp.weixin.qq.com/s?__biz=MjM5NTExMTk5MA==&mid=2660772525&idx=1&sn=eae9a51ec729f2bf163bba496c3dcf83&chksm=bd91fff48ae676e23c6a4acc2eb58542ca48e95ad3dd321e941d2628f53322f6b9241a522b38&mpshare=1&scene=1&srcid=&sharer_sharetime=1584093443911&sharer_shareid=e7bb68422a42795eb26b0930876fa613)
-
-[Taking Notes]: https://kb.iany.me/para/lets/p/Personal+SOPs/Taking+Notes

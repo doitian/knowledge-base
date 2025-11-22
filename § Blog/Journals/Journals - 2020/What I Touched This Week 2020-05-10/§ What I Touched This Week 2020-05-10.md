@@ -3,6 +3,8 @@ date: 2020-05-10
 description: My weekly review report.
 series:
 - What I Touched
+obsidianFiles:
+- para/lets/s/Shell/PowerShell
 ---
 
 # What I Touched This Week 2020-05-10
@@ -60,5 +62,3 @@ Some Git repositories contains symbol links, which does not work in Windows, her
 * [新建一个账户就能隔离毒瘤应用：Windows 自带权限工具妙用 - 少数派](https://sspai.com/post/58668)
 * [给毒瘤应用找个好去处，轻量、易用的 Windows 沙盒工具：Sandboxie - 少数派](https://sspai.com/post/59465)
 * [macos - Keyboard shortcut for restoring applications from the Mac OS X Dock? - Ask Different](http://apple.stackexchange.com/questions/55432/keyboard-shortcut-for-restoring-applications-from-the-mac-os-x-dock)
-
-[PowerShell]: https://kb.iany.me/para/lets/s/Shell/PowerShell

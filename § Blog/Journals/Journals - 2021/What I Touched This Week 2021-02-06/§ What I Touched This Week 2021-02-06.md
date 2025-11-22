@@ -3,6 +3,8 @@ date: 2021-02-06
 description: My weekly review report.
 series:
 - What I Touched
+obsidianFiles:
+- para/lets/m/macOS/Set Up a New Mac
 ---
 
 # What I Touched This Week 2021-02-06
@@ -93,5 +95,3 @@ Picks:
 
 -   [@Aaaaaa\_Shu: 已经出现超越 Bitcoin 的代币...](https://twitter.com/ashu_eth/status/1356231490997084160)
 -   [@andelf: 给吃货的命令行上手指南](https://twitter.com/andelf/status/1356138271638577152)
-
-[Set Up a New Mac]: https://kb.iany.me/para/lets/m/macOS/Set+Up+a+New+Mac

@@ -3,6 +3,8 @@ date: '2020-06-26T16:51:34+0800'
 tags:
   - windows
   - wsl
+obsidianFiles:
+  - para/lets/w/Windows/LxRunOffline
 ---
 
 # Move WSL to Another Drive
@@ -89,6 +91,4 @@ Command explanation:
 - `wsl --import Ubuntu Ubuntu ubuntu.tar`: The first `Ubuntu` is the new created instance name. The second `Ubuntu` is the instance saved location. The last parameter is the file created by `wsl --export`. This will import `ubuntu.tar` and use `D:\WSL\Ubuntu` to save the WSL instance data.
 
 Now it is also OK to uninstall Ubuntu in the store and continue to the **Step 3**.
-
-[LxRunOffline]: https://kb.iany.me/para/lets/w/Windows/LxRunOffline
 
