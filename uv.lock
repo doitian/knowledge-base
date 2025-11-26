@@ -1,0 +1,23 @@
+version = 1
+revision = 3
+requires-python = ">=3.13"
+
+[[package]]
+name = "inflector"
+version = "3.1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/45/be/21de73919b8c34ffaee6ba3bd3e3bd9b83f684b1ae89db3d3c756daa6c35/Inflector-3.1.1.tar.gz", hash = "sha256:1835ccc74ea8b5bea93cee9f7802b5cbbaaa937e268a197a937394aa47dee6d5", size = 10317, upload-time = "2024-01-12T03:07:20.83Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ef/d4/e4f0d1b76e04502b393f34191d8dedf48a2b48c784b9a41400ac466f7516/Inflector-3.1.1-py3-none-any.whl", hash = "sha256:b158010b9c400382a9792dcaa05a02c198b27d17fb52a23262e8226c91b13c97", size = 12986, upload-time = "2024-01-12T03:07:19.143Z" },
+]
+
+[[package]]
+name = "output"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "inflector" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "inflector", specifier = ">=3.1.1" }]
