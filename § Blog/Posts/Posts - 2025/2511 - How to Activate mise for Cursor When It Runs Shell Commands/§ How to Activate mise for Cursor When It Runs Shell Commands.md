@@ -14,7 +14,7 @@ description: Learn how to configure mise to work with Cursor's non-login shell e
 
 # How to Activate mise for Cursor When It Runs Shell Commands
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2025-11-26]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2025/11/how-to-activate-mise-for-cursor-when-it-runs-shell-commands/)
