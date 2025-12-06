@@ -24,7 +24,6 @@ This week I dove deep into TigerBeetle's fuzzing philosophy through several arti
 
 - **Design for Fuzzability First**: You don't build a system and then add a fuzzer—the process is almost reversed. Start by sketching minimal interfaces that yield themselves to efficient fuzzing. Minimize the interface by eliminating accidental dependencies and leaving only essential ones.
 - **Data-Oriented Design**: Apply data-oriented design principles—think in terms of input data, output data, and the fundamental data transformation the system implements. This makes the code more easily fuzzable.
-- **Avoid Modeling When Possible**: Inspired by the PCC paper, avoid modeling altogether. Instead, go and *do* something, then measure the relevant result directly, Grace Hopper style. For example, accept an `Instant` (a `u64` number of nanoseconds) rather than modeling time—this is a major simplification for fuzzing.
 - **Four Fuzzer Strategy**: Use multiple fuzzing approaches: (1) positive space fuzzing with ideal lab environments to verify correctness, (2) negative space fuzzing calling all public methods in random order to break things, (3) boundary testing for valid vs. almost-valid-but-invalid codes, and (4) whole subsystem fuzzing.
 - **Randomness in Tests**: Don't always use hard-coded seeds. Zig's approach is best—provide `std.testing.random_seed` that's different per run but generated outside the test process. Run tests twice: once with a hard-coded seed for regression testing, and once with a truly random seed for coverage.
 
