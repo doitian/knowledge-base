@@ -8,7 +8,7 @@ tags:
   - cursor
   - shell
   - zsh
-  - "#vibe-coding"
+  - vibe-coding
 description: Learn how to configure mise to work with Cursor's non-login shell environment by activating it in .zshenv when CURSOR_AGENT is detected.
 ---
 
