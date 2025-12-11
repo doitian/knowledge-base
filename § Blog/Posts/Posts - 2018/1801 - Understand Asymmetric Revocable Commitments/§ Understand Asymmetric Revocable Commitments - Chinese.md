@@ -17,7 +17,7 @@ Asymmetric Revocable Commitments 是 Lighting Network 的基础，是非对称�
 
 <!--more-->
 
-Wikipedia 上有[介绍和例子]([Lightning Network - https://en.wikipedia.org/wiki/Lightning_Network)。一开始比较懵的是，如果交易可以被 Revoke，一方可以拿走所有资金，为什么不直接提交 Revoke 交易呢？而一系列的交换可以把整个系统当作状态机。如果把每个步骤完成后双方可以做的事，以及最终导致的结果列出来，就可以弄明白为什么了。因为 Revoke 的前提是它对应的交易被提交到链上被执行后才行，而那个交易是自己单方签名后提交给对方的，只有对方才能构造出并提交的。这样 Revoke Key 的作用就是监听链上的交易，一旦发现它对应的交易，马上 Revoke 它已获得所有的资金。
+Wikipedia 上有[介绍和例子](https://en.wikipedia.org/wiki/Lightning_Network)。一开始比较懵的是，如果交易可以被 Revoke，一方可以拿走所有资金，为什么不直接提交 Revoke 交易呢？而一系列的交换可以把整个系统当作状态机。如果把每个步骤完成后双方可以做的事，以及最终导致的结果列出来，就可以弄明白为什么了。因为 Revoke 的前提是它对应的交易被提交到链上被执行后才行，而那个交易是自己单方签名后提交给对方的，只有对方才能构造出并提交的。这样 Revoke Key 的作用就是监听链上的交易，一旦发现它对应的交易，马上 Revoke 它已获得所有的资金。
 
 通过分析也立即明白了在哪些步骤上是有风险的，安全上需要注意什么。
 
