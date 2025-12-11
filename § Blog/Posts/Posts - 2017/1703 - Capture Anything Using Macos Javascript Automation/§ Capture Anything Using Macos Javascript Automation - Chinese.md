@@ -1,16 +1,14 @@
 ---
 comment: true
-date: '2017-03-19T17:54:13+08:00'
+date: 2017-03-19T17:54:13+08:00
 description: 分享用来在各种 App 中收集任务的 macOS Javascript 自动化脚本
 katex: false
-series:
-- macOS Automation
 share: true
 title: 使用 macOS Javascript 自动化来集成各种 App 的任务收集
 tags:
-- automation
-- javascript
-- macos
+  - automation
+  - javascript
+  - macos
 ---
 
 # 使用 macOS Javascript 自动化来集成各种 App 的任务收集

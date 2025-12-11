@@ -1,10 +1,8 @@
 ---
 comment: true
-date: '2020-02-08T16:48:30+08:00'
+date: 2020-02-08T16:48:30+08:00
 description: I wrote two scripts to help launching Vim in a new iTerm window.
 katex: false
-series:
-- macOS Automation
 share: true
 title: Vim iTerm Launcher
 tags:
