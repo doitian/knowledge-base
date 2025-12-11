@@ -69,7 +69,7 @@ If the SVG does not need to preserve ratio, set `preserveAspectRatio` to `none`,
 
 <figure>
   <div style="width:50%;height:50px;">
-    <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+    <svg viewBox="0 0 100 100" style="width:100%;height:100%" preserveAspectRatio="none">
       <circle cx="50" cy="50" r="50" fill="blue" />
     </svg>
   </div>
