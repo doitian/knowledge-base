@@ -1,0 +1,66 @@
+---
+date: 2025-12-13
+description: My weekly review report.
+series:
+- What I Touched
+obsidianFiles:
+- robot/Readwise Library/Articles/Pieter Hintjens - Social Architecture (Highlights)
+- robot/Readwise Library/Articles/Lorenzo Maturano - Async Payments on the Lightning Network (Highlights)
+- robot/Readwise Library/Articles/Scott Young - 5 Strategies to Learn Better With AI (Highlights)
+- robot/Readwise Library/Articles/Armin Ronacher - Agent Design Is Still Hard (Highlights)
+- robot/Readwise Library/Articles/Kyle Mistele - Writing a good CLAUDE.md (Highlights)
+---
+# What I Touched This Week 2025-12-13
+
+**Status**:: #x
+**Zettel**:: #zettel/permanent
+**Created**:: [[2025-12-13]]
+**URL**:: [blog.iany.me](https://blog.iany.me/journal/2025/12/what-i-touched-this-week-2025-12-13/)
+**Highlights**:: [[Readwise Sync 2025-12-13]]
+
+## Social Architecture and Open Source Community Building
+
+This week I dove deep into Pieter Hintjens' "Social Architecture," a comprehensive guide to building sustainable open source communities. The book provides a framework for understanding how successful communities function, with direct relevance to my work on CKB Fiber and other open source projects.
+
+- **The C4 Process**: An evolution of the GitHub Fork + Pull Model that emphasizes problem-first thinking. All patches must start by identifying a clear problem before proposing solutions. This creates a culture where contributors focus on real needs rather than speculative features.
+- **Optimistic Merging**: Maintainers should merge patches rapidly, even if imperfect. This creates opportunities for mentoring—when a patch needs work, other contributors naturally step in to help, building relationships and improving code quality through collaboration rather than gatekeeping.
+- **Free Entry and Non-Tribalism**: Successful communities welcome competition and experimentation. If starting a competing project gets a negative emotional response, the group is too tribal. Healthy communities applaud new competitors as spaces for learning and innovation.
+- **The 20 Principles**: From strong mission and transparency to minimalism and sense of humor, Hintjens identifies key characteristics of thriving communities. Particularly resonant: "Perfection precludes participation"—releasing buggy, half-finished work provokes contributions more effectively than polished releases.
+- **Economic Incentives**: We're economic animals, and architecture must provide economic incentive to invest. Whether it's reputation, money, or skill development, contributors need clear value propositions. Think of architecture as a marketplace, not just an engineering design.
+
+**Source**: [Social Architecture](https://hintjens.wdfiles.com/local--files/books/social-architecture.pdf)
+
+## AI-Assisted Development and Learning
+
+Multiple articles this week explored how to effectively use AI as a development and learning partner, moving beyond simple code generation to more sophisticated workflows.
+
+- **Learning with AI**: Scott Young emphasizes using AI for book recommendations and practice problem generation rather than summaries. AI tutoring works better than teaching because specific questions constrain answers more effectively. For repetitive learning tasks, building applications can be more consistent than repeated prompting.
+- **Agent Design Challenges**: Armin Ronacher highlights that differences between models are significant enough that you'll likely need custom abstractions. Key insights include using static system prompts with dynamic messages for caching, and hiding execution failures from context by running potentially failing tasks in subagents until they succeed.
+- **CLAUDE.md Best Practices**: Kyle Mistele recommends keeping `CLAUDE.md` under 300 lines (ideally under 60), with task-specific instructions in separate markdown files. Most importantly: "Never send an LLM to do a linter's job"—use deterministic tools whenever possible since LLMs are expensive and slow compared to traditional tooling.
+
+Additionally, Ed sent me an email to introduce his app, [Grasp](https://grasp.study/), which I found impressively aligned with these best practices and strategies from the past two weeks' articles.
+
+**Sources**:
+- [5 Strategies to Learn Better With AI](https://www.scotthyoung.com/blog/2025/12/02/5-strategies-to-learn-better-with-ai-and-traps-to-avoid/)
+- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+- [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+
+## Git Workflow Improvements
+
+I published a blog post about backing up ignored files using Git remote branches, solving a problem I've had for years. The solution uses Git's low-level plumbing commands to store ignored files (like local configs, IDE settings, or personal scripts) in a separate remote branch without affecting the main branch or working directory.
+
+- **The Problem**: Files that need backup but shouldn't be in main branch history—local development settings, IDE configurations, personal notes, or workflow-specific scripts.
+- **The Solution**: A `git-store-file` script that uses a temporary Git index to commit ignored files to a remote branch (default: `origin/_store`). This keeps everything in one repository while maintaining clear separation.
+- **Technical Approach**: Uses `GIT_INDEX_FILE` for isolated index manipulation, `git read-tree` to load branch state, `git add -f` for ignored files, and `git commit-tree` for direct commit creation—all without touching the working directory.
+
+**Source**: [[§ Backup Ignored Files with Git Remote Branch]]
+
+---
+
+## Obsidian Links
+
+- [[Pieter Hintjens - Social Architecture (Highlights)]]
+- [[Lorenzo Maturano - Async Payments on the Lightning Network (Highlights)]]
+- [[Scott Young - 5 Strategies to Learn Better With AI (Highlights)]]
+- [[Armin Ronacher - Agent Design Is Still Hard (Highlights)]]
+- [[Kyle Mistele - Writing a good CLAUDE.md (Highlights)]]
