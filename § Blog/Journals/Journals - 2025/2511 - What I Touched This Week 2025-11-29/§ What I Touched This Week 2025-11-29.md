@@ -16,7 +16,7 @@ obsidianFiles:
 **Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2025-11-29]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2025/11/what-i-touched-this-week-2025-11-29/)
+**URL**:: [blog.iany.me](https://blog.iany.me/journal/2025/11/what-i-touched-this-week-2025-11-29/)
 **Highlights**:: [[Readwise Sync 2025-11-29]]
 
 <!--more-->

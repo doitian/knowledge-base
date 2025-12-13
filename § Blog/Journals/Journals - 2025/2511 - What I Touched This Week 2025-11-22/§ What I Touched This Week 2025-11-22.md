@@ -13,6 +13,7 @@ obsidianFiles:
 # What I Touched This Week 2025-11-22
 
 **Created**:: [[2025-11-22]]
+**URL**:: [blog.iany.me](https://blog.iany.me/journal/2025/11/what-i-touched-this-week-2025-11-22/)
 **Highlights**:: [[Readwise Sync 2025-11-22]]
 
 **Focus**: [[♯ Linear Algebra Done Right]]
