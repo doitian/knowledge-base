@@ -10,7 +10,7 @@ tags:
 
 # Backup Ignored Files with Git Remote Branch
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2025-12-12]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2025/12/backup-ignored-files-with-git-remote-branch/)
