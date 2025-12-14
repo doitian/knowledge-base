@@ -5,7 +5,6 @@ series:
 - What I Touched
 obsidianFiles:
 - robot/Readwise Library/Articles/Pieter Hintjens - Social Architecture (Highlights)
-- robot/Readwise Library/Articles/Lorenzo Maturano - Async Payments on the Lightning Network (Highlights)
 - robot/Readwise Library/Articles/Scott Young - 5 Strategies to Learn Better With AI (Highlights)
 - robot/Readwise Library/Articles/Armin Ronacher - Agent Design Is Still Hard (Highlights)
 - robot/Readwise Library/Articles/Kyle Mistele - Writing a good CLAUDE.md (Highlights)
@@ -60,7 +59,6 @@ I published a blog post about backing up ignored files using Git remote branches
 ## Obsidian Links
 
 - [[Pieter Hintjens - Social Architecture (Highlights)]]
-- [[Lorenzo Maturano - Async Payments on the Lightning Network (Highlights)]]
 - [[Scott Young - 5 Strategies to Learn Better With AI (Highlights)]]
 - [[Armin Ronacher - Agent Design Is Still Hard (Highlights)]]
 - [[Kyle Mistele - Writing a good CLAUDE.md (Highlights)]]
