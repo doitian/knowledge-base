@@ -1,0 +1,62 @@
+---
+date: 2025-12-20
+description: My weekly review report.
+series:
+- What I Touched
+obsidianFiles:
+- robot/Readwise Library/Articles/Bret Victor - The Ladder of Abstraction (Highlights)
+- robot/Readwise Library/Articles/Howard Marks - Is It A Bubble (Highlights)
+- robot/Readwise Library/Articles/Jeff Su - Give Me 9 Minutes, I'll Make You AI-Native (Highlights)
+---
+# What I Touched This Week 2025-12-20
+
+**Status**:: #x
+**Zettel**:: #zettel/permanent
+**Created**:: [[2025-12-20]]
+**URL**:: [blog.iany.me](https://blog.iany.me/journal/2025/12/what-i-touched-this-week-2025-12-20/)
+**Highlights**:: [[Readwise Sync 2025-12-20]]
+
+<!--more-->
+
+## The Ladder of Abstraction in System Design
+
+Bret Victor's "The Ladder of Abstraction" explores how to design interactive systems by moving between levels of abstraction. The core insight is that the most powerful way to gain insight into a system is by stepping up and down the ladder—abstracting over variables to see high-level patterns, then stepping down to concrete representations to understand the details.
+
+- **Abstracting Over Time**: Instead of watching a system evolve in real-time (which is limiting, like a film editor who can't pause or rewind), we can abstract over time by turning time into a parameter. This creates a trajectory—a function that returns a point for any given time, showing the system's behavior across all time values.
+- **Stepping Up and Down**: We step up to an abstraction by devising a representation that depicts the system across all values of a parameter. We step down by interactively selecting one particular value, allowing us to explore regions of interest quickly. This corresponds to partial application in functional programming.
+- **Visual vs. Symbolic Abstractions**: The human brain excels at pattern matching with visual patterns but struggles with logical inferences. Visual abstractions leverage our natural strengths, making it easier to see high-level patterns and tune out low-level clutter.
+- **Metrics and Patterns**: By choosing metrics—numbers that summarize system behavior in interesting ways—we can step up another level of abstraction. For example, plotting time to completion versus turning rate reveals patterns that aren't visible in individual trajectories.
+- **Starting Simple**: Beginning with the simplest possible algorithm and thoroughly exploring it helps us understand why and how it's terrible, providing the foundation for better solutions. The tools we build for simple cases continue to serve us throughout the design process.
+
+**Source**: [The Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/)
+
+## AI Investment Bubble and Infrastructure Economics
+
+Howard Marks examines whether AI is experiencing a financial bubble, distinguishing between technological hype and actual market bubbles. His analysis reveals the complex economics of AI infrastructure investment and the risks of debt-financed expansion.
+
+- **Bubbles vs. Technological Progress**: Market bubbles aren't caused directly by technological developments but by excessive optimism applied to those developments. However, Marks notes that "inflection bubbles" based on revolutionary developments can accelerate technological progress while still destroying wealth—they're both collective delusions and expressions of collective vision.
+- **The Compression Effect**: If people remained patient and value-insistent, novel technologies would take decades to build out. The hysteria of bubbles compresses this process into a short period, with some money going to life-changing investments in winners but a lot being incinerated.
+- **Circular Capital Flows**: OpenAI receives billions from tech companies but also sends billions back to pay for computing power. Nvidia's $100 billion investment in OpenAI flows back as the startup buys or leases Nvidia's chips, creating circular capital flows that raise questions about actual value creation.
+- **Debt-Financed Expansion**: Major tech companies (Oracle, Meta, Alphabet) have issued 30-year bonds to finance AI investments. With close to half a trillion in expected spending next year but only $350bn collectively in the bank, heavy debt usage creates risks of overcapacity and depressed returns.
+- **The Scale of Trillions**: A trillion dollars is a dollar a second for 31,700 years—a scale that's difficult to comprehend but represents the magnitude of AI infrastructure investment being discussed.
+
+**Source**: [Is It A Bubble](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/is-it-a-bubble/1056.pdf)
+
+## Becoming AI-Native in Daily Workflows
+
+Jeff Su's video provides practical strategies for integrating AI into daily work, moving beyond simple prompting to building sustainable AI-native workflows that anchor conversations, leverage swipe files, and strategically allocate tasks between AI and manual work.
+
+- **Anchoring Important Conversations**: If an AI conversation takes more than 10 minutes or produces something you'll reference again, anchor it to your workspace immediately. This creates a searchable archive of valuable AI interactions and outputs.
+- **AI Swipe Files**: Create a dedicated folder for good examples—business proposals, code patterns, writing samples—that AI can reference. Instead of starting from scratch, you open your swipe folder to find examples that guide AI toward the quality and style you want. This acts as a curated reference library for AI.
+- **Task Breakdown and Allocation**: Before writing anything, break work into steps and microtasks. Then decide whether each microtask should be done manually or with AI, and specify the exact tool best suited for that task. For projects taking more than an hour, spend 5-10 minutes mapping steps and tagging which are AI or manual.
+- **Battle-Tested Prompts**: You don't need a thousand random prompts—you need 10-15 battle-tested ones that you can use every day. Focus on quality and refinement rather than quantity.
+
+**Sources**: [Give Me 9 Minutes, I'll Make You AI-Native](https://www.youtube.com/watch?v=E7YiKBeOneo)
+
+---
+
+## Obsidian Links
+
+- [[Bret Victor - The Ladder of Abstraction (Highlights)]]
+- [[Howard Marks - Is It A Bubble (Highlights)]]
+- [[Jeff Su - Give Me 9 Minutes, I'll Make You AI-Native (Highlights)]]
