@@ -147,8 +147,4 @@ To solve the issue, simply disable floating figures. Create a file `disable-floa
 
 ## Putting It All Together
 
-- I use the wrapper script  [`pandoc-pdf`](https://github.com/doitian/dotfiles-public/blob/master/default/bin/pandoc-pdf) to create PDF files. The command syntax is simple: `pandoc-pdf -i test.md -o test.pdf`.
-- The wrapper script depends on three external files:
-    - [`$HOME/.pandoc/headers/latex.tex`](https://github.com/doitian/dotfiles-public/blob/master/default/.pandoc/headers/latex.tex) is the LaTeX snippets to configure code blocks and disable figures floating.
-    - [`$HOME/.pandoc/headers/cjk.tex`](https://github.com/doitian/dotfiles-public/blob/master/default/.pandoc/headers/cjk.tex) fixes the quotation marks when CJK is enabled.
-    - [`$HOME/.pandoc/filters/highlightings.lua`](https://github.com/doitian/dotfiles-public/blob/master/default/.pandoc/filters/highlightings.lua) is the Lua filter which sets the language of code blocks that lack a specified language to "text".
+See the repo [doitian/pandoc-ide](https://github.com/doitian/pandoc-ide).
