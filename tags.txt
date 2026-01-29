@@ -102,6 +102,7 @@ typography
 vim
 webauthn
 windows
+windows-terminal
 wsl
 yubikey
 zfs
