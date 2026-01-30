@@ -1,0 +1,9 @@
+[env]
+GIT_DIR = "{{ get_env(name='HOME') }}/codebase/knowledge-base.git"
+
+[env._.python.venv]
+path = "{{ get_env(name='HOME') }}/.venv/brain-output"
+create = true
+
+[tasks.install]
+run = "uv sync --active"
