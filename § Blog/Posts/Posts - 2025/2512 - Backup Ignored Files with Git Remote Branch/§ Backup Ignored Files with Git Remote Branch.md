@@ -37,14 +37,13 @@ Instead of using a separate repository, we can use a remote branch within the sa
 
 ## The Script
 
-With AI assistance, I developed `git-store-file`, a tool for managing ignored files by storing them in a remote branch (default: `origin/_store`). This keeps backup files separate from your working branch without interfering with regular development. The script is available in [Bash](https://github.com/doitian/dotfiles-public/blob/master/default/bin/git-store-file).
+With AI assistance, I developed `git-store-file`, a tool for managing ignored files by storing them in a remote branch (default: `origin/_store`). This keeps backup files separate from your working branch without interfering with regular development. The script is available in [Python](https://github.com/doitian/dotfiles-public/blob/master/default/bin/git-store-file).
 
 ### Installation
 
 Download the script and make it executable:
 
 ```bash
-# Bash version
 curl -o ~/bin/git-store-file https://raw.githubusercontent.com/doitian/dotfiles-public/master/default/bin/git-store-file
 chmod +x ~/bin/git-store-file
 ```
