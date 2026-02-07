@@ -10,6 +10,7 @@ backup
 bitcoin
 blockchain
 browser
+bun
 c
 cargo
 ci
