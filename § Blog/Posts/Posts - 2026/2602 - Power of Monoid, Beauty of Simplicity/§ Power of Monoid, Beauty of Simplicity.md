@@ -14,7 +14,7 @@ katex: true
 ---
 # Power of Monoid, Beauty of Simplicity
 
-**Status**:: #now
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2026-02-19]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2026/02/power-of-monoid-beauty-of-simplicity/)
@@ -40,7 +40,7 @@ The set of finite lists with the operator concatenation is a monoid since:
 - The operator is associative, because both $(a \bullet b) \bullet c$ and $a \bullet (b \bullet c)$ result in a new list by placing elements of $a, b, c$ consecutively.
 - The identity element is the empty list.
 
-The integer numbers with the operator `min` is a counterexample. The operator is closed and associative, but there is no identity element. Given any integer $e$, there's always a smaller integer $a$ such that $e \bullet a = a \ne e$. However, `min` on the integer set with a lower bound is a monoid, such as the positive integers where the identity element is the lower bound `1`.
+The integer numbers with the operator `min` is a counterexample. The operator is closed and associative, but there is no identity element. Given any integer $e$, there's always a greater integer $a$ such that $e \bullet a = e \ne a$. However, `min` on the integer set with an upper bound is a monoid, such as the integers in the range $[0, 127]$ where the identity element is the upper bound `127`.
 
 ## Divide and conquer: why associativity matters
 
@@ -142,7 +142,7 @@ It may seem silly to search for the i-th 1 in a sequence of 1s, but we can store
 
 Another application is finding the element with the max priority.
 
-We use the monoid of non-negative integers with operator `min` $(\mathbb{N},\mathrm{min},0)$ and assume that the minimum value has the maximum priority.
+We use the monoid of integers in the range $[0,127]$ with operator `min` $([0,127],\mathrm{min},127)$ and assume that the minimum value has the maximum priority.
 
 The predicate to find the element with the max priority is
 
@@ -171,6 +171,6 @@ The identity element serves as a natural default value or starting point for alg
 
 ## The art of choosing monoid and predicate
 
-In the random-access example we used $(\mathbb{N}, +, 0)$ and annotated each position with $1$—the summary of a segment is its length, and the predicate $s > i$ tells us whether the $i$-th element lies in the prefix we have so far. In the max-priority queue we used $(\mathbb{N}, \min, 0)$ (or a bounded variant): the summary is the minimum value in the segment, and the predicate $s = m$ identifies the segment that contains the global minimum. In both cases, the monoid was chosen so that the *combined* summary over a range is exactly what the predicate needs to decide where to go next.
+In the random-access example we used $(\mathbb{N}, +, 0)$ and annotated each position with $1$—the summary of a segment is its length, and the predicate $s > i$ tells us whether the $i$-th element lies in the prefix we have so far. In the max-priority queue we used $([0,127], \min, 127)$ (or a bounded variant): the summary is the minimum value in the segment, and the predicate $s = m$ identifies the segment that contains the global minimum. In both cases, the monoid was chosen so that the *combined* summary over a range is exactly what the predicate needs to decide where to go next.
 
 The flip side is that finding both the right monoid and the right predicate can be tricky. At each step the search has access only to the monoid summary of the prefix (or segment) seen so far, so the predicate must be decided from that summary alone. The monoid must be rich enough to supply the information the predicate needs. Sometimes the natural summary (e.g. sum or min) suggests the predicate (e.g. $s > i$ or $s = m$). Sometimes you must try a different carrier or operation, or encode extra information into the monoid (e.g. pairs or custom types), so that the predicate can be expressed. There is no universal recipe—it is a matter of design and experimentation. Reframe the problem as: “What do I need to know about a segment to decide the next step?” Then choose a monoid that can represent that knowledge and a predicate that uses it.
