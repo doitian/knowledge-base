@@ -1,0 +1,56 @@
+filters:
+  and:
+    - file.inFolder("output/§ Blog/Posts")
+    - file.ext == "md"
+    - '!file.folder.contains("/res")'
+formulas:
+  post_date: date(date).format("YYYY-MM-DD")
+  post_year: date(date).year
+  updated: file.mtime.relative()
+properties:
+  date:
+    displayName: Date
+  draft:
+    displayName: Draft
+  description:
+    displayName: Description
+  formula.post_date:
+    displayName: Date
+  formula.post_year:
+    displayName: Year
+  formula.updated:
+    displayName: Updated
+views:
+  - type: table
+    name: All posts
+    groupBy:
+      property: formula.post_year
+      direction: DESC
+    order:
+      - file.name
+      - formula.post_date
+      - draft
+      - file.tags
+      - formula.updated
+    columnSize:
+      formula.post_date: 135
+      file.tags: 601
+  - type: table
+    name: Published
+    filters:
+      and:
+        - draft == false
+    groupBy:
+      property: formula.post_year
+      direction: DESC
+    order:
+      - formula.post_date
+      - file.name
+      - file.tags
+  - type: cards
+    name: Gallery
+    order:
+      - file.name
+      - formula.post_date
+      - description
+      - file.tags
