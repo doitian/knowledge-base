@@ -1,6 +1,6 @@
 ---
 date: '2026-07-01T21:27:36+0800'
-draft: true
+draft: false
 aliases: ["Fix Claude Desktop PATH with CLAUDE_ENV_FILE"]
 tags:
   - dev-environment
