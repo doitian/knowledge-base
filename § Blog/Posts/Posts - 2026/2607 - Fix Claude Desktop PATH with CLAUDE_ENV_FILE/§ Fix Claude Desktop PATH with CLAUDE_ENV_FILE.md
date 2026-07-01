@@ -12,7 +12,7 @@ description: "Point CLAUDE_ENV_FILE at a shell snippet so Claude Code sees the s
 
 # Fix Claude Desktop PATH with CLAUDE_ENV_FILE
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2026-07-01]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2026/07/fix-claude-desktop-path-with-claude-env-file/)
