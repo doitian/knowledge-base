@@ -1,7 +1,8 @@
 ---
-date: '2026-09-08T21:00:00+0800'
+date: 2026-09-08T09:00:00+0800
 draft: false
-aliases: ["Forwarding Desktop Notifications to Pushover"]
+aliases:
+  - Forwarding Desktop Notifications to Pushover
 tags:
   - automation
   - bun
@@ -9,7 +10,7 @@ tags:
   - linux
   - script
   - windows
-description: "One binary forwards mako and Windows toasts to Pushover. Linux needs one hook line; Windows needs a signed sparse-identity MSIX."
+description: One binary forwards mako and Windows toasts to Pushover. Linux needs one hook line; Windows needs a signed sparse-identity MSIX.
 ---
 
 # Forwarding Desktop Notifications to Pushover
