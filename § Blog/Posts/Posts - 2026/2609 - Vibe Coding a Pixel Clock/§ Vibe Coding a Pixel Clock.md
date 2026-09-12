@@ -15,7 +15,7 @@ description: "A Ulanzi TC002 pixel clock, a vibe-coded HTTP server, and two ever
 
 # Vibe Coding a Pixel Clock
 
-**Status**:: #i
+**Status**:: #x
 **Zettel**:: #zettel/permanent
 **Created**:: [[2026-09-09]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2026/09/vibe-coding-a-pixel-clock/)
