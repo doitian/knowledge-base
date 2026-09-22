@@ -8,7 +8,7 @@ tags:
   - tool
   - automation
   - programming
-description: Install the Plannotator plugin and its skills into a single project with --scope local and a subdirectory skills spec, so nothing lands in ~/.claude.
+description: Install the Plannotator CLI with --minimal, then its plugin and skills into a single project with --scope local and a subdirectory skills spec, so nothing lands in ~/.claude.
 ---
 
 # Install Plannotator for Claude Code Without Touching Global Config
@@ -18,9 +18,31 @@ description: Install the Plannotator plugin and its skills into a single project
 **Created**:: [[2026-09-22]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2026/09/install-plannotator-for-claude-code-without-touching-global-config/)
 
-[Plannotator](https://github.com/backnotprop/plannotator) gives Claude Code a browser UI for marking up plans, files, and pull requests. It ships as two separate things—a Claude Code **plugin** and a set of **skills**—and the obvious install path for each one drops it into your user-level environment, where it loads in every project forever. You can keep the whole thing inside one repo instead. Trying it out shouldn't cost you a permanent resident in `~/.claude`.
+[Plannotator](https://github.com/backnotprop/plannotator) gives Claude Code a browser UI for marking up plans, files, and pull requests. It ships as three separate things—a **CLI**, a Claude Code **plugin**, and a set of **skills**—and the obvious install path for each one drops it into your user-level environment, where it loads in every project forever. You can keep the whole thing inside one repo instead. Trying it out shouldn't cost you a permanent resident in `~/.claude`.
 
 <!--more-->
+
+## Install the CLI, minimally
+
+The plugin and the skills both shell out to a `plannotator` binary, so that has to exist first. Its installer defaults to a full setup: the `sem` semantic-diff sidecar, the CallDiff and agent-terminal runtimes, and per-agent integrations—skills, hooks, slash commands, and config written into the homes of Claude, Codex, OpenCode, Gemini, and Kiro. That is precisely the global footprint this post is about avoiding.
+
+`--minimal` (aliased `--binary-only`) drops all of it and installs just the binary:
+
+```sh
+curl -fsSL https://plannotator.ai/install.sh | bash -s -- --minimal
+```
+
+On Windows the installer takes a `-Minimal` switch, but piping into `pwsh` gives you no way to pass it—so download the script, run it, and clean up:
+
+```powershell
+$installer = Join-Path ([IO.Path]::GetTempPath()) 'plannotator-install.ps1'
+Invoke-WebRequest 'https://plannotator.ai/install.ps1' -OutFile $installer
+try { & $installer -Minimal } finally { Remove-Item -LiteralPath $installer -Force -ErrorAction SilentlyContinue }
+```
+
+Both exit right after the binary lands—`~/.local/bin/plannotator` on Unix, `%LOCALAPPDATA%\plannotator\plannotator.exe` on Windows, with that directory added to the user PATH. Nothing else is written anywhere. `PLANNOTATOR_MINIMAL=1` in the environment does the same thing if you'd rather not thread the flag through a wrapper, and `--no-minimal` / `-NoMinimal` overrides it back.
+
+The one thing you give up is the CallDiff call-flow runtime, which the review UI offers to install on demand the first time you enable Call flow—so it's deferred, not lost. `plannotator uninstall` removes the binary later.
 
 ## Setup
 
