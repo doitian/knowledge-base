@@ -20,7 +20,7 @@ description: Windows 下输入法的语音快捷键只在该输入法激活时�
 
 中文输入法的语音输入通常有个全局快捷键，我用的是 <kbd>RAlt</kbd> + <kbd>Space</kbd>。问题是它只在这个输入法处于激活状态时才生效。我平时用英文键盘布局写代码，想说句话就得先切到中文。
 
-我本来就在用 AutoHotkey，比如之前分享过[[§ Resolve the Annoying Shift + Space Shortcut in Windows Chinese Input Methods|解决 Windows 中文输入法下 Shift + Space 快捷键的困扰]]。我就想加上脚本去监听 <kbd>RAlt</kbd> + <kbd>Space</kbd>，如果当前是中文键盘就跳过不处理，让快捷键直接触发输入法的语音输入。如果是英文键盘就先切换然后模拟再发送一次快捷键。但实际发现，有些输入法的快捷键是没有办法通过 AutoHotkey 的 `Send` 触发的。搜索了一下，原因是这些输入法在 HID 驱动层监听快捷键，软件生成的键盘事件到不了这一层。我只测试了豆包输入法和微信输入法。豆包输入法无法使用 AutoHotkey 触发语音输入，而微信输入法可以。
+我本来就在用 AutoHotkey，比如之前分享过[[§ Resolve the Annoying Shift + Space Shortcut in Windows Chinese Input Methods - Chinese|解决 Windows 中文输入法下 Shift + Space 快捷键的困扰]]。我就想加上脚本去监听 <kbd>RAlt</kbd> + <kbd>Space</kbd>，如果当前是中文键盘就跳过不处理，让快捷键直接触发输入法的语音输入。如果是英文键盘就先切换然后模拟再发送一次快捷键。但实际发现，有些输入法的快捷键是没有办法通过 AutoHotkey 的 `Send` 触发的。搜索了一下，原因是这些输入法在 HID 驱动层监听快捷键，软件生成的键盘事件到不了这一层。我只测试了豆包输入法和微信输入法。豆包输入法无法使用 AutoHotkey 触发语音输入，而微信输入法可以。
 
 AutoHotkey 配合微信输入法，就可以在任意键盘布局下一键激活语音输入了。
 
