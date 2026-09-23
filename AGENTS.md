@@ -18,3 +18,4 @@ Staging area for [blog.iany.me](https://blog.iany.me).
 ## Conventions
 - **Format**: Linux (LF), YAML Frontmatter, Obsidian syntax.
 - **Tags**: Flat list, no synonyms, `kebab-case`.
+- **Workflow tags**: Store internal note tags (such as `i` and `zettel/permanent`) in `Workflow tags`, separately from public `tags`. This property is not indexed by `tag:` searches; Bases and search queries must include it explicitly.

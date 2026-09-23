@@ -1,4 +1,9 @@
 ---
+Status: "#i"
+Zettel: "#zettel/permanent"
+Workflow tags:
+  - i
+  - zettel/permanent
 date: 2026-09-22T17:09:27+0800
 draft: false
 aliases:
@@ -13,8 +18,6 @@ description: Install the Plannotator CLI with --minimal, then its plugin and ski
 
 # Install Plannotator for Claude Code Without Touching Global Config
 
-**Status**:: #i
-**Zettel**:: #zettel/permanent
 **Created**:: [[2026-09-22]]
 **URL**:: [blog.iany.me](https://blog.iany.me/2026/09/install-plannotator-for-claude-code-without-touching-global-config/)
 
