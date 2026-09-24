@@ -1,6 +1,4 @@
 ---
-Status: "#i"
-Zettel: "#zettel/permanent"
 Workflow tags:
   - i
   - zettel/permanent
