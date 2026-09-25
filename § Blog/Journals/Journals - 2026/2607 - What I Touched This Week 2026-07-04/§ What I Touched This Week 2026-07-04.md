@@ -2,16 +2,16 @@
 date: 2026-07-04
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Books/Ralph Kimball - The Data Warehouse Toolkit The Definitive Guide to Dimensional Modeling (Highlights)
-- robot/Readwise Library/Books/Alex Merced - Architecting an Apache Iceberg Lakehouse (Highlights)
-- robot/Readwise Library/Articles/Evan Wallace - Realtime Editing of Ordered Sequences (Highlights)
-- robot/Readwise Library/Articles/David Greenspan - Implementing Fractional Indexing (Highlights)
-- robot/Readwise Library/Articles/Bohan Zhang - Scaling PostgreSQL to power 800 million ChatGPT users (Highlights)
-- robot/Readwise Library/Articles/Arka Ganguli et al. - Scaling Datastores at Slack with Vitess (Highlights)
+  - robot/Readwise Library/Books/Ralph Kimball - The Data Warehouse Toolkit The Definitive Guide to Dimensional Modeling (Highlights)
+  - robot/Readwise Library/Books/Alex Merced - Architecting an Apache Iceberg Lakehouse (Highlights)
+  - robot/Readwise Library/Articles/Evan Wallace - Realtime Editing of Ordered Sequences (Highlights)
+  - robot/Readwise Library/Articles/David Greenspan - Implementing Fractional Indexing (Highlights)
+  - robot/Readwise Library/Articles/Bohan Zhang - Scaling PostgreSQL to power 800 million ChatGPT users (Highlights)
+  - robot/Readwise Library/Articles/Arka Ganguli et al. - Scaling Datastores at Slack with Vitess (Highlights)
 ---
 # What I Touched This Week 2026-07-04
 

@@ -1,7 +1,8 @@
 ---
-date: '2023-04-27T21:22:30+0800'
+date: 2023-04-27T21:22:30+0800
 draft: false
-aliases: ["The Ultimate Guide to Customizing Obsidian Vim Mode via QuickAdd"]
+aliases:
+  - The Ultimate Guide to Customizing Obsidian Vim Mode via QuickAdd
 tags:
   - obsidian
   - vim

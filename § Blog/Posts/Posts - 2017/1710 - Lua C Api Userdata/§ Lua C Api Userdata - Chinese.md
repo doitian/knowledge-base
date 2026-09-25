@@ -1,13 +1,13 @@
 ---
-date: '2017-10-29T16:58:27+08:00'
+date: 2017-10-29T16:58:27+08:00
 description: 介绍 Lua C API 中的 userdata 和 light userdata
 series:
-- Lua C API
+  - Lua C API
 title: Lua C API userdata 和 light userdata
 tags:
-- c
-- lua
-- programming
+  - c
+  - lua
+  - programming
 ---
 
 # Lua C Api Userdata

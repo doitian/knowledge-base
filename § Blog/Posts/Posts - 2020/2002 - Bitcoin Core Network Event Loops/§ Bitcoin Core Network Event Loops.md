@@ -2,11 +2,11 @@
 comment: true
 date: 2020-02-12T20:22:00+08:00
 katex: false
-feature: two-loops.png
-banner: "![[two-loops.png]]"
+feature: "[[two-loops.png]]"
+banner: "[[two-loops.png]]"
 share: true
 title: Bitcoin Core Network Event Loops
-banner_y: 0.26174
+banner-position: 26
 tags:
   - blockchain
   - programming

@@ -1,6 +1,6 @@
 ---
 comment: true
-date: '2017-08-19T23:41:07+08:00'
+date: 2017-08-19T23:41:07+08:00
 description: 如何使用 Redis 作为写缓存，如何安全地把缓存内容保存并删除
 share: true
 title: Redis 写缓存

@@ -1,8 +1,8 @@
 ---
-date: '2020-03-22T19:01:28+0800'
+date: 2020-03-22T19:01:28+0800
 tags:
-- app-store
-- ios
+  - app-store
+  - ios
 ---
 
 # Fix iOS App Store Family Purchase Sharing

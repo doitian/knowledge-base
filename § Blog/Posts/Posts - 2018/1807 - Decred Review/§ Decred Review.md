@@ -1,16 +1,16 @@
 ---
 comment: true
 date: 2018-07-19 01:24:39
-description: ''
+description: ""
 katex: false
 series:
-- Blockchain Projects Review
+  - Blockchain Projects Review
 share: true
 title: Decred Review
 tags:
-- blockchain
-- consensus
-- crypto-currency
+  - blockchain
+  - consensus
+  - crypto-currency
 ---
 
 # Decred Review

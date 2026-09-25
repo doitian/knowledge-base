@@ -1,10 +1,10 @@
 ---
-date: '2020-08-16T14:38:10+0800'
-description: 'An introduction to the fee stimate algorithm in the Bitcoin Core'
+date: 2020-08-16T14:38:10+0800
+description: An introduction to the fee stimate algorithm in the Bitcoin Core
 tags:
-- algorithm
-- bitcoin
-- fee-market
+  - algorithm
+  - bitcoin
+  - fee-market
 ---
 
 # Bitcoin Core Fee Estimate Algorithm

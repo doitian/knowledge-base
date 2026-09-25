@@ -2,15 +2,15 @@
 date: 2026-07-11
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Malte Ubl et al. - Scale to One How Fluid Solves Cold Starts (Highlights)
-- robot/Readwise Library/Articles/Harris Hancock - Eliminating Cold Starts 2 Shard and Conquer (Highlights)
-- robot/Readwise Library/Articles/Shashi Madappa - Ephemeral Volatile Caching in the Cloud (Highlights)
-- robot/Readwise Library/Articles/Stanislav Vishnevskiy - How Discord Stores Billions of Messages (Highlights)
-- robot/Readwise Library/Books/Angela Duckworth - Grit (Highlights)
+  - robot/Readwise Library/Articles/Malte Ubl et al. - Scale to One How Fluid Solves Cold Starts (Highlights)
+  - robot/Readwise Library/Articles/Harris Hancock - Eliminating Cold Starts 2 Shard and Conquer (Highlights)
+  - robot/Readwise Library/Articles/Shashi Madappa - Ephemeral Volatile Caching in the Cloud (Highlights)
+  - robot/Readwise Library/Articles/Stanislav Vishnevskiy - How Discord Stores Billions of Messages (Highlights)
+  - robot/Readwise Library/Books/Angela Duckworth - Grit (Highlights)
 ---
 # What I Touched This Week 2026-07-11
 

@@ -1,7 +1,8 @@
 ---
-date: '2025-12-12T03:22:58+0800'
+date: 2025-12-12T03:22:58+0800
 draft: false
-aliases: ["Backup Ignored Files with Git Remote Branch"]
+aliases:
+  - Backup Ignored Files with Git Remote Branch
 tags:
   - git
   - automation

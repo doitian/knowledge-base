@@ -2,15 +2,15 @@
 date: 2025-12-27
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Dave Thomas - Simplify Logic With State Machines (Highlights)
-- robot/Readwise Library/Articles/Erlang Authors - gen_statem Behaviour (Highlights)
-- robot/Readwise Library/Books/Dave Thomas - Simplicity Sustainable, Humane, and Effective Software Development (Highlights)
-- robot/Readwise Library/Articles/Tokio Authors - Shared state (Highlights)
-- robot/Readwise Library/Books/Robert C. Martin - Clean Code (Highlights)
+  - robot/Readwise Library/Articles/Dave Thomas - Simplify Logic With State Machines (Highlights)
+  - robot/Readwise Library/Articles/Erlang Authors - gen_statem Behaviour (Highlights)
+  - robot/Readwise Library/Books/Dave Thomas - Simplicity Sustainable, Humane, and Effective Software Development (Highlights)
+  - robot/Readwise Library/Articles/Tokio Authors - Shared state (Highlights)
+  - robot/Readwise Library/Books/Robert C. Martin - Clean Code (Highlights)
 ---
 # What I Touched This Week 2025-12-27
 

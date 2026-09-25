@@ -2,9 +2,9 @@
 date: 2020-05-10
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 obsidianFiles:
-- para/lets/s/Shell/PowerShell
+  - para/lets/s/Shell/PowerShell
 ---
 
 # What I Touched This Week 2020-05-10

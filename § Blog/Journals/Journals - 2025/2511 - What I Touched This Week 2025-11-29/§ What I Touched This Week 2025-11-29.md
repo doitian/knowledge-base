@@ -2,16 +2,16 @@
 date: 2025-11-29
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Alexey Kladov - Code Review Can Be Better (Highlights)
-- robot/Readwise Library/Articles/Alexey Kladov - Tracking Time Without Clock (Highlights)
-- robot/Readwise Library/Articles/Dominik Tornow - The Write Last, Read First Rule (Highlights)
-- robot/Readwise Library/Articles/Alex Kladov - Size Matters (Highlights)
-- robot/Readwise Library/Articles/Sylvan Wang - 谈谈不自律的良好生活 (Highlights)
-- robot/Readwise Library/Articles/Polymath Investor - How to Remember Everything You Read (Highlights)
+  - robot/Readwise Library/Articles/Alexey Kladov - Code Review Can Be Better (Highlights)
+  - robot/Readwise Library/Articles/Alexey Kladov - Tracking Time Without Clock (Highlights)
+  - robot/Readwise Library/Articles/Dominik Tornow - The Write Last, Read First Rule (Highlights)
+  - robot/Readwise Library/Articles/Alex Kladov - Size Matters (Highlights)
+  - robot/Readwise Library/Articles/Sylvan Wang - 谈谈不自律的良好生活 (Highlights)
+  - robot/Readwise Library/Articles/Polymath Investor - How to Remember Everything You Read (Highlights)
 ---
 # What I Touched This Week 2025-11-29
 

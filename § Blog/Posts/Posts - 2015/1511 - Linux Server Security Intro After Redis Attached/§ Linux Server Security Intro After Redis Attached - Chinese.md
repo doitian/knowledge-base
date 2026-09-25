@@ -2,10 +2,10 @@
 date: 2015-11-11
 title: 从 Redis 攻击例子谈谈基本的 Linux 服务器安全
 tags:
-- linux
-- redis
-- security
-- ssh
+  - linux
+  - redis
+  - security
+  - ssh
 ---
 
 # Linux Server Security Intro After Redis Attached

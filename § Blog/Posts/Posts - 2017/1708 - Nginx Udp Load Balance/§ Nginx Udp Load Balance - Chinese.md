@@ -1,6 +1,6 @@
 ---
 comment: true
-date: '2017-08-23T23:11:35+08:00'
+date: 2017-08-23T23:11:35+08:00
 description: 使用 Nginx stream 代理作 UDP 负载均衡
 katex: false
 share: true

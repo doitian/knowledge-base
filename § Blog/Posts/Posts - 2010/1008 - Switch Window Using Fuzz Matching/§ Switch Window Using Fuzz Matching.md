@@ -1,5 +1,5 @@
 ---
-date: '2010-08-25'
+date: 2010-08-25
 description: This article demonstrates how to quickly switch to a window using gpicker and wmctrl.
 title: Switch Window Using Fuzz Matching
 tags:

@@ -1,8 +1,8 @@
 ---
-date: '2016-10-15'
+date: 2016-10-15
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 ---
 
 # What I Touched This Week 2016-10-15

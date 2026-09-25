@@ -6,8 +6,8 @@ katex: false
 share: true
 title: Rust Cell and RefCell
 tags:
-- memory-management
-- rust
+  - memory-management
+  - rust
 ---
 
 # Rust Cell And Refcell

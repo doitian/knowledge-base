@@ -1,6 +1,6 @@
 ---
 comment: true
-date: '2017-06-03T16:09:41+08:00'
+date: 2017-06-03T16:09:41+08:00
 description: Where to create properties files for TornadoFX in IntelliJ Gradle Project.
 share: true
 title: Resource Bundle in IntelliJ TornadoFX Gradle Project

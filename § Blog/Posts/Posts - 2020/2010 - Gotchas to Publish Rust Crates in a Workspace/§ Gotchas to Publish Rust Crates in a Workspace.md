@@ -1,9 +1,9 @@
 ---
-date: '2020-10-11T12:03:32+0800'
+date: 2020-10-11T12:03:32+0800
 draft: false
 tags:
-- cargo
-- rust
+  - cargo
+  - rust
 ---
 
 # Gotchas to Publish Rust Crates in a Workspace

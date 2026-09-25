@@ -2,20 +2,20 @@
 date: 2026-06-20
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Siddon Tang - From Chaos to Order — Tools and Techniques for Testing TiDB, a Distributed NewSQL Database (Highlights)
-- robot/Readwise Library/Articles/Peter Alvaro et al. - Automating Failure Testing Research at Internet Scale (Highlights)
-- robot/Readwise Library/Articles/Alfonso Subiotto Marqués - (Mostly) Deterministic Simulation Testing in Go (Highlights)
-- robot/Readwise Library/Articles/Sled Authors - Sled Simulation Guide (Highlights)
-- robot/Readwise Library/Articles/Eric Brewer - CAP Twelve Years Later How the Rules Have Changed (Highlights)
-- robot/Readwise Library/Articles/FoundationDB Authors - FoundationDB Flow (Highlights)
-- robot/Readwise Library/Articles/Andrea Griffiths - Agent Pull Requests Are Everywhere. Here’s How to Review Them. (Highlights)
-- robot/Readwise Library/Tweets/Addy Osmani - Agentic Code Review (Highlights)
-- robot/Readwise Library/Books/Angela Duckworth - Grit (Highlights)
-- para/lets/p/Painting/Proko - Figure Drawing Fundamentals
+  - robot/Readwise Library/Articles/Siddon Tang - From Chaos to Order — Tools and Techniques for Testing TiDB, a Distributed NewSQL Database (Highlights)
+  - robot/Readwise Library/Articles/Peter Alvaro et al. - Automating Failure Testing Research at Internet Scale (Highlights)
+  - robot/Readwise Library/Articles/Alfonso Subiotto Marqués - (Mostly) Deterministic Simulation Testing in Go (Highlights)
+  - robot/Readwise Library/Articles/Sled Authors - Sled Simulation Guide (Highlights)
+  - robot/Readwise Library/Articles/Eric Brewer - CAP Twelve Years Later How the Rules Have Changed (Highlights)
+  - robot/Readwise Library/Articles/FoundationDB Authors - FoundationDB Flow (Highlights)
+  - robot/Readwise Library/Articles/Andrea Griffiths - Agent Pull Requests Are Everywhere. Here’s How to Review Them. (Highlights)
+  - robot/Readwise Library/Tweets/Addy Osmani - Agentic Code Review (Highlights)
+  - robot/Readwise Library/Books/Angela Duckworth - Grit (Highlights)
+  - para/lets/p/Painting/Proko - Figure Drawing Fundamentals
 ---
 # What I Touched This Week 2026-06-20
 

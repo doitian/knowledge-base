@@ -1,7 +1,7 @@
 ---
 comment: true
-date: '2017-03-05T12:13:07+08:00'
-description: "Vcpkg is a C/C++ libraries management tool in Windows provided by Microsoft. It is easy to be integrated with CMake, but static linking requires extra steps."
+date: 2017-03-05T12:13:07+08:00
+description: Vcpkg is a C/C++ libraries management tool in Windows provided by Microsoft. It is easy to be integrated with CMake, but static linking requires extra steps.
 katex: false
 share: true
 title: Vcpkg static linking

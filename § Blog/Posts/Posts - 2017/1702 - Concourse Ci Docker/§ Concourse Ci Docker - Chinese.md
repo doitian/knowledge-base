@@ -1,7 +1,7 @@
 ---
 comment: true
-date: '2017-02-25T18:46:06+08:00'
-description: ''
+date: 2017-02-25T18:46:06+08:00
+description: ""
 katex: false
 share: true
 title: 使用 Docker 部署 Concourse CI

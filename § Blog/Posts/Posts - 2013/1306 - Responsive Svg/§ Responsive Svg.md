@@ -1,11 +1,11 @@
 ---
-date: '2013-06-16'
+date: 2013-06-16
 description: Introduction to make SVG responsive.
 title: Responsive SVG
 tags:
-- css
-- frontend
-- svg
+  - css
+  - frontend
+  - svg
 ---
 
 # Responsive Svg

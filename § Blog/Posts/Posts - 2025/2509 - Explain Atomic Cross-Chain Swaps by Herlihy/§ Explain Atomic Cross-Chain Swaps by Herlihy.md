@@ -2,12 +2,12 @@
 date: 2025-09-19T22:26:46+0800
 draft: false
 aliases:
-- Explain Atomic Cross-Chain Swaps by Herlihy
+  - Explain Atomic Cross-Chain Swaps by Herlihy
 katex: true
 tags:
-- blockchain
-- cryptography
-- distributed-system
+  - blockchain
+  - cryptography
+  - distributed-system
 description: A study on the paper Atomic Cross-Chain Swaps by Herlihy
 ---
 

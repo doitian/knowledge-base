@@ -2,15 +2,15 @@
 date: 2026-01-03
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Aadil Pickle - Training the Idea Muscle (Highlights)
-- robot/Readwise Library/Articles/David Cain - Maybe the Default Settings Are Too High (Highlights)
-- robot/Readwise Library/Articles/Cedric Chin - Copying Better How to Acquire the Tacit Knowledge of Experts (Highlights)
-- robot/Readwise Library/Articles/Sean Goedecke - Software Engineers Should Be a Little Bit Cynical (Highlights)
-- para/lets/c/Creativity/Creativity Faucet
+  - robot/Readwise Library/Articles/Aadil Pickle - Training the Idea Muscle (Highlights)
+  - robot/Readwise Library/Articles/David Cain - Maybe the Default Settings Are Too High (Highlights)
+  - robot/Readwise Library/Articles/Cedric Chin - Copying Better How to Acquire the Tacit Knowledge of Experts (Highlights)
+  - robot/Readwise Library/Articles/Sean Goedecke - Software Engineers Should Be a Little Bit Cynical (Highlights)
+  - para/lets/c/Creativity/Creativity Faucet
 ---
 # What I Touched This Week 2026-01-03
 

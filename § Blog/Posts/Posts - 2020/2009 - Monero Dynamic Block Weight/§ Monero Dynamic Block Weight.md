@@ -1,9 +1,9 @@
 ---
-date: '2020-09-05T17:52:10+0800'
+date: 2020-09-05T17:52:10+0800
 tags:
-- blockchain
-- crypto-economics
-- monero
+  - blockchain
+  - crypto-economics
+  - monero
 ---
 
 # Monero Dynamic Block Weight

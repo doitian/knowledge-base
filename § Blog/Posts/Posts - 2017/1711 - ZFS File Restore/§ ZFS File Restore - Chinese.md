@@ -6,9 +6,9 @@ katex: false
 share: true
 title: ZFS 文件恢复
 tags:
-- file-system
-- system-admin
-- zfs
+  - file-system
+  - system-admin
+  - zfs
 ---
 
 # ZFS File Restore

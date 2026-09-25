@@ -1,5 +1,5 @@
 ---
-date: '2013-01-31'
+date: 2013-01-31
 title: A trick to use just jasmine gem to test Javascript in Rails
 tags:
   - javascript

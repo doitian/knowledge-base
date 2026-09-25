@@ -2,7 +2,7 @@
 date: 2019-01-06
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 ---
 
 # What I Touched This Week 2019-01-06

@@ -1,5 +1,5 @@
 ---
-date: '2012-03-30'
+date: 2012-03-30
 description: Use popup as a backend of yasnippet prompt
 title: Use Popup isearch For Yasnippet Prompt
 tags:

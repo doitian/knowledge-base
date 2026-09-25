@@ -4,7 +4,7 @@ date: 2017-09-24 15:08:08
 description: 如何收集日志发往 Graylog
 katex: false
 series:
-- Centralized Logs Using Graylog
+  - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 收集日志
 tags:

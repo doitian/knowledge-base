@@ -1,14 +1,14 @@
 ---
 comment: true
 date: 2018-11-25 06:15:15
-description: 'Reading notes of paper: 1945 - Hayek - The Use of Knowledge in Society'
+description: "Reading notes of paper: 1945 - Hayek - The Use of Knowledge in Society"
 katex: false
 series:
-- Weekly Paper
+  - Weekly Paper
 share: true
-title: 'Weekly Paper: 1945 - Hayek - The Use of Knowledge in Society'
+title: "Weekly Paper: 1945 - Hayek - The Use of Knowledge in Society"
 tags:
-- economics
+  - economics
 ---
 
 # Weekly Paper Hayek The Use Of Knowledge In Society

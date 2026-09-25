@@ -1,5 +1,5 @@
 ---
-date: '2014-10-13'
+date: 2014-10-13
 description: Setup visual keystroke sequence shortcuts using Keyboard Maestro in Mac OS X.
 title: Keystroke Sequence Shortcuts in Mac OS X
 tags:

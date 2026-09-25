@@ -2,13 +2,13 @@
 date: 2025-11-22
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 obsidianFiles:
-- para/lets/c/CKB Fiber/Liquidity Ads Case Study
-- para/lets/c/CKB Fiber/Lightning Loop Swap Case Study
-- robot/Readwise Library/Articles/Bullet Journal - Don't Set a Goal for 2026 Until You Watch This (Highlights)
-- robot/Readwise Library/Articles/Brie Wolfson - Inside Cursor (Highlights)
-- robot/Readwise Library/Articles/王树义 - AI 时代，你的知识管理工具该扔了吗 (Highlights)
+  - para/lets/c/CKB Fiber/Liquidity Ads Case Study
+  - para/lets/c/CKB Fiber/Lightning Loop Swap Case Study
+  - robot/Readwise Library/Articles/Bullet Journal - Don't Set a Goal for 2026 Until You Watch This (Highlights)
+  - robot/Readwise Library/Articles/Brie Wolfson - Inside Cursor (Highlights)
+  - robot/Readwise Library/Articles/王树义 - AI 时代，你的知识管理工具该扔了吗 (Highlights)
 ---
 # What I Touched This Week 2025-11-22
 

@@ -2,9 +2,9 @@
 date: 2021-02-06
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 obsidianFiles:
-- para/lets/m/macOS/Set Up a New Mac
+  - para/lets/m/macOS/Set Up a New Mac
 ---
 
 # What I Touched This Week 2021-02-06

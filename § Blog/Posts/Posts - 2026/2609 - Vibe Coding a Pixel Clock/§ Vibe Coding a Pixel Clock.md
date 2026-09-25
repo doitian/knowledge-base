@@ -1,8 +1,9 @@
 ---
 date: 2026-09-09T23:38:12+0800
 draft: false
-feature: ulanzi-tc002-feature.png
-banner: "![[ulanzi-tc002-feature.png]]"
+feature: "[[ulanzi-tc002-feature.png]]"
+banner: "[[ulanzi-tc002-feature.png]]"
+thumb: "[[ulanzi-tc002-feature.png]]"
 aliases:
   - Vibe Coding a Pixel Clock
 tags:

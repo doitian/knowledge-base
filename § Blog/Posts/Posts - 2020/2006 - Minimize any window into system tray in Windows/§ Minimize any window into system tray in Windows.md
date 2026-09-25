@@ -1,9 +1,9 @@
 ---
-date: '2020-06-20T16:39:57+0800'
+date: 2020-06-20T16:39:57+0800
 tags:
-- productivity
-- tool
-- windows
+  - productivity
+  - tool
+  - windows
 ---
 
 # Minimize any window into system tray in Windows

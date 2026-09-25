@@ -1,5 +1,5 @@
 ---
-date: '2012-02-04'
+date: 2012-02-04
 description: Display line wrap indicator in gutter using CSS
 title: CSS Line Wrap Indicator
 tags:

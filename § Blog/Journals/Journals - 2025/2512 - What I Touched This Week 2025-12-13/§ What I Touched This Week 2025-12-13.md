@@ -2,14 +2,14 @@
 date: 2025-12-13
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Pieter Hintjens - Social Architecture (Highlights)
-- robot/Readwise Library/Articles/Scott Young - 5 Strategies to Learn Better With AI (Highlights)
-- robot/Readwise Library/Articles/Armin Ronacher - Agent Design Is Still Hard (Highlights)
-- robot/Readwise Library/Articles/Kyle Mistele - Writing a good CLAUDE.md (Highlights)
+  - robot/Readwise Library/Articles/Pieter Hintjens - Social Architecture (Highlights)
+  - robot/Readwise Library/Articles/Scott Young - 5 Strategies to Learn Better With AI (Highlights)
+  - robot/Readwise Library/Articles/Armin Ronacher - Agent Design Is Still Hard (Highlights)
+  - robot/Readwise Library/Articles/Kyle Mistele - Writing a good CLAUDE.md (Highlights)
 ---
 # What I Touched This Week 2025-12-13
 

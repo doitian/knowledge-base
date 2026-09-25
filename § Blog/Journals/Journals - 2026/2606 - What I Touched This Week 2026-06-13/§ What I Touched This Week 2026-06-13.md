@@ -2,18 +2,18 @@
 date: 2026-06-13
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- para/lets/k/Kleppmann - Designing data-intensive applications/♯ Kleppmann - Designing data-intensive applications
-- para/lets/f/Formal Method/FizzBee
-- robot/Readwise Library/Articles/Marc Brooker et al. - Systems Correctness Practices At Aws (Highlights)
-- robot/Readwise Library/Articles/Rupak Majumdar et al. - Why Is Random Testing Effective for Partition Tolerance Bugs (Highlights)
-- robot/Readwise Library/Articles/Haryadi S. Gunawi et al. - What Bugs Live in the Cloud A Study of 3000+ Issues in Cloud Systems (Highlights)
-- robot/Readwise Library/Articles/Rihan Hai et al. - Data Lakes A Survey of Functions and Systems (Highlights)
-- robot/Readwise Library/Articles/Alex Merced - 2025 Guide to Architecting an Iceberg Lakehouse (Highlights)
-- robot/Readwise Library/Articles/Martin Kleppmann et al. - You own your data, in spite of the cloud (Highlights)
+  - para/lets/k/Kleppmann - Designing data-intensive applications/♯ Kleppmann - Designing data-intensive applications
+  - para/lets/f/Formal Method/FizzBee
+  - robot/Readwise Library/Articles/Marc Brooker et al. - Systems Correctness Practices At Aws (Highlights)
+  - robot/Readwise Library/Articles/Rupak Majumdar et al. - Why Is Random Testing Effective for Partition Tolerance Bugs (Highlights)
+  - robot/Readwise Library/Articles/Haryadi S. Gunawi et al. - What Bugs Live in the Cloud A Study of 3000+ Issues in Cloud Systems (Highlights)
+  - robot/Readwise Library/Articles/Rihan Hai et al. - Data Lakes A Survey of Functions and Systems (Highlights)
+  - robot/Readwise Library/Articles/Alex Merced - 2025 Guide to Architecting an Iceberg Lakehouse (Highlights)
+  - robot/Readwise Library/Articles/Martin Kleppmann et al. - You own your data, in spite of the cloud (Highlights)
 ---
 # What I Touched This Week 2026-06-13
 

@@ -2,15 +2,15 @@
 date: 2025-12-06
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Aleksey Kladov - A Tale of Four Fuzzers (Highlights)
-- robot/Readwise Library/Articles/Aleksey Kladov - Generate All the Things (Highlights)
-- robot/Readwise Library/Articles/Aleksey Kladov - Swarm Testing Data Structures (Highlights)
-- robot/Readwise Library/Articles/Stephen DeLorme - Lightning Self-Custody Works Why Mobile Nodes Are the Future of Bitcoin (Highlights)
-- robot/Readwise Library/Articles/Ines Lee - Think First, AI Second (Highlights)
+  - robot/Readwise Library/Articles/Aleksey Kladov - A Tale of Four Fuzzers (Highlights)
+  - robot/Readwise Library/Articles/Aleksey Kladov - Generate All the Things (Highlights)
+  - robot/Readwise Library/Articles/Aleksey Kladov - Swarm Testing Data Structures (Highlights)
+  - robot/Readwise Library/Articles/Stephen DeLorme - Lightning Self-Custody Works Why Mobile Nodes Are the Future of Bitcoin (Highlights)
+  - robot/Readwise Library/Articles/Ines Lee - Think First, AI Second (Highlights)
 ---
 # What I Touched This Week 2025-12-06
 

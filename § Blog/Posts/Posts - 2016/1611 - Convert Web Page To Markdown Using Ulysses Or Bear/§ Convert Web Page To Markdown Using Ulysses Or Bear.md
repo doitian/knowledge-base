@@ -1,11 +1,11 @@
 ---
-date: '2016-11-27'
+date: 2016-11-27
 title: Convert Web Page to Markdown using Ulysses or Bear
 tags:
-- automation
-- macos
-- markdown
-- note-taking
+  - automation
+  - macos
+  - markdown
+  - note-taking
 ---
 
 # Convert Web Page To Markdown Using Ulysses Or Bear

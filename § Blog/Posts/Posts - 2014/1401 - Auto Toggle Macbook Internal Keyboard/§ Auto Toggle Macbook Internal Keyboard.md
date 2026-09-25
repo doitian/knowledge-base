@@ -1,14 +1,15 @@
 ---
-date: '2014-01-17'
+date: 2014-01-17
 description: Automate disable/enable internal keyboard when an external keyboard is attached/detacched.
-feature: keyboard-on-mac.png
-banner: "![[keyboard-on-mac.png]]"
+feature: "[[keyboard-on-mac.png]]"
+banner: "[[keyboard-on-mac.png]]"
+thumb: "[[keyboard-on-mac.png]]"
 title: Auto Toggle MacBook Internal Keyboard
-banner_y: 0
 tags:
-- automation
-- keyboard-maestro
-- macos
+  - automation
+  - keyboard-maestro
+  - macos
+banner-position: 28
 ---
 
 # Auto Toggle Macbook Internal Keyboard

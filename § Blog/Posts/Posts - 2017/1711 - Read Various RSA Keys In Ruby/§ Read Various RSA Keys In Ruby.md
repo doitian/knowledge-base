@@ -1,15 +1,15 @@
 ---
 comment: true
-date: '2017-11-18T10:46:07+08:00'
+date: 2017-11-18T10:46:07+08:00
 description: Introduce how to read various public/private key in Ruby
 katex: false
 share: true
 title: Read Various RSA Keys in Ruby
 tags:
-- cryptography
-- openssl
-- rsa
-- ruby
+  - cryptography
+  - openssl
+  - rsa
+  - ruby
 ---
 
 # Read Various RSA Keys in Ruby

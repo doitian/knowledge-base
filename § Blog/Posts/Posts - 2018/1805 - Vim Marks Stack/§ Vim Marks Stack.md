@@ -6,8 +6,8 @@ katex: false
 share: true
 title: Vim Marks Stack
 tags:
-- productivity
-- vim
+  - productivity
+  - vim
 ---
 
 # Vim Marks Stack

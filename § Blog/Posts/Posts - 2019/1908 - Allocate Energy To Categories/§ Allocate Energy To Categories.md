@@ -6,8 +6,8 @@ katex: false
 share: true
 title: Allocate Energy to Categories
 tags:
-- life-management
-- productivity
+  - life-management
+  - productivity
 ---
 
 # Allocate Energy To Categories

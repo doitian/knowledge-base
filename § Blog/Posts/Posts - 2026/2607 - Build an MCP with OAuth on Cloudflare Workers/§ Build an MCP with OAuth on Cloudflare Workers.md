@@ -1,14 +1,15 @@
 ---
-date: '2026-07-24T19:48:12+0800'
+date: 2026-07-24T19:48:12+0800
 draft: false
-aliases: ["Build an MCP with OAuth on Cloudflare Workers"]
+aliases:
+  - Build an MCP with OAuth on Cloudflare Workers
 tags:
   - api
   - automation
   - javascript
   - security
   - tool
-description: "Wrap an IFTTT webhook as an MCP on Cloudflare Workers, protect it with Cloudflare Access OAuth, and create Google Tasks without a Workspace license or exposed secrets."
+description: Wrap an IFTTT webhook as an MCP on Cloudflare Workers, protect it with Cloudflare Access OAuth, and create Google Tasks without a Workspace license or exposed secrets.
 ---
 
 # Build an MCP with OAuth on Cloudflare Workers

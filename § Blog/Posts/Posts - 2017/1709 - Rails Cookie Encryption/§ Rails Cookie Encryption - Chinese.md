@@ -6,10 +6,10 @@ katex: false
 share: true
 title: Rails Cookie 如何解密
 tags:
-- encryption
-- golang
-- rails
-- ruby
+  - encryption
+  - golang
+  - rails
+  - ruby
 ---
 
 # Rails Cookie Encryption

@@ -6,8 +6,8 @@ katex: false
 share: true
 title: 个人习惯总结
 tags:
-- habit
-- productivity
+  - habit
+  - productivity
 ---
 
 # Personal Habits Summary

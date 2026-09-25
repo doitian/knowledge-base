@@ -2,13 +2,13 @@
 date: 2025-12-20
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Bret Victor - The Ladder of Abstraction (Highlights)
-- robot/Readwise Library/Articles/Howard Marks - Is It A Bubble (Highlights)
-- robot/Readwise Library/Articles/Jeff Su - Give Me 9 Minutes, I'll Make You AI-Native (Highlights)
+  - robot/Readwise Library/Articles/Bret Victor - The Ladder of Abstraction (Highlights)
+  - robot/Readwise Library/Articles/Howard Marks - Is It A Bubble (Highlights)
+  - robot/Readwise Library/Articles/Jeff Su - Give Me 9 Minutes, I'll Make You AI-Native (Highlights)
 ---
 # What I Touched This Week 2025-12-20
 

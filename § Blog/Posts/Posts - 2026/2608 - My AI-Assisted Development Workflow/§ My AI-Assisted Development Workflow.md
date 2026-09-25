@@ -1,14 +1,15 @@
 ---
-date: '2026-08-10T12:45:09+0800'
+date: 2026-08-10T12:45:09+0800
 draft: false
-aliases: ["My AI-Assisted Development Workflow"]
+aliases:
+  - My AI-Assisted Development Workflow
 tags:
   - automation
   - git
   - productivity
   - programming
   - tool
-description: "Plan into units, let AI stack branches with gh-stack, review the PRs yourself, then hand review comments back to the agent."
+description: Plan into units, let AI stack branches with gh-stack, review the PRs yourself, then hand review comments back to the agent.
 ---
 
 # My AI-Assisted Development Workflow

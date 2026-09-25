@@ -1,12 +1,12 @@
 ---
-date: "2023-07-21T20:31:59+0800"
+date: 2023-07-21T20:31:59+0800
 draft: false
 aliases:
   - Renaming Browser Tab Names
 tags:
-- browser
-- javascript
-- productivity
+  - browser
+  - javascript
+  - productivity
 ---
 
 # Renaming Browser Tab Names

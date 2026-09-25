@@ -1,14 +1,14 @@
 ---
 comment: true
-date: '2020-02-02T12:15:10+08:00'
+date: 2020-02-02T12:15:10+08:00
 description: How to configure Apple Mail to download only the mails in Gmail inbox.
 katex: false
 share: true
 title: How to Download Only Gmail Inbox
 tags:
-- automation
-- email
-- power-tool
+  - automation
+  - email
+  - power-tool
 ---
 
 # Download Only Gmail Inbox

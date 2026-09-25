@@ -7,8 +7,8 @@ katex: false
 share: true
 title: Flatbuffers Compatible Table
 tags:
-- flatbuffers
-- serialization
+  - flatbuffers
+  - serialization
 ---
 
 # Flatbuffers Compatible Table

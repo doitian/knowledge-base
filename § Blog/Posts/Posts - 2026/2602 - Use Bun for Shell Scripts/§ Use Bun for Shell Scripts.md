@@ -1,7 +1,8 @@
 ---
-date: '2026-02-07T00:00:00+0800'
+date: 2026-02-07T00:00:00+0800
 draft: false
-aliases: ["Use Bun for Shell Scripts"]
+aliases:
+  - Use Bun for Shell Scripts
 tags:
   - bun
   - javascript
@@ -10,7 +11,7 @@ tags:
   - dev-environment
 description: "Cross-platform shell scripting with Bun on Windows: avoid shebangs and WSL/Git-bash setup, with single-file executables and a built-in shell."
 obsidianFiles:
-- para/lets/d/Development Environment/JavaScript Shell Scripting
+  - para/lets/d/Development Environment/JavaScript Shell Scripting
 ---
 
 # Use Bun for Shell Scripts

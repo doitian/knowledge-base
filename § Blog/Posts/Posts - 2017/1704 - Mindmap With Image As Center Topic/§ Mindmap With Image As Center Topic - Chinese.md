@@ -1,13 +1,13 @@
 ---
 comment: true
-date: '2017-04-04T19:45:09+08:00'
-description: ''
+date: 2017-04-04T19:45:09+08:00
+description: ""
 katex: false
 share: true
 title: OmniGraffle 绘制图片作为中心的思维导图
 tags:
-- diagram
-- productivity
+  - diagram
+  - productivity
 ---
 
 # Mindmap With Image As Center Topic

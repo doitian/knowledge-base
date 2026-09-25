@@ -1,8 +1,8 @@
 ---
-date: '2020-05-05T10:28:26+0800'
+date: 2020-05-05T10:28:26+0800
 tags:
-- vim
-- windows
+  - vim
+  - windows
 ---
 
 # Vim Setup for Windows

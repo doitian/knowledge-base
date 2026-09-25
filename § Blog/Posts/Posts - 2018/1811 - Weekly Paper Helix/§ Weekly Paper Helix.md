@@ -1,12 +1,12 @@
 ---
 comment: true
 date: 2018-11-10 03:49:28
-description: 'Reading notes of paper: Helix, A Scalable and Fair Consensus Algorithm'
+description: "Reading notes of paper: Helix, A Scalable and Fair Consensus Algorithm"
 katex: false
 series:
-- Weekly Paper
+  - Weekly Paper
 share: true
-title: 'Weekly Paper: Helix'
+title: "Weekly Paper: Helix"
 tags:
   - consensus
   - distributed-system

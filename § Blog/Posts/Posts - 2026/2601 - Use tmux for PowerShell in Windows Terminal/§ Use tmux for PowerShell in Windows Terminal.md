@@ -1,13 +1,14 @@
 ---
-date: '2026-01-29T23:30:42+0800'
+date: 2026-01-29T23:30:42+0800
 draft: false
-aliases: ["Use tmux for PowerShell in Windows Terminal"]
+aliases:
+  - Use tmux for PowerShell in Windows Terminal
 tags:
   - tmux
   - powershell
   - wsl
   - windows-terminal
-description: "Run tmux from WSL in Windows Terminal with PowerShell as the default shell."
+description: Run tmux from WSL in Windows Terminal with PowerShell as the default shell.
 ---
 
 # Use tmux for PowerShell in Windows Terminal

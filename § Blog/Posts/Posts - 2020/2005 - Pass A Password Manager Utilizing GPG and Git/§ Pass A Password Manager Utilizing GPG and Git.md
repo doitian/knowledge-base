@@ -1,10 +1,10 @@
 ---
-date: '2020-05-03T22:50:53+0800'
+date: 2020-05-03T22:50:53+0800
 tags:
-- git
-- gpg
-- password-manager
-- security
+  - git
+  - gpg
+  - password-manager
+  - security
 ---
 
 # Pass, A Password Manager Utilizing GPG and Git

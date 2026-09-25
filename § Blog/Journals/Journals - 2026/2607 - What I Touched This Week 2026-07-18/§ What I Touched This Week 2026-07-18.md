@@ -2,19 +2,19 @@
 date: 2026-07-18
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Paul Tarjan - Scaling Your API With Rate Limiters (Highlights)
-- robot/Readwise Library/Articles/Mike Smith - Rethinking Netflix’s Edge Load Balancing (Highlights)
-- robot/Readwise Library/Articles/Lu Pan - Cache Made Consistent (Highlights)
-- robot/Readwise Library/Articles/Jaival Suthar - Prefetching at Scale Why Instagram Works Without Internet — A Deep Dive Into Predictive Caching (Highlights)
-- robot/Readwise Library/Articles/Simon Hearne - Optimistic UI Patterns for Improved Perceived Performance (Highlights)
-- robot/Readwise Library/Articles/Leanne Shapton - Solving the N+1 Problem for GraphQL Through Batching (Highlights)
-- robot/Readwise Library/Articles/Holden Karnofsky - Learning by Writing (Highlights)
-- robot/Readwise Library/Articles/Holden Karnofsky - Minimal-Trust Investigations (Highlights)
-- robot/Readwise Library/Articles/Henrik Karlsson - How to Think in Writing (Highlights)
+  - robot/Readwise Library/Articles/Paul Tarjan - Scaling Your API With Rate Limiters (Highlights)
+  - robot/Readwise Library/Articles/Mike Smith - Rethinking Netflix’s Edge Load Balancing (Highlights)
+  - robot/Readwise Library/Articles/Lu Pan - Cache Made Consistent (Highlights)
+  - robot/Readwise Library/Articles/Jaival Suthar - Prefetching at Scale Why Instagram Works Without Internet — A Deep Dive Into Predictive Caching (Highlights)
+  - robot/Readwise Library/Articles/Simon Hearne - Optimistic UI Patterns for Improved Perceived Performance (Highlights)
+  - robot/Readwise Library/Articles/Leanne Shapton - Solving the N+1 Problem for GraphQL Through Batching (Highlights)
+  - robot/Readwise Library/Articles/Holden Karnofsky - Learning by Writing (Highlights)
+  - robot/Readwise Library/Articles/Holden Karnofsky - Minimal-Trust Investigations (Highlights)
+  - robot/Readwise Library/Articles/Henrik Karlsson - How to Think in Writing (Highlights)
 ---
 # What I Touched This Week 2026-07-18
 

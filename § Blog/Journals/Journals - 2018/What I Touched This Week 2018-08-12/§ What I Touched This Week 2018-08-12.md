@@ -2,7 +2,7 @@
 date: 2018-08-12
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 ---
 
 # What I Touched This Week 2018-08-12

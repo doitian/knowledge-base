@@ -1,13 +1,14 @@
 ---
-date: '2026-07-01T21:27:36+0800'
+date: 2026-07-01T21:27:36+0800
 draft: false
-aliases: ["Fix Claude Desktop PATH with CLAUDE_ENV_FILE"]
+aliases:
+  - Fix Claude Desktop PATH with CLAUDE_ENV_FILE
 tags:
   - dev-environment
   - environment-variables
   - automation
   - tool
-description: "Point CLAUDE_ENV_FILE at a shell snippet so Claude Code sees the same PATH and env vars as your mise/asdf/nix setup, with full runtime shell semantics."
+description: Point CLAUDE_ENV_FILE at a shell snippet so Claude Code sees the same PATH and env vars as your mise/asdf/nix setup, with full runtime shell semantics.
 ---
 
 # Fix Claude Desktop PATH with CLAUDE_ENV_FILE

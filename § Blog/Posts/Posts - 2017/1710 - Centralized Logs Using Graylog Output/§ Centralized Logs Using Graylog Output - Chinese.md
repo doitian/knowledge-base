@@ -4,7 +4,7 @@ date: 2017-10-14 03:43:07
 description: 如何在其它服务中使用 Graylog 搜集的日志
 katex: false
 series:
-- Centralized Logs Using Graylog
+  - Centralized Logs Using Graylog
 share: true
 title: Graylog 集中日志管理 - 日志输出
 tags:

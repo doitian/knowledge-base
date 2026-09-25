@@ -1,8 +1,8 @@
 ---
-date: '2020-04-25T22:27:22+08:00'
+date: 2020-04-25T22:27:22+08:00
 tags:
-- apple-ecosystem
-- ios
+  - apple-ecosystem
+  - ios
 ---
 
 # 使用 iOS 工作体验报告

@@ -1,11 +1,11 @@
 ---
-date: '2013-08-23'
+date: 2013-08-23
 description: Post about the differences of includes and preload
 title: ActiveRecord includes and preload
 tags:
-- active-record
-- performance
-- rails
+  - active-record
+  - performance
+  - rails
 ---
 
 # Active Record Includes And Preload

@@ -1,10 +1,10 @@
 ---
 comment: true
-date: "2017-08-23T23:11:35+08:00"
+date: 2017-08-23T23:11:35+08:00
 description: Use Nginx stream proxy as UDP load balance
 katex: false
 share: true
-title: "Nginx as UDP Load Balance"
+title: Nginx as UDP Load Balance
 tags:
   - nginx
 ---

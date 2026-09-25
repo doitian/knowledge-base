@@ -1,7 +1,7 @@
 ---
 comment: true
-date: '2017-08-19T23:41:07+08:00'
-description: "How to use Redis as Write Buffer, and how to savely flush cached data to backend storage and remove cache from Redis."
+date: 2017-08-19T23:41:07+08:00
+description: How to use Redis as Write Buffer, and how to savely flush cached data to backend storage and remove cache from Redis.
 share: true
 title: Redis as Write Buffer
 tags:

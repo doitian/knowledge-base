@@ -1,8 +1,8 @@
 ---
-date: '2020-05-03T22:03:22+0800'
+date: 2020-05-03T22:03:22+0800
 tags:
-- dev-environment
-- windows
+  - dev-environment
+  - windows
 ---
 
 # My Windows Environment Setup

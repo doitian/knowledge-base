@@ -1,12 +1,12 @@
 ---
 comment: true
 date: 2018-12-01 12:06:51
-description: 'Reading notes of paper: Liberal Radicalism'
+description: "Reading notes of paper: Liberal Radicalism"
 katex: true
 series:
-- Weekly Paper
+  - Weekly Paper
 share: true
-title: 'Weekly Paper: Liberal Radicalism'
+title: "Weekly Paper: Liberal Radicalism"
 tags:
   - economics
   - governance

@@ -2,14 +2,14 @@
 date: 2026-08-08
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Jack Cheng - Designing With AI Make a Jig. (Highlights)
-- robot/Readwise Library/Articles/Corentin Giaufer Saubert - TDD in the Age of AI Who Tests the Tests (Highlights)
-- robot/Readwise Library/Tweets/Dan Koe - How to Remember Everything You Read (Highlights)
-- para/lets/s/Software Engineering/DOYR on Domain-Driven Design
+  - robot/Readwise Library/Articles/Jack Cheng - Designing With AI Make a Jig. (Highlights)
+  - robot/Readwise Library/Articles/Corentin Giaufer Saubert - TDD in the Age of AI Who Tests the Tests (Highlights)
+  - robot/Readwise Library/Tweets/Dan Koe - How to Remember Everything You Read (Highlights)
+  - para/lets/s/Software Engineering/DOYR on Domain-Driven Design
 ---
 # What I Touched This Week 2026-08-08
 

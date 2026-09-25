@@ -3,9 +3,9 @@ date: 2023-12-17T17:35:33+0800
 draft: false
 description: This post shows how to verify the signature from the method signChallenge of the `@joyid/ckb` package using using the OpenSSL command line and the Python library PyCryptodome
 tags:
-- cryptography
-- javascript
-- webauthn
+  - cryptography
+  - javascript
+  - webauthn
 ---
 
 # How to Verify JoyID WebAuthn Signature

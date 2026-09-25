@@ -1,5 +1,5 @@
 ---
-date: '2015-02-08'
+date: 2015-02-08
 description: Create ctags index for Ansible to ease navigation in editor.
 title: Ctags for Ansible
 tags:

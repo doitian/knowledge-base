@@ -1,11 +1,11 @@
 ---
-date: '2013-07-16'
+date: 2013-07-16
 description: Gotcha of the three functions uniq, count and distince
 title: ActiveRecord uniq, count and distinct
 tags:
-- active-record
-- database
-- rails
+  - active-record
+  - database
+  - rails
 ---
 
 # Active Record Uniq Count And Distinct

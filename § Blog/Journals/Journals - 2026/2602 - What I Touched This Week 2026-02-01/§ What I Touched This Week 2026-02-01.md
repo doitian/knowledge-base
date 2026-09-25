@@ -2,18 +2,18 @@
 date: 2026-02-01
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- para/lets/p/Programming/Haskell Applicative
-- para/lets/p/Programming/Haskell Pattern Matching
-- para/lets/p/Programming/Haskell High-Order Function Composition
-- robot/Readwise Library/Articles/Miran Lipovača - Learn You a Haskell for Great Good Chapter 11. Functors, Applicative Functors and Monoids (Highlights)
-- robot/Readwise Library/Articles/Miran Lipovača - Learn You a Haskell for Great Good Chapter 6. Higher Order Functions (Highlights)
-- robot/Readwise Library/Articles/Haskell Authors - Foldl (Highlights)
-- robot/Readwise Library/Tweets/Sandeep Palakodeti - The Tippy Top (Highlights)
-- output/§ Blog/Posts/Posts - 2026/2601 - Use tmux for PowerShell in Windows Terminal/§ Use tmux for PowerShell in Windows Terminal
+  - para/lets/p/Programming/Haskell Applicative
+  - para/lets/p/Programming/Haskell Pattern Matching
+  - para/lets/p/Programming/Haskell High-Order Function Composition
+  - robot/Readwise Library/Articles/Miran Lipovača - Learn You a Haskell for Great Good Chapter 11. Functors, Applicative Functors and Monoids (Highlights)
+  - robot/Readwise Library/Articles/Miran Lipovača - Learn You a Haskell for Great Good Chapter 6. Higher Order Functions (Highlights)
+  - robot/Readwise Library/Articles/Haskell Authors - Foldl (Highlights)
+  - robot/Readwise Library/Tweets/Sandeep Palakodeti - The Tippy Top (Highlights)
+  - output/§ Blog/Posts/Posts - 2026/2601 - Use tmux for PowerShell in Windows Terminal/§ Use tmux for PowerShell in Windows Terminal
 ---
 # What I Touched This Week 2026-02-01
 

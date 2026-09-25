@@ -1,11 +1,11 @@
 ---
-date: '2013-01-19'
+date: 2013-01-19
 description: How to use multiple HTML input controllers for a single field in model.
 title: Rails Compound Input
 tags:
-- form
-- frontend
-- rails
+  - form
+  - frontend
+  - rails
 ---
 
 # Rails Compound Input

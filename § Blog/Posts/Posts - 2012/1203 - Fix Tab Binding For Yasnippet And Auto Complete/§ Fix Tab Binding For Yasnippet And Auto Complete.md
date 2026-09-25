@@ -1,5 +1,5 @@
 ---
-date: '2012-03-31'
+date: 2012-03-31
 description: There are two TAB's in Emacs, it is hard to make the TAB keybinding works as expected in Emacs.
 title: Fix TAB Binding For yasnippet And auto-complete
 tags:

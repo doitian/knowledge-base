@@ -1,11 +1,11 @@
 ---
-date: '2011-05-18'
+date: 2011-05-18
 description: How Mendeley manages documents and citations.
-title: 'Mendeley: Cross Platform Research Management Tool'
+title: "Mendeley: Cross Platform Research Management Tool"
 tags:
-- productivity
-- reference-management
-- software
+  - productivity
+  - reference-management
+  - software
 ---
 
 # Mendeley Cross Platform Research Management Tool

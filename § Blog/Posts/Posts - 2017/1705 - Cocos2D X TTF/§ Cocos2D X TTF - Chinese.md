@@ -1,5 +1,5 @@
 ---
-date: '2017-05-13T17:43:59+08:00'
+date: 2017-05-13T17:43:59+08:00
 description: 介绍 Cocos2D-X 中用到的 FreeType 如何排版
 title: Cocos2D-X TTF 字体排版
 tags:

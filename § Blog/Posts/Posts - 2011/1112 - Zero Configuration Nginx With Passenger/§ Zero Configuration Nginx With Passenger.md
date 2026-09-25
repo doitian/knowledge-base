@@ -1,11 +1,11 @@
 ---
-date: '2011-12-09'
+date: 2011-12-09
 description: Use named captures in Nginx to serve multiple Passenger apps in different directories.
 title: Zero Configuration Nginx With Passenger
 tags:
-- nginx
-- rails
-- ruby
+  - nginx
+  - rails
+  - ruby
 ---
 
 # Zero Configuration Nginx With Passenger

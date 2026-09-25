@@ -6,8 +6,8 @@ katex: false
 share: true
 title: 我的 iPhone 通知管理
 tags:
-- ios
-- productivity
+  - ios
+  - productivity
 ---
 
 # My iOS Notification Setting

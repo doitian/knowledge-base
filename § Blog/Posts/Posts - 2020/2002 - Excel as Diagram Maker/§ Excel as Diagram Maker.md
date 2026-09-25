@@ -1,5 +1,5 @@
 ---
-date: "2020-02-22T21:18:00+08:00"
+date: 2020-02-22T21:18:00+08:00
 description: Tips to get started making diagrams in Excel
 tags:
   - power-tool

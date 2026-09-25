@@ -2,9 +2,9 @@
 date: 2020-03-15
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 obsidianFiles:
-- para/lets/p/Personal SOPs/Taking Notes
+  - para/lets/p/Personal SOPs/Taking Notes
 ---
 
 # What I Touched This Week 2020-03-15

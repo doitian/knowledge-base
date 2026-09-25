@@ -2,14 +2,14 @@
 date: 2026-08-01
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 tags:
-- ai-generated
+  - ai-generated
 obsidianFiles:
-- robot/Readwise Library/Articles/Kevin Kelly - Better Than Free How to Differentiate in the Age of AI (Highlights)
-- robot/Readwise Library/Articles/Rose Horowitch - The End of Reading Is Here (Highlights)
-- robot/Readwise Library/Articles/Bo Ingram - How Discord Stores Trillions of Messages (Highlights)
-- output/§ Blog/Posts/Posts - 2026/2607 - A Practical Guide to gh-stack for AI-Assisted Development/§ A Practical Guide to gh-stack for AI-Assisted Development
+  - robot/Readwise Library/Articles/Kevin Kelly - Better Than Free How to Differentiate in the Age of AI (Highlights)
+  - robot/Readwise Library/Articles/Rose Horowitch - The End of Reading Is Here (Highlights)
+  - robot/Readwise Library/Articles/Bo Ingram - How Discord Stores Trillions of Messages (Highlights)
+  - output/§ Blog/Posts/Posts - 2026/2607 - A Practical Guide to gh-stack for AI-Assisted Development/§ A Practical Guide to gh-stack for AI-Assisted Development
 ---
 # What I Touched This Week 2026-08-01
 

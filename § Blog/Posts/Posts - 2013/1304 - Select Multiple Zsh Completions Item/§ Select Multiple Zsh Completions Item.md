@@ -1,8 +1,8 @@
 ---
-date: '2013-04-08'
+date: 2013-04-08
 description: I like the feature to Insert all completions in bash, and I can get this feature in zsh now
 summary: I like the feature to Insert all completions in bash, and I can get this feature in zsh now
-lastmod: '2017-01-19'
+lastmod: 2017-01-19
 title: Select multiple zsh completions item
 tags:
   - console

@@ -2,7 +2,7 @@
 date: 2020-07-19
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 ---
 
 # What I Touched This Week 2020-07-19

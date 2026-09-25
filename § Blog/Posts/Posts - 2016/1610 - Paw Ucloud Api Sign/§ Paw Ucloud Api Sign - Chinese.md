@@ -2,8 +2,8 @@
 date: 2016-10-25
 title: Paw 里进行 UCloud API 签名验证
 tags:
-- api
-- macos
+  - api
+  - macos
 ---
 
 # Paw Ucloud Api Sign

@@ -1,10 +1,10 @@
 ---
-date: '2013-04-28'
+date: 2013-04-28
 description: Introduce how we fix a bug, and what we learned about sprockets internals.
 title: How Rails Assets Prefix Disables the Session
 tags:
-- rails
-- session
+  - rails
+  - session
 ---
 
 # How Rails Assets Prefix Disables The Session

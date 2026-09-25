@@ -1,5 +1,5 @@
 ---
-date: '2012-01-12'
+date: 2012-01-12
 description: Emacs ruby mode patch to highlight the new hash syntax.
 title: Highlight Ruby New Hash In Emacs
 tags:

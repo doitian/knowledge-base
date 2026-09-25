@@ -2,7 +2,7 @@
 date: 2017-05-13
 description: My weekly review report.
 series:
-- What I Touched
+  - What I Touched
 ---
 
 # What I Touched This Week 2017-05-13

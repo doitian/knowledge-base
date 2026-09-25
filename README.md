@@ -1,5 +1,6 @@
 ---
-aliases: ["Blog.iany.me Repository"]
+aliases:
+  - Blog.iany.me Repository
 ---
 # Knowledge Base
 
