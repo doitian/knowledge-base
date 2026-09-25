@@ -4,6 +4,7 @@
 import os
 import sys
 import datetime
+import json
 from pathlib import Path
 from inflector import English as EnglishInflector
 
@@ -30,19 +31,19 @@ file = dir / f"§ {title}.md"
 os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
-    with open(file, 'w') as fout:
+    with open(file, 'w', encoding='utf-8', newline='\n') as fout:
         fout.write(f"""---
 date: '{now.strftime("%FT%T%z")}'
 draft: true
-aliases: ["{title}"]
+aliases: {json.dumps([title], ensure_ascii=False)}
+status: i
+zettel: permanent
+created: "[[{now.strftime("%Y-%m-%d")}]]"
+url: {json.dumps(f'[blog.iany.me](https://blog.iany.me/{year}/{mon}/{slugify(title)}/)', ensure_ascii=False)}
 ---
 
 # {title}
 
-**Status**:: #i
-**Zettel**:: #zettel/permanent
-**Created**:: [[{now.strftime("%Y-%m-%d")}]]
-**URL**:: [blog.iany.me](https://blog.iany.me/{year}/{mon}/{slugify(title)}/)
 
 """)
 

@@ -18,12 +18,14 @@ file = dir / f"§ {title}.md"
 os.makedirs(dir, exist_ok=True)
 
 if not file.exists():
-    with open(file, 'w') as fout:
-        fout.write(f"""# {title}
+    with open(file, 'w', encoding='utf-8', newline='\n') as fout:
+        fout.write(f"""---
+status: i
+zettel: permanent
+created: "[[{now.strftime("%Y-%m-%d")}]]"
+---
+# {title}
 
-**Status**:: #i
-**Zettel**:: #zettel/permanent
-**Created**:: [[{now.strftime("%Y-%m-%d")}]]
 
 """)
 
