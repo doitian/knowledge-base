@@ -20,8 +20,7 @@ os.makedirs(dir, exist_ok=True)
 if not file.exists():
     with open(file, 'w', encoding='utf-8', newline='\n') as fout:
         fout.write(f"""---
-status: i
-zettel: permanent
+tags: ["i", "zettel/permanent"]
 created: "[[{now.strftime("%Y-%m-%d")}]]"
 ---
 # {title}

@@ -36,8 +36,7 @@ if not file.exists():
 date: '{now.strftime("%FT%T%z")}'
 draft: true
 aliases: {json.dumps([title], ensure_ascii=False)}
-status: i
-zettel: literature
+tags: ["i", "zettel/literature"]
 created: "[[{now.strftime("%Y-%m-%d")}]]"
 url: {json.dumps(f'[blog.iany.me](https://blog.iany.me/journal/{year}/{mon}/{slugify(title)}/)', ensure_ascii=False)}
 ---

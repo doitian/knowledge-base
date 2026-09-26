@@ -89,7 +89,7 @@ class NoteCreationTests(unittest.TestCase):
                             number += 1
                             file = run_script(script, directory, title, instant, zone)
                             now = dt.datetime.fromisoformat(instant).astimezone(ZoneInfo(zone))
-                            expected = {'status': 'i', 'zettel': 'literature' if script == 'create-journal' else 'permanent',
+                            expected = {'tags': ['i', 'zettel/literature' if script == 'create-journal' else 'zettel/permanent'],
                                         'created': f'[[{now:%Y-%m-%d}]]'}
                             if script == 'create-entry':
                                 expected_path = Path(title) / f'§ {title}.md'
@@ -152,7 +152,7 @@ class NoteCreationTests(unittest.TestCase):
             self.assertTrue(file.is_relative_to(directory))
             values = properties(file.read_text(encoding='utf-8'))
             self.assertIn(values['created'], [f'[[{date:%Y-%m-%d}]]' for date in [before, after]])
-            self.assertEqual(values['status'], 'i')
+            self.assertEqual(values['tags'], ['i', 'zettel/permanent'] if script != 'create-journal' else ['i', 'zettel/literature'])
 
 
 if __name__ == '__main__':
