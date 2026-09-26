@@ -10,15 +10,16 @@ tags:
   - linux
   - script
   - windows
+  - x
+  - zettel/permanent
 description: One binary forwards mako and Windows toasts to Pushover. Linux needs one hook line; Windows needs a signed sparse-identity MSIX.
+created: "[[2026-09-08]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/09/forwarding-desktop-notifications-to-pushover/)"
+
 ---
 
 # Forwarding Desktop Notifications to Pushover
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-09-08]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/09/forwarding-desktop-notifications-to-pushover/)
 
 I already forwarded **mako** notifications to Pushover on Linux. The hook is tiny: mako runs a command with the notification id, the script reads `makoctl list -j`, skips loops and Pushover itself, and POSTs to the Pushover API.
 

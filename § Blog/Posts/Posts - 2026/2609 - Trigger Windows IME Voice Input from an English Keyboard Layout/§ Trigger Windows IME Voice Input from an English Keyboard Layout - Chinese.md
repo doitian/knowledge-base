@@ -8,15 +8,16 @@ tags:
   - ime
   - shortcut
   - windows
+  - x
+  - zettel/permanent
 description: 微信输入法激活后会注册真正的全局语音快捷键，但英文键盘下识别的文字只能放到剪贴板。把它和 AutoHotkey 的快捷键分开，就能自动切到中文输入、再次按键结束后切回英文。
+created: "[[2026-09-23]]"
+url: "[blog.iany.me](https://blog.iany.me/zh/2026/09/trigger-windows-ime-voice-input-from-an-english-keyboard-layout/)"
+
 ---
 
 # 让 Windows 输入法的语音快捷键在英文键盘下也能触发
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-09-23]]
-**URL**:: [blog.iany.me](https://blog.iany.me/zh/2026/09/trigger-windows-ime-voice-input-from-an-english-keyboard-layout/)
 
 我平时用英文键盘布局写代码，想说句话就得先切到中文输入法。我希望按 <kbd>RAlt</kbd> + <kbd>Space</kbd> 就能直接开始语音输入。
 

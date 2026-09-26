@@ -8,15 +8,16 @@ tags:
   - blockchain
   - cryptography
   - distributed-system
+  - x
+  - zettel/permanent
 description: A study on the paper Atomic Cross-Chain Swaps by Herlihy
+created: "[[2025-09-19]]"
+url: "[blog.iany.me](https://blog.iany.me/2025/09/explain-atomic-cross-chain-swaps-by-herlihy/)"
+
 ---
 
 # Explain Atomic Cross-Chain Swaps by Herlihy
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-09-19]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2025/09/explain-atomic-cross-chain-swaps-by-herlihy/)
 **Parent**:: [[Herlihy - Atomic Cross-Chain Swaps]]
 
 This article explains the paper \[Herlihy, 2018][^1] in simple words. In the paper, Herlihy has introduced an effective atomic cross-chain swap protocol in order to exchange assets across multiple blockchains among multiple parties.

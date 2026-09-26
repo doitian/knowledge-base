@@ -8,15 +8,16 @@ tags:
   - environment-variables
   - automation
   - tool
+  - x
+  - zettel/permanent
 description: Point CLAUDE_ENV_FILE at a shell snippet so Claude Code sees the same PATH and env vars as your mise/asdf/nix setup, with full runtime shell semantics.
+created: "[[2026-07-01]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/07/fix-claude-desktop-path-with-claude-env-file/)"
+
 ---
 
 # Fix Claude Desktop PATH with CLAUDE_ENV_FILE
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-07-01]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/07/fix-claude-desktop-path-with-claude-env-file/)
 
 Claude Code runs tools and shell commands on your behalf. Launched from a terminal, the CLI inherits your shell environment and everything just works. But under **Claude Desktop**, Claude Code is spawned from a GUI/desktop session that never sourced your interactive shell config—so if you rely on version managers like mise, asdf, or nix, the tools they install may not be on Claude's `PATH`. The fix is a single setting: `CLAUDE_ENV_FILE`.
 

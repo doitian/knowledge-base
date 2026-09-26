@@ -7,14 +7,15 @@ tags:
   - ime
   - shortcut
   - windows
+  - x
+  - zettel/permanent
+created: "[[2024-04-10]]"
+url: "[blog.iany.me](https://blog.iany.me/2024/04/resolve-the-annoying-shift-space-shortcut-in-windows-chinese-input-methods/)"
+
 ---
 
 # 解决 Windows 中文输入法下 Shift + Space 快捷键的困扰
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2024-04-10]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2024/04/resolve-the-annoying-shift-space-shortcut-in-windows-chinese-input-methods/)
 
 最近我把主要的工作环境转移到了Windows系统。之前 Windows 最困扰我的是 <kbd>Shift</kbd> + <kbd>Space</kbd> 的快捷键。在中文输入法状态下稍微打字快一点，就会误触发切换半角全角的功能，打乱输入的节奏。既然我决定长期使用 Windows 系统，就花了一些时间全面解决了这个问题。
 

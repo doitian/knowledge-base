@@ -7,15 +7,16 @@ aliases:
 tags:
   - math
   - linear-algebra
+  - x
+  - zettel/permanent
 katex: true
+created: "[[2025-11-18]]"
+url: "[blog.iany.me](https://blog.iany.me/2025/11/study-on-quotient-spaces/)"
+
 ---
 
 # Study on Quotient Spaces
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-11-18]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2025/11/study-on-quotient-spaces/)
 **Parent**:: [[Axler - Linear Algebra Done Right]]
 **Reference**:: [[NotebookLM - Quotient Spaces]]
 **Zotero Item**:: [Quotient Spaces](zotero://select/library/items/RXK6B2WB)

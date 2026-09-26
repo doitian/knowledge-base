@@ -6,14 +6,15 @@ aliases:
 tags:
   - obsidian
   - vim
+  - x
+  - zettel/permanent
+created: "[[2023-04-27]]"
+url: "[blog.iany.me](https://blog.iany.me/2023/04/the-ultimate-guide-to-customizing-obsidian-vim-mode-via-quickadd/)"
+
 ---
 
 # The Ultimate Guide to Customizing Obsidian Vim Mode via QuickAdd
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2023-04-27]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2023/04/the-ultimate-guide-to-customizing-obsidian-vim-mode-via-quickadd/)
 
 Obsidian is my go-to note-taking app because of its availability on all desktop and mobile platforms with the bonus of Vim mode. In this guide, I'll show you how I customize the Vim mode in Obsidian to maximize my note-taking efficiency.
 

@@ -5,6 +5,8 @@ series:
   - What I Touched
 tags:
   - ai-generated
+  - x
+  - zettel/permanent
 obsidianFiles:
   - robot/Readwise Library/Articles/Siddon Tang - From Chaos to Order — Tools and Techniques for Testing TiDB, a Distributed NewSQL Database (Highlights)
   - robot/Readwise Library/Articles/Peter Alvaro et al. - Automating Failure Testing Research at Internet Scale (Highlights)
@@ -16,13 +18,12 @@ obsidianFiles:
   - robot/Readwise Library/Tweets/Addy Osmani - Agentic Code Review (Highlights)
   - robot/Readwise Library/Books/Angela Duckworth - Grit (Highlights)
   - para/lets/p/Painting/Proko - Figure Drawing Fundamentals
+created: "[[2025-11-29]]"
+url: "[blog.iany.me](https://blog.iany.me/journal/2026/06/what-i-touched-this-week-2026-06-20/)"
+
 ---
 # What I Touched This Week 2026-06-20
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-11-29]]
-**URL**:: [blog.iany.me](https://blog.iany.me/journal/2026/06/what-i-touched-this-week-2026-06-20/)
 **Highlights**:: [[Readwise Sync 2026-06-20]]
 
 **Focus**: [[Proko - Figure Drawing Fundamentals]]

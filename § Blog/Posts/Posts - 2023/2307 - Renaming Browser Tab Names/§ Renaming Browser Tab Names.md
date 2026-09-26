@@ -7,14 +7,15 @@ tags:
   - browser
   - javascript
   - productivity
+  - x
+  - zettel/permanent
+created: "[[2023-07-21]]"
+url: "[blog.iany.me](https://blog.iany.me/2023/07/renaming-browser-tab-names/)"
+
 ---
 
 # Renaming Browser Tab Names
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2023-07-21]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2023/07/renaming-browser-tab-names/)
 
 Renaming browser tab names may seem like a simple task, but it can actually be quite challenging.
 

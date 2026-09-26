@@ -1,7 +1,4 @@
 ---
-Workflow tags:
-  - i
-  - zettel/permanent
 date: 2026-09-22T17:09:27+0800
 draft: false
 aliases:
@@ -11,13 +8,16 @@ tags:
   - tool
   - automation
   - programming
+  - i
+  - zettel/permanent
 description: Install the Plannotator CLI with --minimal, then its plugin and skills into a single project with --scope local and a subdirectory skills spec, so nothing lands in ~/.claude.
+created: "[[2026-09-22]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/09/install-plannotator-for-claude-code-without-touching-global-config/)"
+
 ---
 
 # Install Plannotator for Claude Code Without Touching Global Config
 
-**Created**:: [[2026-09-22]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/09/install-plannotator-for-claude-code-without-touching-global-config/)
 
 [Plannotator](https://github.com/backnotprop/plannotator) gives Claude Code a browser UI for marking up plans, files, and pull requests. It ships as three separate things—a **CLI**, a Claude Code **plugin**, and a set of **skills**—and the obvious install path for each one drops it into your user-level environment, where it loads in every project forever. You can keep the whole thing inside one repo instead. Trying it out shouldn't cost you a permanent resident in `~/.claude`.
 

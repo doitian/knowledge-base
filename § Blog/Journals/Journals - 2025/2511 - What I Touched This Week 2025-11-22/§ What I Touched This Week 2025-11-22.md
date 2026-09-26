@@ -9,11 +9,12 @@ obsidianFiles:
   - robot/Readwise Library/Articles/Bullet Journal - Don't Set a Goal for 2026 Until You Watch This (Highlights)
   - robot/Readwise Library/Articles/Brie Wolfson - Inside Cursor (Highlights)
   - robot/Readwise Library/Articles/王树义 - AI 时代，你的知识管理工具该扔了吗 (Highlights)
+created: "[[2025-11-22]]"
+url: "[blog.iany.me](https://blog.iany.me/journal/2025/11/what-i-touched-this-week-2025-11-22/)"
+
 ---
 # What I Touched This Week 2025-11-22
 
-**Created**:: [[2025-11-22]]
-**URL**:: [blog.iany.me](https://blog.iany.me/journal/2025/11/what-i-touched-this-week-2025-11-22/)
 **Highlights**:: [[Readwise Sync 2025-11-22]]
 
 **Focus**: [[♯ Linear Algebra Done Right]]

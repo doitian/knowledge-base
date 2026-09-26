@@ -9,15 +9,16 @@ tags:
   - javascript
   - security
   - tool
+  - x
+  - zettel/permanent
 description: Wrap an IFTTT webhook as an MCP on Cloudflare Workers, protect it with Cloudflare Access OAuth, and create Google Tasks without a Workspace license or exposed secrets.
+created: "[[2026-07-24]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/07/build-an-mcp-with-oauth-on-cloudflare-workers/)"
+
 ---
 
 # Build an MCP with OAuth on Cloudflare Workers
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-07-24]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/07/build-an-mcp-with-oauth-on-cloudflare-workers/)
 
 I wanted MCP clients to create Google Tasks for me. The Google Tasks API requires a Workspace-style setup I don't have. IFTTT already bridges webhooks to Google Tasks—but a Maker webhook URL is itself the credential. Storing that key in local MCP config is a bad idea.
 

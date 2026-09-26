@@ -9,17 +9,18 @@ tags:
   - script
   - windows
   - dev-environment
+  - x
+  - zettel/permanent
 description: "Cross-platform shell scripting with Bun on Windows: avoid shebangs and WSL/Git-bash setup, with single-file executables and a built-in shell."
 obsidianFiles:
   - para/lets/d/Development Environment/JavaScript Shell Scripting
+created: "[[2026-02-07]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/02/use-bun-for-shell-scripts/)"
+
 ---
 
 # Use Bun for Shell Scripts
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-02-07]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/02/use-bun-for-shell-scripts/)
 
 I've moved most of my small scripts to Bun. It sidesteps Windows' lack of shebang support and the Git-for-Windows/WSL bash dance, and gives you one runtime for both ad-hoc shell-style commands and full scripts.
 

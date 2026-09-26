@@ -8,15 +8,16 @@ tags:
   - powershell
   - wsl
   - windows-terminal
+  - x
+  - zettel/permanent
 description: Run tmux from WSL in Windows Terminal with PowerShell as the default shell.
+created: "[[2026-01-29]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/01/use-tmux-for-powershell-sessions-in-windows-terminal/)"
+
 ---
 
 # Use tmux for PowerShell in Windows Terminal
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-01-29]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/01/use-tmux-for-powershell-sessions-in-windows-terminal/)
 
 You can get tmux session persistence and multiplexing in Windows Terminal by running tmux inside WSL and setting the default shell to PowerShell. New panes and windows will then start `pwsh.exe` instead of a Linux shell. Here’s a minimal setup using small wrappers and the `tmux -C attach` trick to configure new sessions.
 

@@ -9,15 +9,16 @@ tags:
   - shell
   - zsh
   - vibe-coding
+  - x
+  - zettel/permanent
 description: Learn how to configure mise to work with Cursor's non-login shell environment by activating it in .zshenv when CURSOR_AGENT is detected.
+created: "[[2025-11-26]]"
+url: "[blog.iany.me](https://blog.iany.me/2025/11/how-to-activate-mise-for-cursor-when-it-runs-shell-commands/)"
+
 ---
 
 # How to Activate mise for Cursor When It Runs Shell Commands
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-11-26]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2025/11/how-to-activate-mise-for-cursor-when-it-runs-shell-commands/)
 
 When using [mise](https://mise.jdx.dev/) with Cursor, you may notice that the mise environment is not activated when Cursor executes shell commands. This occurs because Cursor launches a non-login shell, which initializes differently than an interactive login shell and therefore does not automatically source your usual mise setup.
 

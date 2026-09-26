@@ -7,14 +7,15 @@ allowFullDomainLink: true
 tags:
   - ci
   - automation
+  - x
+  - zettel/permanent
+created: "[[2025-10-22]]"
+url: "[blog.iany.me](https://blog.iany.me/2025/10/hosting-static-site-on-cloudflare-r2/)"
+
 ---
 
 # Hosting Static Site on Cloudflare R2
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-10-22]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2025/10/hosting-static-site-on-cloudflare-r2/)
 
 This post explains how to set up a static site on Cloudflare R2.
 

@@ -9,15 +9,16 @@ tags:
   - tool
   - programming
   - productivity
+  - x
+  - zettel/permanent
 description: Use gh-stack with one worktree per stack, agent-planned focused branches, gh stack rebase --upstack, and AI-assisted JSON sync after squash or amend.
+created: "[[2026-07-30]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/07/a-practical-guide-to-gh-stack-for-ai-assisted-development/)"
+
 ---
 
 # A Practical Guide to gh-stack for AI-Assisted Development
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-07-30]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/07/a-practical-guide-to-gh-stack-for-ai-assisted-development/)
 
 Stacked pull requests let you review a feature in logical slices rather than one enormous diff. The challenge is managing the branches, synchronizing PRs, and surviving rebases without breaking the chain. [gh-stack][] handles the scaffolding. It tracks your branch stack in a local JSON file, generates PRs that base each one to its parent, and works on any GitHub repo regardless of whether your organization has enabled native stacked PR support.
 

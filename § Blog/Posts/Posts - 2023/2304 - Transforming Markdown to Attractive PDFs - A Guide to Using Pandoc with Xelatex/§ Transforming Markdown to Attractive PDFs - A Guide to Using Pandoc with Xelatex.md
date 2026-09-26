@@ -7,14 +7,15 @@ tags:
   - latex
   - markdown
   - pdf
+  - x
+  - zettel/permanent
+created: "[[2023-04-29]]"
+url: "[blog.iany.me](https://blog.iany.me/2023/04/transforming-markdown-to-attractive-pdfs-a-guide-to-using-pandoc-with-xelatex/)"
+
 ---
 
 # Transforming Markdown to Attractive PDFs: A Guide to Using Pandoc with Xelatex
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2023-04-29]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2023/04/transforming-markdown-to-attractive-pdfs-a-guide-to-using-pandoc-with-xelatex/)
 
 I used to read lengthy and complex articles in the PDF format. Despite the abundance of PDF exporting options, the resulting files often appear unappealing. However, there is a solution. With the pandoc tool and the xelatex backend, you can transform Markdown files into aesthetically pleasing PDFs. In this tutorial, I will guide you through the steps of using pandoc with xelatex and share the lessons I've learned.
 

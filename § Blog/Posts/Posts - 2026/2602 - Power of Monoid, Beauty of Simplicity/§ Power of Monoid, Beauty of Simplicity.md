@@ -7,17 +7,18 @@ tags:
   - algorithm
   - math
   - programming
+  - x
+  - zettel/permanent
 description: "Why the monoid—a set with an associative binary operation and identity—is both simple and surprisingly powerful: divide-and-conquer, finger trees, and the art of choosing the right abstraction."
 obsidianFiles:
   - para/lets/c/Cryptography/Elliptic Curve Scalar Multiplication
 katex: true
+created: "[[2026-02-19]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/02/power-of-monoid-beauty-of-simplicity/)"
+
 ---
 # Power of Monoid, Beauty of Simplicity
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-02-19]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/02/power-of-monoid-beauty-of-simplicity/)
 
 A monoid is one of the smallest useful abstractions in algebra: a set closed under an associative binary operation, with an identity element. That simplicity is exactly why it shows up everywhere—from summing numbers and concatenating strings to powering divide-and-conquer algorithms and elegant data structures like finger trees. This post walks through what monoids are, why they give you "compute power" for free when you can phrase a problem in terms of them, and how to think about choosing the right monoid and predicate when you do.
 

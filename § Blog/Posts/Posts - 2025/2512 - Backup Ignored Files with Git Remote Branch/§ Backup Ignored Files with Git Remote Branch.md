@@ -7,14 +7,15 @@ tags:
   - git
   - automation
   - backup
+  - x
+  - zettel/permanent
+created: "[[2025-12-12]]"
+url: "[blog.iany.me](https://blog.iany.me/2025/12/backup-ignored-files-with-git-remote-branch/)"
+
 ---
 
 # Backup Ignored Files with Git Remote Branch
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-12-12]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2025/12/backup-ignored-files-with-git-remote-branch/)
 
 When working with Git repositories, there are often files that need to be backed up but shouldn't be committed to the main branch. These might include local development settings, IDE configuration files, personal notes, or development scripts that are specific to your workflow. The challenge is finding a way to back up these ignored files without polluting the main repository history.
 

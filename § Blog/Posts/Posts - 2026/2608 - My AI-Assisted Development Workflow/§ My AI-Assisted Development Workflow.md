@@ -9,15 +9,16 @@ tags:
   - productivity
   - programming
   - tool
+  - x
+  - zettel/permanent
 description: Plan into units, let AI stack branches with gh-stack, review the PRs yourself, then hand review comments back to the agent.
+created: "[[2026-08-10]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/08/my-ai-assisted-development-workflow/)"
+
 ---
 
 # My AI-Assisted Development Workflow
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-08-10]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/08/my-ai-assisted-development-workflow/)
 
 AI agents write code fastest when the work is sliced small and a human stays on judgment. My workflow runs a four-step loop: plan the feature into units, hand the branch stack to the agent, review each PR myself, then let the agent address my comments.
 

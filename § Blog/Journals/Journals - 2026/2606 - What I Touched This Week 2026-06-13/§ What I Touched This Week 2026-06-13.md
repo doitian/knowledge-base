@@ -5,6 +5,8 @@ series:
   - What I Touched
 tags:
   - ai-generated
+  - x
+  - zettel/permanent
 obsidianFiles:
   - para/lets/k/Kleppmann - Designing data-intensive applications/♯ Kleppmann - Designing data-intensive applications
   - para/lets/f/Formal Method/FizzBee
@@ -14,13 +16,12 @@ obsidianFiles:
   - robot/Readwise Library/Articles/Rihan Hai et al. - Data Lakes A Survey of Functions and Systems (Highlights)
   - robot/Readwise Library/Articles/Alex Merced - 2025 Guide to Architecting an Iceberg Lakehouse (Highlights)
   - robot/Readwise Library/Articles/Martin Kleppmann et al. - You own your data, in spite of the cloud (Highlights)
+created: "[[2025-11-29]]"
+url: "[blog.iany.me](https://blog.iany.me/journal/2026/06/what-i-touched-this-week-2026-06-13/)"
+
 ---
 # What I Touched This Week 2026-06-13
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2025-11-29]]
-**URL**:: [blog.iany.me](https://blog.iany.me/journal/2026/06/what-i-touched-this-week-2026-06-13/)
 **Highlights**:: [[Readwise Sync 2026-06-13]]
 
 **Focus**: [[♯ Kleppmann - Designing data-intensive applications]]
