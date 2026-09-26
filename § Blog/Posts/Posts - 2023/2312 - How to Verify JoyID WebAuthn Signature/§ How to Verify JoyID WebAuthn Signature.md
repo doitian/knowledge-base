@@ -8,13 +8,12 @@ tags:
   - webauthn
   - x
   - zettel/permanent
+  - evergreen
 created: "[[2023-12-17]]"
-
 ---
 
 # How to Verify JoyID WebAuthn Signature
 
-**Tags**:: #evergreen
 **Reference**:: [[PyCryptodome]], [[JoyID]], [[OpenSSL]]
 
 [JoyID](https://docs.joy.id/guide) is a multichain, cross-platform, passwordless and mnemonic-free wallet solution based on FIDO WebAuthn protocol and Nervos CKB.
