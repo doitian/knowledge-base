@@ -108,3 +108,4 @@ wsl
 yubikey
 zfs
 zsh
+evergreen
