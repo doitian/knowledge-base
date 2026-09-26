@@ -3,9 +3,10 @@ date: 2017-02-11T22:38:38+08:00
 title: Shenzhen IO
 copyright: game
 description: 分享 Shengzhen IO，一款需要使用汇编写代码的游戏。
-feature: ConceptOS.jpg
+feature: "[[ConceptOS.jpg]]"
 banner: "[[ConceptOS.jpg]]"
 banner-position: 22
+thumb: "[[ConceptOS.jpg]]"
 ---
 
 # Shenzhen IO
