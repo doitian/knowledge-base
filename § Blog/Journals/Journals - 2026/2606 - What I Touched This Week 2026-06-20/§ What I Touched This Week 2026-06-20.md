@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Siddon Tang - From Chaos to Order — Tools and Techniques for Testing TiDB, a Distributed NewSQL Database (Highlights)
   - robot/Readwise Library/Articles/Peter Alvaro et al. - Automating Failure Testing Research at Internet Scale (Highlights)
   - robot/Readwise Library/Articles/Alfonso Subiotto Marqués - (Mostly) Deterministic Simulation Testing in Go (Highlights)

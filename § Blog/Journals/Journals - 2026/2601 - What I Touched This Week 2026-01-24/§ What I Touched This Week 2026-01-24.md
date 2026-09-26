@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - para/lets/p/Programming/Gen Statem to Tokio - Slides
   - para/lets/p/Programming/Gen Statem to Tokio Learn State Machine Pattern from Erlang
   - para/lets/p/Programming/Erlang gen_statem

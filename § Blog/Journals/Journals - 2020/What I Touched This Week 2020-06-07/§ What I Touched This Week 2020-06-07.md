@@ -3,7 +3,7 @@ date: 2020-06-07
 description: My weekly review report.
 series:
   - What I Touched
-obsidianFiles:
+obsidian-files:
   - para/lets/y/Yubikey/Yubico on Fedora
 ---
 

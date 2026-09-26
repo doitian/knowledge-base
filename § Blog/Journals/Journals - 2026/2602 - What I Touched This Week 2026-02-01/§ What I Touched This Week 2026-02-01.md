@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - para/lets/p/Programming/Haskell Applicative
   - para/lets/p/Programming/Haskell Pattern Matching
   - para/lets/p/Programming/Haskell High-Order Function Composition

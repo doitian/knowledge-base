@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Scott Werner - Warranty Void if Regenerated (Highlights)
   - robot/Readwise Library/Articles/Ben Thompson - Agents Over Bubbles (Highlights)
   - robot/Readwise Library/Articles/Tim Ferriss - The Tim Ferriss Show 857 How to Simplify Your Life in 2026 (Highlights)

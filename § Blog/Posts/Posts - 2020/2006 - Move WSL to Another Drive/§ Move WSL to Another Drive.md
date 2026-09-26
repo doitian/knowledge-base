@@ -3,7 +3,7 @@ date: 2020-06-26T16:51:34+0800
 tags:
   - windows
   - wsl
-obsidianFiles:
+obsidian-files:
   - para/lets/w/Windows/LxRunOffline
 ---
 

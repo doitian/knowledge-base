@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Books/Ralph Kimball - The Data Warehouse Toolkit The Definitive Guide to Dimensional Modeling (Highlights)
   - robot/Readwise Library/Books/Alex Merced - Architecting an Apache Iceberg Lakehouse (Highlights)
   - robot/Readwise Library/Articles/Evan Wallace - Realtime Editing of Ordered Sequences (Highlights)

@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Malte Ubl et al. - Scale to One How Fluid Solves Cold Starts (Highlights)
   - robot/Readwise Library/Articles/Harris Hancock - Eliminating Cold Starts 2 Shard and Conquer (Highlights)
   - robot/Readwise Library/Articles/Shashi Madappa - Ephemeral Volatile Caching in the Cloud (Highlights)

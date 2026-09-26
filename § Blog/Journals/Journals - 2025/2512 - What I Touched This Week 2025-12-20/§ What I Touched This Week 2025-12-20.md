@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Bret Victor - The Ladder of Abstraction (Highlights)
   - robot/Readwise Library/Articles/Howard Marks - Is It A Bubble (Highlights)
   - robot/Readwise Library/Articles/Jeff Su - Give Me 9 Minutes, I'll Make You AI-Native (Highlights)

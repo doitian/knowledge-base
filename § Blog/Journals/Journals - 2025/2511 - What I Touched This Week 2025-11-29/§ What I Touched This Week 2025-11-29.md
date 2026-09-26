@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Alexey Kladov - Code Review Can Be Better (Highlights)
   - robot/Readwise Library/Articles/Alexey Kladov - Tracking Time Without Clock (Highlights)
   - robot/Readwise Library/Articles/Dominik Tornow - The Write Last, Read First Rule (Highlights)

@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - para/lets/k/Kleppmann - Designing data-intensive applications/♯ Kleppmann - Designing data-intensive applications
   - para/lets/f/Formal Method/FizzBee
   - robot/Readwise Library/Articles/Marc Brooker et al. - Systems Correctness Practices At Aws (Highlights)

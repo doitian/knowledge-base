@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Paul Tarjan - Scaling Your API With Rate Limiters (Highlights)
   - robot/Readwise Library/Articles/Mike Smith - Rethinking Netflix’s Edge Load Balancing (Highlights)
   - robot/Readwise Library/Articles/Lu Pan - Cache Made Consistent (Highlights)

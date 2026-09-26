@@ -3,7 +3,7 @@ date: 2025-11-22
 description: My weekly review report.
 series:
   - What I Touched
-obsidianFiles:
+obsidian-files:
   - para/lets/c/CKB Fiber/Liquidity Ads Case Study
   - para/lets/c/CKB Fiber/Lightning Loop Swap Case Study
   - robot/Readwise Library/Articles/Bullet Journal - Don't Set a Goal for 2026 Until You Watch This (Highlights)

@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Jack Cheng - Designing With AI Make a Jig. (Highlights)
   - robot/Readwise Library/Articles/Corentin Giaufer Saubert - TDD in the Age of AI Who Tests the Tests (Highlights)
   - robot/Readwise Library/Tweets/Dan Koe - How to Remember Everything You Read (Highlights)

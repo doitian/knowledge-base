@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Pieter Hintjens - Social Architecture (Highlights)
   - robot/Readwise Library/Articles/Scott Young - 5 Strategies to Learn Better With AI (Highlights)
   - robot/Readwise Library/Articles/Armin Ronacher - Agent Design Is Still Hard (Highlights)

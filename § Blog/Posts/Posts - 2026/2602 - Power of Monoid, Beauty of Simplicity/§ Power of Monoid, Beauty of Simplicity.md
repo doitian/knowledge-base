@@ -10,7 +10,7 @@ tags:
   - x
   - zettel/permanent
 description: "Why the monoid—a set with an associative binary operation and identity—is both simple and surprisingly powerful: divide-and-conquer, finger trees, and the art of choosing the right abstraction."
-obsidianFiles:
+obsidian-files:
   - para/lets/c/Cryptography/Elliptic Curve Scalar Multiplication
 katex: true
 created: "[[2026-02-19]]"

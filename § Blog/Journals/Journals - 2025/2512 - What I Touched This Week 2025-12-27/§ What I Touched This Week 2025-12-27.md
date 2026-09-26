@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Dave Thomas - Simplify Logic With State Machines (Highlights)
   - robot/Readwise Library/Articles/Erlang Authors - gen_statem Behaviour (Highlights)
   - robot/Readwise Library/Books/Dave Thomas - Simplicity Sustainable, Humane, and Effective Software Development (Highlights)

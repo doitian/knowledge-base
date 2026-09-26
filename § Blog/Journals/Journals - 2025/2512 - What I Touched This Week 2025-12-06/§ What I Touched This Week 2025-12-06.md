@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Aleksey Kladov - A Tale of Four Fuzzers (Highlights)
   - robot/Readwise Library/Articles/Aleksey Kladov - Generate All the Things (Highlights)
   - robot/Readwise Library/Articles/Aleksey Kladov - Swarm Testing Data Structures (Highlights)

@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Kevin Kelly - Better Than Free How to Differentiate in the Age of AI (Highlights)
   - robot/Readwise Library/Articles/Rose Horowitch - The End of Reading Is Here (Highlights)
   - robot/Readwise Library/Articles/Bo Ingram - How Discord Stores Trillions of Messages (Highlights)

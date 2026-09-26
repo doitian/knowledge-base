@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Aadil Pickle - Training the Idea Muscle (Highlights)
   - robot/Readwise Library/Articles/David Cain - Maybe the Default Settings Are Too High (Highlights)
   - robot/Readwise Library/Articles/Cedric Chin - Copying Better How to Acquire the Tacit Knowledge of Experts (Highlights)

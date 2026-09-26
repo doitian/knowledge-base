@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Readwise Syncs/Readwise Sync 2026-02-07
   - robot/Readwise Library/Articles/Brent Yorgey - Typeclassopedia (Highlights)
   - robot/Readwise Library/Articles/Miran Lipovača - Learn You a Haskell for Great Good Chapter 9. Input and Output (Highlights)

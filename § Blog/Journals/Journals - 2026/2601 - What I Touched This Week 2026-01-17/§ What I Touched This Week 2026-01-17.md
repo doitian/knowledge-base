@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Lewis Daly - One for the Treble, Two for the Time (Highlights)
   - robot/Readwise Library/Articles/Martin Fowler - Temporal Patterns (Highlights)
   - robot/Readwise Library/Articles/Tony Bai - 从入门到极致：VictoriaMetrics 教你写出最高效的 Go 代码 (Highlights)

@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Books/Paul J. Lucas - Why Learn C Go Behind the Curtain of Modern Systems With C23 (Highlights)
   - robot/Readwise Library/Books/Arnold Bennett - How to Live on 24 Hours a Day (Highlights)
   - robot/Readwise Library/Articles/Quint Authors - Language Basics (Highlights)

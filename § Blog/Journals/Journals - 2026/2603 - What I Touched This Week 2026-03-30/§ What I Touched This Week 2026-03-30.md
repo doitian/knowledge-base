@@ -7,7 +7,7 @@ tags:
   - ai-generated
   - x
   - zettel/permanent
-obsidianFiles:
+obsidian-files:
   - robot/Readwise Library/Articles/Alain Di Chiappari - Convincing Is Not Persuading (Highlights)
   - robot/Readwise Library/Articles/Rich Sutton - The Bitter Lesson (Highlights)
   - robot/Readwise Library/Articles/Computer Things - Choose Boring Technology and Innovative Practices (Highlights)
