@@ -8,8 +8,8 @@ tags:
   - tool
   - automation
   - programming
-  - i
   - zettel/permanent
+  - x
 description: Install the Plannotator CLI with --minimal, then its plugin and skills into a single project with --scope local and a subdirectory skills spec, so nothing lands in ~/.claude.
 created: "[[2026-09-22]]"
 url: "[blog.iany.me](https://blog.iany.me/2026/09/install-plannotator-for-claude-code-without-touching-global-config/)"

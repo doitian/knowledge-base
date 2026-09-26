@@ -11,7 +11,6 @@ tags:
   - evergreen
 created: "[[2023-12-17]]"
 ---
-
 # How to Verify JoyID WebAuthn Signature
 
 **Reference**:: [[PyCryptodome]], [[JoyID]], [[OpenSSL]]
