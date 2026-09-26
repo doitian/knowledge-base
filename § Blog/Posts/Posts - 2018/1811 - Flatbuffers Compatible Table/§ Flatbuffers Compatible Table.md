@@ -2,7 +2,6 @@
 comment: true
 date: 2018-11-02 02:00:36
 description: How various flatbuffers types are compatible when one is used as child in another
-summary: How various flatbuffers types are compatible when one is used as child in another
 katex: false
 share: true
 title: Flatbuffers Compatible Table
