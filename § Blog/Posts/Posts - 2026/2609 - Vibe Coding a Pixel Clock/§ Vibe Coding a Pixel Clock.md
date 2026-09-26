@@ -11,15 +11,16 @@ tags:
   - productivity
   - programming
   - tool
+  - x
+  - zettel/permanent
 description: "A Ulanzi TC002 pixel clock, a vibe-coded HTTP server, and two everyday uses: timely animated pixel art and a portable coding-agent status display."
+created: "[[2026-09-09]]"
+url: "[blog.iany.me](https://blog.iany.me/2026/09/vibe-coding-a-pixel-clock/)"
+
 ---
 
 # Vibe Coding a Pixel Clock
 
-**Status**:: #x
-**Zettel**:: #zettel/permanent
-**Created**:: [[2026-09-09]]
-**URL**:: [blog.iany.me](https://blog.iany.me/2026/09/vibe-coding-a-pixel-clock/)
 
 The [Ulanzi TC002 Pixbar Smart Pixel Clock II](https://www.ulanzi.com/products/tc002-pixbar-smart-pixel-clock-ii) is a clock with a 16×52 LED pixel canvas and a built-in battery. What makes it interesting to me is the HTTP API: I can send it GIFs and text, so I can decide what belongs on that little screen.
 
