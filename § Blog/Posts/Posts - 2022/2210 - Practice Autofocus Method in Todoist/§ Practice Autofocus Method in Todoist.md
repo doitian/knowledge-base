@@ -11,12 +11,11 @@ tags:
   - x
   - zettel/permanent
 created: "[[2022-10-03]]"
-
+reference:
+  - "[[Brett McKay et al. - Autofocus The Productivity System That Treats Your to-Do List Like a River (Highlights)]]"
 ---
 
 # Practice Autofocus Method in Todoist
-
-**Reference**:: [[Brett McKay et al. - Autofocus The Productivity System That Treats Your to-Do List Like a River (Highlights)]]
 
 I read the article *Autofocus: The Productivity System That Treats Your to-Do List Like a River*[[#^ref-1]] recently. I used to fill the time slots with tasks daily, but I rarely completed all the planned tasks. Even for the completed ones, I often missed the scheduled time slot. I felt stressed and guilty. So I decide to give the Autofocus Method a try.
 

@@ -11,12 +11,11 @@ tags:
   - zettel/permanent
 created: "[[2024-04-06]]"
 url: "[blog.iany.me](https://blog.iany.me/2024/04/envrc-alternative-for-powershell-in-windows/)"
-
+reference:
+  - "[[Envrc Alternative for Windows]]"
 ---
 
 # Envrc Alternative for PowerShell in Windows
-
-**Reference**:: [[Envrc Alternative for Windows]]
 
 This post introduces a solution for automatically setting up and tearing down shell environments for PowerShell in Windows. It is proposed as a potential alternative to the bash-based tool [direnv](https://github.com/direnv/direnv), which, while effective at loading `.envrc` files in the current or nearest ancestor directory, has limited compatibility with PowerShell in Windows.
 

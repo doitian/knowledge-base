@@ -12,14 +12,14 @@ tags:
 katex: true
 created: "[[2025-11-18]]"
 url: "[blog.iany.me](https://blog.iany.me/2025/11/study-on-quotient-spaces/)"
-
+parent:
+  - "[[Axler - Linear Algebra Done Right]]"
+friends:
+  - "[[NotebookLM - Quotient Spaces]]"
+  - "[[§ Study on Quotient Spaces|Quotient Spaces]]"
 ---
 
 # Study on Quotient Spaces
-
-**Parent**:: [[Axler - Linear Algebra Done Right]]
-**Reference**:: [[NotebookLM - Quotient Spaces]]
-**Zotero Item**:: [Quotient Spaces](zotero://select/library/items/RXK6B2WB)
 
 I'm reading *Linear Algebra Done Right* by Axler and found the section on quotient spaces difficult to understand, so I researched and took these notes.
 

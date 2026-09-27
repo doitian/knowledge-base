@@ -13,12 +13,11 @@ tags:
 description: A study on the paper Atomic Cross-Chain Swaps by Herlihy
 created: "[[2025-09-19]]"
 url: "[blog.iany.me](https://blog.iany.me/2025/09/explain-atomic-cross-chain-swaps-by-herlihy/)"
-
+parent:
+  - "[[Herlihy - Atomic Cross-Chain Swaps]]"
 ---
 
 # Explain Atomic Cross-Chain Swaps by Herlihy
-
-**Parent**:: [[Herlihy - Atomic Cross-Chain Swaps]]
 
 This article explains the paper \[Herlihy, 2018][^1] in simple words. In the paper, Herlihy has introduced an effective atomic cross-chain swap protocol in order to exchange assets across multiple blockchains among multiple parties.
 
