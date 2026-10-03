@@ -39,18 +39,11 @@ views:
     name: Published
     filters:
       and:
-        - draft == false
+        - draft != true
     groupBy:
       property: formula.post_year
       direction: DESC
     order:
       - formula.post_date
       - file.name
-      - file.tags
-  - type: cards
-    name: Gallery
-    order:
-      - file.name
-      - formula.post_date
-      - description
       - file.tags
