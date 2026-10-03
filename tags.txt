@@ -109,3 +109,4 @@ yubikey
 zfs
 zsh
 evergreen
+ai-generated
