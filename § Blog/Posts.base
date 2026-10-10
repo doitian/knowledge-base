@@ -32,6 +32,10 @@ views:
       - draft
       - file.tags
       - formula.updated
+      - banner
+    sort:
+      - property: formula.post_date
+        direction: DESC
     columnSize:
       formula.post_date: 135
       file.tags: 601
